@@ -27,9 +27,9 @@ Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenar
 
 // foto lay-out van korneel **NOG foto's aan toe te voegen.**
 //<p align="center">
-//  <img src="/images/heroshot finaal alles.jpg" width="32%">
-//  <img src="/images/heroshot finaal close-up.jpg" width="32%">
-//  <img src="/images/heroshot finaal hud.jpg" width="32%">
+//  <img src="Placeholder-_-Begrippenlijst.svg" width="32%">
+//  <img src="Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
+//  <img src="Placeholder-_-Begrippenlijst - kopie.svg" width="32%">
 //</p>
 
 ## Introductie
