@@ -1,9 +1,11 @@
-# Projecttitel
+# Projecttitel (coming soon)
 *Omschrijving van je concept in 1 zin* 
+Met behulp van een armband stress meten en op basis hiervan pauzes regelen in de zorg.
 
-*Projectteam: Naam 1; Naam 2*
 
-Datum
+*Projectteam: Bram Tops & Demaegdt Pieter*
+
+12/12/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
@@ -13,6 +15,15 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Wat is jouw oplossing?
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
+
+Bij de zorg is er een grote werkdruk, dit geeft als gevolg dat ze een grote hoeveelheid stress ervaren. Hierdoor komen er veel burn-outs voor in deze sector. 
+
+// foto lay-out van korneel **NOG foto's aan toe te voegen.**
+//<p align="center">
+//  <img src="/images/heroshot finaal alles.jpg" width="32%">
+//  <img src="/images/heroshot finaal close-up.jpg" width="32%">
+//  <img src="/images/heroshot finaal hud.jpg" width="32%">
+//</p>
 
 ## Introductie
 Max 300 woorden.
