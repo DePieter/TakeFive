@@ -16,9 +16,12 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
 
-Zorgverleners ervaren veel stress, dit blijkt uit talloze onderzoeken door proffesionals, onze eigen interviews,... Dit zorgt dan ook voor meer kans op burn-outs. Onze oplossing hiervoor is een armband dat op basis van hartslagvariatie en het cortisolhormoon het stressniveau kan meten. Mocht het stressniveau te hoog zijn dan zal de armband een pauze voorstellen.
+Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk dat de zorgverleners hebben. Dit blijkt uit onze interviews met zorgverleners zelf en een literatuuronderzoek van talloze wetenschappelijke artikels.
 
-Bij de zorg is er een grote werkdruk wat zorgt voor veel stress. Door deze stress komen er ook meer burn-outs voor. Uit onze research blijkt dat ze v
+Burn-outs zijn één van de veelvoorkomende gevolgen van deze hoge werkdruk waardoor zullen de andere zorgverleners een nog hogere werkdruk hebben. Hiervoor is het dus belangrijk om te voorkomen dat ze een burn-out ervaren. 
+
+Onze oplossing hiervoor is een armband dat op basis van hartslagvariatie en het cortisolhormoon het stressniveau kan meten. Mocht het stressniveau te hoog zijn dan zal de armband een pauze voorstellen.
+
 
 // foto lay-out van korneel **NOG foto's aan toe te voegen.**
 //<p align="center">
