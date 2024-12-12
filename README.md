@@ -16,11 +16,13 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
 
+
 Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk dat de zorgverleners hebben. Dit blijkt uit onze interviews met zorgverleners zelf en een literatuuronderzoek van talloze wetenschappelijke artikels.
 
 Burn-outs zijn één van de veelvoorkomende gevolgen van deze hoge werkdruk waardoor zullen de andere zorgverleners een nog hogere werkdruk hebben. Hiervoor is het dus belangrijk om te voorkomen dat ze een burn-out ervaren. 
 
-Onze oplossing hiervoor is een armband dat op basis van hartslagvariatie en het cortisolhormoon het stressniveau kan meten. Mocht het stressniveau te hoog zijn dan zal de armband een pauze voorstellen.
+Hiervoor hebben we een stressmonitor ontwikkeld dat monteerbaar is op de bovenarm. Deze monitor meet stress op basis van hartslagvariatie en het cortisolhormoon. Deze data wordt dan doorgestuurd naar de feedbackunit wat op basis van het stressniveau een pauze zou kunnen aanraden. Tijdens deze pauze zal een oefening gesugereerd worden waardoor hun stressniveau zal dalen.
+
 
 
 // foto lay-out van korneel **NOG foto's aan toe te voegen.**
