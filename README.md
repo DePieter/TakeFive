@@ -17,11 +17,11 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hero sketch/render/image
 
 
-Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk dat de zorgverleners hebben. Dit blijkt uit onze interviews met zorgverleners zelf en een literatuuronderzoek van talloze wetenschappelijke artikels.
+Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die de zorgverleners hebben. Dit blijkt uit onze interviews met zorgverleners zelf en een literatuuronderzoek van talloze wetenschappelijke artikelen.
 
-Burn-outs zijn één van de veelvoorkomende gevolgen van deze hoge werkdruk waardoor zullen de andere zorgverleners een nog hogere werkdruk hebben. Hiervoor is het dus belangrijk om te voorkomen dat ze een burn-out ervaren. 
+Burn-outs zijn een van de veelvoorkomende gevolgen van deze hoge werkdruk, waardoor de andere zorgverleners een nog hogere werkdruk zullen hebben. Hiervoor is het dus belangrijk om te voorkomen dat ze een burn-out ervaren. 
 
-Hiervoor hebben we een stressmonitor ontwikkeld dat monteerbaar is op de bovenarm. Deze monitor meet stress op basis van hartslagvariatie en het cortisolhormoon. Deze data wordt dan doorgestuurd naar de feedbackunit wat op basis van het stressniveau een pauze zou kunnen aanraden. Tijdens deze pauze zal een oefening gesugereerd worden waardoor hun stressniveau zal dalen.
+Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. Deze monitor meet stress op basis van de hartslagvariatie en het cortisolhormoon. Deze data wordt dan doorgestuurd naar de feedbackunit die op basis van het stressniveau een pauze zou kunnen aanraden. Tijdens deze pauze zal een oefening gesugereerd worden zodat hun stressniveau zal dalen.
 
 
 
