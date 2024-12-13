@@ -3,7 +3,7 @@
 Met behulp van een armband stress meten en op basis hiervan pauzes regelen in de zorg.
 
 
-*Projectteam: Bram Tops & Demaegdt Pieter*
+Projectteam: Bram Tops & Demaegdt Pieter
 
 12/12/2024
 
