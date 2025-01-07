@@ -66,9 +66,12 @@ Waar: Woonzorgcentrum Althus
 - Feedbackunit uittesten
 
 Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
-Voor de feedbackunit hebben we geexperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. 
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+Voor de feedbackunit hebben we geexperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. Achter dat ze de prototypes hadden uitgetest voor een uur hebben we ze geinterviewd. Deze vragen gingen over onder andere marketfit
+#### Resultaten
+-Discrete meldingen worden als positief gezien
+-Meldingen moeten kunnen worden afgezet
+-Lightweight en compacte wearable
+-Voorstellen van pauzes door feedbackunit
 <p align="center">
   <img src="Map foto's/Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
   <img src="Map foto's/Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
