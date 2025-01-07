@@ -28,7 +28,7 @@ De werkdruk in de zorg ligt hoog. Dit wordt ook duidelijk uit het artikel van Zo
 Voorwaarden:
 - veilig
 - gebruiksvriendelijk
-- werkvriendelijk
+- voldoet aan de voorschriften binnen de zorgsector
 - intuïtief
   
 
@@ -36,15 +36,42 @@ Voorwaarden:
 Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
 
 ## Discovery
-Max. 1000 woorden
+De Discovery fase draait rond het definieren van een probleemruimte, hierbinnen inzichten te verkrijgen en een oplossing in de vorm van een product te verkrijgen. Om deze te verkrijgen zijn er gebruikersinterviews en marktanalyse uitgevoerd omtrent de haalbaarheid.
 ### Doestellingen
-Wat wilde je bereiken?
+Een goed geformuleerde "how might we" vormen voor de probleemruimte.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+- User interviews (N=3)
+- Literature reviews (N=10)
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+
+#### User interviews (N=3)
+Aan de hand van user interviews kunnen de bevindingen over de toepassingen van een stressmonitor in de zorgsector worden opgenomen. De inzichten die hieruit voortkomen kunnen de effectiviteit, mogelijke hindernissen en ontwerpimplicaties identificeren.
+Hieruit werd bevestigd dat werkdruk binnen de zorg hoog ligt en daarom als probleem kan worden gezien. Hiervoorzijn er drie interviews afgelegd bij studentes uit de richting verpleegkunde. Dit omdat ze gedurende hun opleiding op verschillende afdelingen stage lopen en zo tal van problemen tegenkomen en inzichten in verkrijgen.
+Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5why's en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
+#### Literature reviews (N=10)
+Een kritisch punt in het meten van burnout was de haalbaarheid hierin. De symptomen hiervan, zogenaamde biomarkers moesten worden onderzocht alsook de meetbaarheid en technologie ervoor.
+Zo zijn volgende themas onderzocht:
+- Doelgroep
+- Jaarlijkse kost en evolutie van het probleem
+- Biomarkers
+- Oorzaken van Burn-out
+- Huidig onderzoek omtrent biomarkers en meetbaarheid van burnout
+- Burnout preventie en interventie
+- Technische haalbaarheid
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+#### Oorzaken en Gevolgen
+- Werkdruk en Pauzeproblematiek: Personeelstekorten zorgen voor langere diensten en kortere pauzes. In veel gevallen worden pauzes zelfs overgeslagen bij verhoogde werkdruk, wat het stressniveau verder verhoogt.
+- Burn-out Statistieken: Sinds de pandemie is langdurig ziekteverzuim met 50% toegenomen. De geschatte jaarlijkse kosten voor burn-out in de zorgsector bedragen ongeveer €228 miljoen, met een stijging van 10% in vijf jaar.
+- Dubbel Negatief Effect: Verhoogde werkdruk leidt niet alleen tot meer stress, maar ook tot het uitstellen of overslaan van pauzes, wat het probleem verder verergert.
+#### Inzichten uit Onderzoek
+- Meetbare Biomarkers: Hartslagvariabiliteit (HRV) en cortisol zijn betrouwbare indicatoren van stress en burn-out. HRV kan continu worden gemeten met draagbare apparaten, terwijl cortisolmetingen via elektrochemische sensoren nieuwe mogelijkheden bieden.
+- Kosten en Trends: Burn-out blijft een groeiend probleem met substantiële economische en sociale impact. Preventieve maatregelen zijn daarom essentieel.
+- Oorzaak van Stress: Werkdruk is de belangrijkste drijfveer achter stress, versterkt door personeelstekorten en een gebrek aan structurele oplossingen.
+#### Aanbevelingen voor Ontwerp
+- Real-time Monitoring: Ontwikkel draagbare apparaten die stressniveaus kunnen meten via HRV en mogelijks cortisol. Deze apparaten moeten real-time feedback geven, zoals lichtsignalen of trillingen, om gebruikers bewust te maken van stress zonder afleiding.
+- Flexibele Pauzeherinneringen: Implementeer een systeem dat gepersonaliseerde pauzeherinneringen biedt, zelfs tijdens piekmomenten. Opties om meldingen tijdelijk te onderdrukken zonder metingen te stoppen, zorgen voor extra flexibiliteit.
+- Privacy discretie wordt verkozen
+- Gebruiksvriendelijk Ontwerp: Apparaten moeten comfortabel en draagbaar zijn, geschikt voor verschillende werkomgevingen en uniformen.
 
 ## Definition
 Max. 1000 woorden
