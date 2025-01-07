@@ -54,8 +54,11 @@ Definieer de belangrijkste designbeslissingen
 ## Definition
 Max. 1000 woorden
 ### Doestellingen
-Onderzoek doen omtrend de marketfit van het idee.
-Feedbackopties (geluid, trillen, licht,...) uittesten. Hierbij kijken welke het best werken.
+- Onderzoek doen omtrend de marketfit van het idee.
+- Feedbackopties (geluid, trillen, licht,...) uittesten. Hierbij kijken welke het best werken.
+- Prototypes uittesten
+
+Prototypes
 ### Materiaal & methoden
 ### **Wave 1 (N=5)**	                                                                                                         									
 Waar: Woonzorgcentrum Althus                                                                          													
