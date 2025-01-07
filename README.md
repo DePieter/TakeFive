@@ -91,7 +91,8 @@ https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loop
 https://publicaties.vlaanderen.be/view-file/49692
 https://osha.europa.eu/sites/default/files/healthcare%20sector%20-%20nl.pdf
 https://www.serv.be/stichting/publicatie/werkbaar-werk-zorg-en-welzijnssector-2023
-	Rapport: https://www.serv.be/sites/default/files/documenten/SERV_20240703_WBM2023_WNS_zorg_StIA_RAP.pdf
+	
+Rapport: https://www.serv.be/sites/default/files/documenten/SERV_20240703_WBM2023_WNS_zorg_StIA_RAP.pdf
 https://www.zorgneticuro.be/nieuws/veel-werkstressklachten-zorg-en-welzijnssector
 https://www.hln.be/binnenland/liefst-50-procent-meer-langdurig-zieken-in-de-zorgsector~a3671e65/
 https://www.rivm.nl/mentale-gezondheid/monitor/werkenden/burn-out-klachten
