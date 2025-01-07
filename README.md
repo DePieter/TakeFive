@@ -15,10 +15,10 @@ Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenar
 
 
 <p align="center">
-  <img src="Map foto's/shutterstock_645688138-768x513.webp" width="33%">
-  <img src="Map foto's/NAJ_logo_zorgverlener-1.png" width="32%">
+  <img src="Map foto's2/shutterstock_645688138-768x513.webp" width="33%">
+  <img src="Map foto's2/NAJ_logo_zorgverlener-1.png" width="32%">
 
-  <img src="Map foto's/images.jpeg" width="31%">
+  <img src="Map foto's2/images.jpeg" width="31%">
 </p>
 
 ## Introductie
@@ -43,7 +43,7 @@ Voor dit probleem aan te pakken hielden we ons in de discoveryfase bezig met zov
 Uiteindelijk kwamen er enkele vroege dirty-prototypes uit. Dit hebben we dan getest in onze eerste wave bij WZC Althus. Door de feedback toe te passen dat we gekregen hebben uit wave 1 hebben we een minder dirty-prototype gemaakt. Deze heeft dan een weeklange test begaan bij VZW De oever. Op het einde van de test hebben we nog een groepsinterview gedaan voor iedereen zijn feedback te horen. Met behulp van deze data kunnen we de _design requirements_ bijwerken zodat het ook voldoet aan de eisen en wensen van de stakeholders.
 
 <p align="centerl">
-  <img src="Map foto's/Methodologie.jpg" width="100%">
+  <img src="Map foto's2/Methodologie.jpg" width="100%">
 </p>	
 
 
@@ -72,7 +72,7 @@ Definieer de belangrijkste designbeslissingen
 ### **Wave 1 (N=5)**	                                                                                                         									
 Waar: Woonzorgcentrum Althus                                                                          											
 <p align="left">
-  <img src="Map foto's/images.png" width="25%">
+  <img src="Map foto's2/images.png" width="25%">
 </p>	
 
 #### Doel:															
@@ -84,9 +84,9 @@ Waar: Woonzorgcentrum Althus
 Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
 Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. Achter dat ze de prototypes hadden uitgetest voor een uur hebben we ze geïnterviewd. Deze vragen gingen over onder andere marketfit en de ervaring met het huidige prototype.
 <p align="center">
-  <img src="Map foto's/Schermafbeelding%202025-01-07%20205655.jpg" width="32%">
-  <img src="Map foto's/Schermafbeelding%202025-01-07%20205708.jpg" width="36%">
-  <img src="Map foto's/Schermafbeelding%202025-01-07%20205720.jpg" width="24%">
+  <img src="Map foto's2/Schermafbeelding%202025-01-07%20205655.jpg" width="32%">
+  <img src="Map foto's2/Schermafbeelding%202025-01-07%20205708.jpg" width="36%">
+  <img src="Map foto's2/Schermafbeelding%202025-01-07%20205720.jpg" width="24%">
 </p>
 
 #### Resultaten
@@ -108,7 +108,7 @@ Ook hebben we voor wat de locatie betreft een keuze gemaakt op basis van ergonom
 ### **Wave 2 (N=5)**	                                                                                                         									
 Waar: Woonzorgcentrum De Oever                                                                          										
 <p align="left">
-  <img src="Map foto's/Schermafbeelding%202025-01-07%20210611.jpg" width="33%">
+  <img src="Map foto's2/Schermafbeelding%202025-01-07%20210611.jpg" width="33%">
 </p>	
 
 #### Doel:															
@@ -126,10 +126,10 @@ Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een h
 - Oefeningen zijn afhankelijk van de persoon
 - Het prototype zou kleiner mogen.
 <p align="center">
-  <img src="Map foto's/chest.jpeg" width="45%">
-  <img src="Map foto's/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg" width="13%">
-  <img src="Map foto's/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg" width="19%">
-  <img src="Map foto's/0ace9e9f-990d-4388-912e-3b2dec61f7fc.jpeg" width="13%">
+  <img src="Map foto's2/chest.jpeg" width="45%">
+  <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg" width="13%">
+  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg" width="19%">
+  <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc.jpeg" width="13%">
 </p>
 
 ### Conclusies & implicaties:
