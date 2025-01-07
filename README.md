@@ -57,8 +57,8 @@ Max. 1000 woorden
 Onderzoek doen omtrend de marketfit van het idee.
 Feedbackopties (geluid, trillen, licht,...) uittesten. Hierbij kijken welke het best werken.
 ### Materiaal & methoden
-**Wave 1 (N=5)**										
-Waar?: Woonzorgcentrum Althus													
+**Wave 1 (N=5)**	                                                                                                         									
+Waar: Woonzorgcentrum Althus                                                                          													
 Doel:															
 - Marketfit vinden
 - Locaties voor de hartslagsensor uittesten
