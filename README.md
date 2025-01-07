@@ -64,7 +64,9 @@ Waar: Woonzorgcentrum Althus
 - Locaties voor de hartslagsensor uittesten
 - Prototypes uittesten
 - Feedbackunit uittesten
+
 Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
+Voor de feedbackunit hebben we geexperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. 
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 <p align="center">
