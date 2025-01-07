@@ -73,12 +73,12 @@ Definieer de belangrijkste designbeslissingen
 Max. 500 woorden
 
 ## Bronnen
-Arduino
-Chatgpt
-https://wiki.seeedstudio.com/Grove-Vibration_Motor/
-https://wiki.seeedstudio.com/Grove-Speaker-Plus/
-https://wiki.seeedstudio.com/Grove-Red_LED/
-Troubleshooting:https://forum.arduino.cc/t/nano-33-ble-not-working-when-not-connected-to-pc/1117844
+Arduino																			
+Chatgpt																		
+https://wiki.seeedstudio.com/Grove-Vibration_Motor/																		
+https://wiki.seeedstudio.com/Grove-Speaker-Plus/																		
+https://wiki.seeedstudio.com/Grove-Red_LED/																		
+Troubleshooting:https://forum.arduino.cc/t/nano-33-ble-not-working-when-not-connected-to-pc/1117844																		
 
 Research (statistieken welbevinden): root-cause
 https://en.wikipedia.org/wiki/Photoplethysmogram
