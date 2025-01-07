@@ -83,7 +83,7 @@ Zo zijn volgende themas onderzocht:
 #### Aanbevelingen voor Ontwerp
 - Real-time Monitoring: Ontwikkel draagbare apparaten die stressniveaus kunnen meten via HRV en mogelijks cortisol. Deze apparaten moeten real-time feedback geven, zoals lichtsignalen of trillingen, om gebruikers bewust te maken van stress zonder afleiding.
 - Flexibele Pauzeherinneringen: Implementeer een systeem dat gepersonaliseerde pauzeherinneringen biedt, zelfs tijdens piekmomenten. Opties om meldingen tijdelijk te onderdrukken zonder metingen te stoppen, zorgen voor extra flexibiliteit.
-- Privacy discretie wordt verkozen
+- Privacy, discretie wordt verkozen.
 - Gebruiksvriendelijk Ontwerp: Apparaten moeten comfortabel en draagbaar zijn, geschikt voor verschillende werkomgevingen en uniformen.
 
 
