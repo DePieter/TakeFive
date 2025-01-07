@@ -54,12 +54,23 @@ Definieer de belangrijkste designbeslissingen
 ## Definition
 Max. 1000 woorden
 ### Doestellingen
-Is er een marketfit?
-Feedbackopties (geluid, trillen, licht,...) uittesten
+Onderzoek doen omtrend de marketfit van het idee.
+Feedbackopties (geluid, trillen, licht,...) uittesten. Hierbij kijken welke het best werken.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+**Wave 1 (N=5)**
+Waar?: Woonzorgcentrum Althus
+Doel:
+- Marketfit vinden
+- Locaties voor de hartslagsensor uittesten
+- Prototypes uittesten
+- Feedbackunit uittesten
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+<p align="center">
+  <img src="Map foto's/Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
+  <img src="Map foto's/Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
+  <img src="Map foto's/Placeholder-_-Begrippenlijst - kopie.svg" width="32%">
+</p>
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
