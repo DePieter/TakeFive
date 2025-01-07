@@ -22,7 +22,7 @@ Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenar
 </p>
 
 ## Introductie
-De werkdruk in de zorg ligt hoog. Dit wordt ook duidelijk uit het artikel van Zorgnet-Icuro[^1]
+De werkdruk in de zorg ligt hoog. Dit wordt ook duidelijk uit het artikel van Zorgnet-Icuro[^1]. Volgens dat artikel heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is al weinig personeel in de zorg en als er dan nog eens 1 op de 5 wegvalt door een burn-out ligt de werkdruk nog hoger. Dit is een probleem dat maar zal blijven groeien als er niets aan gedaan wordt. Daarom willen wij met behulp van een slimme sensor pauze's regelen zodat ze minder stress ervaren.
 
 **Op welke manier kunnen we de stress bij woonzorgmedewerkers verlagen zonder dat dit interfereerd met hun werk.**
 
