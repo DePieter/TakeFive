@@ -73,46 +73,46 @@ Definieer de belangrijkste designbeslissingen
 Max. 500 woorden
 
 ## Bronnen
-Arduino
+**Arduino**, van https://www.arduino.cc/
 
-Chatgpt, van https://chatgpt.com/
+**Chatgpt**, van https://chatgpt.com/
 
 Seeed Studio. (n.d.). Grove - Vibration Motor, van https://wiki.seeedstudio.com/Grove-Vibration_Motor/
 Seeed Studio. (n.d.). Grove - Speaker Plus, van https://wiki.seeedstudio.com/Grove-Speaker-Plus/
 Seeed Studio. (n.d.). Grove - Red LED, van https://wiki.seeedstudio.com/Grove-Red_LED/
 
-Troubleshooting
+**Troubleshooting**
 Arduino Forum. (2023). Nano 33 BLE not working when not connected to PC, van https://forum.arduino.cc/t/nano-33-ble-not-working-when-not-connected-to-pc/1117844																	
 
-Research (statistieken welbevinden): root-cause
+**Research (statistieken welbevinden): root-cause**
 Wikipedia. (n.d.). Photoplethysmogram, van https://en.wikipedia.org/wiki/Photoplethysmogram
 Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
 Vlaamse Overheid. (2023). Werkbaar werk in de zorg- en welzijnssector: Samenvatting, van https://publicaties.vlaanderen.be/view-file/49692
 OSHA Europe. (2024). Gezondheid en welzijn in de zorgsector: Rapport, van https://osha.europa.eu/sites/default/files/healthcare%20sector%20-%20nl.pdf
 SERV. (2023). Werkbaar werk in de zorg en welzijnssector 2023,, van https://www.serv.be/stichting/publicatie/werkbaar-werk-zorg-en-welzijnssector-2023
 	
-Rapport: 
+**Rapport: **
 SERV. (2023). Werkbaar werk in de zorg- en welzijnssector 2023: Integrale versie, van https://www.serv.be/sites/default/files/documenten/SERV_20240703_WBM2023_WNS_zorg_StIA_RAP.pdf
 Zorgnet-Icuro. (2024). Veel werkstressklachten in de zorg- en welzijnssector, van https://www.zorgneticuro.be/nieuws/veel-werkstressklachten-zorg-en-welzijnssector
 HLN. (2024). Liefst 50 procent meer langdurig zieken in de zorgsector, van https://www.hln.be/binnenland/liefst-50-procent-meer-langdurig-zieken-in-de-zorgsector~a3671e65/
 RIVM. (2024). Mentale gezondheid monitor: Burn-out klachten bij werkenden, van https://www.rivm.nl/mentale-gezondheid/monitor/werkenden/burn-out-klachten
 
 
-State of the art (in de zorg) 
+**State of the art (in de zorg) **
 Fedris. (2024). Pilootproject Burn-out: Samenvatting van de resultaten, van https://www.fedris.be/sites/default/files/assets/NL/Medische_documentatie_BZ/Burn_out/pilootproject_burn-out_-samenvatting_van_de_resultaten-_secured.pdf
 
-State of the art (tech)
+**State of the art (tech)**
 
 BIPR. (n.d.). HRV Tracker App voor Samsung Watch, van https://bipr.fr/hrv-tracker-app-samsung-watch
 Pauser Health. (n.d.). Wearable technologie voor stressbeheer, van https://pauser.health/
 Corti. (2024). Corti Wearable Setup Guide, van https://www.cortiwearable.com/corti-setup-guide
 
-Proof for concept
+**Proof for concept**
 JMIR Publications. (2024). Wearable Devices and Stress Management: A Systematic Review, van https://www.jmir.org/2024/1/e50253/
 SpringerLink. (2023). Neural Networks for HRV Analysis in Workplace Settings, van https://link.springer.com/article/10.1007/s00521-023-08681-z#Sec21
 ScienceDirect. (2023). Impact of Workplace Stress on HRV, van https://www.sciencedirect.com/science/article/pii/S0897189719301831?ref=pdf_download&fr=RR-2&rr=8f0cbe0b2e36b756
 
-Studies:
+**Studies:**
 PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https://pmc.ncbi.nlm.nih.gov/articles/PMC8863599/
 
 ## Bijlagen
