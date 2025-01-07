@@ -1,6 +1,5 @@
 # Projecttitel (coming soon)
-*Omschrijving van je concept in 1 zin* 
-Met behulp van een armband stress meten en op basis hiervan pauzes regelen in de zorg.
+Met behulp van een stresssensor meten en op basis hiervan pauzes regelen in de zorg.
 
 
 Projectteam: Bram Tops & Demaegdt Pieter
