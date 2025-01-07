@@ -1,0 +1,77 @@
+﻿UG to IGES
+! INFO-     NX V2406.4001 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 15-DEC-2024  12:20:22 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\demae\OneDrive - UGent\IO\BACH2\SEM1\PGO2\HouderHorloge\watch.prt
+! ERROR-     
+! ERROR-    IM0541 The following error message(s) were returned from UG
+! ERROR-           at part_load:
+! ERROR-     
+! ERROR-           left side.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           right side.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           bolt 2.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           bolt 4.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           bolt 1.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           bolt 3.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           iman.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: C:\Users\demae\OneDrive - UGent\IO\BACH2\SEM1\PGO2\HouderHorloge\watch.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     2
+! SUMMARY-  Line ........................:   155
+! SUMMARY-  Arc/Circle ..................:   228
+! SUMMARY-  B-Curve .....................:   735
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     6
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    22
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Solid/Sheet .................:
+! SUMMARY-     Face .....................:    91
+! SUMMARY-  Trim Curve ..................:   102
+! SUMMARY-                                 -----
+! SUMMARY-  Total                           1361
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 15-DEC-2024 12:20:23 PM
+! STATUS-    
+! STATUS-   Creating the IGES file (Phase 3 of 3): 15-DEC-2024  12:20:23 PM
+! SUMMARY-   
+! SUMMARY-  Summary of IGES Output Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point ........................     2
+! SUMMARY-  Arc ..........................   228
+! SUMMARY-  Line .........................   115
+! SUMMARY-  BSpline Curve ................   695
+! SUMMARY-  Composite Curve ..............   144
+! SUMMARY-  Curve on Surface .............    92
+! SUMMARY-  Plane ........................
+! SUMMARY-      Unbounded ................    32
+! SUMMARY-  Trimmed Surface ..............    81
+! SUMMARY-  BSpline Surface ..............    91
+! SUMMARY-  Color ........................     4
+! SUMMARY-  Name .........................   242
+! SUMMARY-  Transformation ...............    21
+! SUMMARY-  Definition Levels ............     5
+! SUMMARY-  Level Function ...............     5
+! SUMMARY-  View .........................     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                           1765
+! INFO-      
+! INFO-     End of Translation: 15-DEC-2024  12:20:23 PM
+! INFO-      
