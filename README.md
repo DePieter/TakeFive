@@ -73,7 +73,7 @@ Zo zijn volgende themas onderzocht:
 ### Conclusies & implicaties
 #### Oorzaken en Gevolgen
 - Werkdruk en Pauzeproblematiek: Personeelstekorten zorgen voor langere diensten en kortere pauzes. In veel gevallen worden pauzes zelfs overgeslagen bij verhoogde werkdruk, wat het stressniveau verder verhoogt. Zo wijst uit onderstaande grafiek dat werkdruk de grootste impact heeft op werk-privé balans bij een groot percentage aan personeel.
-  <img src=/>
+  <img src="Map foto's2/graph.jpg">
 - Burn-out Statistieken: Sinds de pandemie is langdurig ziekteverzuim met 50% toegenomen. De geschatte jaarlijkse kosten voor burn-out in de zorgsector bedragen ongeveer €228 miljoen, met een stijging van 10% in vijf jaar.
 - Dubbel Negatief Effect: Verhoogde werkdruk leidt niet alleen tot meer stress, maar ook tot het uitstellen of overslaan van pauzes, wat het probleem verder verergert.
 #### Inzichten uit Onderzoek
