@@ -8,14 +8,6 @@ Projectteam: Bram Tops & Demaegdt Pieter
 12/12/2024
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
-
 
 Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die de zorgverleners hebben. Dit blijkt uit onze interviews met zorgverleners zelf en een literatuuronderzoek van talloze wetenschappelijke artikelen.
 
@@ -25,7 +17,7 @@ Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenar
 
 
 
-// **NOG foto's aan toe te voegen.**
+
 <p align="center">
   <img src="Map foto's/Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
   <img src="Map foto's/Placeholder-_-Begrippenlijst - kopie (2).svg" width="32%">
