@@ -160,6 +160,7 @@ Er is geen algemene oefening voor stress te verminderen.
 > - De voorgestelde oefeningen moeten effectief zijn en passen in de workflow
 > - De draagconfiguratie moet op de bovenarm worden gedragen
 > - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
+> - Gestalt wetten toepassen voor feedbackunit
 
 ## Bill of materials
 - EVA-foam
