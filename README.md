@@ -1,28 +1,25 @@
 # Projecttitel (coming soon)
-Met behulp van een stresssensor meten en op basis hiervan pauzes regelen in de zorg.
-
+Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.
 
 Projectteam: Bram Tops & Demaegdt Pieter
 
 12/12/2024
 
 ## Samenvatting
-Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die de zorgverleners hebben. Dit blijkt uit onze interviews met zorgverleners zelf en een literatuuronderzoek van talloze wetenschappelijke artikelen.
+Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die deze zorgverleners ervaren. Dit is gebleken uit interviews met zorgverleners en literatuuronderzoek van talloze wetenschappelijke artikelen.
 
-Burn-outs zijn een van de veelvoorkomende gevolgen van deze hoge werkdruk, waardoor de andere zorgverleners een nog hogere werkdruk zullen hebben. Hiervoor is het dus belangrijk om te voorkomen dat ze een burn-out ervaren. 
+Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel.De oplossing hiertoe is dus om burn-out te preventeren. 
 
-Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. Deze monitor meet stress op basis van de hartslagvariatie en het cortisolhormoon. Deze data wordt dan doorgestuurd naar de feedbackunit die op basis van het stressniveau een pauze zou kunnen aanraden. Tijdens deze pauze zal een oefening gesuggereerd  worden zodat hun stressniveau zal dalen.
-
+Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. Deze meet stress op basis van de hartslagvariatie en het stresshormoon (cortisol). Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
 
 <p align="center">
   <img src="Map foto's2/shutterstock_645688138-768x513.webp" width="33%">
   <img src="Map foto's2/NAJ_logo_zorgverlener-1.png" width="32%">
-
   <img src="Map foto's2/images.jpeg" width="31%">
 </p>
 
 ## Introductie
-De werkdruk in de zorg ligt hoog. Dit wordt ook duidelijk uit het artikel van Zorgnet-Icuro[^1]. Volgens dat artikel heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is al weinig personeel in de zorg en als er dan nog eens 1 op de 5 wegvalt door een burn-out ligt de werkdruk nog hoger. Dit is een probleem dat maar zal blijven groeien als er niets aan gedaan wordt. Daarom willen wij met behulp van een slimme sensor pauzes regelen zodat ze minder stress ervaren.
+De werkdruk in de zorg ligt hoog. Dit wordt ook duidelijk uit het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat maar zal blijven groeien als er niets aan gedaan wordt. Daarom willen wij met behulp van een slimme sensor pauzes voorstellen zodat ze minder stress ervaren.
 
 **Op welke manier kunnen we de stress bij woonzorgmedewerkers verlagen zonder dat dit interfereert met hun werk.**
 
@@ -86,9 +83,6 @@ Zo zijn volgende themas onderzocht:
 - Privacy, discretie wordt verkozen.
 - Gebruiksvriendelijk Ontwerp: Apparaten moeten comfortabel en draagbaar zijn, geschikt voor verschillende werkomgevingen en uniformen.
 
-
-
-
 ## Definition
 
 ### Doelstellingen
@@ -122,16 +116,11 @@ Uit de interviews kregen we te horen dat er wel degelijk een nood was aan zo'n t
 
 Ook hebben we voor wat de locatie betreft een keuze gemaakt op basis van ergonomie. 
 
-
-
-
-
 #### Conclusies & implicaties:
 - Het is een nodig product
-- Discrete meldingen worden als positief gezien.
+- Discrete meldingen worden als positief gezien
 - Meldingen moeten kunnen worden afgezet
-- Lightweight en compacte wearable, bij voorkeur op de arm.
-
+- Lightweight en compacte wearable, bij voorkeur op de arm
 
 ### **Wave 2 (N=5)**	                                                                                                         									
 Waar: Woonzorgcentrum De Oever                                                                          										
@@ -165,15 +154,22 @@ Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
 Er is een mogelijkheid voor het in de werkkar te verwerken.
 Er is een nood aan zo'n type product.
 Er is geen algemene oefening voor stress te verminderen.
+> [!IMPORTANT]
+> Design requirements
+> - De feedbackunit moet verwerkt worden in de zorgkar
+> - De voorgestelde oefeningen moeten effectief zijn en passen in de workflow
+> - De draagconfiguratie moet op de bovenarm worden gedragen
+> - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
 
 ## Bill of materials
 - EVA-foam
 - Velcrostrips
 - zachte elastische stof
-- 
+- PPG sensor: gelijkaardig aan polar verity sense, state of the art (Empatica embrace plus)
+- Arduino nano 33 IOT
+- Led strip +- 40cm
 
 ## Kritische reflectie
-Max. 500 woorden
 
 ## Bronnen
 **Arduino**, van https://www.arduino.cc/
