@@ -1,7 +1,7 @@
 # Projecttitel (coming soon)
 Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.
 
-Projectteam: Bram Tops & Demaegdt Pieter
+Projectteam: Demaegdt Pieter & Tops Bram
 
 12/12/2024
 
