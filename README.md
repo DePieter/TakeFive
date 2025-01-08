@@ -175,14 +175,10 @@ Er is geen algemene oefening voor stress te verminderen.
 ## Bronnen
 **Arduino**, van https://www.arduino.cc/
 
-**Chatgpt**, van https://chatgpt.com/
-
 Seeed Studio. (n.d.). Grove - Vibration Motor, van https://wiki.seeedstudio.com/Grove-Vibration_Motor/
 Seeed Studio. (n.d.). Grove - Speaker Plus, van https://wiki.seeedstudio.com/Grove-Speaker-Plus/
 Seeed Studio. (n.d.). Grove - Red LED, van https://wiki.seeedstudio.com/Grove-Red_LED/
 
-**Github**
-Verraes, K & Warre, R. (z.d.). Ctrl-Wheely. GitHub, van https://github.com/korneelverraes/Ctrl-Wheely
 
 **Troubleshooting**
 Arduino Forum. (2023). Nano 33 BLE not working when not connected to PC, van https://forum.arduino.cc/t/nano-33-ble-not-working-when-not-connected-to-pc/1117844																	
