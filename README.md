@@ -172,6 +172,19 @@ Er is geen algemene oefening voor stress te verminderen.
 
 ## Kritische reflectie
 
+In het eerste semester van dit project hebben we ons vooral ingezet op zoveel mogelijk verschillende dingen testen en deze resultaten dan nog eens laten verifiëren. Hieruit hebben we veel geleerd voor ons uiteindelijk concept zo goed mogelijk te onderbouwen. 
+Voor onze ideëen 
+
+Voor dit te doen hebben we tijdens het prototypen alle mogelijke opties afgetast en van de beste een prototype gemaakt. Deze hebben we dan via een wave getest ([rapport wave 1](Rapport Althus.pdf)
+
+In het eerste semester hebben we ons vooral ingezet op het wat we gaan prototypen. Hierbij ging het rond ergonomie van het product en de omtrend welke functies het moet hebben.
+
+Rond de ergonomie kregen we enkele logische antwoorden zoals comfortabel zitten maar ook elke andere
+
+
+
+
+
 ## Bronnen
 **Arduino**, van https://www.arduino.cc/
 
