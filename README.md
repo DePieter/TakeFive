@@ -92,7 +92,9 @@ Zo zijn volgende themas onderzocht:
 
 ### Materiaal & methoden
 ### **Wave 1 (N=5)**	                                                                                                         									
-Waar: Woonzorgcentrum Althus                                                                          											
+Waar: Woonzorgcentrum Althus     
+([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
+([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
 <p align="left">
   <img src="Map foto's2/images.png" width="25%">
 </p>	
@@ -123,7 +125,9 @@ Ook hebben we voor wat de locatie betreft een keuze gemaakt op basis van ergonom
 - Lightweight en compacte wearable, bij voorkeur op de arm
 
 ### **Wave 2 (N=5)**	                                                                                                         									
-Waar: Woonzorgcentrum De Oever                                                                          										
+Waar: Woonzorgcentrum De Oever      
+([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
+([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
 <p align="left">
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20210611.jpg" width="33%">
 </p>	
@@ -175,7 +179,7 @@ Er is geen algemene oefening voor stress te verminderen.
 In het eerste semester van dit project hebben we ons vooral ingezet op zoveel mogelijk verschillende dingen testen en deze resultaten dan nog eens laten verifiëren. Hieruit hebben we veel geleerd voor ons uiteindelijk concept zo goed mogelijk te onderbouwen. 
 Voor onze ideëen 
 
-Voor dit te doen hebben we tijdens het prototypen alle mogelijke opties afgetast en van de beste een prototype gemaakt. Deze hebben we dan via een wave getest ([rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
+Voor dit te doen hebben we tijdens het prototypen alle mogelijke opties afgetast en van de beste een prototype gemaakt. Deze hebben we dan via een wave getest 
 
 In het eerste semester hebben we ons vooral ingezet op het wat we gaan prototypen. Hierbij ging het rond ergonomie van het product en de omtrend welke functies het moet hebben.
 
