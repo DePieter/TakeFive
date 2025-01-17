@@ -178,12 +178,10 @@ Er is geen algemene oefening voor stress te verminderen.
 
 In het eerste semester van dit project hebben we ons vooral ingezet op zoveel mogelijk verschillende dingen testen en deze resultaten dan nog eens laten verifiëren. Hieruit hebben we veel geleerd voor ons uiteindelijk concept zo goed mogelijk te onderbouwen. 
 
-Voor het prototypen bij de waves hebben we zo'n breed mogelijke caliber aan opties afgetast en deze dan ook geëvalueerd door middel van testen. Hieruit bleek dat de meeste info dat we kregen correct en sommige fouten, corrigeerden zich in de andere wave. Hierbij hebben we ons vooral gefocused op de ergonomie en discrete van de prototypes waardoor het nog niet autonoom is.
+Voor het prototypen bij de waves hebben we zo'n breed mogelijke kaliber aan opties afgetast en deze dan ook geëvalueerd door middel van testen. Hieruit bleek dat de meeste info dat we kregen correct en sommige fouten, corrigeerden zich in de andere wave. Hierbij hebben we ons vooral gefocust op de ergonomie en discrete van de prototypes waardoor het nog niet autonoom is.
 
-Voor het vervolg wordt het vooral focussen op 2 dingen:
-
+Voor het vervolg wordt het vooral focussen op 2 dingen zonder de vorige iteraties te vergeten:
 - De correcte regeling van de pauzes: als er een drukke periode is minder snel een pauze suggereren, via oorzaak stress (snel stijgend, geleidelijk stijgend,..) pauzes suggeren,..
-- 
 - De apparatuur (Wearable en Feedback-Unit) zelf maken zodat het voldoet aan alle design requirements.
 
 
