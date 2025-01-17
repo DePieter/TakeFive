@@ -176,16 +176,25 @@ Er is geen algemene oefening voor stress te verminderen.
 
 ## Kritische reflectie
 
-In het eerste semester van dit project hebben we ons vooral ingezet op zoveel mogelijk verschillende dingen testen en deze resultaten dan nog eens laten verifiëren. Hieruit hebben we veel geleerd voor ons uiteindelijk concept zo goed mogelijk te onderbouwen. 
 
-Voor het prototypen bij de waves hebben we zo'n breed mogelijke kaliber aan opties afgetast en deze dan ook geëvalueerd door middel van testen. Hieruit bleek dat de meeste info dat we kregen correct en sommige fouten, corrigeerden zich in de andere wave. Hierbij hebben we ons vooral gefocust op de ergonomie en discrete van de prototypes waardoor het nog niet autonoom is.
+Tekstje 1 
+In het eerste semester van dit project hebben we ons vooral ingezet om zoveel mogelijk verschillende dingen te testen en deze resultaten daarna te laten verifiëren door woonzorgmedewerkers. Hieruit hebben we veel geleerd om ons uiteindelijke concept zo goed mogelijk te onderbouwen.
 
-Voor het vervolg wordt het vooral focussen op 2 dingen zonder de vorige iteraties te vergeten:
-- De correcte regeling van de pauzes: als er een drukke periode is minder snel een pauze suggereren, via oorzaak stress (snel stijgend, geleidelijk stijgend,..) pauzes suggeren,..
-- De apparatuur (Wearable en Feedback-Unit) zelf maken zodat het voldoet aan alle design requirements.
+Voor het prototypen bij de waves hebben we een breed scala aan opties afgetast met behulp van Arduino. Deze prototypes hebben we vervolgens geëvalueerd door middel van testen. Hierbij hebben we ons vooral gefocust op de ergonomie en discretie van de prototypes.
+
+Voor het vervolg zal de focus vooral liggen op twee zaken, zonder de vorige iteraties te vergeten:
+- De correcte regeling van de pauzes: Als er een drukke periode is, minder snel een pauze suggereren, en pauzes baseren op de oorzaak van de stress (snel stijgend, geleidelijk stijgend, etc.).
+- De apparatuur (Wearable en Feedback-Unit) zelf maken zodat het voldoet aan alle designvereisten.
 
 
+Tekstje 2
+In het eerste semester van dit project hebben we ons gericht op het testen van een breed scala aan mogelijkheden en het verifiëren van de resultaten. Dit proces heeft ons waardevolle inzichten opgeleverd, die we hebben gebruikt om ons uiteindelijke concept goed te onderbouwen.
 
+Bij het prototypen van de waves hebben we verschillende opties onderzocht, met behulp van tools zoals Arduino. Deze prototypes hebben we vervolgens geëvalueerd door middel van gebruikerstesten, waarbij we ons vooral hebben gefocust op de ergonomie en de discretie van de prototypes.
+
+Voor het vervolg van het project zullen we ons voornamelijk richten op twee zaken, zonder de eerdere iteraties uit het oog te verliezen:
+- Het correct regelen van de pauzes: We willen pauzes beter afstemmen op de drukte, bijvoorbeeld door in stressvolle periodes minder snel een pauze voor te stellen of pauzes te baseren op de oorzaak van de stress (snel stijgend, geleidelijk stijgend, etc.).
+- Het ontwikkelen van de apparatuur (wearable en feedback-unit) zodat deze voldoet aan alle ontwerpvereisten.
 
 
 
