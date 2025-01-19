@@ -176,22 +176,6 @@ Er is geen algemene oefening voor stress te verminderen.
 
 ## Kritische reflectie
 
-
-
-
-Tekstje 1 
-In het eerste semester van dit project hebben we ons vooral ingezet om zoveel mogelijk verschillende dingen te testen en deze resultaten daarna te laten verifiëren door woonzorgmedewerkers. Hieruit hebben we veel geleerd om ons uiteindelijke concept zo goed mogelijk te onderbouwen.
-
-Voor het prototypen bij de waves hebben we een breed scala aan opties afgetast met behulp van Arduino. Deze prototypes hebben we vervolgens geëvalueerd door middel van testen. Hierbij hebben we ons vooral gefocust op de ergonomie en discretie van de prototypes.
-
-Voor het vervolg zal de focus vooral liggen op twee zaken, zonder de vorige iteraties te vergeten:
-- De correcte regeling van de pauzes: Als er een drukke periode is, minder snel een pauze suggereren, en pauzes baseren op de oorzaak van de stress (snel stijgend, geleidelijk stijgend, etc.).
-- De apparatuur (Wearable en Feedback-Unit) zelf maken zodat het voldoet aan alle designvereisten.
-
-
-
-
-Tekstje 2
 In het eerste semester van dit project hebben we ons gericht op het testen van een breed scala aan mogelijkheden en het verifiëren van de resultaten. Dit proces heeft ons waardevolle inzichten opgeleverd, die we hebben gebruikt om ons uiteindelijke concept goed te onderbouwen.
 
 Bij het prototypen van de waves hebben we verschillende opties onderzocht, met behulp van tools zoals Arduino. Deze prototypes hebben we vervolgens geëvalueerd door middel van gebruikerstesten, waarbij we ons vooral hebben gefocust op de ergonomie en de discretie van de prototypes.
