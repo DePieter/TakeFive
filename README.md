@@ -1,16 +1,16 @@
-#### **Take Five**
+# Take Five
 Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.
 
-Projectteam: Finn Schrijvers, Demaegdt Pieter, Tops Bram
+Projectteam: Demaegdt Pieter, Tops Bram, Schrijvers Finn
 
 12/12/2024
 
 ## Samenvatting
 Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die deze zorgverleners ervaren. Dit is gebleken uit interviews met zorgverleners en literatuuronderzoek van talloze wetenschappelijke artikelen.
 
-Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel.De oplossing hiertoe is dus om burn-out te preventeren. 
+Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel. De oplossing hiertoe is dus om burn-out te preventeren. 
 
-Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. Deze meet stress op basis van de hartslagvariatie en het stresshormoon (cortisol). Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
+Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De stress  wordt gemeten op basis van de hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
 
 <p align="center">
   <img src="Map foto's2/shutterstock_645688138-768x513.webp" width="33%">
@@ -19,9 +19,9 @@ Hiervoor hebben we een stressmonitor ontwikkeld die monteerbaar is op de bovenar
 </p>
 
 ## Introductie
-De werkdruk in de zorg ligt hoog. Dit wordt ook duidelijk uit het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat maar zal blijven groeien als er niets aan gedaan wordt. Daarom willen wij met behulp van een slimme sensor pauzes voorstellen zodat ze minder stress ervaren.
+De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. *NAAM* lost dit probleem op met een slimme sensor die pauzes voorstelt, waardoor gebruikers minder stress ervaren.
 
-**Op welke manier kunnen we de stress bij woonzorgmedewerkers verlagen zonder dat dit interfereert met hun werk.**
+**Op welke manier kunnen we de stress bij woonzorgmedewerkers verlagen zonder dat dit het werk verstoord?**
 
 Voorwaarden:
 - veilig
@@ -33,11 +33,11 @@ Tijdens dit proces zal de woonzorgmedewerker centraal staan. We zullen zeker nie
 
 ## Methodologie
 
-Elk probleem start eerst met een exploratie van het probleem. Voor de discovery van het probleem zijn we van start gegaan met een literatuuronderzoek. Dit gaf al een idee dat het probleem van burn-outs een serieus probleem was. Na enkele interviews met woonzorgmedewerkers en gespreken met een professional werd het duidelijk dat het een serieus probleem was. 
+Elk probleem wordt eerst geanalyseerd door middel van een grondige exploratie. In dit geval werd een literatuuronderzoek uitgevoerd, waaruit bleek dat burn-outs een aanzienlijk probleem vormen. Dit inzicht werd verder bevestigd door interviews met woonzorgmedewerkers en gesprekken met een professional.
 
-Voor dit probleem aan te pakken hielden we ons in de discoveryfase bezig met zoveel mogelijk info verzamelen. Dan hebben we via templates zoals de 5WH en PESTEL de belangrijkste ideeën uitgehaald voor zo goed mogelijke _design requirements_ op te stellen. Met behulp van deze requirements kon er een mogelijk concept gemaakt worden voor de tussentijdse pitch. Hierna we dit concept verder uitgewerkt hebben met behulp van _storyboarding_ en de _MoSCoW-template_. 
+Om dit probleem aan te pakken, richtte de discoveryfase zich op het verzamelen van zoveel mogelijk relevante informatie. Vervolgens werden de verkregen gegevens geanalyseerd met behulp van methoden zoals de 5WH-methode en PESTEL-analyse om de kerninzichten te identificeren en optimale design requirements op te stellen. Op basis van deze requirements werd een eerste concept ontwikkeld voor de tussentijdse pitch. Dit concept werd verder uitgewerkt met behulp van storyboarding en de MoSCoW-methode.
 
-Uiteindelijk kwamen er enkele vroege dirty-prototypes uit. Dit hebben we dan getest in onze eerste wave bij WZC Althus. Door de feedback toe te passen dat we gekregen hebben uit wave 1 hebben we een minder dirty-prototype gemaakt. Deze heeft dan een weeklange test begaan bij VZW De oever. Op het einde van de test hebben we nog een groepsinterview gedaan voor iedereen zijn feedback te horen. Met behulp van deze data kunnen we de _design requirements_ bijwerken zodat het ook voldoet aan de eisen en wensen van de stakeholders.
+Dit proces resulteerde in de ontwikkeling van vroege dirty prototypes, die getest werden tijdens de eerste evaluatieronde bij WZC Althus. De feedback uit deze testfase werd vervolgens verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.
 
 <p align="centerl">
   <img src="Map foto's2/Methodologie.jpg" width="100%">
@@ -58,8 +58,7 @@ Aan de hand van user interviews kunnen de bevindingen over de toepassingen van e
 Hieruit werd bevestigd dat werkdruk binnen de zorg hoog ligt en daarom als probleem kan worden gezien. Hiervoorzijn er drie interviews afgelegd bij studentes uit de richting verpleegkunde. Dit omdat ze gedurende hun opleiding op verschillende afdelingen stage lopen en zo tal van problemen tegenkomen en inzichten in verkrijgen.
 Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5why's en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
 #### Literature reviews (N=10)
-Een kritisch punt in het meten van burnout was de haalbaarheid hierin. De symptomen hiervan, zogenaamde biomarkers moesten worden onderzocht alsook de meetbaarheid en technologie ervoor.
-Zo zijn volgende themas onderzocht:
+De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parameters van het menselijk lichaam, de zogenaamde biomarkers, vereisen bijzondere aandacht, evenals de technologieën en methoden voor hun meting. In dit kader zijn de volgende thema’s onderzocht:
 - Doelgroep
 - Jaarlijkse kost en evolutie van het probleem
 - Biomarkers
@@ -69,12 +68,12 @@ Zo zijn volgende themas onderzocht:
 - Technische haalbaarheid
 ### Conclusies & implicaties
 #### Oorzaken en Gevolgen
-- Werkdruk en Pauzeproblematiek: Personeelstekorten zorgen voor langere diensten en kortere pauzes. In veel gevallen worden pauzes zelfs overgeslagen bij verhoogde werkdruk, wat het stressniveau verder verhoogt. Zo wijst uit onderstaande grafiek dat werkdruk de grootste impact heeft op werk-privé balans bij een groot percentage aan personeel.
+- Personeelstekorten leiden tot langere shifts en kortere pauzes. In veel gevallen worden pauzes zelfs volledig overgeslagen bij een verhoogde werkdruk, wat resulteert in een verdere toename van stressniveaus. Onderstaande grafiek toont aan dat werkdruk een aanzienlijke impact heeft op de werk-privébalans van een groot deel van het personeel.
   <img src="Map foto's2/graph.jpg">
 - Burn-out Statistieken: Sinds de pandemie is langdurig ziekteverzuim met 50% toegenomen. De geschatte jaarlijkse kosten voor burn-out in de zorgsector bedragen ongeveer €228 miljoen, met een stijging van 10% in vijf jaar.
 - Dubbel Negatief Effect: Verhoogde werkdruk leidt niet alleen tot meer stress, maar ook tot het uitstellen of overslaan van pauzes, wat het probleem verder verergert.
 #### Inzichten uit Onderzoek
-- Meetbare Biomarkers: Hartslagvariabiliteit (HRV) en cortisol zijn betrouwbare indicatoren van stress en burn-out. HRV kan continu worden gemeten met draagbare apparaten, terwijl cortisolmetingen via elektrochemische sensoren nieuwe mogelijkheden bieden.
+- Meetbare Biomarkers: Hartslagvariabiliteit (HRV) en cortisol zijn betrouwbare indicatoren van stress en burn-out. HRV kan continu worden gemeten met draagbare apparaten, terwijl cortisolmetingen via elektrochemische sensoren op deze moment nog te experimenteel zijn om met vertrouwen te implementeren. 
 - Kosten en Trends: Burn-out blijft een groeiend probleem met substantiële economische en sociale impact. Preventieve maatregelen zijn daarom essentieel.
 - Oorzaak van Stress: Werkdruk is de belangrijkste drijfveer achter stress, versterkt door personeelstekorten en een gebrek aan structurele oplossingen.
 #### Aanbevelingen voor Ontwerp
