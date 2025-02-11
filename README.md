@@ -1,4 +1,4 @@
-#### **<p style="font-size:36px;">Take Five</p>**
+#### **Take Five**
 Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.
 
 Projectteam: Finn Schrijvers, Demaegdt Pieter, Tops Bram
