@@ -1,7 +1,7 @@
-# Projecttitel (coming soon)
+#### Take Five
 Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.
 
-Projectteam: Demaegdt Pieter & Tops Bram
+Projectteam: Finn Schrijvers, Demaegdt Pieter, Tops Bram
 
 12/12/2024
 
