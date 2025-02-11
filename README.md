@@ -19,7 +19,7 @@ Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De s
 </p>
 
 ## Introductie
-De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. *NAAM* lost dit probleem op met een slimme sensor die pauzes voorstelt, waardoor gebruikers minder stress ervaren.
+De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. Take Five lost dit probleem op met een slimme sensor die pauzes voorstelt, waardoor gebruikers minder stress ervaren.
 
 **Op welke manier kunnen we de stress bij woonzorgmedewerkers verlagen zonder dat dit het werk verstoord?**
 
