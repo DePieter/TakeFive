@@ -13,7 +13,11 @@ Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor
 Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De stress  wordt gemeten op basis van de hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
 
 
+
+
+
 Deze foto's zijn irrelevant, best product schetsen of render ofzo erin steken (dit staat ook zo in de template beschreven)
+
 <p align="center">
   <img src="Map foto's2/shutterstock_645688138-768x513.webp" width="33%">
   <img src="Map foto's2/NAJ_logo_zorgverlener-1.png" width="32%">
