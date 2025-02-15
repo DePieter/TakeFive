@@ -67,11 +67,25 @@ Een goed geformuleerde "how might we" vormen voor de probleemruimte.
 #### Probleemruimte $${\color{red}aanvullen}$$
 hier beschrijven waarom je ervoor hebt gekozen om stres binnen WZC aan te pakken, denk hierbij aan de info die je moest vertellen in uw eerste pitch, (gebruik concrete cijfers, toon aan dat het een serieus probleem is en waarom, hoeveel stres, gevolgen,...
 
-#### User interviews (N=3)
-Aan de hand van user interviews wordt er nagegaan hoe er op de dag van vandaag wordt omgegaan met stress op de werkvloer binnen WZC. kunnen de bevindingen over de toepassingen van een stressmonitor in de zorgsector worden opgenomen. De inzichten die hieruit voortkomen kunnen de effectiviteit, mogelijke hindernissen en ontwerpimplicaties identificeren.
+#### User interviews (N=3) $${\color{red}herwerken}$$
+Hier zit je nog steeds in de discovery fase, je bent nog aan het onderzoeken wat het probleem is, je zou hier nog niet bezig mogen zijn met een concept.
+
+Aan de hand van user interviews kunnen de bevindingen over de toepassingen van een stressmonitor in de zorgsector worden opgenomen. De inzichten die hieruit voortkomen kunnen de effectiviteit, mogelijke hindernissen en ontwerpimplicaties identificeren.
 Hieruit werd bevestigd dat werkdruk binnen de zorg hoog ligt en daarom als probleem kan worden gezien. Hiervoorzijn er drie interviews afgelegd bij studentes uit de richting verpleegkunde. Dit omdat ze gedurende hun opleiding op verschillende afdelingen stage lopen en zo tal van problemen tegenkomen en inzichten in verkrijgen.
-Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5why's en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
-#### Literature reviews (N=10)
+Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5W- en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
+
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> wat heb je geleerd uit deze interviews? kan iets zijn zoals:
+> -  Real-time Monitoring: De geïnterviewde verpleegkundigen benadrukken dat real-time monitoring van stressniveaus cruciaal is, omdat ingrepen momenteel vaak te laat komen. Direct inzicht in stressniveaus stelt gebruikers in staat sneller te reageren en stress te beheersen voordat het zich opstapelt.
+> - Gebruiksvriendelijk Ontwerp: verpleegkundigen geven aan dat ze fysiek zo ongestoord mogelijk kunnen doorwerken.
+> - ...
+> - ...
+
+
+#### Literature reviews (N=10) $${\color{red}herwerken}$$
+zelfde opmerking al hierboven
+
 De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parameters van het menselijk lichaam, de zogenaamde biomarkers, vereisen bijzondere aandacht, evenals de technologieën en methoden voor hun meting. In dit kader zijn de volgende thema’s onderzocht:
 - Doelgroep
 - Jaarlijkse kost en evolutie van het probleem
@@ -80,21 +94,34 @@ De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parame
 - Huidig onderzoek omtrent biomarkers en meetbaarheid van burnout
 - Burnout preventie en interventie
 - Technische haalbaarheid
-### Conclusies & implicaties
+
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  Wat heb je geleerd uit de literatuurstudie?
+
+#### 5W methode $${\color{red}aanvullen}$$
+
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  Wat heb je geleerd uit deze 5W methode?
+
+#### PESTLE methode $${\color{red}aanvullen}$$
+
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  Wat heb je geleerd uit deze 5W methode?
+
+### Conclusie
 #### Oorzaken en Gevolgen
 - Personeelstekorten leiden tot langere shifts en kortere pauzes. In veel gevallen worden pauzes zelfs volledig overgeslagen bij een verhoogde werkdruk, wat resulteert in een verdere toename van stressniveaus. Onderstaande grafiek toont aan dat werkdruk een aanzienlijke impact heeft op de werk-privébalans van een groot deel van het personeel.
   <img src="Map foto's2/graph.jpg">
 - Burn-out Statistieken: Sinds de pandemie is langdurig ziekteverzuim met 50% toegenomen. De geschatte jaarlijkse kosten voor burn-out in de zorgsector bedragen ongeveer €228 miljoen, met een stijging van 10% in vijf jaar.
-- Dubbel Negatief Effect: Verhoogde werkdruk leidt niet alleen tot meer stress, maar ook tot het uitstellen of overslaan van pauzes, wat het probleem verder verergert.
-#### Inzichten uit Onderzoek
-- Meetbare Biomarkers: Hartslagvariabiliteit (HRV) en cortisol zijn betrouwbare indicatoren van stress en burn-out. HRV kan continu worden gemeten met draagbare apparaten, terwijl cortisolmetingen via elektrochemische sensoren op deze moment nog te experimenteel zijn om met vertrouwen te implementeren. 
+- Dubbel Negatief Effect: Verhoogde werkdruk leidt niet alleen tot meer stres, maar ook tot het uitstellen of overslaan van pauzes, wat het probleem verder verergert.
 - Kosten en Trends: Burn-out blijft een groeiend probleem met substantiële economische en sociale impact. Preventieve maatregelen zijn daarom essentieel.
-- Oorzaak van Stress: Werkdruk is de belangrijkste drijfveer achter stress, versterkt door personeelstekorten en een gebrek aan structurele oplossingen.
-#### Aanbevelingen voor Ontwerp
-- Real-time Monitoring: Ontwikkel draagbare apparaten die stressniveaus kunnen meten via HRV en mogelijks cortisol. Deze apparaten moeten real-time feedback geven, zoals lichtsignalen of trillingen, om gebruikers bewust te maken van stress zonder afleiding.
-- Flexibele Pauzeherinneringen: Implementeer een systeem dat gepersonaliseerde pauzeherinneringen biedt, zelfs tijdens piekmomenten. Opties om meldingen tijdelijk te onderdrukken zonder metingen te stoppen, zorgen voor extra flexibiliteit.
-- Privacy, discretie wordt verkozen.
-- Gebruiksvriendelijk Ontwerp: Apparaten moeten comfortabel en draagbaar zijn, geschikt voor verschillende werkomgevingen en uniformen.
+- Oorzaak van Stres: Werkdruk is de belangrijkste drijfveer achter stress, versterkt door personeelstekorten en een gebrek aan structurele oplossingen.
+
+#### Inzichten uit Onderzoek
+Deze discoveryfase heeft inzicht gegeven in zowel het probleem als de betrokken stakeholders (verpleegkundigen in WZC). Door middel van interviews, literatuurstudie, de 5W-methode en PESTLE-analyse zijn de eerste design requirements vastgesteld. Deze vormen de basis voor de volgende definitionfase. In deel $${\color{red}XXX}$$ is een samenvattende tabel opgenomen met alle design requirements voor het eindproduct.
 
 ## Definition
 
