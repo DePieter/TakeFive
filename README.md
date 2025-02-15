@@ -118,7 +118,7 @@ Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 - Personeelstekorten leiden tot langere shifts en kortere pauzes. In veel gevallen worden pauzes zelfs volledig overgeslagen bij een verhoogde werkdruk, wat resulteert in een verdere toename van stressniveaus. Onderstaande grafiek toont aan dat werkdruk een aanzienlijke impact heeft op de werk-privébalans van een groot deel van het personeel.
 
 <div style="text-align: center;">
-    <img src="Map foto's2/graph.jpg" style="width: 50%;">
+    <img src="Map foto's2/graph.jpg" style="width: 50%; display: block; margin: 0 auto;">
 </div>
 
 - Burn-out Statistieken: Sinds de pandemie is langdurig ziekteverzuim met 50% toegenomen. De geschatte jaarlijkse kosten voor burn-out in de zorgsector bedragen ongeveer €228 miljoen, met een stijging van 10% in vijf jaar.
