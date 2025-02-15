@@ -32,12 +32,21 @@ Voorwaarden:
 Tijdens dit proces zal de woonzorgmedewerker centraal staan. We zullen zeker niet vergeten rekening te houden met enkele belangrijke stakeholders zoals de collega's en bewoners zelf.
 
 ## Methodologie
+Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral, kan dit probleem gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^2]
+Tijdens de ontdekkingsfase werd onderzocht hoe gebruikers, die dagelijks met het probleem te maken hebben, het probleem ervaren en welke oplossingen zij zelf voor ogen hebben. De user interviews bevestigden het probleem duidelijk. Uit een literatuuronderzoek blijkt dat burn-outs een aanzienlijk probleem vormen. Daarnaast werd met behulp van methoden zoals de 5WH-methode en PESTEL-analyse de kerninzichten geidentificeerd om een eerste reeks design requirements te bekomen.
 
-Elk probleem wordt eerst geanalyseerd door middel van een grondige exploratie. In dit geval werd een literatuuronderzoek uitgevoerd, waaruit bleek dat burn-outs een aanzienlijk probleem vormen. Dit inzicht werd verder bevestigd door interviews met woonzorgmedewerkers en gesprekken met een professional.
+> [!IMPORTANT]
+> Design Requirements:
+> - Design req 1 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
+> - Design req 2 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
+> - Design req 3 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
+> - ...
 
-Om dit probleem aan te pakken, richtte de discoveryfase zich op het verzamelen van zoveel mogelijk relevante informatie. Vervolgens werden de verkregen gegevens geanalyseerd met behulp van methoden zoals de 5WH-methode en PESTEL-analyse om de kerninzichten te identificeren en optimale design requirements op te stellen. Op basis van deze requirements werd een eerste concept ontwikkeld voor de tussentijdse pitch. Dit concept werd verder uitgewerkt met behulp van storyboarding en de MoSCoW-methode.
+In de definitiefase wordt het probleem verder verkend met een meer praktische aanpak, rekening houdend met het principe "fall in love with the problem, not the solution." Tijdens deze fase worden de eerste prototypes ontwikkeld en testen we zo snel mogelijk of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Altus. De feedback uit deze testfase wordt verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.
 
-Dit proces resulteerde in de ontwikkeling van vroege dirty prototypes, die getest werden tijdens de eerste evaluatieronde bij WZC Althus. De feedback uit deze testfase werd vervolgens verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.
+Deze iteratieve aanpak vormt de kern van het ontwerpproces, waarbij in volgende fasen steeds opnieuw getest zal worden met nieuwe en/of verfijnde prototypes. Tegelijkertijd bieden deze tests waardevolle inzichten in de gebruiker, waardoor hun behoeften nog beter in kaart kan worden gebracht wat leid tot design requirements die als leidraad dienen gedurende het hele proces. Het opstellen van de product concepten werd telkens ondersteund door storyboarding en de MoSCow-methode.
+
+De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 
 <p align="centerl">
   <img src="Map foto's2/Methodologie.jpg" width="100%">
