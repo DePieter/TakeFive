@@ -12,7 +12,7 @@ Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor
 
 Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De stress  wordt gemeten op basis van de hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
 
-19| <span style="color:red">Deze foto's zijn irrelevant, best product schetsen of render ofzo erin steken (dit staat ook zo in de template beschreven)</span>
+$${\color{red}Deze foto's zijn irrelevant, je moet hier nuttige dingen plaatsen zoals product renders of propere tekeningen ofzo}$$
 
 <p align="center">
   <img src="Map foto's2/shutterstock_645688138-768x513.webp" width="33%">
@@ -38,7 +38,7 @@ Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gest
 Tijdens de ontdekkingsfase werd onderzocht hoe gebruikers, die dagelijks met het probleem te maken hebben, het probleem ervaren en welke oplossingen zij zelf voor ogen hebben. De user interviews bevestigden het probleem duidelijk. Uit een literatuuronderzoek blijkt dat burn-outs een aanzienlijk probleem vormen. Daarnaast werd met behulp van methoden zoals de 5WH-methode en PESTEL-analyse de kerninzichten geidentificeerd om een eerste reeks design requirements te bekomen.
 
 > [!IMPORTANT]
-> Design Requirements:
+> Design Requirements: $${\color{red}aanvullen}$$
 > - Design req 1 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
 > - Design req 2 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
 > - Design req 3 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
