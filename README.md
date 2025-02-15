@@ -21,7 +21,7 @@ $${\color{red}Deze foto's zijn irrelevant, je moet hier nuttige dingen plaatsen 
 </p>
 
 ## Introductie
-De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. Take Five lost dit probleem op met een slimme sensor die pauzes voorstelt, waardoor gebruikers minder stress ervaren.
+De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. Take Five lost dit probleem op met een systeem d.m.v. een sensor die op basis van het stres gehalte pauzes voorstelt, waardoor gebruikers minder stres ervaren.
 
 **Op welke manier kunnen we de stress bij woonzorgmedewerkers verlagen zonder dat dit het werk verstoord?**
 
@@ -34,8 +34,8 @@ Voorwaarden:
 Tijdens dit proces zal de woonzorgmedewerker centraal staan. We zullen zeker niet vergeten rekening te houden met enkele belangrijke stakeholders zoals de collega's en bewoners zelf.
 
 ## Methodologie
-Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Is het gestelde probleem ook daadwerkelijk een probleem, en vooral, kan dit probleem gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^2]
-Tijdens de ontdekkingsfase werd onderzocht hoe gebruikers, die dagelijks met het probleem te maken hebben, het probleem ervaren en welke oplossingen zij zelf voor ogen hebben. De user interviews bevestigden het probleem duidelijk. Uit een literatuuronderzoek blijkt dat burn-outs een aanzienlijk probleem vormen. Daarnaast werd met behulp van methoden zoals de 5WH-methode en PESTEL-analyse de kerninzichten geidentificeerd om een eerste reeks design requirements te bekomen.
+Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^2]
+User interviews bevestigden dat stress op de werkvloer een groot probleem is. Literatuuronderzoek toonde aan dat burn-outs een aanzienlijk risico vormen. Met methoden zoals de 5WH-methode en PESTEL-analyse zijn kerninzichten geïdentificeerd, wat leidde tot een eerste set design requirements.
 
 > [!IMPORTANT]
 > Design Requirements: $${\color{red}aanvullen}$$
@@ -56,7 +56,7 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 
 
 ## Discovery
-De Discovery fase draait rond het definieren van een probleemruimte, hierbinnen inzichten te verkrijgen en een oplossing in de vorm van een product te verkrijgen. Om deze te verkrijgen zijn er gebruikersinterviews en marktanalyse uitgevoerd omtrent de haalbaarheid.
+De discovery fase draait rond het definieren van de probleemruimte waarbij de focus daadwerkelijk ligt op het definiëren van het probleem en niet op het maken van een product. Nadat de probleemruimte is afgebakend, zullen de user interviews aangeven welke problemen er best worden aangepakt om uiteindelijk een goed geformuleerde "how might we" te bekomen. Concreet wordt dit eerste, onderzoekende deel ondersteund door user interviews, literatuurstudies, 5WH- en PESTEL-methode. $${\color{red}verwijzen naar bijlage}$$
 ### Doestellingen
 Een goed geformuleerde "how might we" vormen voor de probleemruimte.
 ### Materiaal & methoden
@@ -64,8 +64,11 @@ Een goed geformuleerde "how might we" vormen voor de probleemruimte.
 - Literature reviews (N=10)
 ### Resultaten
 
+#### Probleemruimte $${\color{red}aanvullen}$$
+hier beschrijven waarom je ervoor hebt gekozen om stres binnen WZC aan te pakken, denk hierbij aan de info die je moest vertellen in uw eerste pitch, (gebruik concrete cijfers, toon aan dat het een serieus probleem is en waarom, hoeveel stres, gevolgen,...
+
 #### User interviews (N=3)
-Aan de hand van user interviews kunnen de bevindingen over de toepassingen van een stressmonitor in de zorgsector worden opgenomen. De inzichten die hieruit voortkomen kunnen de effectiviteit, mogelijke hindernissen en ontwerpimplicaties identificeren.
+Aan de hand van user interviews wordt er nagegaan hoe er op de dag van vandaag wordt omgegaan met stress op de werkvloer binnen WZC. kunnen de bevindingen over de toepassingen van een stressmonitor in de zorgsector worden opgenomen. De inzichten die hieruit voortkomen kunnen de effectiviteit, mogelijke hindernissen en ontwerpimplicaties identificeren.
 Hieruit werd bevestigd dat werkdruk binnen de zorg hoog ligt en daarom als probleem kan worden gezien. Hiervoorzijn er drie interviews afgelegd bij studentes uit de richting verpleegkunde. Dit omdat ze gedurende hun opleiding op verschillende afdelingen stage lopen en zo tal van problemen tegenkomen en inzichten in verkrijgen.
 Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5why's en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
 #### Literature reviews (N=10)
