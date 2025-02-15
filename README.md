@@ -100,12 +100,14 @@ De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parame
 > -  Wat heb je geleerd uit de literatuurstudie?
 
 #### 5W methode $${\color{red}aanvullen}$$
+Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 
 > [!IMPORTANT]
 > Design Requirements: $${\color{red}aanvullen}$$
 > -  Wat heb je geleerd uit deze 5W methode?
 
 #### PESTLE methode $${\color{red}aanvullen}$$
+Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 
 > [!IMPORTANT]
 > Design Requirements: $${\color{red}aanvullen}$$
