@@ -121,7 +121,6 @@ Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
     <img src="Map foto's2/graph.jpg" style="width: 50%;">
 </div>
 
-
 - Burn-out Statistieken: Sinds de pandemie is langdurig ziekteverzuim met 50% toegenomen. De geschatte jaarlijkse kosten voor burn-out in de zorgsector bedragen ongeveer €228 miljoen, met een stijging van 10% in vijf jaar.
 - Dubbel Negatief Effect: Verhoogde werkdruk leidt niet alleen tot meer stres, maar ook tot het uitstellen of overslaan van pauzes, wat het probleem verder verergert.
 - Kosten en Trends: Burn-out blijft een groeiend probleem met substantiële economische en sociale impact. Preventieve maatregelen zijn daarom essentieel.
@@ -131,11 +130,12 @@ Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 Deze discoveryfase heeft inzicht gegeven in zowel het probleem als de betrokken stakeholders (verpleegkundigen in WZC). Door middel van interviews, literatuurstudie, de 5W-methode en PESTLE-analyse zijn de eerste design requirements vastgesteld. Deze vormen de basis voor de volgende definitionfase. In deel $${\color{red}XXX}$$ is een samenvattende tabel opgenomen met alle design requirements voor het eindproduct.
 
 ## Definition
+In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in drie waves, waarbij het concept per wave steeds verder wordt verfijnd.
 
 ### Doelstellingen
-- Onderzoek doen omtrend de marketfit van het idee.
-- Feedbackopties (geluid, trillen, licht,...) uittesten. Hierbij kijken welke het best werken.
-- Prototypes uittesten
+- Het ontwikkelen van concrete prototypes die de geïdentificeerde problemen aanpakken.
+- Het testen en evalueren van deze prototypes in realistische scenario's om de haalbaarheid te verifiëren.
+- Het verzamelen van gebruikersfeedback om de prototypes verder te verbeteren.
 
 ### Materiaal & methoden
 ### **Wave 1 (N=5)**	                                                                                                         									
