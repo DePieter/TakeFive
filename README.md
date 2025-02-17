@@ -35,14 +35,7 @@ Tijdens dit proces zal de woonzorgmedewerker centraal staan. We zullen zeker nie
 
 ## Methodologie
 Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^2]
-User interviews bevestigden dat stress op de werkvloer een groot probleem is. Literatuuronderzoek toonde aan dat burn-outs een aanzienlijk risico vormen. Met methoden zoals de 5WH-methode en PESTEL-analyse zijn kerninzichten geïdentificeerd, wat leidde tot een eerste set design requirements.
-
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> - Design req 1 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
-> - Design req 2 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
-> - Design req 3 (voortvloeiend uit de aller eerste discoveryfase: interviews, literatuurstudie, PESTEL, 5WH)
-> - ...
+User interviews bevestigden dat stress op de werkvloer een groot probleem is. Literatuuronderzoek toonde aan dat burn-outs een aanzienlijk risico vormen, terwijl methoden zoals de 5WH-methode en PESTEL-analyse kerninzichten werden geïdentificeerd.
 
 In de definitiefase wordt het probleem verder verkend met een meer praktische aanpak, rekening houdend met het principe "fall in love with the problem, not the solution." Tijdens deze fase worden de eerste prototypes ontwikkeld en testen we zo snel mogelijk of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Altus. De feedback uit deze testfase wordt verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.
 
@@ -55,18 +48,19 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 
 
 ## Discovery
-De discovery fase draait rond het definieren van de probleemruimte waarbij de focus daadwerkelijk ligt op het definiëren van het probleem en niet op het maken van een product. Nadat de probleemruimte is afgebakend, zullen de user interviews aangeven welke problemen er best worden aangepakt om uiteindelijk een goed geformuleerde "how might we" te bekomen. Concreet wordt dit eerste, onderzoekende deel ondersteund door user interviews, literatuurstudies, 5WH- en PESTEL-methode. $${\color{red}verwijzen naar bijlage}$$
+De discovery fase draait rond het definieren van de probleemruimte waarbij de focus daadwerkelijk ligt op het definiëren van het probleem en niet op het maken van een product. Nadat de probleemruimte is afgebakend, zullen de user interviews aangeven welke problemen er best worden aangepakt om uiteindelijk een goed geformuleerde "how might we" te bekomen. Concreet wordt dit eerste, onderzoekende deel ondersteund door user interviews, literatuurstudies, 5WH- en PESTEL-methode Met methoden zoals de 5WH-methode en PESTEL-analyse zijn kerninzichten geïdentificeerd.
+
 ### Doestellingen
 Een goed geformuleerde "how might we" vormen voor de probleemruimte.
+
 ### Materiaal & methoden
 - User interviews (N=3)
 - Literature reviews (N=10)
-### Resultaten
 
-#### Probleemruimte $${\color{red}aanvullen}$$
+### Probleemruimte $${\color{red}aanvullen}$$
 hier beschrijven waarom je ervoor hebt gekozen om stres binnen WZC aan te pakken, denk hierbij aan de info die je moest vertellen in uw eerste pitch, (gebruik concrete cijfers, toon aan dat het een serieus probleem is en waarom, hoeveel stres, gevolgen,...
 
-#### User interviews (N=3) $${\color{red}herwerken}$$
+### User interviews (N=3) $${\color{red}herwerken}$$
 Hier zit je nog steeds in de discovery fase, je bent nog aan het onderzoeken wat het probleem is, je zou hier nog niet bezig mogen zijn met een concept.
 
 Aan de hand van user interviews kunnen de bevindingen over de toepassingen van een stressmonitor in de zorgsector worden opgenomen. De inzichten die hieruit voortkomen kunnen de effectiviteit, mogelijke hindernissen en ontwerpimplicaties identificeren.
