@@ -238,7 +238,7 @@ Er is geen algemene oefening voor stress te verminderen.
 > - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
 > - Gestalt wetten toepassen voor feedbackunit
 
-# Defenition
+# Devellop
 
 ## Bill of materials
 - EVA-foam
