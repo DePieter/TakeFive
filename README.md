@@ -56,6 +56,8 @@ Een goed geformuleerde "how might we" vormen voor de probleemruimte.
 ### Materiaal & methoden
 - User interviews (N=3)
 - Literature reviews (N=10)
+- 5W-methode
+- PESTLE methode
 
 ### Probleemruimte $${\color{red}aanvullen}$$
 hier beschrijven waarom je ervoor hebt gekozen om stres binnen WZC aan te pakken, denk hierbij aan de info die je moest vertellen in uw eerste pitch, (gebruik concrete cijfers, toon aan dat het een serieus probleem is en waarom, hoeveel stres, gevolgen,...
@@ -76,7 +78,7 @@ Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stre
 > - ...
 
 
-#### Literature reviews (N=10) $${\color{red}herwerken}$$
+### Literature reviews (N=10) $${\color{red}herwerken}$$
 zelfde opmerking al hierboven
 
 De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parameters van het menselijk lichaam, de zogenaamde biomarkers, vereisen bijzondere aandacht, evenals de technologieën en methoden voor hun meting. In dit kader zijn de volgende thema’s onderzocht:
@@ -92,14 +94,14 @@ De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parame
 > Design Requirements: $${\color{red}aanvullen}$$
 > -  Wat heb je geleerd uit de literatuurstudie?
 
-#### 5W methode $${\color{red}aanvullen}$$
+### 5W methode $${\color{red}aanvullen}$$
 Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 
 > [!IMPORTANT]
 > Design Requirements: $${\color{red}aanvullen}$$
 > -  Wat heb je geleerd uit deze 5W methode?
 
-#### PESTLE methode $${\color{red}aanvullen}$$
+### PESTLE methode $${\color{red}aanvullen}$$
 Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 
 > [!IMPORTANT]
