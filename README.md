@@ -153,7 +153,7 @@ Waar: Woonzorgcentrum Althus
 </p>	
 
 #### Design sketches 
-$${\color{red}Aanvullen_+_foto's}$$
+$${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
 #### Storyboarding 
