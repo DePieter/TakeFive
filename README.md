@@ -138,16 +138,20 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
 - Het verzamelen van gebruikersfeedback om de prototypes verder te verbeteren.
 
 ### Materiaal & methoden $${\color{red}aanvullen}$$
-- idk welke methoden jullie nog hebben gebruikt, kan zoiets zijn zoals storyboarding ofzo (check evt opnieuw de theorie). Voor deze methoden voeg je hierna telkens titeltjes in met eronder een beschrijving met afbeeldingen. Stel dat dit dus storyboarding is, voeg dan titel "storyboarding" in en beschrijf alle nuttige info, voeg dan ook de foto's van het storyboard in. De plaats van de titels staan hieronder alvast in het rood geschreven ($${\color{red}Titel}$$)
--...
--...
--...
+- Design sketches
+- Storyboarding
+- MoSCow
 - User testing
 
-### $${\color{red}Titel}$$
+### Design sketches $${\color{red}Aanvullen}$$
 blablabalbalaba, fotos,
-### $${\color{red}Titel}$$
+
+### Storyboarding $${\color{red}Aanvullen}$$
 blablabalbalaba, fotos,
+
+### MoSCow $${\color{red}Aanvullen}$$
+blablabalbalaba, fotos,
+
 ### User testing
 
 #### **Wave 1 (N=5)**	                                                                                                         									
