@@ -143,7 +143,7 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
 - MoSCow
 - Prototyping
 - User testing
-
+  
 #### **Wave 1 (N=5)**	                                                                                                         									
 Waar: Woonzorgcentrum Althus     
 ([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
@@ -152,16 +152,16 @@ Waar: Woonzorgcentrum Althus
   <img src="Map foto's2/images.png" width="25%">
 </p>	
 
-#### Design sketches $${\color{red}Aanvullen+foto's}$$
+##### Design sketches $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### Storyboarding $${\color{red}Aanvullen+foto's}$$
+##### Storyboarding $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### MoSCow $${\color{red}Aanvullen+foto's}$$
+##### MoSCow $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### Prototyping $${\color{red}Herschrijven}$$
+##### Prototyping $${\color{red}Herschrijven}$$
 Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
 Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. Achter dat ze de prototypes hadden uitgetest voor een uur hebben we ze geïnterviewd. Deze vragen gingen over onder andere marketfit en de ervaring met het huidige prototype.
 
@@ -171,22 +171,24 @@ Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te late
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20205720.jpg" width="24%">
 </p>
 
-#### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren. 
+##### User testing
+Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties.
 
-#### Resultaten
-Uit de interviews kregen we te horen dat er wel degelijk een nood was aan zo'n type product. 
+- beschrijf hier de waarnemingen van de eerste test adhv ruwe data (=foto's) -> voorbeeld: "verpleegkundige Julie vertelde dat de borstband sensor ongemakkelijk zat, dus ligt de voorkeur meer bij de armband sensor"
+- Voorbeeld: Jonatan gaf aan dat hij de aanwezigheid van fysieke knoppen mistte.
+- ...
+- ...
 
-Ook hebben we voor wat de locatie betreft een keuze gemaakt op basis van ergonomie. 
+##### Conclusies & implicaties:
+Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie leidt deze eerste wave tot enkele design requirements zoals hieronder weergegeven:
 
-#### Conclusies & implicaties:
-- Het is een nodig product
-- Discrete meldingen worden als positief gezien
-- Meldingen moeten kunnen worden afgezet
-- Lightweight en compacte wearable, bij voorkeur op de arm
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  alle design requirements van wave 1
+> -  ...
 
-Deze verzamelde feedback wordt gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches → Storyboarding → MoSCoW → Prototyping → User testing.
-
+Deze verzamelde feedback in de vorm van design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches → Storyboarding → MoSCoW → Prototyping → User testing.
+-----
 ### **Wave 2 (N=5)**
 Waar: Woonzorgcentrum De Oever      
 ([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
