@@ -22,8 +22,7 @@ $${\color{red}Deze foto's zijn irrelevant, je moet hier nuttige dingen plaatsen 
 
 ## Introductie
 De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. Take Five lost dit probleem op met een systeem d.m.v. een sensor die op basis van het stres gehalte pauzes voorstelt, waardoor gebruikers minder stres ervaren.
-
-**Op welke manier kan de stres bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?**
+> _Op welke manier kan de stres bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
 Voorwaarden:
 - veilig
