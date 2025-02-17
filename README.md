@@ -5,11 +5,20 @@ Projectteam: Demaegdt Pieter, Tops Bram, Schrijvers Finn
 
 12/12/2024
 
-## Samenvatting
+## Samenvatting $${\color{red}herschrijven}$$
+
+samenvatting nu is hetzelfde als de introductie, dit is niet de bedoeling.
+
+Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
+
+Wat is het probleem?
+Hoe heb je dit onderzocht?
+Wat is jouw oplossing?
+Hoe lost jouw oplossing het probleem op?
+Hero sketch/render/image
+
 Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die deze zorgverleners ervaren. Dit is gebleken uit interviews met zorgverleners en literatuuronderzoek van talloze wetenschappelijke artikelen.
-
-Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel. De oplossing hiertoe is dus om burn-out te preventeren. 
-
+Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel. De oplossing hiertoe is dus om burn-out te vermijden. 
 Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De stress  wordt gemeten op basis van de hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
 
 $${\color{red}Deze foto's zijn irrelevant, je moet hier nuttige dingen plaatsen zoals product renders of propere tekeningen ofzo}$$
@@ -21,14 +30,9 @@ $${\color{red}Deze foto's zijn irrelevant, je moet hier nuttige dingen plaatsen 
 </p>
 
 ## Introductie
-De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. Take Five lost dit probleem op met een systeem d.m.v. een sensor die op basis van het stres gehalte pauzes voorstelt, waardoor gebruikers minder stres ervaren.
+Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro[^1] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren.
 > _Op welke manier kan de stres bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
-Voorwaarden:
-- veilig
-- gebruiksvriendelijk
-- werkvriendelijk
-- intuïtief
 
 Tijdens dit proces zal de woonzorgmedewerker centraal staan. We zullen zeker niet vergeten rekening te houden met enkele belangrijke stakeholders zoals de collega's en bewoners zelf.
 
