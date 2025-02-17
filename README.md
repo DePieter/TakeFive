@@ -161,9 +161,10 @@ blablabalbalaba, fotos,
 #### MoSCow $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### Prototyping $${\color{red}Aanvullen+foto's}$$
-Er zijn 3 verschillende prototypes, één voor de feedback en twee voor de sensor. Op deze manier kunnen 2 medewerkers op hetzelfde moment de prototypes uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
+#### Prototyping $${\color{red}Herschrijven}$$
+Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
 Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. Achter dat ze de prototypes hadden uitgetest voor een uur hebben we ze geïnterviewd. Deze vragen gingen over onder andere marketfit en de ervaring met het huidige prototype.
+
 <p align="center">
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20205655.jpg" width="32%">
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20205708.jpg" width="36%">
@@ -171,7 +172,7 @@ Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te late
 </p>
 
 #### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren. De verzamelde feedback wordt gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende testfase wordt dezelfde structuur opnieuw toegepast: Design sketches → Storyboarding → MoSCoW → Prototyping → User testing.
+Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren. 
 
 #### Resultaten
 Uit de interviews kregen we te horen dat er wel degelijk een nood was aan zo'n type product. 
@@ -183,6 +184,8 @@ Ook hebben we voor wat de locatie betreft een keuze gemaakt op basis van ergonom
 - Discrete meldingen worden als positief gezien
 - Meldingen moeten kunnen worden afgezet
 - Lightweight en compacte wearable, bij voorkeur op de arm
+
+Deze verzamelde feedback wordt gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches → Storyboarding → MoSCoW → Prototyping → User testing.
 
 ### **Wave 2 (N=5)**
 Waar: Woonzorgcentrum De Oever      
