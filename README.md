@@ -51,7 +51,8 @@ Deze iteratieve aanpak vormt de kern van het ontwerpproces, waarbij in volgende 
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 
 <p align="centerl">
-  <img src="Map foto's2/Methodologie.jp" width="100%">
+  <img src="![image](https://github.com/user-attachments/assets/c07cb3d8-65c5-477d-9b30-7ba39e00ca71)
+" width="100%">
 </p>	
 
 
