@@ -141,18 +141,8 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
 - Design sketches
 - Storyboarding
 - MoSCow
+- Prototyping
 - User testing
-
-### Design sketches $${\color{red}Aanvullen}$$
-blablabalbalaba, fotos,
-
-### Storyboarding $${\color{red}Aanvullen}$$
-blablabalbalaba, fotos,
-
-### MoSCow $${\color{red}Aanvullen}$$
-blablabalbalaba, fotos,
-
-### User testing
 
 #### **Wave 1 (N=5)**	                                                                                                         									
 Waar: Woonzorgcentrum Althus     
@@ -162,12 +152,22 @@ Waar: Woonzorgcentrum Althus
   <img src="Map foto's2/images.png" width="25%">
 </p>	
 
-#### Doel:															
-- Marketfit vinden
-- Locaties voor de hartslagsensor uittesten
-- Prototypes uittesten
+#### Design sketches $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
 
-#### Testen
+#### Storyboarding $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
+
+#### MoSCow $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
+
+#### Prototyping $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
+
+#### User testing
+Bij de gebruikerstesten worden de eerste prototypes zo snel mogelijk getest om te verifiëren of het concept levensvatbaar. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Althus. De ontvangen feedback wordt gebruikt om het ontwerp aan te passen en verder te verbeteren in een volgende wave waarin opnieuw dezelfde structuur gebruikt zal worden: Design sketches-> Storyboarding -> MoSCow -> Prototyping -> User testing.
+
+---
 Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
 Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. Achter dat ze de prototypes hadden uitgetest voor een uur hebben we ze geïnterviewd. Deze vragen gingen over onder andere marketfit en de ervaring met het huidige prototype.
 <p align="center">
@@ -187,21 +187,30 @@ Ook hebben we voor wat de locatie betreft een keuze gemaakt op basis van ergonom
 - Meldingen moeten kunnen worden afgezet
 - Lightweight en compacte wearable, bij voorkeur op de arm
 
-### **Wave 2 (N=5)**	                                                                                                         									
+### **Wave 2 (N=5)**
 Waar: Woonzorgcentrum De Oever      
 ([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
 ([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
 <p align="left">
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20210611.jpg" width="33%">
 </p>	
+#### Design sketches $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
 
-#### Doel:															
-- Marketfit vinden
-- Hartslagdata verzamelen
-- Prototype uittesten
+#### Storyboarding $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
 
-#### Testen
+#### MoSCow $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
+
+#### Prototyping $${\color{red}Aanvullen_+_foto's}$$
+blablabalbalaba, fotos,
+
+#### User testing
+
+---
 Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een handleiding en uitleg gegeven aan de medewerkers die het dan elk voor één hele voormiddag (8u tot 12u) zouden dragen. Hierbij hebben ze om het uur oefeningen (ademhalen, babbelen,...) moeten doen voor hun stress te verminderen. Na iedere test heeft de medewerker enkele vragen ingevuld omtrend de oefeningen. Op het einde van alle testen hebben we nog een groepsgesprek gedaan met alle testpersonen.
+
 
 #### Resultaten:
 - Meldingen mogen duidelijker
@@ -228,6 +237,8 @@ Er is geen algemene oefening voor stress te verminderen.
 > - De draagconfiguratie moet op de bovenarm worden gedragen
 > - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
 > - Gestalt wetten toepassen voor feedbackunit
+
+# Defenition
 
 ## Bill of materials
 - EVA-foam
