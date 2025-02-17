@@ -189,31 +189,32 @@ Deze verzamelde feedback in de vorm van design requirements worden gebruikt om h
 
 ### **Wave 2 (N=5)**
 ---
-Waar: Woonzorgcentrum De Oever      
-([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
-([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
-<p align="left">
-  <img src="Map foto's2/Schermafbeelding%202025-01-07%20210611.jpg" width="33%">
-</p>	
-#### Design sketches $${\color{red}Aanvullen_+_foto's}$$
+#### Design sketches $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### Storyboarding $${\color{red}Aanvullen_+_foto's}$$
+#### Storyboarding $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### MoSCow $${\color{red}Aanvullen_+_foto's}$$
+#### MoSCow $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### Prototyping $${\color{red}Aanvullen_+_foto's}$$
+#### Prototyping $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
 #### User testing
+Woonzorgcentrum De Oever  
+balbalabaablba, fotos,...
+([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
+([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
 
----
 Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een handleiding en uitleg gegeven aan de medewerkers die het dan elk voor één hele voormiddag (8u tot 12u) zouden dragen. Hierbij hebben ze om het uur oefeningen (ademhalen, babbelen,...) moeten doen voor hun stress te verminderen. Na iedere test heeft de medewerker enkele vragen ingevuld omtrend de oefeningen. Op het einde van alle testen hebben we nog een groepsgesprek gedaan met alle testpersonen.
 
+### Conclusies & implicaties:
+Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
+Er is een mogelijkheid voor het in de werkkar te verwerken.
+Er is een nood aan zo'n type product.
+Er is geen algemene oefening voor stress te verminderen.
 
-#### Resultaten:
 - Meldingen mogen duidelijker
 - Meldingen moeten kunnen worden afgezet
 - Lightweight en compacte wearable
@@ -226,11 +227,6 @@ Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een h
   <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg" width="13%">
 </p>
 
-### Conclusies & implicaties:
-Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
-Er is een mogelijkheid voor het in de werkkar te verwerken.
-Er is een nood aan zo'n type product.
-Er is geen algemene oefening voor stress te verminderen.
 > [!IMPORTANT]
 > Design requirements
 > - De feedbackunit moet verwerkt worden in de zorgkar
