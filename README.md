@@ -79,7 +79,7 @@ Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stre
 
 
 ### Literature reviews (N=10) $${\color{red}herwerken}$$
-zelfde opmerking al hierboven
+Hier zit je nog steeds in de discovery fase, je bent nog aan het onderzoeken wat het probleem is, je zou hier nog niet bezig mogen zijn met een concept.
 
 De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parameters van het menselijk lichaam, de zogenaamde biomarkers, vereisen bijzondere aandacht, evenals de technologieën en methoden voor hun meting. In dit kader zijn de volgende thema’s onderzocht:
 - Doelgroep
