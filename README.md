@@ -152,18 +152,16 @@ Waar: Woonzorgcentrum Althus
   <img src="Map foto's2/images.png" width="25%">
 </p>	
 
-#### Design sketches 
-$${\color{red}Aanvullen+foto's}$$
+#### Design sketches $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### Storyboarding 
-$${\color{red}Aanvullen_+_foto's}$$
+#### Storyboarding $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### MoSCow $${\color{red}Aanvullen_+_foto's}$$
+#### MoSCow $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
-#### Prototyping $${\color{red}Aanvullen_+_foto's}$$
+#### Prototyping $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
 #### User testing
