@@ -23,7 +23,7 @@ $${\color{red}Deze foto's zijn irrelevant, je moet hier nuttige dingen plaatsen 
 ## Introductie
 De werkdruk in de zorg ligt erg hoog zoals bevestigd wordt door het artikel van Zorgnet-Icuro[^1]. Zo heeft 1 op de 5 een grote kans op voor een burn-out op te lopen. Er is momenteel weinig personeel in de zorgsector en daarom is het belangrijk om in te zetten op stimulatie en welzijn om zo hun werk aangenaam te houden. Dit is een probleem dat zal blijven toenemen als er niets aan gedaan wordt. Take Five lost dit probleem op met een systeem d.m.v. een sensor die op basis van het stres gehalte pauzes voorstelt, waardoor gebruikers minder stres ervaren.
 
-**Op welke manier kunnen we de stress bij woonzorgmedewerkers verlagen zonder dat dit het werk verstoord?**
+**Op welke manier kan de stres bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?**
 
 Voorwaarden:
 - veilig
@@ -162,19 +162,16 @@ blablabalbalaba, fotos,
 blablabalbalaba, fotos,
 
 #### Prototyping $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
-
-#### User testing
-Bij de gebruikerstesten worden de eerste prototypes zo snel mogelijk getest om te verifiëren of het concept levensvatbaar. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Althus. De ontvangen feedback wordt gebruikt om het ontwerp aan te passen en verder te verbeteren in een volgende wave waarin opnieuw dezelfde structuur gebruikt zal worden: Design sketches-> Storyboarding -> MoSCow -> Prototyping -> User testing.
-
----
-Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
+Er zijn 3 verschillende prototypes, één voor de feedback en twee voor de sensor. Op deze manier kunnen 2 medewerkers op hetzelfde moment de prototypes uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
 Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. Achter dat ze de prototypes hadden uitgetest voor een uur hebben we ze geïnterviewd. Deze vragen gingen over onder andere marketfit en de ervaring met het huidige prototype.
 <p align="center">
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20205655.jpg" width="32%">
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20205708.jpg" width="36%">
   <img src="Map foto's2/Schermafbeelding%202025-01-07%20205720.jpg" width="24%">
 </p>
+
+#### User testing
+Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren. De verzamelde feedback wordt gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende testfase wordt dezelfde structuur opnieuw toegepast: Design sketches → Storyboarding → MoSCoW → Prototyping → User testing.
 
 #### Resultaten
 Uit de interviews kregen we te horen dat er wel degelijk een nood was aan zo'n type product. 
