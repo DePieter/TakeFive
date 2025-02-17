@@ -125,7 +125,7 @@ Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 Deze discoveryfase heeft inzicht gegeven in zowel het probleem als de betrokken stakeholders (verpleegkundigen in WZC). Door middel van interviews, literatuurstudie, de 5W-methode en PESTLE-analyse zijn de eerste design requirements vastgesteld. Deze vormen de basis voor de volgende definitionfase. In deel $${\color{red}XXX}$$ is een samenvattende tabel opgenomen met alle design requirements voor het eindproduct.
 
 ## Definition
-In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in drie waves, waarbij het concept per wave steeds verder wordt verfijnd.
+In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
 
 ### Doelstellingen
 - Het ontwikkelen van concrete prototypes die de geïdentificeerde problemen aanpakken.
