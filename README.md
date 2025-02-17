@@ -141,13 +141,6 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
   
 ### **Wave 1 (N=5)**
 ---
-Waar: Woonzorgcentrum Althus     
-([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
-([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
-<p align="left">
-  <img src="Map foto's2/images.png" width="25%">
-</p>	
-
 #### Design sketches $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 
@@ -174,6 +167,9 @@ Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. He
 - Voorbeeld: Jonatan gaf aan dat hij de aanwezigheid van fysieke knoppen mistte.
 - ...
 - ...
+   
+([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
+([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
 
 #### Conclusies & implicaties:
 Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie leidt deze eerste wave tot enkele design requirements zoals hieronder weergegeven:
