@@ -139,7 +139,8 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
 - Prototyping
 - User testing
   
-### **Wave 1 (N=5)**	                                                                                                         									
+### **Wave 1 (N=5)**
+---
 Waar: Woonzorgcentrum Althus     
 ([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
 ([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
@@ -181,10 +182,13 @@ Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werkin
 > Design Requirements: $${\color{red}aanvullen}$$
 > -  alle design requirements van wave 1
 > -  ...
+>
 
-Deze verzamelde feedback in de vorm van design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches → Storyboarding → MoSCoW → Prototyping → User testing.
------
+Deze verzamelde feedback in de vorm van design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
+
+
 ### **Wave 2 (N=5)**
+---
 Waar: Woonzorgcentrum De Oever      
 ([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
 ([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
