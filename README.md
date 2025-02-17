@@ -48,7 +48,7 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 
 
 ## Discovery
-De discovery fase draait rond het definieren van de probleemruimte waarbij de focus daadwerkelijk ligt op het definiëren van het probleem en niet op het maken van een product. Nadat de probleemruimte is afgebakend, zullen de user interviews aangeven welke problemen er best worden aangepakt om uiteindelijk een goed geformuleerde "how might we" te bekomen. Concreet wordt dit eerste, onderzoekende deel ondersteund door user interviews, literatuurstudies, 5WH- en PESTEL-methode Met methoden zoals de 5WH-methode en PESTEL-analyse zijn kerninzichten geïdentificeerd.
+De discovery fase draait rond het definieren van de probleemruimte waarbij de focus daadwerkelijk ligt op het definiëren van het probleem en niet op het maken van een product. Nadat de probleemruimte is afgebakend, geven de user interviews aan welke problemen er best worden aangepakt om uiteindelijk een goed geformuleerde "how might we" te bekomen. Concreet wordt dit eerste, onderzoekende deel ondersteund door user interviews, literatuurstudies, 5WH- en PESTEL-methode, welke allen bijdragen tot het identificiëren van kerninzichten.
 
 ### Doestellingen
 Een goed geformuleerde "how might we" vormen voor de probleemruimte.
