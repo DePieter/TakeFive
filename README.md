@@ -50,10 +50,8 @@ Deze iteratieve aanpak vormt de kern van het ontwerpproces, waarbij in volgende 
 
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 
-<p align="centerl">
-  <img src="![image](https://github.com/user-attachments/assets/c07cb3d8-65c5-477d-9b30-7ba39e00ca71)
-" width="100%">
-</p>	
+![image](https://github.com/user-attachments/assets/c614b507-29a8-4925-a491-5f30c9200e24)
+
 
 
 ## Discovery
