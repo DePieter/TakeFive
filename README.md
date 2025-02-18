@@ -151,14 +151,11 @@ blablabalbalaba, fotos,
 blablabalbalaba, fotos,
 
 #### Prototyping $${\color{red}Herschrijven}$$
-Hiervoor hebben we 2 verschillende prototypes gemaakt voor de feedback en voor de sensor. Zo konden we 2 medewerkers op hetzelfde moment de prototypes laten uittesten. De prototypes van de sensor waren één sensor voor op de borst en één voor op de bovenarm. Op andere plekken zou het medisch niet goedgekeurd worden of zou de hartslagsensor niet kunnen nauwkeurig genoeg werken.
-Voor de feedbackunit hebben we geëxperimenteerd met de methodes voor ze te laten weten dat ze pauze moeten pakken. Achter dat ze de prototypes hadden uitgetest voor een uur hebben we ze geïnterviewd. Deze vragen gingen over onder andere marketfit en de ervaring met het huidige prototype.
+Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee voor de sensor. Dit heeft het voordeel dat  meerdere testpersonen de prototypes tegelijk kunnen uittesten. Hieronder zijn de prototypes weergegeven en beschreven.
 
-<p align="center">
-  <img src="Map foto's2/Schermafbeelding%202025-01-07%20205655.jpg" width="32%">
-  <img src="Map foto's2/Schermafbeelding%202025-01-07%20205708.jpg" width="36%">
-  <img src="Map foto's2/Schermafbeelding%202025-01-07%20205720.jpg" width="24%">
-</p>
+| ![Foto 1](Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg) |   |   |
+| ![Foto 2](Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg) |   |   |
+| ![Foto 3](Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg) |   |   |
 
 #### User testing
 Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties.
