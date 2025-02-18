@@ -309,22 +309,19 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
 ## Bijlagen
 - Discovery
   - Interview
-    - Protocol:
-    - Report: 
+    - 
+    -  
   - Benchmarking
-    - Protocol:
-    - Report:
+    - 
+    - 
 - Definition
   - Testing
     - Wave 1
-      - Protocol:([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
-      - Report:([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
+      - ([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
+      - ([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
     - Wave 2
-      - Protocol:([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
-      - Report:([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
-    - Wave 3
-      - Protocol:
-      - Report:
+      - ([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
+      - ([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
 - Develop
     - 
     - 
