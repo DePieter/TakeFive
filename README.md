@@ -311,7 +311,7 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
   - Interview
     - 
     -  
-  - Benchmarking
+  - Literatuurstudie
     - 
     - 
 - Definition
