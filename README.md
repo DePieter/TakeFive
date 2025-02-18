@@ -157,11 +157,9 @@ Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee vo
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="200"></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="200"></td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
