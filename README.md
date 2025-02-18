@@ -153,18 +153,18 @@ blablabalbalaba, fotos,
 #### Prototyping $${\color{red}Herschrijven}$$
 Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee voor de sensor. Dit heeft het voordeel dat  meerdere testpersonen de prototypes tegelijk kunnen uittesten. Hieronder zijn de prototypes weergegeven en beschreven.
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="200"></td>
-    <td></td>
+    <td style="border: none;"><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="200"></td>
+    <td style="border: none;"></td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="200"></td>
-    <td></td>
+    <td style="border: none;"><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="200"></td>
+    <td style="border: none;"></td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="200"></td>
-    <td></td>
+    <td style="border: none;"><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="200"></td>
+    <td style="border: none;"></td>
   </tr>
 </table>
 
