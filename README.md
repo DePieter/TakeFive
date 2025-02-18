@@ -153,9 +153,23 @@ blablabalbalaba, fotos,
 #### Prototyping $${\color{red}Herschrijven}$$
 Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee voor de sensor. Dit heeft het voordeel dat  meerdere testpersonen de prototypes tegelijk kunnen uittesten. Hieronder zijn de prototypes weergegeven en beschreven.
 
-| <img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="200"> |   |   |
-| <img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="200"> |   |   |
-| <img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="200"> |   |   |
+<table>
+  <tr>
+    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="200"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="200"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="200"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 #### User testing
 Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties.
