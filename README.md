@@ -172,15 +172,12 @@ Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee vo
 </table>
 
 #### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Bijlagen](#bijlagen)) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties.
+Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Bijlagen](#bijlagen)) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties". Ook het verslag van deze eerste test is terug te vinden al "Rapport wave 1" in [Bijlagen](#bijlagen).
 
 - beschrijf hier de waarnemingen van de eerste test adhv ruwe data (=foto's) -> voorbeeld: "verpleegkundige Julie vertelde dat de borstband sensor ongemakkelijk zat, dus ligt de voorkeur meer bij de armband sensor"
 - Voorbeeld: Jonatan gaf aan dat hij de aanwezigheid van fysieke knoppen mistte.
 - ...
 - ...
-   
-([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
-([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
 
 #### Conclusies & implicaties:
 Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie leidt deze eerste wave tot enkele design requirements zoals hieronder weergegeven:
@@ -211,8 +208,7 @@ blablabalbalaba, fotos,
 #### User testing
 Woonzorgcentrum De Oever  
 balbalabaablba, fotos,...
-([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
-([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
+
 
 Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een handleiding en uitleg gegeven aan de medewerkers die het dan elk voor één hele voormiddag (8u tot 12u) zouden dragen. Hierbij hebben ze om het uur oefeningen (ademhalen, babbelen,...) moeten doen voor hun stress te verminderen. Na iedere test heeft de medewerker enkele vragen ingevuld omtrend de oefeningen. Op het einde van alle testen hebben we nog een groepsgesprek gedaan met alle testpersonen.
 
@@ -311,4 +307,28 @@ ScienceDirect. (2023). Impact of Workplace Stress on HRV, van https://www.scienc
 PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https://pmc.ncbi.nlm.nih.gov/articles/PMC8863599/
 
 ## Bijlagen
+- Discovery
+  - Interview
+    - Protocol:
+    - Report: 
+  - Benchmarking
+    - Protocol:
+    - Report:
+- Definition
+  - Testing
+    - Wave 1
+      - Protocol:([Protocol wave 1](https://github.com/DePieter/BramPieter/blob/main/Interview%20Protocol%20Althus.pdf)) 
+      - Report:([Rapport wave 1](https://github.com/DePieter/BramPieter/blob/main/Rapport%20Althus.pdf)) 
+    - Wave 2
+      - Protocol:([Protocol wave 2](https://github.com/DePieter/BramPieter/blob/main/Testprotocol-de%20oever.pdf)) 
+      - Report:([Rapport wave 2](https://github.com/DePieter/BramPieter/blob/main/Report%20De%20Oever.pdf)) 
+    - Wave 3
+      - Protocol:
+      - Report:
+- Develop
+    - 
+    - 
+
+
+
 
