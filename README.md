@@ -133,6 +133,7 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
 - Het verzamelen van gebruikersfeedback om de prototypes verder te verbeteren.
 
 ### Materiaal & methoden $${\color{red}aanvullen}$$
+Twee waves die gebruik maken van volgende methodologiën:
 - Design sketches
 - Storyboarding
 - MoSCow
@@ -180,7 +181,7 @@ Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d
 - ...
 
 #### Conclusies & implicaties:
-Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie leidt deze eerste wave tot enkele design requirements zoals hieronder weergegeven:
+Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements:
 
 > [!IMPORTANT]
 > Design Requirements: $${\color{red}aanvullen}$$
@@ -188,7 +189,7 @@ Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werkin
 > -  ...
 >
 
-Deze verzamelde feedback in de vorm van design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
+De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
 
 
 ### **Wave 2 (N=5)**
