@@ -172,7 +172,7 @@ Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee vo
 </table>
 
 #### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus. Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties.
+Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Bijlagen](#bijlagen)) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties.
 
 - beschrijf hier de waarnemingen van de eerste test adhv ruwe data (=foto's) -> voorbeeld: "verpleegkundige Julie vertelde dat de borstband sensor ongemakkelijk zat, dus ligt de voorkeur meer bij de armband sensor"
 - Voorbeeld: Jonatan gaf aan dat hij de aanwezigheid van fysieke knoppen mistte.
