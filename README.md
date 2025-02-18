@@ -156,16 +156,15 @@ Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee vo
 <table>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-    <td><b><u>Armband sensor:</u></b>
-    De armband sensor bestaat uit een ge3D-printe body met een elastieken band, deze wordt gedragen op de boven arm.</td>
+    <td>De <b><u>armband sensor:</u></b> bestaat uit een ge3D-printe body met een elastieken band, deze wordt gedragen op de boven arm.</td>
   </tr>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="300"></td>
-    <td></td>
+    <td>De <b><u>armband sensor:</u></b> bestaat uit een ge3D-printe body met een elastieken band, deze wordt gedragen op de boven arm.</td></td>
   </tr>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="300"></td>
-    <td></td>
+    <td>De <b><u>armband sensor:</u></b> bestaat uit een ge3D-printe body met een elastieken band, deze wordt gedragen op de boven arm.</td></td>
   </tr>
 </table>
 
