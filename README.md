@@ -156,7 +156,7 @@ Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee vo
 <table>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
+	  <td><![image](https://github.com/user-attachments/assets/9bad1136-be04-49ab-a69c-77935668abe8)width="300"></td>
     <td>De <b><u>armband sensor:</u></b> bestaat uit een ge3D-printe body met een elastieken band, deze wordt gedragen op de boven arm.</td>
   </tr>
   <tr>
