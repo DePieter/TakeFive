@@ -21,57 +21,7 @@ Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkd
 Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel. De oplossing hiertoe is dus om burn-out te vermijden. 
 Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De stress  wordt gemeten op basis van de hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
 
-$${\color{red}Deze foto's zijn irrelevant, je moet hier nuttige dingen plaatsen zoals product renders of propere tekeningen ofzo}$$
-
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="2832px" height="1506px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g transform="matrix(1,0,0,1,-435.146,-460.748)">
-        <g transform="matrix(0.894088,0,0,0.682491,315.127,349.439)">
-            <path d="M3301.27,328.414L3301.27,2172.87C3301.27,2264.11 3244.72,2338.19 3175.07,2338.19L260.433,2338.19C190.783,2338.19 134.236,2264.11 134.236,2172.87L134.236,328.414C134.236,237.17 190.783,163.092 260.433,163.092L3175.07,163.092C3244.72,163.092 3301.27,237.17 3301.27,328.414Z" style="fill:rgb(119,221,119);"/>
-        </g>
-        <g transform="matrix(1.32023,0,0,1.32023,-1137.82,-256.818)">
-            <g transform="matrix(647.275,0,0,647.275,2656.49,1124.25)">
-            </g>
-            <text x="1256.44px" y="1124.25px" style="font-family:'BagelFatOne-Regular', 'Bagel Fat One';font-size:647.275px;fill:rgb(255,255,185);">T<tspan x="1586.55px 1943.2px 2316.03px " y="1124.25px 1124.25px 1124.25px ">ake</tspan></text>
-        </g>
-        <g transform="matrix(1.32023,0,0,1.32023,-1014.87,1646.83)">
-            <g transform="matrix(647.275,0,0,647.275,2683.22,160.02)">
-            </g>
-            <text x="1465.69px" y="160.02px" style="font-family:'BagelFatOne-Regular', 'Bagel Fat One';font-size:647.275px;fill:rgb(255,255,185);">Fiv<tspan x="2342.75px " y="160.02px ">e</tspan></text>
-        </g>
-        <g transform="matrix(1.9251,0,0,1.9251,1732.51,-144.346)">
-            <circle cx="538.197" cy="923.78" r="112.441" style="fill:rgb(119,221,119);stroke:rgb(64,64,64);stroke-width:22.88px;"/>
-        </g>
-        <g transform="matrix(1.51144,0,0,1.51144,-911.619,-862.827)">
-            <path d="M2406.73,1567.48L2406.73,1733.56" style="fill:none;stroke:rgb(64,64,64);stroke-width:30.17px;"/>
-        </g>
-        <g transform="matrix(1.51144,0,0,1.51144,-825.782,-862.827)">
-            <path d="M2406.73,1567.48L2406.73,1733.56" style="fill:none;stroke:rgb(64,64,64);stroke-width:30.17px;"/>
-        </g>
-        <g transform="matrix(1.32032,0,0,1.31726,-510.085,-480.643)">
-            <path d="M1608.73,1166.07L1607.56,1496.2L1486.48,1496.19L1485.1,1166.07L1608.73,1166.07Z" style="fill:rgb(255,255,185);"/>
-        </g>
-        <g transform="matrix(0.146676,0,0,0.374443,1519.61,732.748)">
-            <rect x="637.741" y="1464.47" width="147.816" height="174.13" style="fill:rgb(119,221,119);"/>
-        </g>
-        <g transform="matrix(0.146676,0,0,0.374443,1336.46,731.546)">
-            <rect x="637.741" y="1464.47" width="147.816" height="174.13" style="fill:rgb(119,221,119);"/>
-        </g>
-        <g transform="matrix(3.00761,-1.6523,2.3528,4.04295,-3827.37,1013.76)">
-            <path d="M1590.65,674.724L1582.9,727.796C1582.9,731.228 1580.11,734.014 1576.68,734.014L1564.25,734.014C1560.81,734.014 1558.03,731.228 1558.03,727.796L1550.8,675.253C1550.2,667.94 1557.16,663.592 1564.25,664.1L1576.68,664.1C1586.72,663.823 1591.12,669.352 1590.65,674.724Z" style="fill:none;stroke:rgb(255,255,185);stroke-width:9.57px;"/>
-        </g>
-        <g transform="matrix(3.00713,1.65318,-2.15166,4.15349,-221.029,-4251.69)">
-            <path d="M1590.65,674.724L1582.9,727.796C1582.9,731.228 1580.11,734.014 1576.68,734.014L1564.25,734.014C1560.81,734.014 1558.03,731.228 1558.03,727.796L1550.8,675.253C1550.2,667.94 1557.16,663.592 1564.25,664.1L1576.68,664.1C1586.72,663.823 1591.12,669.352 1590.65,674.724Z" style="fill:none;stroke:rgb(255,255,185);stroke-width:9.57px;"/>
-        </g>
-        <g transform="matrix(3.43159,-6.83435e-17,0.115443,4.67631,-2701.06,-2077.6)">
-            <path d="M1590.65,674.724L1582.9,727.796C1582.9,731.228 1580.11,734.014 1576.68,734.014L1564.25,734.014C1560.81,734.014 1558.03,731.228 1558.03,727.796L1550.8,675.253C1550.2,667.94 1557.16,663.592 1564.25,664.1L1576.68,664.1C1586.72,663.823 1591.12,669.352 1590.65,674.724Z" style="fill:none;stroke:rgb(255,255,185);stroke-width:9.57px;"/>
-        </g>
-        <g transform="matrix(2.48792,0,0,2.48792,-2305.66,-710.697)">
-            <circle cx="1542.66" cy="816.095" r="25.814" style="fill:rgb(119,221,119);"/>
-        </g>
-    </g>
-</svg>![image](https://github.com/user-attachments/assets/0c452a1f-62d9-4337-acd7-644c3b7c41b7)
+![image](https://github.com/user-attachments/assets/d6f13981-9692-4253-9ec3-63d23e8b24b0)
 
 
 ## Introductie
