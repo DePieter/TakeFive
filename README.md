@@ -143,8 +143,7 @@ blablabalbalaba, fotos,
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
 <p align="center">
-  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.jpeg" width="45%">
-
+  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" width="45%">
 </p>
 
 #### MoSCow $${\color{red}Aanvullen+foto's}$$
