@@ -11,16 +11,23 @@ samenvatting nu is hetzelfde als de introductie, dit is niet de bedoeling.
 
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-Wat is het probleem?
-Hoe heb je dit onderzocht?
-Wat is jouw oplossing?
-Hoe lost jouw oplossing het probleem op?
-Hero sketch/render/image
-
+Wat is het probleem? Burn-outs bij zorgverleners
+Hoe heb je dit onderzocht? interviews en literatuuronderzoek (link naar artikels) (link naar research?)
+Wat is jouw oplossing? Een systeem dat pauzes regelt op basis van hartslagvariatie (en het stresshormoon cortisol). 
+Hoe lost jouw oplossing het probleem op? Het regelt de pauzes op basis van het stressniveau en niet op vaste momenten.
+Hero sketch/render/image 
+$${\color{red}oude tekst:}$$
 Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die deze zorgverleners ervaren. Dit is gebleken uit interviews met zorgverleners en literatuuronderzoek van talloze wetenschappelijke artikelen.
 Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel. De oplossing hiertoe is dus om burn-out te vermijden. 
-Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De stress  wordt gemeten op basis van de hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
+Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De stress wordt gemeten op basis van de hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt dan doorgestuurd naar de feedbackunit die op basis van herhaaldelijke stressniveaus een pauze zou kunnen aanraden. Deze pauze draait dan rond een oefening die stress effectief kan tegenwerken.
 
+
+$${\color{red}nieuwe tekst:}$$
+Zorgverleners ervaren een hoge werkdruk, wat vaak leidt tot stress en burn-outs. Uit interviews en literatuuronderzoek blijkt dat deze burn-outs een vicieuze cirkel veroorzaken: zonder effectieve oplossingen blijft de werkdruk stijgen.
+
+Om dit probleem aan te pakken, is een innovatief systeem ontwikkeld dat stress monitort en op basis daarvan pauzes regelt. De stressmonitor, die op de bovenarm wordt gedragen, meet stressniveaus aan de hand van hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt doorgestuurd naar een feedbackunit, die op basis van herhaalde stresspieken een pauze adviseert. In plaats van vaste rustmomenten worden pauzes dynamisch en op maat ingepland, wat een gerichtere en effectievere aanpak biedt.
+
+Tijdens de pauze wordt een wetenschappelijk onderbouwde oefening voorgesteld die helpt om stress te verminderen. Dit systeem zorgt ervoor dat zorgverleners op het juiste moment een broodnodige onderbreking krijgen, waardoor het risico op burn-out verkleint en hun welzijn verbetert.
 ![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
 
 
@@ -142,7 +149,7 @@ blablabalbalaba, fotos,
 
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
-<p align="center">
+<p align="left">
   <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" width="45%">
 </p>
 
