@@ -172,6 +172,7 @@ Er zijn 3 verschillende prototypes ontwikkeld, één voor de feedback en twee vo
   </tr>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="300"></td>
+	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
     <td>De <b><u>feedback unit:</u></b> De FeedbackUnit is een MDF-behuizing met ingebouwde elektronica, waarmee alle signaalmethoden, zoals geluid en licht, kunnen worden getest.           </td></td>
   </tr>
 </table>
