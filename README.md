@@ -233,9 +233,21 @@ Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd ka
 </div>
 
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
+In fase 1 begint de bloem te verwelken.
 <p align="left">
-  <img src="Map foto's2/Storyboard wave 3.png" width="45%">
+  <img src="Map foto's2/Storyboard wave 3.1.png" width="45%">
+</p>
+In fase 2 merkt de zorgmedewerker op dat de bloem verwelkt is.
+<p align="left">
+  <img src="Map foto's2/Storyboard wave 3.2.png" width="45%">
+</p>
+In fase 3
+<p align="left">
+  <img src="Map foto's2/Storyboard wave 3.3.png" width="45%">
+</p>
+In fase 4
+<p align="left">
+  <img src="Map foto's2/Storyboard wave 3.4.png" width="45%">
 </p>
 
 #### Prototyping $${\color{red}Herschrijven}$$
