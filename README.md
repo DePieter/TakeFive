@@ -30,16 +30,24 @@ Hiervoor is een stressmonitor ontwikkeld die monteerbaar is op de bovenarm. De s
 $${\color{red}nieuwe-tekst:}$$
 Zorgverleners ervaren een hoge werkdruk, wat vaak leidt tot stress en burn-outs. Uit interviews en literatuuronderzoek blijkt dat deze burn-outs een vicieuze cirkel veroorzaken: zonder effectieve oplossingen blijft de werkdruk stijgen.
 
-Om dit probleem aan te pakken, is een innovatief systeem ontwikkeld dat stress monitort en op basis daarvan pauzes regelt. De stressmonitor, die op de bovenarm wordt gedragen, meet stressniveaus aan de hand van hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt doorgestuurd naar een feedbackunit, die op basis van herhaalde stresspieken een pauze adviseert. In plaats van vaste rustmomenten worden pauzes dynamisch en op maat ingepland, wat een gerichtere en effectievere aanpak biedt.
+Om dit probleem aan te pakken, wordt een innovatief systeem ontwikkeld dat stress monitort en op basis daarvan pauzes regelt. De stressmonitor, die op de bovenarm wordt gedragen, meet stressniveaus aan de hand van hartslagvariatie en het stresshormoon cortisol. Deze realtimedata wordt doorgestuurd naar een feedbackunit, die op basis van herhaalde stresspieken een pauze adviseert. In plaats van vaste rustmomenten worden pauzes dynamisch en op maat ingepland, wat een gerichtere en effectievere aanpak biedt.
 
 Tijdens de pauze wordt een wetenschappelijk onderbouwde oefening voorgesteld die helpt om stress te verminderen. Dit systeem zorgt ervoor dat zorgverleners op het juiste moment een broodnodige onderbreking krijgen, waardoor het risico op burn-out verkleint en hun welzijn verbetert.
 
 $${\color{red}nieuwste-tekst:}$$
-Wij hebben het probleem onderzocht door drie user interviews, tien literatuurstudies en diverse analysemethoden – waaronder de 5W- en PESTEL-methode – in te zetten. Uit deze analyses kwam naar voren dat zorgverleners door een hoge werkdruk regelmatig te maken hebben met stress en burn-outs, wat een vicieuze cirkel in gang zet: zonder effectieve interventies neemt de werkdruk steeds verder toe.
+Er is een probleem onderzocht door drie user interviews, tien literatuurstudies en diverse analysemethoden – waaronder de 5W- en PESTEL-methode – in te zetten. Uit deze analyses kwam naar voren dat zorgverleners door een hoge werkdruk regelmatig te maken hebben met stress en burn-outs, wat een vicieuze cirkel in gang zet: zonder effectieve interventies neemt de werkdruk steeds verder toe.
 
 Om hier een oplossing voor te bieden, hebben we een innovatief systeem ontwikkeld dat stress continu monitort en op basis daarvan dynamisch pauzes inplant. Een draagbare stressmonitor, bevestigd op de bovenarm, meet metingen zoals hartslagvariatie en het cortisolniveau. Deze realtimedata wordt via een feedbackunit geanalyseerd; bij herhaaldelijke stresspieken adviseert het systeem een pauze. Tijdens deze onderbrekingen wordt een wetenschappelijk onderbouwde oefening aangeboden om de stress effectief te verminderen.
 
 Met ons product, TakeFive, willen we het mentaal welzijn van zorgmedewerkers verbeteren door ervoor te zorgen dat zij altijd op het juiste moment een broodnodige pauze krijgen, waardoor het risico op burn-out aanzienlijk wordt verkleind.
+
+
+$${\color{red}versie-4-tekst:}$$
+Een probleem is geanalyseerd door middel van user interviews, literatuurstudies en diverse analysemethoden, waaronder de 5W- en PESTEL-methoden. Uit deze analyses blijkt dat zorgverleners als gevolg van een hoge werkdruk frequent worden geconfronteerd met stress en burn-outklachten. Dit mechanisme leidt tot een vicieuze cirkel: zonder effectieve interventies blijft de werkdruk toenemen.
+
+Om dit te mitigeren, wordt een innovatief systeem ontwikkeld dat stress continu monitort en op basis van deze gegevens dynamisch pauzes kan inplanten. Een draagbare stressmonitor, bevestigd op de bovenarm, verzamelt fysiologische data, waaronder hartslagvariabiliteit en cortisolniveaus. Deze realtimedata wordt geanalyseerd via een feedbackmodule; bij herhaaldelijke stresspieken genereert het systeem een pauzeadvies. Gedurende deze pauzes wordt een wetenschappelijk gevalideerde interventie aangeboden om de stressrespons effectief te reduceren.
+
+Het ontwikkelde product, TakeFive, heeft als doel het mentale welzijn van zorgprofessionals te bevorderen door op kritieke momenten gerichte pauzes te faciliteren. Dit draagt bij aan het verlagen van het risico op burn-out en het verbeteren van de algehele werkervaring in de zorgsector.
 ![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
 
 
