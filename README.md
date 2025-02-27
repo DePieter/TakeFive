@@ -279,10 +279,10 @@ blabalabla
 - fdsfds
 - vdsvds
 
-### Materiaal & methoden $${\color{red}aanvullen}$$
+### Materiaal & methoden
 - blablabla
 
-### **Wave 3 (N=5)** $${\color{red}Nalezen+foto's}$$
+### **Wave 3 (N=5)** 
 ---
 #### Design sketches
 Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
@@ -309,7 +309,7 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
   <img src="Map foto's2/Storyboard wave 3.4.png" width="45%">
 </p>
 
-#### Prototyping $${\color{red}Foto's}$$
+#### Prototyping 
 Voor alle 3 de onderdelen is er een prototype gemaakt.
 
 <table>
@@ -330,10 +330,10 @@ Voor alle 3 de onderdelen is er een prototype gemaakt.
   </tr>
 </table>
 
-#### User testing $${\color{red}invullen+foto's}$$
+#### User testing 
 
 
-#### Conclusies & implicaties: $${\color{red}invullen+foto's}$$
+#### Conclusies & implicaties 
 
 
 ## Bill of materials
