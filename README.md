@@ -256,7 +256,7 @@ Er is geen algemene oefening voor stress te verminderen.
 Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
 <div style="display: flex; justify-content: left;">
     <img src="Map foto's2/Plant sketch.png" style="width: 25%;">
-    <img src="Map foto's2/Wearable sketch.png" style="width: 47%;">
+    <img src="Map foto's2/Wearable sketch.png" style="width: 49%;">
 </div>
 
 #### Storyboarding 
