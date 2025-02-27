@@ -233,7 +233,7 @@ Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd ka
 </div>
 
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
-In fase 1 begint de bloem te verwelken.
+In fase 1 begint de bloem (FU) te verwelken.
 <p align="left">
   <img src="Map foto's2/Storyboard wave 3.1.png" width="45%">
 </p>
@@ -241,11 +241,11 @@ In fase 2 merkt de zorgmedewerker op dat de bloem verwelkt is.
 <p align="left">
   <img src="Map foto's2/Storyboard wave 3.2.png" width="45%">
 </p>
-In fase 3
+In fase 3 brengt de zorgmedewerker de FeedbackUnit (FU) naar de verificator (gieter) en plaatst deze erbij.
 <p align="left">
   <img src="Map foto's2/Storyboard wave 3.3.png" width="45%">
 </p>
-In fase 4
+In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiezen. Zodra de keuze is gemaakt, verschijnt een menu met alle collega’s die op dat moment pauzeren. Vervolgens kan de verificator worden gebruikt om de bloem water te geven, waardoor deze weer begint te bloeien.
 <p align="left">
   <img src="Map foto's2/Storyboard wave 3.4.png" width="45%">
 </p>
