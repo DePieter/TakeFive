@@ -12,10 +12,15 @@ samenvatting nu is hetzelfde als de introductie, dit is niet de bedoeling.
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
 Wat is het probleem? Burn-outs bij zorgverleners
+
 Hoe heb je dit onderzocht? interviews en literatuuronderzoek (link naar artikels) (link naar research?)
+
 Wat is jouw oplossing? Een systeem dat pauzes regelt op basis van hartslagvariatie (en het stresshormoon cortisol). 
+
 Hoe lost jouw oplossing het probleem op? Het regelt de pauzes op basis van het stressniveau en niet op vaste momenten.
+
 Hero sketch/render/image 
+
 $${\color{red}oude-tekst:}$$
 Zorgverleners ervaren veel stress, de oorsprong van deze stress is de hoge werkdruk die deze zorgverleners ervaren. Dit is gebleken uit interviews met zorgverleners en literatuuronderzoek van talloze wetenschappelijke artikelen.
 Burn-outs zijn een van de zwaarste gevolgen van deze hoge werkdruk, als hiervoor geen oplossing wordt voorzien eindigt dit in een vizieuze cirkel. De oplossing hiertoe is dus om burn-out te vermijden. 
