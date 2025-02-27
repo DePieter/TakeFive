@@ -292,8 +292,8 @@ Voor alle 3 de onderdelen is er een prototype gemaakt.
     <td>De <b><u>   wearable:        </u></b> Dit is dezelfde als in wave 2. </td>
   </tr>
   <tr>
-    <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 2" width="300"></td>
-	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
+    <td>  <img src="Map foto's2/chest.jpeg" width="45%"></td>
+	  <td>  <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg" width="13%"></td>
     <td>De <b><u>feedback unit:</u></b> Een bloem, bedoeld als een compagnon.    </td></td>
   </tr>
 </table>
