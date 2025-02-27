@@ -48,13 +48,14 @@ Een probleem is geanalyseerd door middel van user interviews, literatuurstudies 
 Om dit te mitigeren, wordt een innovatief systeem ontwikkeld dat stress continu monitort en op basis van deze gegevens dynamisch pauzes kan inplanten. Een draagbare stressmonitor, bevestigd op de bovenarm, verzamelt fysiologische data, waaronder hartslagvariabiliteit en cortisolniveaus. Deze realtimedata wordt geanalyseerd via een feedbackmodule; bij herhaaldelijke stresspieken genereert het systeem een pauzeadvies. Gedurende deze pauzes wordt een wetenschappelijk gevalideerde interventie aangeboden om de stressrespons effectief te reduceren.
 
 Het ontwikkelde product, TakeFive, heeft als doel het mentale welzijn van zorgprofessionals te bevorderen door op kritieke momenten gerichte pauzes te faciliteren. Dit draagt bij aan het verlagen van het risico op burn-out en het verbeteren van de algehele werkervaring in de zorgsector.
-![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
 
 $${\color{red}versie-5-bronverwijzing-is-nog-niet-correct:}$$
 Bijna 40% van de zorgverleners ervaart een te hoge werkstress (bron). Dit wordt bevestigd door talloze onderzoeken, waaronder user interviews, literatuurstudies en diverse analysemethoden binnen dit project.
 Langdurige blootstelling aan hoge stress leidt tot burn-outs, een van de grootste oorzaken van langdurig ziekteverzuim in de zorg. Tegelijkertijd kampen woonzorgcentra en ziekenhuizen al met ernstige personeelstekorten, waardoor de impact van uitval nog groter is.
 Om dit probleem aan te pakken, wordt Take Five ontwikkeld: een innovatief systeem dat werkstress continu monitort en doordachte pauzes voorstelt. Een wearable op de bovenarm meet fysiologische signalen die wijzen op stress (hartslagvariabiliteit en cortisolniveau). Bij een te hoog stressniveau krijgt de zorgverlener een subtiele haptische melding. Tegelijkertijd geeft een discrete feedbackmodule de stress status weer en worden er wetenschappelijk onderbouwde pauzes voorgesteld. 
 Dit verhoogt het stressbewustzijn bij zorgverleners, helpt burn-out te voorkomen en draagt bij aan een betere werkervaring in de zorg.
+
+![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
 
 ## Introductie
 Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro[^1] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren. Take Five biedt een gebruiksvriendelijk ontwerp waabij de stakeholders zoals de zorgverleners maar ook collega's en bewoners centraal staan.
