@@ -250,45 +250,31 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
   <img src="Map foto's2/Storyboard wave 3.4.png" width="45%">
 </p>
 
-#### Prototyping $${\color{red}Herschrijven}$$
+#### Prototyping
 Voor alle 3 de onderdelen is er een prototype gemaakt.
 
 <table>
   <tr>
     <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
 	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
-    <td>De <b><u> verificator</u></b> placeholdertekst</td>
+    <td>De <b><u> verificator:</u></b> Het concept is dat deze, net als een echte gieter, de bloem water geeft om haar tot leven te wekken.</td>
   </tr>
   <tr>
     <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 1" width="300"></td>
 	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>   wearable:        </u></b> placeholdertekst </td>
+    <td>De <b><u>   wearable:        </u></b> Dit is dezelfde als in wave 2. </td>
   </tr>
   <tr>
     <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 2" width="300"></td>
 	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>feedback unit:</u></b> placeholdertekst     </td></td>
+    <td>De <b><u>feedback unit:</u></b> Een bloem, bedoeld als een compagnon.    </td></td>
   </tr>
 </table>
 
-#### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Bijlagen](#bijlagen)) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties". Ook het verslag van deze eerste test is terug te vinden al "Rapport wave 1" in [Bijlagen](#bijlagen).
+#### User testing $${\color{red}invullen+foto's}$$
 
-- beschrijf hier de waarnemingen van de eerste test adhv ruwe data (=foto's) -> voorbeeld: "verpleegkundige Julie vertelde dat de borstband sensor ongemakkelijk zat, dus ligt de voorkeur meer bij de armband sensor"
-- Voorbeeld: Jonatan gaf aan dat hij de aanwezigheid van fysieke knoppen mistte.
-- ...
-- ...
 
-#### Conclusies & implicaties:
-Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements:
-
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> -  alle design requirements van wave 1
-> -  ...
->
-
-De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
+#### Conclusies & implicaties: $${\color{red}invullen+foto's}$$
 
 
 
