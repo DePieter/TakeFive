@@ -223,6 +223,32 @@ balbalabaablba, fotos,...
 
 Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een handleiding en uitleg gegeven aan de medewerkers die het dan elk voor één hele voormiddag (8u tot 12u) zouden dragen. Hierbij hebben ze om het uur oefeningen (ademhalen, babbelen,...) moeten doen voor hun stress te verminderen. Na iedere test heeft de medewerker enkele vragen ingevuld omtrend de oefeningen. Op het einde van alle testen hebben we nog een groepsgesprek gedaan met alle testpersonen.
 
+### Conclusies & implicaties:
+Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
+Er is een mogelijkheid voor het in de werkkar te verwerken.
+Er is een nood aan zo'n type product.
+Er is geen algemene oefening voor stress te verminderen.
+
+- Meldingen mogen duidelijker
+- Meldingen moeten kunnen worden afgezet
+- Lightweight en compacte wearable
+- Oefeningen zijn afhankelijk van de persoon
+- Het prototype zou kleiner mogen.
+<p align="center">
+  <img src="Map foto's2/chest.jpeg" width="45%">
+  <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg" width="13%">
+  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg" width="19%">
+  <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg" width="13%">
+</p>
+
+> [!IMPORTANT]
+> Design requirements
+> - De feedbackunit moet verwerkt worden in de zorgkar
+> - De voorgestelde oefeningen moeten effectief zijn en passen in de workflow
+> - De draagconfiguratie moet op de bovenarm worden gedragen
+> - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
+> - Gestalt wetten toepassen voor feedbackunit
+
 
 ### **Wave 3 (N=5)** $${\color{red}Nalezen+foto's}$$
 ---
@@ -278,31 +304,6 @@ Voor alle 3 de onderdelen is er een prototype gemaakt.
 
 
 
-### Conclusies & implicaties:
-Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
-Er is een mogelijkheid voor het in de werkkar te verwerken.
-Er is een nood aan zo'n type product.
-Er is geen algemene oefening voor stress te verminderen.
-
-- Meldingen mogen duidelijker
-- Meldingen moeten kunnen worden afgezet
-- Lightweight en compacte wearable
-- Oefeningen zijn afhankelijk van de persoon
-- Het prototype zou kleiner mogen.
-<p align="center">
-  <img src="Map foto's2/chest.jpeg" width="45%">
-  <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg" width="13%">
-  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg" width="19%">
-  <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg" width="13%">
-</p>
-
-> [!IMPORTANT]
-> Design requirements
-> - De feedbackunit moet verwerkt worden in de zorgkar
-> - De voorgestelde oefeningen moeten effectief zijn en passen in de workflow
-> - De draagconfiguratie moet op de bovenarm worden gedragen
-> - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
-> - Gestalt wetten toepassen voor feedbackunit
 
 # Devellop
 
