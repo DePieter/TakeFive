@@ -257,12 +257,12 @@ Voor alle 3 de onderdelen is er een prototype gemaakt.
   <tr>
     <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
 	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>De verificator</u></b> placeholdertekst</td>
+    <td>De <b><u> verificator</u></b> placeholdertekst</td>
   </tr>
   <tr>
     <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 1" width="300"></td>
 	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>  De wearable:        </td> placeholdertekst </td>
+    <td>De <b><u>   wearable:        </td> placeholdertekst </td>
   </tr>
   <tr>
     <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 2" width="300"></td>
