@@ -269,11 +269,6 @@ Voor alle 3 de onderdelen is er een prototype gemaakt.
 	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
     <td>De <b><u>feedback unit:</u></b> placeholdertekst     </td></td>
   </tr>
-  <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="300"></td>
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>feedback unit:</u></b> De FeedbackUnit is een MDF-behuizing met ingebouwde elektronica, waarmee alle signaalmethoden, zoals geluid en licht, kunnen worden getest.           </td></td>
-  </tr>
 </table>
 
 #### User testing
