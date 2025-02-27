@@ -154,7 +154,7 @@ blablabalbalaba, fotos,
 </p>
 
 #### MoSCow $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos, $${\color{red}foto's terugzoeken}$$
+blablabalbalaba, fotos, $${\color{red}foto's-terugzoeken}$$
 
 #### Prototyping $${\color{red}Herschrijven}$$
 Er zijn 4 verschillende prototypes ontwikkeld, twee voor de feedback en twee voor de sensor. Dit heeft het voordeel dat  meerdere testpersonen de prototypes tegelijk kunnen uittesten. Hieronder zijn de prototypes weergegeven en beschreven.
