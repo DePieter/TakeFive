@@ -235,10 +235,10 @@ Er is geen algemene oefening voor stress te verminderen.
 - Oefeningen zijn afhankelijk van de persoon
 - Het prototype zou kleiner mogen.
 <p align="center">
-  <img src="Map foto's2/chest.jpeg" high="30px">
-  <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg" high="30px">
-  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg" high="30px">
-  <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg" high="30px">
+  <img src="Map foto's2/chest.jpeg"  alt="Description" style="height:200px;"></td>
+  <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg"  alt="Description" style="height:200px;"></td>
+  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg"  alt="Description" style="height:200px;"></td>
+  <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg"  alt="Description" style="height:200px;"></td>
 </p>
 
 > [!IMPORTANT]
