@@ -154,7 +154,7 @@ blablabalbalaba, fotos,
 </p>
 
 #### MoSCow $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
+blablabalbalaba, fotos, $${\color{red}foto's terugzoeken}$$
 
 #### Prototyping $${\color{red}Herschrijven}$$
 Er zijn 4 verschillende prototypes ontwikkeld, twee voor de feedback en twee voor de sensor. Dit heeft het voordeel dat  meerdere testpersonen de prototypes tegelijk kunnen uittesten. Hieronder zijn de prototypes weergegeven en beschreven.
@@ -232,7 +232,7 @@ Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd ka
     <img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" style="width: 50%;">
 </div>
 
-#### Storyboarding $${\color{red}Aanvullen+foto's}$$
+#### Storyboarding 
 In fase 1 begint de bloem (FU) te verwelken.
 <p align="left">
   <img src="Map foto's2/Storyboard wave 3.1.png" width="45%">
@@ -250,7 +250,7 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
   <img src="Map foto's2/Storyboard wave 3.4.png" width="45%">
 </p>
 
-#### Prototyping
+#### Prototyping $${\color{red}Foto's}$$
 Voor alle 3 de onderdelen is er een prototype gemaakt.
 
 <table>
