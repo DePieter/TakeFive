@@ -229,7 +229,7 @@ Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een h
 #### Design sketches
 Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
 <div style="display: flex; justify-content: left;">
-    <img src="Map foto's2/graph.jpg" style="width: 50%;">
+    <img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" style="width: 50%;">
 </div>
 
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
@@ -251,23 +251,23 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
 </p>
 
 #### Prototyping $${\color{red}Herschrijven}$$
-Er zijn 4 verschillende prototypes ontwikkeld, twee voor de feedback en twee voor de sensor. Dit heeft het voordeel dat  meerdere testpersonen de prototypes tegelijk kunnen uittesten. Hieronder zijn de prototypes weergegeven en beschreven.
+Voor alle 3 de onderdelen is er een prototype gemaakt.
 
 <table>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>armband sensor:</u></b> bestaat uit een ge3D-printe body met een elastieken band, deze wordt gedragen op de boven arm...</td>
+    <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
+	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
+    <td>De <b><u>De verificator</u></b> placeholdertekst</td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="300"></td>
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>          </td></td>
+    <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 1" width="300"></td>
+	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
+    <td>De <b><u>  De wearable:        </td> placeholdertekst </td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="300"></td>
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>feedback unit:</u></b> De FeedbackUnit is een MDF-behuizing met ingebouwde elektronica, waarmee alle signaalmethoden, zoals geluid en licht, kunnen worden getest.           </td></td>
+    <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 2" width="300"></td>
+	  <td><img src="Map foto's2/Placeholder-_-Begrippenlijst.svg" alt="Foto 3" width="300"></td>
+    <td>De <b><u>feedback unit:</u></b> placeholdertekst     </td></td>
   </tr>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="300"></td>
