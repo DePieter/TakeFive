@@ -237,7 +237,7 @@ Er is geen algemene oefening voor stress te verminderen.
 <p align="center">
   <img src="Map foto's2/chest.jpeg" width="45%">
   <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg" width="13%">
-  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg" high="19%">
+  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg" width="19%">
   <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg" width="13%">
 </p>
 
