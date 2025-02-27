@@ -272,20 +272,15 @@ Er is geen algemene oefening voor stress te verminderen.
 > - Gestalt wetten toepassen voor feedbackunit
 
 # Devellop
-n de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
+blabalabla
 
 ### Doelstellingen
-- Het ontwikkelen van concrete prototypes die de geïdentificeerde problemen aanpakken.
-- Het testen en evalueren van deze prototypes in realistische scenario's om de haalbaarheid te verifiëren.
-- Het verzamelen van gebruikersfeedback om de prototypes verder te verbeteren.
+- fdsfds
+- fdsfds
+- vdsvds
 
 ### Materiaal & methoden $${\color{red}aanvullen}$$
-Twee waves die gebruik maken van volgende methodologiën:
-- Design sketches
-- Storyboarding
-- MoSCow
-- Prototyping
-- User testing
+- blablabla
 
 ### **Wave 3 (N=5)** $${\color{red}Nalezen+foto's}$$
 ---
