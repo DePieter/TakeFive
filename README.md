@@ -271,7 +271,7 @@ Er is geen algemene oefening voor stress te verminderen.
 > - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
 > - Gestalt wetten toepassen voor feedbackunit
 
-
+# Devellop
 ### **Wave 3 (N=5)** $${\color{red}Nalezen+foto's}$$
 ---
 #### Design sketches
