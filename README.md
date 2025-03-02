@@ -410,6 +410,6 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
 
 
 
-[^1] https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F
-[^2] Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
-[^3]
+[^1]: https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F
+[^2]: Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
+[^3]:
