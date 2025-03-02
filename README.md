@@ -307,12 +307,9 @@ De brainstorming heeft geleid tot het implementeren van een systeem bestaande ui
 #### Design sketches
 Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
 
-| Feedback unit |  <img src="Map foto's2/Plant sketch.png" style="width: 25%;"> | Schets 2 | Schets 3 |
-| Verificator | ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d) | Schets 2 | Schets 3 |
-| text | text | text | text |
 |------|------|------|------|
 | Feedback unit | <img src="Map foto's2/Plant sketch.png" style="width: 25%;"> | Schets 2 | Schets 3 |
-| Verificator | text | text | text |
+| Verificator | ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d) | text | text |
 
 
 #### Storyboarding 
