@@ -23,11 +23,11 @@ Dit verhoogt het stressbewustzijn bij zorgverleners, helpt burn-out te voorkomen
 ![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
 
 ## Introductie
-Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro[^1] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren. Take Five biedt een gebruiksvriendelijk ontwerp waabij de stakeholders zoals de zorgverleners maar ook collega's en bewoners centraal staan.
+Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro[^2] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren. Take Five biedt een gebruiksvriendelijk ontwerp waabij de stakeholders zoals de zorgverleners maar ook collega's en bewoners centraal staan.
 > _Op welke manier kan de stres bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
 ## Methodologie
-Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^2]
+Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^3]
 User interviews bevestigden dat stress op de werkvloer een groot probleem is. Literatuuronderzoek toonde aan dat burn-outs een aanzienlijk risico vormen, terwijl methoden zoals de 5WH-methode en PESTEL-analyse kerninzichten werden geïdentificeerd.
 
 In de definitiefase wordt het probleem verder verkend met een meer praktische aanpak, rekening houdend met het principe "fall in love with the problem, not the solution." Tijdens deze fase worden de eerste prototypes ontwikkeld en testen we zo snel mogelijk of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Altus. De feedback uit deze testfase wordt verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.
@@ -359,7 +359,7 @@ Arduino Forum. (2023). Nano 33 BLE not working when not connected to PC, van htt
 
 **Research (statistieken welbevinden): root-cause**
 Wikipedia. (n.d.). Photoplethysmogram, van https://en.wikipedia.org/wiki/Photoplethysmogram
-[^1]: Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
+Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
 Vlaamse Overheid. (2023). Werkbaar werk in de zorg- en welzijnssector: Samenvatting, van https://publicaties.vlaanderen.be/view-file/49692
 OSHA Europe. (2024). Gezondheid en welzijn in de zorgsector: Rapport, van https://osha.europa.eu/sites/default/files/healthcare%20sector%20-%20nl.pdf
 SERV. (2023). Werkbaar werk in de zorg en welzijnssector 2023,, van https://www.serv.be/stichting/publicatie/werkbaar-werk-zorg-en-welzijnssector-2023
@@ -411,3 +411,5 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
 
 
 [^1] https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F
+[^2] Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
+[^3]
