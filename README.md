@@ -268,6 +268,14 @@ Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brain
 
 De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke een eerste vorm krijgen in het volgende deel: _Design sketches_.
 
+![image](https://github.com/user-attachments/assets/9e8579e4-fb43-4dba-90e5-df71e67afc22) ![Afbeelding van WhatsApp op 2025-03-02 om 20 27 42_eb0b962b](https://github.com/user-attachments/assets/3af06437-7a63-4b54-8106-4ee110c82fd5)
+
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/9e8579e4-fb43-4dba-90e5-df71e67afc22" style="width: 50%;" />
+    <img src="https://github.com/user-attachments/assets/eb0b962b.jpg" style="width: 50%;" />
+</div>
+
+
 
 #### Design sketches
 Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
