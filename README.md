@@ -206,7 +206,10 @@ balbalabaablba, fotos,...
 
 Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een handleiding en uitleg gegeven aan de medewerkers die het dan elk voor één hele voormiddag (8u tot 12u) zouden dragen. Hierbij hebben ze om het uur oefeningen (ademhalen, babbelen,...) moeten doen voor hun stress te verminderen. Na iedere test heeft de medewerker enkele vragen ingevuld omtrend de oefeningen. Op het einde van alle testen hebben we nog een groepsgesprek gedaan met alle testpersonen.
 
-### Conclusies & implicaties:$${\color{red}Herschrijven}$$
+### Conclusies & implicaties: $${\color{red}Herschrijven}$$
+
+Dit is geen goede conclusie, dit is gewoon een opsomming
+
 Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
 Er is een mogelijkheid voor het in de werkkar te verwerken.
 Er is een nood aan zo'n type product.
