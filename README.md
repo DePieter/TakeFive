@@ -278,15 +278,20 @@ Er is geen algemene oefening voor stress te verminderen.
 > - Gestalt wetten toepassen voor feedbackunit
 
 # Devellop
-blabalabla
+De devellop fase draait rond het verfijnen van het product. Hiervoor wordt de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing.
 
 ### Doelstellingen
-- fdsfds
-- fdsfds
-- vdsvds
+- Prototype verfijnen
+- Belangrijkste design challenges identificeren door zowel theoretisch als praktisch onderzoek
 
 ### Materiaal & methoden
-- blablabla
+$${\color{red}X}$$ Waves die gebruik maken van volgende methodologiën:
+- Brainstorming
+- Design sketches
+- Storyboarding
+- MoSCoW
+- Prototyping
+- User testing
 
 ### **Wave 3 (N=5)** 
 ---
