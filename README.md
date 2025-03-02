@@ -277,8 +277,8 @@ Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd ka
 
 | Product | Concept schetsen |
 |------|------|
-| Feedback Unit |  <img src="Map foto's2/Plant sketch.png" style="width: 25%;"> |
-| Verificcator | ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d) |
+| Feedback Unit |  <img src="Map foto's2/Plant sketch.png" style="width: 25%;">  <img src="Map foto's2/Plant sketch.png" style="width: 25%;"> <img src="Map foto's2/Plant sketch.png" style="width: 25%;">|
+| Verificcator | ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d)  ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d) ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d)|
 
 #### Prototyping 
 Blabalalbal
