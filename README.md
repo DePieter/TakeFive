@@ -15,7 +15,7 @@ Om dit te mitigeren, wordt een innovatief systeem ontwikkeld dat stress continu 
 Het ontwikkelde product, TakeFive, heeft als doel het mentale welzijn van zorgprofessionals te bevorderen door op kritieke momenten gerichte pauzes te faciliteren. Dit draagt bij aan het verlagen van het risico op burn-out en het verbeteren van de algehele werkervaring in de zorgsector.
 
 $${\color{red}versie-5-bronverwijzing-is-nog-niet-correct:}$$
-Bijna 40% van de zorgverleners ervaart een te hoge werkstress (https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F). Dit wordt bevestigd door talloze onderzoeken, waaronder user interviews, literatuurstudies en diverse analysemethoden binnen dit project.
+Bijna 40% van de zorgverleners ervaart een te hoge werkstress [^1] (https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F). Dit wordt bevestigd door talloze onderzoeken, waaronder user interviews, literatuurstudies en diverse analysemethoden binnen dit project.
 Langdurige blootstelling aan hoge stress leidt tot burn-outs, een van de grootste oorzaken van langdurig ziekteverzuim in de zorg. Tegelijkertijd kampen woonzorgcentra en ziekenhuizen al met ernstige personeelstekorten, waardoor de impact van uitval nog groter is.
 Om dit probleem aan te pakken, wordt Take Five ontwikkeld: een innovatief systeem dat werkstress continu monitort en doordachte pauzes voorstelt. Een wearable op de bovenarm meet fysiologische signalen die wijzen op stress (hartslagvariabiliteit en cortisolniveau). Bij een te hoog stressniveau krijgt de zorgverlener een subtiele haptische melding. Tegelijkertijd geeft een discrete feedbackmodule de stress status weer en worden er wetenschappelijk onderbouwde pauzes voorgesteld. 
 Dit verhoogt het stressbewustzijn bij zorgverleners, helpt burn-out te voorkomen en draagt bij aan een betere werkervaring in de zorg.
@@ -410,4 +410,4 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
 
 
 
-
+[^1] https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F
