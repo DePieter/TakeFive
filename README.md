@@ -62,15 +62,6 @@ Aan de hand van user interviews kunnen de bevindingen over de toepassingen van e
 Hieruit werd bevestigd dat werkdruk binnen de zorg hoog ligt en daarom als probleem kan worden gezien. Hiervoorzijn er drie interviews afgelegd bij studentes uit de richting verpleegkunde. Dit omdat ze gedurende hun opleiding op verschillende afdelingen stage lopen en zo tal van problemen tegenkomen en inzichten in verkrijgen.
 Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5W- en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
 
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> wat heb je geleerd uit deze interviews? kan iets zijn zoals:
-> -  Real-time Monitoring: De geïnterviewde verpleegkundigen benadrukken dat real-time monitoring van stressniveaus cruciaal is, omdat ingrepen momenteel vaak te laat komen. Direct inzicht in stressniveaus stelt gebruikers in staat sneller te reageren en stress te beheersen voordat het zich opstapelt.
-> - Gebruiksvriendelijk Ontwerp: verpleegkundigen geven aan dat ze fysiek zo ongestoord mogelijk kunnen doorwerken.
-> - ...
-> - ...
-
-
 ### Literature reviews (N=10) $${\color{red}herwerken}$$
 Hier zit je nog steeds in de discovery fase, je bent nog aan het onderzoeken wat het probleem is, je zou hier nog niet bezig mogen zijn met een concept.
 
@@ -83,23 +74,11 @@ De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parame
 - Burnout preventie en interventie
 - Technische haalbaarheid
 
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> -  Wat heb je geleerd uit de literatuurstudie?
-
 ### 5W methode $${\color{red}aanvullen}$$
 Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> -  Wat heb je geleerd uit deze 5W methode?
-
 ### PESTLE methode $${\color{red}aanvullen}$$
 Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
-
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> -  Wat heb je geleerd uit deze 5W methode?
 
 ### Conclusie
 #### Oorzaken en Gevolgen
@@ -115,7 +94,18 @@ Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 - Oorzaak van Stres: Werkdruk is de belangrijkste drijfveer achter stress, versterkt door personeelstekorten en een gebrek aan structurele oplossingen.
 
 #### Inzichten uit Onderzoek
-Deze discoveryfase heeft inzicht gegeven in zowel het probleem als de betrokken stakeholders (verpleegkundigen in WZC). Door middel van interviews, literatuurstudie, de 5W-methode en PESTLE-analyse zijn de eerste design requirements vastgesteld. Deze vormen de basis voor de volgende definitionfase. In deel $${\color{red}XXX}$$ is een samenvattende tabel opgenomen met alle design requirements voor het eindproduct.
+Deze discoveryfase heeft inzicht gegeven in zowel het probleem als de betrokken stakeholders (verpleegkundigen in WZC). Door middel van interviews, literatuurstudie, de 5W-methode en PESTLE-analyse zijn de eerste design requirements vastgesteld. Deze vormen de basis voor de volgende definitionfase. Hieronder worden de design requirements die zijn vastgesteld in de discoveryfase neergeschreven. In deel $${\color{red}XXX}$$ is een samenvattende tabel opgenomen met alle design requirements van het volledige project.
+
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> wat heb je geleerd uit de interviews, PESTLE, 5W,...? kan iets zijn zoals:
+> -  Real-time Monitoring: De geïnterviewde verpleegkundigen benadrukken dat real-time monitoring van stressniveaus cruciaal is, omdat ingrepen momenteel vaak te laat komen. Direct inzicht in stressniveaus stelt gebruikers in staat sneller te reageren en stress te beheersen voordat het zich opstapelt.
+> - Gebruiksvriendelijk Ontwerp: verpleegkundigen geven aan dat ze fysiek zo ongestoord mogelijk kunnen doorwerken.
+> - ...
+> - ...
+> - ....
+> - ...
+> - ...
 
 ## Definition
 In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
@@ -216,7 +206,7 @@ balbalabaablba, fotos,...
 
 Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een handleiding en uitleg gegeven aan de medewerkers die het dan elk voor één hele voormiddag (8u tot 12u) zouden dragen. Hierbij hebben ze om het uur oefeningen (ademhalen, babbelen,...) moeten doen voor hun stress te verminderen. Na iedere test heeft de medewerker enkele vragen ingevuld omtrend de oefeningen. Op het einde van alle testen hebben we nog een groepsgesprek gedaan met alle testpersonen.
 
-### Conclusies & implicaties:
+### Conclusies & implicaties:$${\color{red}Herschrijven}$$
 Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
 Er is een mogelijkheid voor het in de werkkar te verwerken.
 Er is een nood aan zo'n type product.
