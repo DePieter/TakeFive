@@ -270,7 +270,6 @@ De brainstorming heeft geleid tot het implementeren van een systeem bestaande ui
 
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/9e8579e4-fb43-4dba-90e5-df71e67afc22" style="width: 50%;" />
-    <img src="https://github.com/user-attachments/assets/3af06437-7a63-4b54-8106-4ee110c82fd5" style="width: 50%;" />
 </div>
 
 
