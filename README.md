@@ -24,7 +24,7 @@ Dit verhoogt het stressbewustzijn bij zorgverleners, helpt burn-out te voorkomen
 
 ## Introductie
 Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro[^2] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren. Take Five biedt een gebruiksvriendelijk ontwerp waabij de stakeholders zoals de zorgverleners maar ook collega's en bewoners centraal staan.
-> _Op welke manier kan de stres bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
+> _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
 ## Methodologie
 Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften. [^3]
