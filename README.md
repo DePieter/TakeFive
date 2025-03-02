@@ -334,13 +334,13 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
 #### Prototyping 
 Voor alle 3 de onderdelen is er een prototype gemaakt.
 
-| Prototype | Beschrijving | Beschrijving |
+| Prototype | Beschrijving | Beschrijving|
 |------|------|------|
-| Deftige foto wearable | Beschrijving **wearable** | Beschrijving |
-|![image](https://github.com/user-attachments/assets/db832ed1-5ccf-424b-9993-5852fca60e1f)
- **Feedback unit (hoofdfocus):** Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt. Zodra de bloem volledig slap hangt zal de kleur van de bloempot rood kleuren, op die moment is het tijd om de bloem water te geven -> pauze nemen.|| Beschrijving |
-|![image](https://github.com/user-attachments/assets/221a1f8f-2d3c-4f61-99d7-538eed9f7bdd)
-|Beschrijving | **Verificator (gieter)**: Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de verificator (gieter) worden geplaatst. De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten. Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleur groen)| Beschrijving |
+| Wearable | Deftige foto's | Beschrijving |
+| Beschrijving |![image](https://github.com/user-attachments/assets/db832ed1-5ccf-424b-9993-5852fca60e1f)
+| Beschrijving  **Feedback unit (hoofdfocus):** Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt. Zodra de bloem volledig slap hangt zal de kleur van de bloempot rood kleuren, op die moment is het tijd om de bloem water te geven -> pauze nemen.|
+| Beschrijving |![image](https://github.com/user-attachments/assets/221a1f8f-2d3c-4f61-99d7-538eed9f7bdd)
+| Beschrijving |Beschrijving | **Verificator (gieter)**: Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de verificator (gieter) worden geplaatst. De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten. Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleur groen)|
 
 #### User testing 
 
