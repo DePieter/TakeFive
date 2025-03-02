@@ -301,7 +301,7 @@ Wave 2 toonde aan dat er behoefte was aan een manier om aan te geven wanneer iem
 
 Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brainstormsessie per teamlid. Elk teamlid werkte één of meerdere concepten uit en beschreef alle eigenschappen op grote A3-bladen. Vervolgens werd via dotvoting bepaald welke eigenschappen waardevol waren voor het concept en welke moesten worden uitgesloten.
 
-De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke worden beschreven en afgebeeld bij _Design sketches_
+De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke een eerste vorm krijgen in het volgende deel: _Design sketches_.
 
 
 #### Design sketches
@@ -313,7 +313,7 @@ Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd ka
 | Verificcator | ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d) |
 
 #### Prototyping 
-Voor alle 3 de onderdelen is er een prototype gemaakt.
+Blabalalbal
 
 | *deftige foto’s wearable* | **Wearable:** Beknopte beschrijving |
 |----------------------------|------------------------------------|
@@ -322,6 +322,13 @@ Voor alle 3 de onderdelen is er een prototype gemaakt.
 | *deftige foto’s interface* | **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
 
 #### Storyboarding 
+
+Geef eerst een soort korte inleiding waarin je beschrijft waarom je gekozen hebt voor sotryboarding (bv omdat dit de eerstlijns fouten al uit het systeem kan halen alvorens het ontwikkelen van de prototypes) -> zie tekstje onder titeltje "wave 3".
+
+Verwijzing naar video's
+
+Hier ontbreken curciale dingen in de storyline, zorg dat je een volledig, gedetailleerd verhaal bekomt-> voorbeeld: VPK (verpleegkundige) is al voor een lange tijd aan het werk en is gestrest-> wearable trilt -> VPK ziet dat de bloem slap hangt en dat de bloempot rood is gekleurd->....
+
 In fase 1 begint de bloem (FU) te verwelken.
 <p align="left">
   <img src="Map foto's2/Storyboard wave 3.1.png" width="45%">
