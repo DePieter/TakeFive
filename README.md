@@ -272,8 +272,6 @@ De brainstorming heeft geleid tot het implementeren van een systeem bestaande ui
     <img src="https://github.com/user-attachments/assets/9e8579e4-fb43-4dba-90e5-df71e67afc22" style="width: 50%;" />
 </div>
 
-
-
 #### Design sketches
 Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
 
