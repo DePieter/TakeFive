@@ -272,7 +272,10 @@ De brainstorming heeft geleid tot het implementeren van een systeem bestaande ui
     <img src="https://github.com/user-attachments/assets/9e8579e4-fb43-4dba-90e5-df71e67afc22" style="width: 50%;" />
 </div>
 
-#### Design sketches
+#### Design sketches $${\color{red}herschrijven}$$
+
+Deze tekst staat hier niet echt op zn plaats, er moet hier iets staan dat rechtstreeks gaat over de schetsen bijvoorbeeld: de resultaten, het proces, zaken die moelijk te schetsen waren ofzo, digen die interessant en relevant zijn.
+
 Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
 
 | Product | Concept schetsen |
@@ -280,8 +283,8 @@ Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd ka
 | Feedback Unit |  <img src="Map foto's2/Plant sketch.png" style="width: 25%;">  <img src="Map foto's2/Plant sketch.png" style="width: 25%;"> <img src="Map foto's2/Plant sketch.png" style="width: 25%;">|
 | Verificcator | ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d)  ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d) ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d)|
 
-#### Prototyping 
-Blabalalbal
+#### Prototyping $${\color{red}aanvullen}$$
+Hier relevante tekst rechtstreeks over het prototypen zoals bv het doel ervan, hoe we aan de slag zijn gegeaan (theoretische kapstokken), resultaten,... De beschrijving zelf staat hieronder al in de tabel. Probeer ook in deze tekst te verwijzen naar deze tabel ("de prototypes worden in onderstaande tabel weergegeven") -> eigenlijk moet je bij elke figuur, tabel,... zo'n verwijzing maken.
 
 | *deftige foto’s wearable* | **Wearable:** Beknopte beschrijving |
 |----------------------------|------------------------------------|
@@ -289,11 +292,11 @@ Blabalalbal
 | ![image](https://github.com/user-attachments/assets/742783c9-0507-4413-a6cd-65177d9d8c5e)| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
 | *deftige foto’s interface* | **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
 
-#### Storyboarding 
+#### Storyboarding $${\color{red}aanvullen}$$
 
 Geef eerst een soort korte inleiding waarin je beschrijft waarom je gekozen hebt voor sotryboarding (bv omdat dit de eerstlijns fouten al uit het systeem kan halen alvorens het ontwikkelen van de prototypes) -> zie tekstje onder titeltje "wave 3".
 
-Verwijzing naar video's
+Verwijzing naar video's, zorg voor een mooie stuctuur (mss kan een tabel ofzo hierbij helpen??-> vraag aan copilot??)
 
 Hier ontbreken curciale dingen in de storyline, zorg dat je een volledig, gedetailleerd verhaal bekomt-> voorbeeld: VPK (verpleegkundige) is al voor een lange tijd aan het werk en is gestrest-> wearable trilt -> VPK ziet dat de bloem slap hangt en dat de bloempot rood is gekleurd->....
 
@@ -318,7 +321,13 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
 
 
 #### Conclusies & implicaties 
+zie opbouw van vorige waves
 
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  alle design requirements van wave 1
+> -  ...
+>
 
 ## Bill of materials
 - EVA-foam
