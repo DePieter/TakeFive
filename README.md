@@ -130,6 +130,8 @@ blablabalbalaba, fotos,
 
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
 blablabalbalaba, fotos,
+
+De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra ze het apparaat inschakelt, verschijnt er een lichtsignaal. Enkele uren later voelt ze een trilling, wat aangeeft dat het tijd is voor een korte pauze. Na ongeveer vijf minuten hervat ze haar werk. Aan het einde van haar shift plaatst ze de wearable op de oplader.
 <p align="left">
   <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" width="45%">
 </p>
