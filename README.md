@@ -311,7 +311,7 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
 </p>
 
 #### User testing 
-D.m.v. een meer uitgebreide MoSCoW- methode in combinatie met brainstorming en roleplay is er een waardevolle tabel bekomen welke resulteert in concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests. Dit alles is beschreven in het MoSCoW-document (MoSCoW.docx). 
+D.m.v. een meer uitgebreide MoSCoW- methode in combinatie met brainstorming en roleplay is er een waardevolle tabel bekomen welke resulteert in concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests. Dit alles is beschreven in het MoSCoW-document ([MoSCoW]https://ugentbe-my.sharepoint.com/:w:/g/personal/bram_tops_ugent_be/Ec037Kdu9NpClCjT8NW92lIBiGvA1C8_lfeysg7QbH_XUQ?e=BL1XDJ). 
 Deze zaken resulteren in onderandere de volgende ontwerpvragen, om deze ontwerpvragen te beantwoorden dient er een gebruikerstest uitgevoerd worden. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Omdat de test met gebruikers werd uitgevoerd, ondertekende elke deelnemer een ‘informed consent’. Deze documenten zijn terug te vinden in de bijlagen.
 Concreet is de bedoeling van de concepttest om een antwoord te krijgen op volgende ontwerpvragen:
 
