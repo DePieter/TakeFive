@@ -316,17 +316,18 @@ Deze zaken resulteren in onderandere de volgende ontwerpvragen, om deze ontwerpv
 Concreet is de bedoeling van de concepttest om een antwoord te krijgen op volgende ontwerpvragen:
 
 **Conceptuele validatie (Definition-fase)**
-•	In welke mate sluit de voorgestelde pauzestrategie aan bij de noden en verwachtingen van zorgmedewerkers? (=wat is de opinie van de gebruiker)?
-•	Hoe betrouwbaar en consistent functioneert het systeem onder verschillende werkomstandigheden en stressniveaus?
-•	Welke drempels ervaren gebruikers bij het gebruik van het systeem, en hoe kunnen deze worden verminderd?
-•	Is een verificator (zie Prototypes) noodzakelijk, of volstaat het als de feedbackunit zelf aangeeft welke pauze genomen moet worden, bijvoorbeeld via een geïntegreerd display?
-•	Kan het systeem omzeild worden (bv. te weinig of te veel pauze nemen) en hoe kan dit e.v.t. worden opgelost?
+- In welke mate sluit de voorgestelde pauzestrategie aan bij de noden en verwachtingen van zorgmedewerkers? (=wat is de opinie van de gebruiker)?
+- Hoe betrouwbaar en consistent functioneert het systeem onder verschillende werkomstandigheden en stressniveaus?
+- Welke drempels ervaren gebruikers bij het gebruik van het systeem, en hoe kunnen deze worden verminderd?
+- Is een verificator (zie Prototypes) noodzakelijk, of volstaat het als de feedbackunit zelf aangeeft welke pauze genomen moet worden, bijvoorbeeld via een geïntegreerd display?
+- Kan het systeem omzeild worden (bv. te weinig of te veel pauze nemen) en hoe kan dit e.v.t. worden opgelost?
+
 **Ergonomische aspecten (Development-fase)**
-•	Hoe intuïtief en toegankelijk is de interactie met het systeem voor zorgmedewerkers in een veeleisende werkomgeving?
-•	Welke vorm/uiterlijk van de feedback unit biedt de beste sensoriele ergonomie aan de gebruiker?
-•	Hoe beïnvloedt dit systeem de cognitieve belasting en werkprestaties?
-•	Worden de meldingen en suggesties van het systeem als helpend of storend ervaren tijdens het werk?
-•	Hoe goed past het systeem binnen de bestaande workflow van zorgmedewerkers zonder extra stress of werkdruk te veroorzaken?
+- Hoe intuïtief en toegankelijk is de interactie met het systeem voor zorgmedewerkers in een veeleisende werkomgeving?
+- Welke vorm/uiterlijk van de feedback unit biedt de beste sensoriele ergonomie aan de gebruiker?
+- Hoe beïnvloedt dit systeem de cognitieve belasting en werkprestaties?
+- Worden de meldingen en suggesties van het systeem als helpend of storend ervaren tijdens het werk?
+- Hoe goed past het systeem binnen de bestaande workflow van zorgmedewerkers zonder extra stress of werkdruk te veroorzaken?
 
 
 #### Conclusies & implicaties 
