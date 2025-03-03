@@ -27,7 +27,7 @@ Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkd
 > _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
 ## Methodologie
-Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^3]. $${\color{red}link-voor-naar-waar-deze-moet???}$$
+Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^3].
 User interviews bevestigden dat stress op de werkvloer een groot probleem is. Literatuuronderzoek toonde aan dat burn-outs een aanzienlijk risico vormen, terwijl methoden zoals de 5WH-methode en PESTEL-analyse kerninzichten werden geïdentificeerd.
 
 In de definitiefase wordt het probleem verder verkend met een meer praktische aanpak, rekening houdend met het principe "fall in love with the problem, not the solution." Tijdens deze fase worden de eerste prototypes ontwikkeld en testen we zo snel mogelijk of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Altus. De feedback uit deze testfase wordt verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.
@@ -412,4 +412,4 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
 
 [^1]: https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F
 [^2]: Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
-[^3]:
+[^3]:Noden- en behoeftenanalyse van personeel in de zorg- en welzijnssectoren en maatwerkbedrijven. (z.j.). Ongepubliceerd document
