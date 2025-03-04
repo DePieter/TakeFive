@@ -40,7 +40,8 @@ In de Belgische zorgsector is het welzijn van zorgverleners een groeiende bezorg
 
 Burn-outs in de zorg zijn een cumulerend probleem, waarbij verschillende factoren elkaar versterken. Hoge werkdruk, personeelstekorten, emotionele belasting en beperkte autonomie stapelen zich op, waardoor zorgprofessionals steeds meer onder druk komen te staan. Het gebrek aan voldoende herstelmomenten maakt het moeilijk om op te laden, wat het risico op burn-out vergroot. Dit creëert een vicieuze cirkel die het probleem steeds verergert.
 
-TakeFive heeft als doel een product te ontwikkelen dat zorgverleners ondersteunt in hun herstel, door op de juiste momenten in te grijpen, en zo het risico op burn-out te verlagen.
+TakeFive heeft als doel een product te ontwikkelen dat zorgverleners ondersteunt in hun herstel, door op de juiste momenten in te grijpen, en zo het risico op burn-out te verlagen. Hierbij staat zowel de zorgverleners als de bewoners centraal.
+> _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
 ## Methodologie
 Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^5].
