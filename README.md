@@ -21,12 +21,6 @@ Om dit probleem aan te pakken, wordt Take Five ontwikkeld: een innovatief systee
 Dit verhoogt het stressbewustzijn bij zorgverleners, helpt burn-out te voorkomen en draagt bij aan een betere werkervaring in de zorg.
 
 $${\color{red}versie-6:}$$
-Bijna 40% van de zorgverleners ervaart een te hoge werkstress [^1]. Dit wordt bevestigd door talloze onderzoeken, waaronder user interviews, literatuurstudies en diverse analysemethoden binnen dit project.
-Langdurige blootstelling aan hoge stress leidt tot burn-outs, een van de grootste oorzaken van langdurig ziekteverzuim in de zorg. Tegelijkertijd kampen woonzorgcentra en ziekenhuizen al met ernstige personeelstekorten, waardoor de impact van uitval nog groter is.
-Om dit probleem aan te pakken, wordt Take Five ontwikkeld: een innovatief systeem dat werkstress continu monitort en doordachte pauzes voorstelt. Een wearable op de bovenarm meet fysiologische signalen die wijzen op stress (hartslagvariabiliteit en cortisolniveau). Bij een te hoog stressniveau krijgt de zorgverlener een subtiele haptische melding. Tegelijkertijd geeft een discrete feedbackmodule de stress status weer en worden er wetenschappelijk onderbouwde pauzes voorgesteld. 
-Dit verhoogt het stressbewustzijn bij zorgverleners, helpt burn-out te voorkomen en draagt bij aan een betere werkervaring in de zorg.
-
-$${\color{red}versie-7:}$$
 In de Belgische zorgsector ervaren veel zorgverleners een verhoogd risico op burn-out. Uit studies blijkt dat één op de vijf verpleegkundigen een grote kans op burn-out heeft[^2], en bijna 40% van de zorgverleners te veel werkstress ervaart[^1]. Dit leidt tot ziekteverzuim en heeft een aanzienlijke financiële impact: in 2021 werd meer dan 1,8 miljard euro uitgegeven aan arbeidsongeschiktheid door burn-out en depressie, een stijging van 59% sinds 2016.
 
 Om deze problematiek aan te pakken, wordt Take Five ontwikkeld: een innovatief systeem dat werkstress monitort en op basis van fysiologische signalen zoals hartslagvariabiliteit en cortisolniveau pauzes voorstelt. De wearable geeft subtiele meldingen bij hoge stressniveaus en stelt wetenschappelijk onderbouwde pauzes voor. Dit verhoogt het stressbewustzijn, helpt burn-out voorkomen en verbetert de werkervaring in de zorg.
