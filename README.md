@@ -23,8 +23,20 @@ Dit verhoogt het stressbewustzijn bij zorgverleners, helpt burn-out te voorkomen
 ![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
 
 ## Introductie
+Max 300 woorden. Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions). Maak gebruik van bronverwijzingen
+
 Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro [^2] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren. Take Five biedt een gebruiksvriendelijk ontwerp waabij de stakeholders zoals de zorgverleners maar ook collega's en bewoners centraal staan.
 > _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
+
+$${\color{red}nieuwe-tekst:}$$
+In de Belgische zorgsector is het welzijn van zorgverleners een groeiende zorg. Recente studies tonen aan dat een aanzienlijk aantal verpleegkundigen een verhoogd risico op burn-out heeft. Zo blijkt uit een studie van het Federaal Kenniscentrum voor de Gezondheidszorg (KCE) dat één op de vijf verpleegkundigen een grote kans loopt op burn-out [^2]. 
+
+Deze bevindingen worden ondersteund door een onderzoek van de KU Leuven, waaruit blijkt dat één op de zes werkende Vlamingen kampt met burn-outklachten of het risico loopt er een te ontwikkelen. 
+
+Het financiële aspect van burn-out is eveneens zorgwekkend. In 2021 werd meer dan 1,8 miljard euro uitgegeven aan uitkeringen voor arbeidsongeschiktheid langer dan één jaar, veroorzaakt door depressie of burn-out. Dit vertegenwoordigt een stijging van meer dan 59% sinds 2016. 
+
+
+De hoge prevalentie van burn-out onder zorgverleners kan deels worden toegeschreven aan de hoge werkdruk en het personeelstekort in de sector. Deze factoren benadrukken de noodzaak om te investeren in het welzijn en de motivatie van zorgverleners, om zo het werk aantrekkelijk en minder stressvol te maken.
 
 ## Methodologie
 Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^3].
