@@ -171,23 +171,23 @@ De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra
 Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om meerdere testpersonen tegelijk te laten testen. Voor de feedbackunit hebben we alle mogelijke signaleringsmethoden geïntegreerd in twee compacte apparaten, die op afstand kunnen worden aangestuurd met onze gsm. Hieronder worden de prototypes weergegeven en beschreven.
 <table>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg"  style="height:150px;">
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" style="height:150px;">
+    <td><img src="Map foto's2/Wave 1/Wave 1 armbandsensor.2.png"  style="width:200px;">
+	  <td><img src="Map foto's2/Wave 1/Wave 1 armbandsensor.png" style="width:200px;">
     <td>De <b><u>armband sensor:</u></b> bestaat uit een ge-3D-printe body met een elastieken band, deze kan gedragen worden op de bovenarm.</td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" style="height:150px;">
-	  <td><img src="Map foto's2/Wave 1/Wearable borstkas.jpeg"  style="height:150px;">
+    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" style="width:200px;">
+	  <td><img src="Map foto's2/Wave 1/Wearable borstkas.jpeg"  style="width:200px;">
     <td>De borstkas-wearable bestaat uit twee verstelbare riemen met een 3D-geprinte behuizing, zodat hij naar wens kan worden aangespannen. <b><u>          </td></td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg"style="height:150px;">
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" style="height:150px;">
+    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg"style="width:200px;">
+	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" style="width:200px;">
     <td>De <b><u>feedback unit:</u></b> De FeedbackUnit is een MDF-behuizing met ingebouwde elektronica, waarmee alle signaalmethoden, zoals geluid en licht, kunnen worden getest.           </td></td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" style="height:150px;">
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg"  style="height:150px;">
+    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" style="width:200px;">
+	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg"  style="width:200px;">
     <td>De <b><u>feedback unit:</u></b> De FeedbackUnit is een MDF-behuizing met ingebouwde elektronica, waarmee alle signaalmethoden, zoals geluid en licht, kunnen worden getest.           </td></td>
   </tr>
 </table>
