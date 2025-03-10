@@ -183,7 +183,7 @@ Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en t
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg"style="width:200px;">
 	  <td><img src="Map foto's2/Wave 1/Feedbackunit.png" style="width:200px;">
-    <td>De <b><u>feedback unit:</u></b> De FeedbackUnit is een MDF-behuizing met ingebouwde elektronica, waarmee alle signaalmethoden, zoals geluid en licht, kunnen worden getest.           </td></td>
+    <td>De <b><u>feedback unit's:</u></b>  bestaan uit een MDF- en een kartonnen behuizing, waarmee alle signaalmethoden, zoals geluid en licht, getest kunnen worden met Arduino en een ingebouwde gsm.    </td></td>
   </tr>
 </table>
 
