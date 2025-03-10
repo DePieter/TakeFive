@@ -204,18 +204,22 @@ Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werkin
 > **Gebruikersbehoeften**  
 > 	 - Het apparaat moet subtiel en discreet zijn.  
 > 	 - Gebruik trillingen of licht in plaats van geluid.  
-> 	 - Gebruikers moeten meldingen kunnen aanpassen (frequentie & intensiteit).  
+> 	 - Gebruikers moeten meldingen kunnen aanpassen (frequentie & intensiteit).
+> 	    
 >**Functionaliteit**  
 > 	 - Mag lopende taken niet verstoren.  
 > 	 - Moet eenvoudig in bestaande workflows passen.  
 > 	 - Feedback via visuele en tactiele signalen, geen storende geluiden.  
-> 	 - Ondersteuning voor ademhalingsoefeningen en pauzemeldingen.  
+> 	 - Ondersteuning voor ademhalingsoefeningen en pauzemeldingen.
+> 	   
 >**Ontwerpcriteria**  
 > 	 - Lichtgewicht en comfortabel om te dragen.  
-> 	 - Modulair ontwerp met instelbare meldingen en functies.  
+> 	 - Modulair ontwerp met instelbare meldingen en functies.
+> 	   
 >**Prototyping & Testing**  
 > 	 - Moet intuïtief en eenvoudig te bedienen zijn.  
-> 	 - Testen van effectieve pauzemeldingen in drukke omgevingen.  
+> 	 - Testen van effectieve pauzemeldingen in drukke omgevingen.
+> 	    
 >**Implementatie in de zorg**  
 > 	 - Samenwerking met zorginstellingen voor brede adoptie.  
 > 	 - Discreet en universeel ontwerp om stigma te verminderen.  
