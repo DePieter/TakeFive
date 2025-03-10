@@ -147,7 +147,7 @@ Voor wave 1 hebben we onderzocht waar we de wearable kunnen plaatsen. De mogelij
 
 <p align="left">
   <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
-	  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
+	  <img src="Map foto's2/Wave 1/slagadren-lichaam.jpg" style="height:200px;">
 	  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
 </p>
 
@@ -166,11 +166,11 @@ Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en t
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
 	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>armband sensor:</u></b> bestaat uit een ge3D-printe body met een elastieken band, deze wordt gedragen op de boven arm...</td>
+    <td>De <b><u>armband sensor:</u></b> bestaat uit een ge-3D-printe body met een elastieken band, deze kan gedragen worden op de bovenarm.</td>
   </tr>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="300"></td>
-	  <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
+	  <td><img src="Map foto's2/Wave 1/Wearable borstkas.jpeg" alt="Foto 3" width="300"></td>
     <td>De <b><u>          </td></td>
   </tr>
   <tr>
