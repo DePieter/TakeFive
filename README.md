@@ -201,29 +201,24 @@ Toe te voegen quote: Als ik nog een keer zou kunnen kiezen, kies ik voor de armb
 Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements:
 
 > [!IMPORTANT]
-# Design Requirements  
-
-## 1. Gebruikersbehoeften  
--  **Discretie**: Het apparaat moet subtiel zijn en geen ongewenste aandacht trekken.  
--  **Niet-auditieve feedback**: Gebruik trillingen en/of licht in plaats van geluidssignalen.  
--  **Aanpasbaarheid**: Gebruikers moeten meldingsfrequentie en intensiteit kunnen instellen.  
-
-## 2. Functionaliteit  
--  **Naadloze integratie**: Mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen.  
--  **Niet-invasieve feedback**: Gebruik visuele en tactiele signalen, vermijd storende geluiden.  
--  **Gezondheidsbevordering**: Ondersteuning voor ademhalingsoefeningen en pauzemeldingen.  
-
-## 3. Ontwerpcriteria  
--  **Compact & draagbaar**: Lichtgewicht en comfortabel voor dagelijks gebruik.  
--  **Modulair systeem**: Instelbare meldingen en mogelijkheid om functies aan/uit te zetten.  
-
-## 4. Prototyping & Testing  
--  **Gebruiksvriendelijkheid**: Het systeem moet intuïtief en eenvoudig te bedienen zijn.  
--  **Pauzebeheer**: Effectieve methoden testen om pauzes te stimuleren in drukke omgevingen.  
-
-## 5. Implementatie in de zorg  
--  **Beleidsondersteuning**: Samenwerking met zorginstellingen voor brede adoptie.  
--  **Sociale acceptatie**: Discreet en universeel ontwerp om stigma te minimaliseren. 
+- **Gebruikersbehoeften**  
+  - Het apparaat moet subtiel en discreet zijn.  
+  - Gebruik trillingen of licht in plaats van geluid.  
+  - Gebruikers moeten meldingen kunnen aanpassen (frequentie & intensiteit).  
+- **Functionaliteit**  
+  - Mag lopende taken niet verstoren.  
+  - Moet eenvoudig in bestaande workflows passen.  
+  - Feedback via visuele en tactiele signalen, geen storende geluiden.  
+  - Ondersteuning voor ademhalingsoefeningen en pauzemeldingen.  
+- **Ontwerpcriteria**  
+  - Lichtgewicht en comfortabel om te dragen.  
+  - Modulair ontwerp met instelbare meldingen en functies.  
+- **Prototyping & Testing**  
+  - Moet intuïtief en eenvoudig te bedienen zijn.  
+  - Testen van effectieve pauzemeldingen in drukke omgevingen.  
+- **Implementatie in de zorg**  
+  - Samenwerking met zorginstellingen voor brede adoptie.  
+  - Discreet en universeel ontwerp om stigma te verminderen.  
 
 De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
 
