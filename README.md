@@ -146,9 +146,9 @@ Twee waves die gebruik maken van volgende methodologiën:
 Voor wave 1 hebben we onderzocht waar we de wearable kunnen plaatsen. De mogelijke locaties worden bepaald door medische richtlijnen en de geschiktheid voor hartslagmeting. Uiteindelijk blijven er drie opties over: de borst, de benen en de bovenarm. De benen vallen af vanwege het sociale stigma rondom enkelmonitors.
 
 <p align="left">
-  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
+  <img src="Map foto's2/Wave 1/Design wave 1.png" style="height:200px;">
 	  <img src="Map foto's2/Wave 1/slagadren-lichaam.jpg" style="height:200px;">
-	  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
+	  <img src="Map foto's2/Wave 1/design wave 1.1.png" style="height:200px;">
 </p>
 
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
