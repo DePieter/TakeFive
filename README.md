@@ -195,7 +195,7 @@ Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d
 - ...
 - ...
 
-Toe te voegen quote: Als ik nog een keer zou kunnen kiezen, kies ik voor de armband.
+> "Als ik nog een keer zou kunnen kiezen, kies ik voor de armband."
 
 #### Conclusies & implicaties:
 Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements:
