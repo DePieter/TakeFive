@@ -171,7 +171,7 @@ Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en t
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" alt="Foto 1" width="300"></td>
 	  <td><img src="Map foto's2/Wave 1/Wearable borstkas.jpeg" alt="Foto 3" width="300"></td>
-    <td>De <b><u>          </td></td>
+    <td>De borstkas-wearable bestaat uit twee verstelbare riemen met een 3D-geprinte behuizing, zodat hij naar wens kan worden aangespannen. <b><u>          </td></td>
   </tr>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg" alt="Foto 2" width="300"></td>
