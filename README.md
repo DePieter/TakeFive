@@ -333,20 +333,6 @@ In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiez
 Door een uitgebreide MoSCoW-methode te combineren met brainstorming en roleplay, is een waardevolle tabel opgesteld. Deze leidt tot concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests, zoals beschreven in het [MoSCoW-document](https://ugentbe-my.sharepoint.com/:w:/g/personal/bram_tops_ugent_be/Ec037Kdu9NpClCjT8NW92lIBiGvA1C8_lfeysg7QbH_XUQ?e=BL1XDJ).
 Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
 De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:
-Conceptuele validatie (Definition-fase)
-•	In welke mate sluit de voorgestelde pauzestrategie aan bij de noden en verwachtingen van zorgmedewerkers? (=wat is de opinie van de gebruiker)?
-•	Hoe betrouwbaar en consistent functioneert het systeem onder verschillende werkomstandigheden en stressniveaus?
-•	Welke drempels ervaren gebruikers bij het gebruik van het systeem, en hoe kunnen deze worden verminderd?
-•	Is een verificator (zie Prototypes) noodzakelijk, of volstaat het als de feedbackunit zelf aangeeft welke pauze genomen moet worden, bijvoorbeeld via een geïntegreerd display?
-•	Kan het systeem omzeild worden (bv. te weinig of te veel pauze nemen) en hoe kan dit e.v.t. worden opgelost?
-Ergonomische aspecten (Development-fase)
-•	Hoe intuïtief en toegankelijk is de interactie met het systeem voor zorgmedewerkers in een veeleisende werkomgeving?
-•	Welke vorm/uiterlijk van de feedback unit biedt de beste sensoriele ergonomie aan de gebruiker?
-•	Hoe beïnvloedt dit systeem de cognitieve belasting en werkprestaties?
-•	Worden de meldingen en suggesties van het systeem als helpend of storend ervaren tijdens het werk?
-•	Hoe goed past het systeem binnen de bestaande workflow van zorgmedewerkers zonder extra stress of werkdruk te veroorzaken?
-De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zijn terug te vinden in concepttestrapport 3.1.
-
 
 **Conceptuele validatie (Definition-fase)**
 - In welke mate sluit de voorgestelde pauzestrategie aan bij de noden en verwachtingen van zorgmedewerkers? (=wat is de opinie van de gebruiker)?
@@ -362,6 +348,7 @@ De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat le
 - Worden de meldingen en suggesties van het systeem als helpend of storend ervaren tijdens het werk?
 - Hoe goed past het systeem binnen de bestaande workflow van zorgmedewerkers zonder extra stress of werkdruk te veroorzaken?
 
+De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zaken zijn terug te vinden in concepttestrapport 3.1.
 
 #### Conclusies & implicaties 
 zie opbouw van vorige waves
