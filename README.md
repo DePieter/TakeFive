@@ -143,11 +143,15 @@ Twee waves die gebruik maken van volgende methodologiën:
 ### **Wave 1 (N=5)**
 ---
 #### Design sketches $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
+Voor wave 1 hebben we onderzocht waar we de wearable kunnen plaatsen. De mogelijke locaties worden bepaald door medische richtlijnen en de geschiktheid voor hartslagmeting. Uiteindelijk blijven er drie opties over: de borst, de benen en de bovenarm. De benen vallen af vanwege het sociale stigma rondom enkelmonitors.
+
+<p align="left">
+  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
+	  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
+	  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" style="height:200px;">
+</p>
 
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
-
 De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra ze het apparaat inschakelt, verschijnt er een lichtsignaal. Enkele uren later voelt ze een trilling, wat aangeeft dat het tijd is voor een korte pauze. Na ongeveer vijf minuten hervat ze haar werk. Aan het einde van haar shift plaatst ze de wearable op de oplader.
 <p align="left">
   <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" width="45%">
@@ -157,8 +161,7 @@ De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra
 blablabalbalaba, fotos, $${\color{red}foto's-terugzoeken}$$
 
 #### Prototyping $${\color{red}Herschrijven}$$
-Er zijn 4 verschillende prototypes ontwikkeld, twee voor de feedback en twee voor de sensor. Dit heeft het voordeel dat  meerdere testpersonen de prototypes tegelijk kunnen uittesten. Hieronder zijn de prototypes weergegeven en beschreven.
-
+Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om meerdere testpersonen tegelijk te laten testen. Voor de feedbackunit hebben we alle mogelijke signaleringsmethoden geïntegreerd in twee compacte apparaten, die op afstand kunnen worden aangestuurd met onze gsm. Hieronder worden de prototypes weergegeven en beschreven.
 <table>
   <tr>
     <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205655.jpg" alt="Foto 3" width="300"></td>
