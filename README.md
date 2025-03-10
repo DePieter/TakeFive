@@ -190,12 +190,11 @@ Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en t
 #### User testing
 Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Bijlagen](#bijlagen)) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties". Ook het verslag van deze eerste test is terug te vinden al "Rapport wave 1" in [Bijlagen](#bijlagen).
 
-- beschrijf hier de waarnemingen van de eerste test adhv ruwe data (=foto's) -> voorbeeld: "verpleegkundige Julie vertelde dat de borstband sensor ongemakkelijk zat, dus ligt de voorkeur meer bij de armband sensor"
-- Voorbeeld: Jonatan gaf aan dat hij de aanwezigheid van fysieke knoppen mistte.
-- ...
-- ...
+- "Het zou handig zijn als een systeem stress kan detecteren voordat het te erg wordt."
+- "Een discreet signaal, zoals een trilling, zou helpen zonder cliënten te storen."
+- "Als ik nog een keer zou kunnen kiezen, kies ik voor de armband."
+- "Een discreet signaal, zoals een trilling, zou voorkomen dat cliënten geïrriteerd of boos worden."
 
-> "Als ik nog een keer zou kunnen kiezen, kies ik voor de armband."
 
 #### Conclusies & implicaties:
 Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements:
