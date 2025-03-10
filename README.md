@@ -154,7 +154,9 @@ Voor wave 1 hebben we onderzocht waar we de wearable kunnen plaatsen. De mogelij
 #### Storyboarding $${\color{red}Aanvullen+foto's}$$
 De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra ze het apparaat inschakelt, verschijnt er een lichtsignaal. Enkele uren later voelt ze een trilling, wat aangeeft dat het tijd is voor een korte pauze. Na ongeveer vijf minuten hervat ze haar werk. Aan het einde van haar shift plaatst ze de wearable op de oplader.
 <p align="left">
-  <img src="Map foto's2/8112e892-8d4c-4fd9-b0f8-bdf00dfc6cca.JPG" width="45%">
+  <img src="Map foto's2/Wave 1/Storyboard wave1.1.png" width="500px">
+	<img src="Map foto's2/Wave 1/Storyboard wave1.2.png" style="width: 500px;">
+	<img src="Map foto's2/Wave 1/Storyboard wave1.3.png" style="width: 500px;">
 </p>
 
 #### MoSCow $${\color{red}Aanvullen+foto's}$$
