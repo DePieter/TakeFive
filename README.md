@@ -285,8 +285,8 @@ Er is geen algemene oefening voor stress te verminderen.
 > - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
 > - Gestalt wetten toepassen voor feedbackunit
 
-# Devellop
-De devellop fase draait rond het verfijnen van het product. Hiervoor wordt de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing.
+# Develop
+De develop fase draait rond het verfijnen van het product. Hiervoor wordt de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing.
 
 ### Doelstellingen
 - Prototype verfijnen
