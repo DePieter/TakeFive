@@ -49,21 +49,20 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 
 
 
-##Discovery
+## Discovery
 De discoveryfase richt zich op het definiëren van de probleemruimte, niet op productontwikkeling. Via user interviews wordt bepaald welke problemen prioritair zijn, wat resulteert in een goed geformuleerde "how might we"-vraag.
 
-###Doelstelling
+### Doelstelling
 Een heldere "how might we"-vraag formuleren binnen de probleemruimte.
 
-Materiaal & Methoden
+### Materiaal & Methoden:
 
-User interviews (N=3)
+-User interviews (N=3)
 
-Literature reviews (N=10)
+-Literature reviews (N=10)
 
-Resultaten
 
-###Probleemruimte
+### Probleemruimte
 Op basis van literatuuronderzoek zijn de volgende kernproblemen gedefinieerd:
 
 Sinds 2019 heerst structurele werkdruk in de zorgsector, met als grootste impact op zorgpersoneel. In 2023 liep 14,4% risico op burn-out (Vlaamse Werkbaarheidsmonitor, 2023)[2].
@@ -85,7 +84,7 @@ Enkele relevante uitspraken:
 
 Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden en als abnormaal worden beschouwd.
 
-###5WH Methode
+### 5WH Methode
 Deze methode verduidelijkt de probleemruimte:
 
 Wie? Verpleeg- en zorgkundigen
@@ -100,7 +99,7 @@ Waarom? Personeelstekort
 
 Hoeveel? 43% van woonzorgmedewerkers
 
-###Literature Reviews (N=10)
+### Literature Reviews (N=10)
 Haalbaarheidsonderzoek richt zich op meetbare biomarkers:
 
 Chemische biomarkers zoals C-reactief (bloed/speeksel) zijn moeilijk frequent meetbaar.
@@ -117,10 +116,10 @@ Burn-out kost de zorgsector jaarlijks €228 miljoen (+10% in vijf jaar).
 
 Huidige interventies bestaan uit korte dagelijkse check-ups, maar missen effectiviteit.
 
-###PESTLE Methode
+### PESTLE Methode
 De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
 
-###Conclusie
+### Conclusie
 > [!IMPORTANT]
 > Design Requirements:
 >Aansluiten op de hoofdoorzaak: personeelstekort.
@@ -132,7 +131,7 @@ De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeri
 >Niet alle medewerkers ervaren de impact even sterk; product moet zowel pain-relief als value-promise bieden.
 >HRV is de meest geschikte biomarker.
 
-###Oorzaken & Gevolgen
+### Oorzaken & Gevolgen
 
 Personeelstekort leidt tot langere shifts en ingekorte/overgeslagen pauzes, wat stress verergert.
 
@@ -142,7 +141,7 @@ Kosten & trends: Burn-outproblematiek groeit en vereist preventieve maatregelen.
 
 Oorzaken van stress: Werkdruk is de voornaamste factor, versterkt door personeelstekort en een gebrek aan structurele oplossingen.
 
-###Inzichten uit Onderzoek
+### Inzichten uit Onderzoek
 Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
 
 ## Definition
