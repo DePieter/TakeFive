@@ -49,88 +49,101 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 
 
 
-## Discovery
-De discovery fase draait rond het definieren van de probleemruimte waarbij de focus daadwerkelijk ligt op het definiëren van het probleem en niet op het maken van een product. Nadat de probleemruimte is afgebakend, geven de user interviews aan welke problemen er best worden aangepakt om uiteindelijk een goed geformuleerde "how might we" te bekomen. Concreet wordt dit eerste, onderzoekende deel ondersteund door user interviews, literatuurstudies, 5WH- en PESTEL-methode, welke allen bijdragen tot het identificiëren van kerninzichten.
+##Discovery
+De discoveryfase richt zich op het definiëren van de probleemruimte, niet op productontwikkeling. Via user interviews wordt bepaald welke problemen prioritair zijn, wat resulteert in een goed geformuleerde "how might we"-vraag.
 
-### Doestellingen
-Een goed geformuleerde "how might we" vormen voor de probleemruimte.
+###Doelstelling
+Een heldere "how might we"-vraag formuleren binnen de probleemruimte.
 
-### Materiaal & methoden
-- User interviews (N=3)
-- Literature reviews (N=10)
-- 5W-methode
-- PESTLE methode
+Materiaal & Methoden
 
-### User interviews (N=3) $${\color{red}herwerken}$$
-Hier zit je nog steeds in de discovery fase, je bent nog aan het onderzoeken wat het probleem is, je zou hier nog niet bezig mogen zijn met een concept.
+User interviews (N=3)
 
-Aan de hand van user interviews kunnen de bevindingen over de toepassingen van een stressmonitor in de zorgsector worden opgenomen. De inzichten die hieruit voortkomen kunnen de effectiviteit, mogelijke hindernissen en ontwerpimplicaties identificeren.
-Hieruit werd bevestigd dat werkdruk binnen de zorg hoog ligt en daarom als probleem kan worden gezien. Hiervoorzijn er drie interviews afgelegd bij studentes uit de richting verpleegkunde. Dit omdat ze gedurende hun opleiding op verschillende afdelingen stage lopen en zo tal van problemen tegenkomen en inzichten in verkrijgen.
-Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5W- en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
+Literature reviews (N=10)
 
+Resultaten
+
+###Probleemruimte
+Op basis van literatuuronderzoek zijn de volgende kernproblemen gedefinieerd:
+
+Sinds 2019 heerst structurele werkdruk in de zorgsector, met als grootste impact op zorgpersoneel. In 2023 liep 14,4% risico op burn-out (Vlaamse Werkbaarheidsmonitor, 2023)[2].
+
+Burn-outsymptomen stegen het sterkst in woonzorgcentra (+7,2% tussen 2013-2023) en door vergrijzing blijft deze sector kwetsbaar [2].
+
+Werkstress wordt voornamelijk veroorzaakt door een te hoge werkdruk, wat zowel werk-privébalans als welzijn negatief beïnvloedt (41,8% van zorgmedewerkers) [2].
+
+Gezien de hoogste werkdruk binnen woonzorgcentra bij verpleeg- en zorgkundigen ligt, vormt deze groep de primaire doelgroep.
+
+###User Interviews (N=3)
+Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
+
+Enkele relevante uitspraken:
+
+“Door personeelstekort sla ik vaak mijn korte pauze over.”
+
+“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
+
+Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden en als abnormaal worden beschouwd.
+
+###5WH Methode
+Deze methode verduidelijkt de probleemruimte:
+
+Wie? Verpleeg- en zorgkundigen
+
+Wat? Hoge werkdruk
+
+Waar? Woonzorgcentra en ziekenhuizen
+
+Wanneer? Voornamelijk ochtend- en avondzorgen
+
+Waarom? Personeelstekort
+
+Hoeveel? 43% van woonzorgmedewerkers
+
+###Literature Reviews (N=10)
+Haalbaarheidsonderzoek richt zich op meetbare biomarkers:
+
+Chemische biomarkers zoals C-reactief (bloed/speeksel) zijn moeilijk frequent meetbaar.
+
+Fysische biomarkers, zoals hartslagvariabiliteit (HRV), blijken het meest haalbaar [1][3].
+
+Uit [2] blijkt:
+
+41,8% van verpleeg- en zorgkundigen ervaart hoge werkdruk als burn-outfactor.
+
+Sinds de pandemie steeg langdurig ziekteverzuim met 50%.
+
+Burn-out kost de zorgsector jaarlijks €228 miljoen (+10% in vijf jaar).
+
+Huidige interventies bestaan uit korte dagelijkse check-ups, maar missen effectiviteit.
+
+###PESTLE Methode
+De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
+
+###Conclusie
 > [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> wat heb je geleerd
+> Design Requirements:
+>Aansluiten op de hoofdoorzaak: personeelstekort.
+>Focus op woonzorgcentra, met mogelijke uitbreiding naar andere settings.
+>Rekening houden met personeelsbezetting.
+>Ochtend- en avondzorgen kennen de hoogste werkdruk.
+>Flexibele pauzemomenten in plaats van vaste schema’s.
+>Een passieve, kalmerende werking is noodzakelijk.
+>Niet alle medewerkers ervaren de impact even sterk; product moet zowel pain-relief als value-promise bieden.
+>HRV is de meest geschikte biomarker.
 
-### Literature reviews (N=10) $${\color{red}herwerken}$$
-Hier zit je nog steeds in de discovery fase, je bent nog aan het onderzoeken wat het probleem is, je zou hier nog niet bezig mogen zijn met een concept.
+###Oorzaken & Gevolgen
 
-De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parameters van het menselijk lichaam, de zogenaamde biomarkers, vereisen bijzondere aandacht, evenals de technologieën en methoden voor hun meting. In dit kader zijn de volgende thema’s onderzocht:
-- Doelgroep
-- Jaarlijkse kost en evolutie van het probleem
-- Biomarkers
-- Oorzaken van Burn-out
-- Huidig onderzoek omtrent biomarkers en meetbaarheid van burnout
-- Burnout preventie en interventie
-- Technische haalbaarheid
+Personeelstekort leidt tot langere shifts en ingekorte/overgeslagen pauzes, wat stress verergert.
 
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> wat heb je geleerd
+Dubbel negatief effect: Hogere werkdruk verhoogt stress en vermindert herstelmomenten.
 
-### 5W methode $${\color{red}aanvullen}$$
-Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
+Kosten & trends: Burn-outproblematiek groeit en vereist preventieve maatregelen.
 
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> wat heb je geleerd
+Oorzaken van stress: Werkdruk is de voornaamste factor, versterkt door personeelstekort en een gebrek aan structurele oplossingen.
 
-### PESTLE methode $${\color{red}aanvullen}$$
-Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
-
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> wat heb je geleerd
-
-### Conclusie
-#### Oorzaken en Gevolgen
-- Personeelstekorten leiden tot langere shifts en kortere pauzes. In veel gevallen worden pauzes zelfs volledig overgeslagen bij een verhoogde werkdruk, wat resulteert in een verdere toename van stressniveaus. Onderstaande grafiek toont aan dat werkdruk een aanzienlijke impact heeft op de werk-privébalans van een groot deel van het personeel.
-
-<div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="Map foto's2/Background.png" style="width: 25%;">
-    <img src="Map foto's2/graph.jpg" style="width: 50%;">
-</div>
-
-
-
-- Burn-out Statistieken: Sinds de pandemie is langdurig ziekteverzuim met 50% toegenomen. De geschatte jaarlijkse kosten voor burn-out in de zorgsector bedragen ongeveer €228 miljoen, met een stijging van 10% in vijf jaar.
-- Dubbel Negatief Effect: Verhoogde werkdruk leidt niet alleen tot meer stres, maar ook tot het uitstellen of overslaan van pauzes, wat het probleem verder verergert.
-- Kosten en Trends: Burn-out blijft een groeiend probleem met substantiële economische en sociale impact. Preventieve maatregelen zijn daarom essentieel.
-- Oorzaak van Stres: Werkdruk is de belangrijkste drijfveer achter stress, versterkt door personeelstekorten en een gebrek aan structurele oplossingen.
-
-#### Inzichten uit Onderzoek
-Deze discoveryfase heeft inzicht gegeven in zowel het probleem als de betrokken stakeholders (verpleegkundigen in WZC). Door middel van interviews, literatuurstudie, de 5W-methode en PESTLE-analyse zijn de eerste design requirements vastgesteld. Deze vormen de basis voor de volgende definitionfase. Hieronder worden de design requirements die zijn vastgesteld in de discoveryfase neergeschreven. In deel $${\color{red}XXX}$$ is een samenvattende tabel opgenomen met alle design requirements van het volledige project.
-
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> wat heb je geleerd uit de interviews, PESTLE, 5W,...? kan iets zijn zoals:
-> -  Real-time Monitoring: De geïnterviewde verpleegkundigen benadrukken dat real-time monitoring van stressniveaus cruciaal is, omdat ingrepen momenteel vaak te laat komen. Direct inzicht in stressniveaus stelt gebruikers in staat sneller te reageren en stress te beheersen voordat het zich opstapelt.
-> - Gebruiksvriendelijk Ontwerp: verpleegkundigen geven aan dat ze fysiek zo ongestoord mogelijk kunnen doorwerken.
-> - ...
-> - ...
-> - ....
-> - ...
-> - ...
+###Inzichten uit Onderzoek
+Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
 
 ## Definition
 In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
