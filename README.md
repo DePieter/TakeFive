@@ -170,12 +170,11 @@ De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra
 #### MoSCow $${\color{red}Aanvullen+foto's}$$
 | Must                  | Should              | Could               | Wouldn't                 |
 |-----------------------|--------------------|---------------------|--------------------------|
-| Easily cleanable     |Be stuck in one place | Er leuk uit zien  | Luid zijn               |
-| Positieve feedback  | Licht maken        | Notify others | Be intrusive         |
-| Low cost            | Always be with the person     | Kunnen snoozen      | Annoying                |
-| Notify higher ups | Teambuilding pauzes |    | Attract the user while it shouldn’t |
-| Leuke interacties| Be connected to WiFi/have memory |  |   |
-
+| Makkelijk schoon te maken | Vastzitten op één plek | Er leuk uitzien | Luid zijn |
+| Positieve feedback        | Licht geven           | Anderen waarschuwen | Opdringerig zijn |
+| Goedkoop                  | Altijd bij de persoon zijn | Kunnen snoozen | Vervelend |
+| Hogerop verwittigen       | Teambuilding pauzes   |                 | De gebruiker aantrekken wanneer dat niet zou moeten |
+| Leuke interacties         | Verbonden zijn met wifi/intern geheugen hebben |  |   |
 
 #### Prototyping $${\color{red}Herschrijven}$$
 Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om meerdere testpersonen tegelijk te laten testen. Voor de feedbackunit hebben we alle mogelijke signaleringsmethoden geïntegreerd in twee compacte apparaten, die op afstand kunnen worden aangestuurd met onze gsm. Hieronder worden de prototypes weergegeven en beschreven.
