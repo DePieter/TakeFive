@@ -25,6 +25,15 @@ In de Belgische zorgsector ervaren veel zorgverleners een verhoogd risico op bur
 
 Om deze problematiek aan te pakken, wordt Take Five ontwikkeld: een innovatief systeem dat werkstress monitort en op basis van fysiologische signalen zoals hartslagvariabiliteit en cortisolniveau pauzes voorstelt. De wearable geeft subtiele meldingen bij hoge stressniveaus en stelt wetenschappelijk onderbouwde pauzes voor. Dit verhoogt het stressbewustzijn, helpt burn-out voorkomen en verbetert de werkervaring in de zorg.
 
+
+$${\color{red}versie-7:}$$
+> _Goede zorg start bij goede zelfzorg._
+Zorgverleners in woonzorgcentra ervaren hoge werkstress, wat vaak leidt tot burn-out. Omdat stress vaak telaat wordt herkend en/of aangepakt, kan dit op langere termijn lijden tot een burn out. Om dit probleem aan te pakken, is onderzoek uitgevoerd dat start vanuit een discoveryfase. In deze fase wordt het probleem zoveel mogelijk in kaart gebracht d.m.v. **literatuuronderzoek, PESTLE-analyse, interviews, ... ** Hiermee staat de mindset "Fall in love with the problem, not the solution" centraal. 
+
+In de definitionfase werden inzichten vertaald naar ontwerpcriteria via iteratieve prototyping, rollpay, concept testing,... . Dit leidde tot Take Five, een systeem dat zorgverleners bewust maakt van hun stressniveau. Het bestaat uit een wearable die stress meet, een Verfificator die data verwerkt en wetenschappelijk onderbouwde pauzes voorstelt en logt, en een feedbackunit die persoonsgerichte feedback geeft.
+
+Take Five helpt zorgverleners hun stressniveau tijdig te herkennen , beheersbaar en bespreekbaar te maken om een werkomgeving te creëren waarin zorg voor elkaar en voor zichzelf centraal staat**.
+
 ![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
 
 ## Introductie
