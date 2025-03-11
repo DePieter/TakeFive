@@ -27,6 +27,7 @@ Om deze problematiek aan te pakken, wordt Take Five ontwikkeld: een innovatief s
 
 
 $${\color{red}versie-7:}$$
+
 > _Goede zorg start bij goede zelfzorg._
 
 Zorgverleners in woonzorgcentra ervaren hoge werkstress, wat vaak leidt tot burn-out. Omdat stress vaak telaat wordt herkend en/of aangepakt, kan dit op langere termijn lijden tot een burn out. Om dit probleem aan te pakken, is onderzoek uitgevoerd dat start vanuit een discoveryfase. In deze fase wordt het probleem zoveel mogelijk in kaart gebracht d.m.v. **literatuuronderzoek, PESTLE-analyse, interviews, ... ** Hiermee staat de mindset "Fall in love with the problem, not the solution" centraal. 
