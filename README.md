@@ -30,6 +30,8 @@ Om deze problematiek aan te pakken, wordt Take Five ontwikkeld: een innovatief s
 ## Introductie
 Max 300 woorden. Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions). Maak gebruik van bronverwijzingen
 
+hierin ook probleemruimte beschrijven
+
 Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro [^2] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren. Take Five biedt een gebruiksvriendelijk ontwerp waabij de stakeholders zoals de zorgverleners maar ook collega's en bewoners centraal staan.
 > _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
@@ -60,9 +62,6 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 ## Discovery
 De discovery fase draait rond het definieren van de probleemruimte waarbij de focus daadwerkelijk ligt op het definiëren van het probleem en niet op het maken van een product. Nadat de probleemruimte is afgebakend, geven de user interviews aan welke problemen er best worden aangepakt om uiteindelijk een goed geformuleerde "how might we" te bekomen. Concreet wordt dit eerste, onderzoekende deel ondersteund door user interviews, literatuurstudies, 5WH- en PESTEL-methode, welke allen bijdragen tot het identificiëren van kerninzichten.
 
-### Probleemruimte $${\color{red}aanvullen}$$
-De probleemruimte bakend zich af...
-
 ### Doestellingen
 Een goed geformuleerde "how might we" vormen voor de probleemruimte.
 
@@ -79,6 +78,10 @@ Aan de hand van user interviews kunnen de bevindingen over de toepassingen van e
 Hieruit werd bevestigd dat werkdruk binnen de zorg hoog ligt en daarom als probleem kan worden gezien. Hiervoorzijn er drie interviews afgelegd bij studentes uit de richting verpleegkunde. Dit omdat ze gedurende hun opleiding op verschillende afdelingen stage lopen en zo tal van problemen tegenkomen en inzichten in verkrijgen.
 Tijdens deze interviews zijn er vragen gesteld omtrent het bevinden van een stressmonitor, werkdruk en hoe deze juist in een bepaalde omgeving zou passen. Aan de hand van 5W- en de PESTLE methode werden de antwoorden extra bevestigd en verfijnd.
 
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> wat heb je geleerd
+
 ### Literature reviews (N=10) $${\color{red}herwerken}$$
 Hier zit je nog steeds in de discovery fase, je bent nog aan het onderzoeken wat het probleem is, je zou hier nog niet bezig mogen zijn met een concept.
 
@@ -91,11 +94,23 @@ De haalbaarheid vormt een cruciaal aspect binnen dit project. De meetbare parame
 - Burnout preventie en interventie
 - Technische haalbaarheid
 
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> wat heb je geleerd
+
 ### 5W methode $${\color{red}aanvullen}$$
 Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> wat heb je geleerd
+
 ### PESTLE methode $${\color{red}aanvullen}$$
 Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
+
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> wat heb je geleerd
 
 ### Conclusie
 #### Oorzaken en Gevolgen
@@ -134,7 +149,7 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
 
 ### Materiaal & methoden $${\color{red}aanvullen}$$
 Twee waves die gebruik maken van volgende methodologiën:
-- Design sketches
+- Ideation
 - Storyboarding
 - MoSCow
 - Prototyping
@@ -382,6 +397,47 @@ zie opbouw van vorige waves
 > -  alle design requirements van wave 1
 > -  ...
 >
+
+## Product requirements
+
+### Wearable
+
+| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
+|------|-----------------------------------------------------------------------------------|--------|---------|------------|
+| WDR1  | X | X | X | X |
+| WDR2  | X | X | X | X |
+| WDR3  | X | X | X | X |
+| WDR4  | X | X | X | X |
+| WDR5  | X | X | X | X |
+| WDR6  | X | X | X | X |
+| WDR7  | X | X | X | X |
+| WDR8  | X | X | X | X |
+
+### Verificator
+
+| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
+|------|-----------------------------------------------------------------------------------|--------|---------|------------|
+| VDR1  | X | X | X | X |
+| VDR2  | X | X | X | X |
+| VDR3  | X | X | X | X |
+| VDR4  | X | X | X | X |
+| VDR5  | X | X | X | X |
+| VDR6  | X | X | X | X |
+| VDR7  | X | X | X | X |
+| VDR8  | X | X | X | X |
+
+### Feedbackunit
+
+| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
+|------|-----------------------------------------------------------------------------------|--------|---------|------------|
+| FUDR1  | X | X | X | X |
+| FUDR2  | X | X | X | X |
+| FUDR3  | X | X | X | X |
+| FUDR4  | X | X | X | X |
+| FUDR5  | X | X | X | X |
+| FUDR6  | X | X | X | X |
+| FUDR7  | X | X | X | X |
+| FUDR8  | X | X | X | X |
 
 ## Bill of materials
 - EVA-foam
