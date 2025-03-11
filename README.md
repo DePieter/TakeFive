@@ -399,6 +399,20 @@ zie opbouw van vorige waves
 >
 
 ## Product requirements
+Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
+
+### Feedbackunit
+
+| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
+|------|-----------------------------------------------------------------------------------|--------|---------|------------|
+| FUDR1  | X | X | X | X |
+| FUDR2  | X | X | X | X |
+| FUDR3  | X | X | X | X |
+| FUDR4  | X | X | X | X |
+| FUDR5  | X | X | X | X |
+| FUDR6  | X | X | X | X |
+| FUDR7  | X | X | X | X |
+| FUDR8  | X | X | X | X |
 
 ### Wearable
 
@@ -426,18 +440,7 @@ zie opbouw van vorige waves
 | VDR7  | X | X | X | X |
 | VDR8  | X | X | X | X |
 
-### Feedbackunit
 
-| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
-|------|-----------------------------------------------------------------------------------|--------|---------|------------|
-| FUDR1  | X | X | X | X |
-| FUDR2  | X | X | X | X |
-| FUDR3  | X | X | X | X |
-| FUDR4  | X | X | X | X |
-| FUDR5  | X | X | X | X |
-| FUDR6  | X | X | X | X |
-| FUDR7  | X | X | X | X |
-| FUDR8  | X | X | X | X |
 
 ## Bill of materials
 - EVA-foam
