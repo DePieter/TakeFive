@@ -106,7 +106,7 @@ Wat is het, waarom is het nuttig, hoe werkt het, wat heb je er uit geleerd?
 #### Oorzaken en Gevolgen
 - Personeelstekorten leiden tot langere shifts en kortere pauzes. In veel gevallen worden pauzes zelfs volledig overgeslagen bij een verhoogde werkdruk, wat resulteert in een verdere toename van stressniveaus. Onderstaande grafiek toont aan dat werkdruk een aanzienlijke impact heeft op de werk-privébalans van een groot deel van het personeel.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="Map foto's2/graph.jpg" style="width: 50%;">
 </div>
 
