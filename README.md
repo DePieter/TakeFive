@@ -73,7 +73,7 @@ Werkstress wordt voornamelijk veroorzaakt door een te hoge werkdruk, wat zowel w
 
 Gezien de hoogste werkdruk binnen woonzorgcentra bij verpleeg- en zorgkundigen ligt, vormt deze groep de primaire doelgroep.
 
-###User Interviews (N=3)
+### User Interviews (N=3)
 Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
 
 Enkele relevante uitspraken:
