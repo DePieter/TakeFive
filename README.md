@@ -30,8 +30,6 @@ Om deze problematiek aan te pakken, wordt Take Five ontwikkeld: een innovatief s
 ## Introductie
 Max 300 woorden. Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions). Maak gebruik van bronverwijzingen
 
-hierin ook probleemruimte beschrijven
-
 Zorgverleners ervaren veel stress, dit is voornamelijk het gevolg van hoge werkdruk. Dit blijkt uit zowel interviews met zorgverleners als literatuuronderzoek, waaronder wetenschappelijke artikelen zoals het rapport van Zorgnet-Icuro [^2] dit bevestigd, zo heeft 1 op de 5 zorgverleners een grote kans een burn-out op te lopen. In de zorgsector is personeelstekort een groot probleem, daarom is het belangrijk om in te zetten op stimulatie en welzijn van zorgverleners om zo het werk aangenaam en stresloos te houden. Take Five speelt in op de stres van zorgverleners met een systeem dat d.m.v. een stresmeting pauzes voorstelt, waardoor gebruikers minder stres zullen ervaren. Take Five biedt een gebruiksvriendelijk ontwerp waabij de stakeholders zoals de zorgverleners maar ook collega's en bewoners centraal staan.
 > _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
 
@@ -44,6 +42,25 @@ Burn-outs in de zorg zijn een cumulerend probleem, waarbij verschillende factore
 
 TakeFive heeft als doel een product te ontwikkelen dat zorgverleners ondersteunt in hun herstel, door op de juiste momenten in te grijpen, en zo het risico op burn-out te verlagen. Hierbij staat zowel de zorgverleners als de bewoners centraal.
 > _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
+
+$${\color{red}nieuwe-tekst:}$$
+In de Belgische zorgsector loopt één op de vijf verpleegkundigen een groot risico op burn-out, en bijna 40% van de zorgverleners ervaart te veel werkstress [^1]. Dit probleem leidt tot ziekteverzuim en hoge kosten: in 2021 werd meer dan 1,8 miljard euro besteed aan arbeidsongeschiktheid door burn-out en depressie, een stijging van 59% sinds 2016 [^3]. Zorgverleners missen echter vaak directe en persoonlijke feedback over hun stressniveau, waardoor tijdig ingrijpen uitblijft.
+
+> _Ieder jaar wordt er 280 miljoen euro gespendeert aan burnouts in de zorgsector._
+> _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
+
+
+Om deze uitdaging aan te pakken, wordt Take Five ontwikkeld: een systeem dat werkstress monitort en via real-time feedback zorgverleners bewust maakt van hun stressniveau. Het systeem bestaat uit een wearable die fysiologische signalen zoals hartslagvariabiliteit meet, gekoppeld aan een fysieke feedbackunit. De wearable geeft subtiele meldingen bij verhoogde stress en stelt d.m.v. de zogenaamde verificator wetenschappelijk onderbouwde pauzes voor. De feedbackunit toont op een visuele manier de stressstatus van elke individuele zorgverlener.
+
+De doelstelling is om een laagdrempelig en persoonsgebonden systeem te creëren dat stress beheersbaar én bespreekbaar maakt op de werkvloer.
+
+De belangrijkste randvoorwaarden zijn:
+
+Persoonsgebonden: duidelijk welke feedback bij wie hoort.
+Eenvoudig en snel uitleesbaar tijdens het werk.
+Real-time en dynamisch: zo weinig mogelijk vertraging
+
+Met Take Five willen we bijdragen aan het vroegtijdig herkennen en verlagen van stress bij zorgpersoneel, wat uiteindelijk burn-out helpt voorkomen en het welzijn verhoogt. Binnen dit project wordt het onderzoek slechts uitgevoerd voor woonzorgcentra (WZC).
 
 ## Methodologie
 Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^5].
