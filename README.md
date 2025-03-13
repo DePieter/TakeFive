@@ -314,7 +314,7 @@ $${\color{red}X}$$ Waves die gebruik maken van volgende methodologiën:
 - Prototyping
 - User testing
 
-### **Wave 3 (N=5)** 
+### Wave 3 (N=5)
 Hoewel de devellopfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (devellop).
 
 #### Brainstorming
@@ -402,6 +402,34 @@ zie opbouw van vorige waves
 > -  alle design requirements van wave 1
 > -  ...
 >
+
+### Wave 4 (N=5) 
+inleidende uitelg
+
+#### brainstorming
+blabalbalbal
+
+> [!IMPORTANT]
+> Design requirements
+> - 
+
+#### Ideation
+blabalabala
+
+> [!IMPORTANT]
+> Design requirements
+> -
+>
+
+#### User testing
+blabalablaba
+
+> [!IMPORTANT]
+> Design requirements
+> - 
+
+#### Conclusies en implicaties
+blabalbalbalbala
 
 ## Product requirements
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
