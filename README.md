@@ -14,7 +14,8 @@ In de definitionfase werden inzichten vertaald naar ontwerpcriteria via iteratie
 
 **Take Five helpt zorgverleners hun stressniveau tijdig te herkennen, beheersbaar en bespreekbaar** te maken om een werkomgeving te creëren waar zelfzorg en zorg voor elkaar, centraal staat.
 
-![image](https://github.com/user-attachments/assets/f6e94998-e4ee-4921-ab7d-250a4c4f87e3)
+![take five logo v3](https://github.com/user-attachments/assets/d317c005-faf6-4767-a333-b6ec036cd9b9)
+
 
 ## Introductie
 In de Belgische zorgsector loopt één op de vijf verpleegkundigen een groot risico op burn-out, en bijna 40% van de zorgverleners ervaart te veel werkstress [^1]. Dit probleem leidt tot ziekteverzuim en hoge kosten: in 2021 werd meer dan 1,8 miljard euro besteed aan arbeidsongeschiktheid door burn-out en depressie, een stijging van 59% sinds 2016 [^3]. Zorgverleners missen echter vaak directe en persoonlijke feedback over hun stressniveau, waardoor tijdig ingrijpen uitblijft.
