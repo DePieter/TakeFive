@@ -399,7 +399,7 @@ zie opbouw van vorige waves
 
 > [!IMPORTANT]
 > Design Requirements: $${\color{red}aanvullen}$$
-> -  alle design requirements van wave 1
+> -  jj
 > -  ...
 >
 
@@ -410,27 +410,39 @@ inleidende uitelg
 blabalbalbal
 
 > [!IMPORTANT]
-> Design requirements
-> - 
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  bfb
+> -  ...
+>
+ 
 
 #### Ideation
 blabalabala
 
 > [!IMPORTANT]
-> Design requirements
-> -
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  gfdalle
+> -  ...
 >
 
 #### User testing
 blabalablaba
 
 > [!IMPORTANT]
-> Design requirements
-> - 
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  avvvv
+> -  ...
+>
+
 
 #### Conclusies en implicaties
 blabalbalbalbala
 
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> -  alle design requirements van wave 4
+> -  ...
+>
 ## Product requirements
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
 
