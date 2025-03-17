@@ -165,7 +165,7 @@ Twee waves die gebruik maken van volgende methodologiën:
   
 ### **Wave 1 (N=5)**
 ---
-#### Ideation $${\color{red}Aanvullen+foto's}$$
+#### Ideation
 Voor wave 1 hebben we onderzocht waar we de wearable kunnen plaatsen. De mogelijke locaties worden bepaald door medische richtlijnen en de geschiktheid voor hartslagmeting. Uiteindelijk blijven er drie opties over: de borst, de benen en de bovenarm. De benen vallen af vanwege het sociale stigma rondom enkelmonitors.
 
 <p align="left">
@@ -174,7 +174,7 @@ Voor wave 1 hebben we onderzocht waar we de wearable kunnen plaatsen. De mogelij
 	  <img src="Map foto's2/Wave 1/design wave 1.1.png" style="height:200px;">
 </p>
 
-#### Storyboarding $${\color{red}Aanvullen+foto's}$$
+#### Storyboarding
 De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra ze het apparaat inschakelt, verschijnt er een lichtsignaal. Enkele uren later voelt ze een trilling, wat aangeeft dat het tijd is voor een korte pauze. Na ongeveer vijf minuten hervat ze haar werk. Aan het einde van haar shift plaatst ze de wearable op de oplader.
 <p align="left">
   <img src="Map foto's2/Wave 1/Storyboard wave1.1.png" width="500px">
@@ -182,7 +182,7 @@ De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra
 	<img src="Map foto's2/Wave 1/Storyboard wave1.3.png" style="width: 500px;">
 </p>
 
-#### MoSCow $${\color{red}Aanvullen+foto's}$$
+#### MoSCow
 | Must                  | Should              | Could               | Wouldn't                 |
 |-----------------------|--------------------|---------------------|--------------------------|
 | Makkelijk schoon te maken | Vastzitten op één plek | Er leuk uitzien | Luid zijn |
@@ -191,7 +191,7 @@ De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra
 | Hogerop verwittigen       | Teambuilding pauzes   |                 | De gebruiker aantrekken wanneer dat niet zou moeten |
 | Leuke interacties         | Verbonden zijn met wifi/intern geheugen hebben |  |   |
 
-#### Prototyping $${\color{red}Herschrijven}$$
+#### Prototyping
 Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om meerdere testpersonen tegelijk te laten testen. Voor de feedbackunit hebben we alle mogelijke signaleringsmethoden geïntegreerd in twee compacte apparaten, die op afstand kunnen worden aangestuurd met onze gsm. Hieronder worden de prototypes weergegeven en beschreven.
 <table>
   <tr>
