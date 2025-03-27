@@ -446,17 +446,17 @@ blabalbalbalbala
 > -  ...
 >
 
-Develop 1: [focus]  /
+Develop 1: [focus]  
 Doelstellingen (cfr. methodologie)
 Materiaal en methoden
 Resultaten
 Conclusies & implicaties (design requirements en beslissingen)
-Develop 2: [focus]  /
+Develop 2: [focus]  
 Doelstellingen (cfr. methodologie)
 Materiaal en methoden
 Resultaten
 Conclusies & implicaties (design requirements en beslissingen)
-Develop: 3 [focus]  /
+Develop: 3 [focus]  
 Doelstellingen (cfr. methodologie)
 Materiaal en methoden
 Resultaten
