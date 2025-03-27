@@ -445,6 +445,34 @@ blabalbalbalbala
 > -  alle design requirements van wave 4
 > -  ...
 >
+
+Develop 1: [focus]
+Doelstellingen (cfr. methodologie)
+Materiaal en methoden
+Resultaten
+Conclusies & implicaties (design requirements en beslissingen)
+Develop 2: [focus]
+Doelstellingen (cfr. methodologie)
+Materiaal en methoden
+Resultaten
+Conclusies & implicaties (design requirements en beslissingen)
+Develop: 3 [focus]
+Doelstellingen (cfr. methodologie)
+Materiaal en methoden
+Resultaten
+Conclusies & implicaties (design requirements en beslissingen)
+Conclusie
+Slotbevindingen
+Tabel met de finale design requirements
+
+
+
+Technische beschrijving
+Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
+Hiermee moet iemand die wel verderwerken op je product genoeg hebben om dit na te bouwen.
+
+
+
 ## Product requirements
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
 
@@ -490,6 +518,10 @@ Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTL
 
 
 ## Bill of materials
+Technische beschrijving
+Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
+Hiermee moet iemand die wel (wil?) verderwerken op je product genoeg hebben om dit na te bouwen.
+
 - EVA-foam
 - Velcrostrips
 - zachte elastische stof
@@ -498,6 +530,10 @@ Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTL
 - Led strip +- 40cm
 
 ## Kritische reflectie
+Kritische reflectie
+Over SEM1 en SEM2
+Over zowel het ontwerp zelf, de methodologie, de uitgevoerde testen en analyses, de gemaakte prototypes, als openstaande onderzoeksvragen (future reserach should focus on …) 
+
 
 In het eerste semester van dit project hebben we ons gericht op het testen van een breed scala aan mogelijkheden en het verifiëren van de resultaten. Dit proces heeft ons waardevolle inzichten opgeleverd, die we hebben gebruikt om ons uiteindelijke concept goed te onderbouwen.
 
