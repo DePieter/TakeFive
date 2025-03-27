@@ -450,26 +450,22 @@ Develop 1: [focus]
 Doelstellingen (cfr. methodologie)
 Materiaal en methoden
 Resultaten
-Conclusies & implicaties (design requirements en beslissingen)
+Conclusies & implicaties (design requirements en beslissingen)/
 Develop 2: [focus]  
 Doelstellingen (cfr. methodologie)
 Materiaal en methoden
 Resultaten
-Conclusies & implicaties (design requirements en beslissingen)
+Conclusies & implicaties (design requirements en beslissingen)/
 Develop: 3 [focus]  
 Doelstellingen (cfr. methodologie)
 Materiaal en methoden
 Resultaten
-Conclusies & implicaties (design requirements en beslissingen)
+Conclusies & implicaties (design requirements en beslissingen)/
 Conclusie  
-Slotbevindingen
-Tabel met de finale design requirements
+Slotbevindingen  
+Tabel met de finale design requirements  
 
 
-
-Technische beschrijving
-Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
-Hiermee moet iemand die wel verderwerken op je product genoeg hebben om dit na te bouwen.
 
 
 
