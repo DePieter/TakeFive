@@ -252,39 +252,47 @@ De bekomen design requirements worden gebruikt om het ontwerp aan te passen en t
 
 ### **Wave 2 (N=5)**
 ---
-#### Design sketches $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
+#### Ideation $${\color{red}Aanvullen+foto's}$$
+Voor wave 2 is het de bedoeling om de prototypes uit wave 1 verder uit te werken tot volwaardige versies, die grondig getest kunnen worden. Het plan is om deze herhaaldelijk gedurende een volledige voormiddagen te laten gebruiken, waarbij het systeem zowel aangeeft wanneer een pauze nodig is als welk type pauze genomen moet worden.
 
-#### Storyboarding $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
-
-#### MoSCow $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
 
 #### Prototyping $${\color{red}Aanvullen+foto's}$$
-blablabalbalaba, fotos,
+Hierbij heeft de FU zijn eigen oplaadstation en maakt het onder andere gebruik van licht om te signaleren.
+$${\color{red}foto's}$$
 
 #### User testing
-Woonzorgcentrum De Oever  
-balbalabaablba, fotos,...
+Woonzorgcentrum De Oever 
+Om deze testen te kunnen uitvoeren, hebben we besloten om een **'Plug and Play'**-protocol te gebruiken. De deelnemers kregen hiervoor een handleiding (zie [Protocol wave 2](#bijlagen)) waarmee ze zelfstandig aan de slag konden. In deze handleiding stond uitgelegd hoe ze het systeem moesten aanzetten, reinigen en opladen. Daarnaast bevatte het ook de verschillende soorten pauzes die ze moesten nemen (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
 
 
-Hiervoor hebben we een prototype gemaakt voor op de bovenarm. Dit werd met een handleiding en uitleg gegeven aan de medewerkers die het dan elk voor één hele voormiddag (8u tot 12u) zouden dragen. Hierbij hebben ze om het uur oefeningen (ademhalen, babbelen,...) moeten doen voor hun stress te verminderen. Na iedere test heeft de medewerker enkele vragen ingevuld omtrend de oefeningen. Op het einde van alle testen hebben we nog een groepsgesprek gedaan met alle testpersonen.
 
 ### Conclusies & implicaties: $${\color{red}Herschrijven}$$
 
-Dit is geen goede conclusie, dit is gewoon een opsomming
+Deze testfase had als doel de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Op basis van de bevindingen uit het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een reële behoefte binnen de doelgroep. De resultaten bieden waardevolle inzichten op vlak van gebruikservaring, functionaliteit en ontwerpverbeteringen. Er kan dan ook verder gewerkt worden aan het concept, met aandacht voor onderstaande design requirements:
 
-Duidelijke meldingen zijn handig, een lichtje valt soms niet op.
-Er is een mogelijkheid voor het in de werkkar te verwerken.
-Er is een nood aan zo'n type product.
-Er is geen algemene oefening voor stress te verminderen.
+> **ℹ️ [!IMPORTANT] Design & Requirements**
+### Gebruikersbehoeften
+- Er is nood aan dit type product ter ondersteuning van mentale welzijn.  
+- Meldingen moeten duidelijk zijn en visueel beter opvallen dan enkel een lichtsignaal.  
+- Gebruikers willen meldingen kunnen uitschakelen of aanpassen naar persoonlijke voorkeur.
 
-- Meldingen mogen duidelijker
-- Meldingen moeten kunnen worden afgezet
-- Lightweight en compacte wearable
-- Oefeningen zijn afhankelijk van de persoon
-- Het prototype zou kleiner mogen.
+### Functionaliteit
+- De feedbackunit moet verwerkt worden in de zorgkar.  
+- De voorgestelde oefeningen moeten effectief zijn en passen in de workflow.  
+- Oefeningen moeten gepersonaliseerd kunnen worden, afgestemd op individuele noden.  
+- Het apparaat moet makkelijk in het werkproces geïntegreerd kunnen worden.  
+- Er is geen bestaande algemene oplossing voor stressvermindering – dit biedt een unieke meerwaarde.
+
+### Ontwerpcriteria
+- Draagconfiguratie: bovenarm, lichtgewicht, zo comfortabel en compact mogelijk.  
+- Het prototype moet klein, licht en compact worden uitgewerkt.  
+- Het ontwerp moet intuïtief en discreet blijven.  
+
+### Prototyping & Testing
+- Verdere tests zijn nodig om meldingen te optimaliseren in diverse werkomstandigheden.  
+- Bij de volgende iteratie moet meer aandacht gaan naar de zichtbaarheid en instelbaarheid van meldingen.  
+
+
 <p align="center">
   <img src="Map foto's2/chest.jpeg"  alt="Description" style="height:200px;"></td>
   <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg"  alt="Description" style="height:200px;"></td>
@@ -292,13 +300,7 @@ Er is geen algemene oefening voor stress te verminderen.
   <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg"  alt="Description" style="height:200px;"></td>
 </p>
 
-> [!IMPORTANT]
-> Design requirements
-> - De feedbackunit moet verwerkt worden in de zorgkar
-> - De voorgestelde oefeningen moeten effectief zijn en passen in de workflow
-> - De draagconfiguratie moet op de bovenarm worden gedragen
-> - De draagconfiguratie moet zo comfortabel en compact mogelijk worden gemaakt
-> - Gestalt wetten toepassen voor feedbackunit
+
 
 # Develop
 De develop fase draait rond het verfijnen van het product. Hiervoor wordt de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing.
