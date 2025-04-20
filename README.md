@@ -270,7 +270,7 @@ Om deze testen te kunnen uitvoeren, hebben we besloten om een **'Plug and Play'*
 
 Deze testfase had als doel de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Op basis van de bevindingen uit het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een reële behoefte binnen de doelgroep. De resultaten bieden waardevolle inzichten op vlak van gebruikservaring, functionaliteit en ontwerpverbeteringen. Er kan dan ook verder gewerkt worden aan het concept, met aandacht voor onderstaande design requirements:
 
-> **ℹ️ [!IMPORTANT] Design & Requirements**
+> [!IMPORTANT] **Design & Requirements**
 ### Gebruikersbehoeften
 - Er is nood aan dit type product ter ondersteuning van mentale welzijn.  
 - Meldingen moeten duidelijk zijn en visueel beter opvallen dan enkel een lichtsignaal.  
