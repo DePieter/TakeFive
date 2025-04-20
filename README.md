@@ -288,10 +288,7 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
 > - Draagconfiguratie: bovenarm, lichtgewicht, zo comfortabel en compact mogelijk.  
 > - Het prototype moet klein, licht en compact worden uitgewerkt.  
 > - Het ontwerp moet intuïtief en discreet blijven.  
->
-> ### Prototyping & Testing
-> - Verdere tests zijn nodig om meldingen te optimaliseren in diverse werkomstandigheden.  
-> - Bij de volgende iteratie moet meer aandacht gaan naar de zichtbaarheid en instelbaarheid van meldingen.  
+
 
 
 <p align="center">
