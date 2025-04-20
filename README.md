@@ -273,25 +273,25 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
 > [!IMPORTANT]
 > **Design & Requirements**
 > ### Gebruikersbehoeften
-- Er is nood aan dit type product ter ondersteuning van mentale welzijn.  
-- Meldingen moeten duidelijk zijn en visueel beter opvallen dan enkel een lichtsignaal.  
-- Gebruikers willen meldingen kunnen uitschakelen of aanpassen naar persoonlijke voorkeur.
-
+> - Er is nood aan dit type product ter ondersteuning van mentale welzijn.  
+> - Meldingen moeten duidelijk zijn en visueel beter opvallen dan enkel een lichtsignaal.  
+> - Gebruikers willen meldingen kunnen uitschakelen of aanpassen naar persoonlijke voorkeur.
+>
 > ### Functionaliteit
-- De feedbackunit moet verwerkt worden in de zorgkar.  
-- De voorgestelde oefeningen moeten effectief zijn en passen in de workflow.  
-- Oefeningen moeten gepersonaliseerd kunnen worden, afgestemd op individuele noden.  
-- Het apparaat moet makkelijk in het werkproces geïntegreerd kunnen worden.  
-- Er is geen bestaande algemene oplossing voor stressvermindering – dit biedt een unieke meerwaarde.
-
+> - De feedbackunit moet verwerkt worden in de zorgkar.  
+> - De voorgestelde oefeningen moeten effectief zijn en passen in de workflow.  
+> - Oefeningen moeten gepersonaliseerd kunnen worden, afgestemd op individuele noden.  
+> - Het apparaat moet makkelijk in het werkproces geïntegreerd kunnen worden.  
+> - Er is geen bestaande algemene oplossing voor stressvermindering – dit biedt een unieke meerwaarde.
+>
 > ### Ontwerpcriteria
-- Draagconfiguratie: bovenarm, lichtgewicht, zo comfortabel en compact mogelijk.  
-- Het prototype moet klein, licht en compact worden uitgewerkt.  
-- Het ontwerp moet intuïtief en discreet blijven.  
-
+> - Draagconfiguratie: bovenarm, lichtgewicht, zo comfortabel en compact mogelijk.  
+> - Het prototype moet klein, licht en compact worden uitgewerkt.  
+> - Het ontwerp moet intuïtief en discreet blijven.  
+>
 > ### Prototyping & Testing
-- Verdere tests zijn nodig om meldingen te optimaliseren in diverse werkomstandigheden.  
-- Bij de volgende iteratie moet meer aandacht gaan naar de zichtbaarheid en instelbaarheid van meldingen.  
+> - Verdere tests zijn nodig om meldingen te optimaliseren in diverse werkomstandigheden.  
+> - Bij de volgende iteratie moet meer aandacht gaan naar de zichtbaarheid en instelbaarheid van meldingen.  
 
 
 <p align="center">
