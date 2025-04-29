@@ -590,32 +590,32 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
 ## Bijlagen
 - Discovery
   - Interview
-      - [Protocol wave 1]( ) 
-      - [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Reports/Discovery/Research%20report%20interviews.pdf) 
+      - [Protocol Interview](https://github.com/DePieter/TakeFive/blob/main/Protocols/Discovery/Research%20protocol%20Interviews.pdf) 
+      - [Rapport Interview](https://github.com/DePieter/TakeFive/blob/main/Reports/Discovery/Research%20report%20interviews.pdf) 
   - Literatuurstudie
-      - [Protocol wave 1]( ) 
-      - [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Reports/Discovery/Research%20report%20literature%20reviews.pdf) 
+      - [Protocol Literatuurstudie](https://github.com/DePieter/TakeFive/blob/main/Protocols/Discovery/Research%20protocol%20literature%20reviews.pdf) 
+      - [Rapport Literatuurstudie](https://github.com/DePieter/TakeFive/blob/main/Reports/Discovery/Research%20report%20literature%20reviews.pdf) 
 - Definition
   - Testing
     - Wave 1
-      - [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/4b8e9608bba9a341723f234646f2ddbe53b7283a/Protocols/Interview%20Protocol%20Althus.pdf) 
-      - [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/4b8e9608bba9a341723f234646f2ddbe53b7283a/Reports/Rapport%20Althus.pdf) 
+      - [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) 
+      - [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) 
     - Wave 2
-      - [Protocol wave 2](https://github.com/DePieter/TakeFive/blob/4b8e9608bba9a341723f234646f2ddbe53b7283a/Protocols/Testprotocol-de%20oever.pdf) 
-      - [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/4b8e9608bba9a341723f234646f2ddbe53b7283a/Reports/Report%20De%20Oever.pdf)
-    - Wave 3
-      - ([Protocol wave 3]()) link nog in te vullen
-      - ([Rapport wave 3]()) link nog in te vullen
+      - [Protocol wave 2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%202%20Protocol%20De%20Oever.pdf) 
+      - [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)
 - Develop
-    - D3
-      - ([Protocol wave 1]()) link nog in te vullen
-      - ([Rapport wave 1]()) link nog in te vullen
+    - D3.1
+      - [Protocol develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.1.pdf)
+      - [Rapport develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Test%20rapport%203.1.pdf)
+    - D3.2
+      - [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf)
+      - [Rapport develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Test%20rapport%203.2.pdf)
     - D4
-      - ([Protocol wave 1]()) link nog in te vullen
-      - ([Rapport wave 1]()) link nog in te vullen
+      - [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf)
+      - [Rapport develop 4](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Test%20rapport%204.1.pdf)
     - D5
-      - ([Protocol wave 1]()) link nog in te vullen
-      - ([Rapport wave 1]()) link nog in te vullen
+      - [Protocol develop 5]( ) link nog in te vullen
+      - [Rapport develop 5]( ) link nog in te vullen
 
 
 
