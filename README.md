@@ -590,11 +590,11 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
 ## Bijlagen
 - Discovery
   - Interview
-      - [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/4b8e9608bba9a341723f234646f2ddbe53b7283a/Protocols/Interview%20Protocol%20Althus.pdf) 
-      - [Rapport wave 1](Reports/Discovery/Research report interviews.pdf) 
+      - [Protocol wave 1]( ) 
+      - [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Reports/Discovery/Research%20report%20interviews.pdf) 
   - Literatuurstudie
-      - [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/4b8e9608bba9a341723f234646f2ddbe53b7283a/Protocols/Interview%20Protocol%20Althus.pdf) 
-      - [Rapport wave 1](Reports/Discovery/Research report literature reviews.pdf) 
+      - [Protocol wave 1]( ) 
+      - [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Reports/Discovery/Research%20report%20literature%20reviews.pdf) 
 - Definition
   - Testing
     - Wave 1
