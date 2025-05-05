@@ -424,7 +424,7 @@ Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data
 > [!IMPORTANT]
 > > Design Requirements: $${\color{red}aanvullen}$$
 > | ID   | Design Requirements                                                                                                      | MoSCoW | Source   | Date       |  
-> |------|---------------------------------------------------------------------------------------------------------------------------|----|----|----|----------|------------|  
+> |------|---------------------------------------------------------------------------------------------------------------------------|------------|----------|------------|  
 > | DR1  | De feedbackunit moet in de zorgpost staan.                                                                               |            | Test 3.2 | 6/03/2025  |  
 > | DR2  | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen. |    |    |    | Test 3.2 | 6/03/2025  |  
 > | DR3  | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                   |            | Test 3.2 | 6/03/2025  |  
