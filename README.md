@@ -426,7 +426,7 @@ Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data
 > | ID   | Design Requirements                                                                                                      | MoSCoW | Source   | Date       |  
 > |------|---------------------------------------------------------------------------------------------------------------------------|------------|----------|------------|  
 > | DR1  | De feedbackunit moet in de zorgpost staan.                                                                               |            | Test 3.2 | 6/03/2025  |  
-> | DR2  | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen. |    |    |    | Test 3.2 | 6/03/2025  |  
+> | DR2  | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen. |           | Test 3.2 | 6/03/2025  |  
 > | DR3  | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                   |            | Test 3.2 | 6/03/2025  |  
 > | DR4  | De feedbackunit moet gebruik maken van rustgevende signalen.                                                             |            | Test 3.2 | 6/03/2025  |  
 > | DR5  | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                             |            | Test 3.2 | 6/03/2025  |  
