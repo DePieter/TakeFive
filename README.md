@@ -422,7 +422,7 @@ Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data
 #### Conclusies & implicaties (design requirements en beslissingen)/
 
 > [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
+> > Design Requirements: $${\color{red}aanvullen}$$
 > | ID   | Design Requirements                                                                                                      | MoSCoW | Source   | Date       |  
 > |------|---------------------------------------------------------------------------------------------------------------------------|----|----|----|----------|------------|  
 > | DR1  | De feedbackunit moet in de zorgpost staan.                                                                               |    |    |    | Test 3.2 | 6/03/2025  |  
@@ -438,8 +438,6 @@ Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data
 > | DR11 | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                     |    |    |    | Test 3.2 | 6/03/2025  |  
 > | DR12 | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                    |    |    |    | Test 3.2 | 6/03/2025  |  
 > | DR13 | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                               |    |    |    | Test 3.2 | 6/03/2025  |  
-
-
 
 ### Develop 4: [focus]  
 #### Doelstellingen (cfr. methodologie)
