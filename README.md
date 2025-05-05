@@ -406,12 +406,40 @@ zie opbouw van vorige waves
 >
 
 
-
 ### Develop 3.2: [focus]  
+>_“Zorgen voor begint bij goede zelfzorg.” -Stijn (Directeur WZC Sint-Franciscus)_
 #### Doelstellingen (cfr. methodologie)
-#### Materiaal en methoden
+De meest geschikte visuele metafoor werd gekozen voor de Feedback Unit. Uit eerdere tests bleek dat deze metafoor rustgevend, intuïtief en discreet moet zijn, passend binnen de context van een woonzorgcentrum.
+#### Materiaal en methoden (N = 5)
+Met behulp van Wizard-of-Oz-prototypes en visuele metaforen op papier werden vijf zorgverleners van WZC Sint-Franciscus bevraagd. Emotional mapping met behulp van Plutchik's wheel of emotions. A/B-testing werden ingezet om de voorkeuren en emotionele interpretaties van de metaforen te analyseren. Ook kan je ons [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) raadplegen voor het volledige protocol en gebruikte methodologie.  
+  
+Insert foto WZC Sint-Franciscus + interviewopstelling + Plutchik's wheel of emotions
+  
 #### Resultaten
+Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data/Develop/Develop%203.2)). De test toonde aan dat metaforen die gevoelens van joy en rust oproepen het meest effectief zijn. Zoals een zorgmedewerker het verwoordde: “De koffietas vind ik leuk, heel duidelijk en toepasselijk”-Bruno, deze metafoor gaf een gevoel van duidelijkheid en rust, wat zorgmedewerkers helpt om zich minder gestrest te voelen. Aan de andere kant werden metaforen zoals tandwielen en handen geassocieerd met negatieve emoties zoals woede en frustratie: “Je blijft maar bezig”, wat zorgmedewerkers kan frustreren.
+
+
 #### Conclusies & implicaties (design requirements en beslissingen)/
+
+> [!IMPORTANT]
+> Design Requirements: $${\color{red}aanvullen}$$
+> | ID   | Design Requirements                                                                                                      | MoSCoW | Source   | Date       |
+> |------|---------------------------------------------------------------------------------------------------------------------------|----|----|----|----------|------------|
+> | DR1  | De feedbackunit moet in de zorgpost staan.                                                                               |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR2  | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen. |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR3  | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                   |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR4  | De feedbackunit moet gebruik maken van rustgevende signalen.                                                             |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR5  | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                             |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR6  | Iedereens manier van signaalgeven moet gekozen kunnen worden.                                                            |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR7  | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                       |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR8  | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.                                                        |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR9  | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                   |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR10 | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.                                        |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR11 | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                     |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR12 | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                    |    |    |    | Test 3.2 | 6/03/2025  |
+> | DR13 | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                               |    |    |    | Test 3.2 | 6/03/2025  |
+>
+
 
 
 ### Develop 4: [focus]  
