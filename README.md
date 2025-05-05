@@ -419,7 +419,10 @@ Insert foto WZC Sint-Franciscus + interviewopstelling + Plutchik's wheel of emot
 Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data/Develop/Develop%203.2)). De test toonde aan dat metaforen die gevoelens van joy en rust oproepen het meest effectief zijn. Zoals een zorgmedewerker het verwoordde: “De koffietas vind ik leuk, heel duidelijk en toepasselijk”-Bruno, deze metafoor gaf een gevoel van duidelijkheid en rust, wat zorgmedewerkers helpt om zich minder gestrest te voelen. Aan de andere kant werden metaforen zoals tandwielen en handen geassocieerd met negatieve emoties zoals woede en frustratie: “Je blijft maar bezig”, wat zorgmedewerkers kan frustreren.
 
 
-#### Conclusies & implicaties (design requirements en beslissingen)/
+#### Conclusies & implicaties (design requirements en beslissingen)
+Invoegen tekst beslissing, maw wat we zouden testen in de volgende wave
+
+
 | ID    | Design Requirements                                                                                                                                                           | Source       | Date       |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
 | DR1   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test 3.2 | 6/03/2025  |
