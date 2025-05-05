@@ -405,39 +405,6 @@ zie opbouw van vorige waves
 > -  ...
 >
 
-### Develop 3.1: [Evalutatie concept & ergonomische aspecten onderzoeken]  
-Deze ontwerptest ging door bij WZC Panhuys
-  
-insert foto panhuys 
-  
-#### Doelstellingen (cfr. methodologie)  
-Deze concepttest bevindt zich deels nog in de definition-fase, aangezien het systeem op basis van eerdere tests is uitgebreid met twee extra componenten. Daarom wordt in eerste instantie opnieuw geëvalueerd of de conceptuele werking van het volledige systeem aanvaardbaar is. 
-
-Tegelijkertijd bevindt de test zich ook deels in de develop-fase, waarnaast de werking ook het ergonomische aspect wordt onderzocht, hierbij ligt de primaire focus op de feedback unit (=bloem). Dit omvat fysieke, cognitieve en sensorische ergonomie.  
-
-
-#### Materiaal en methoden
-Voor dit onderzoek worden concepttesting, interviews en taakanalyses uitgevoerd met Wizard of Oz-prototypes [Protocol develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.1.pdf) bij vijf zorgverleners, geselecteerd via purposive sampling. De evaluatie gebeurt zowel kwantitatief als kwalitatief. 
-
-Kwantitatief wordt de bruikbaarheid beoordeeld met een korte enquête op basis van de SUS-scales. Kwalitatief wordt onderzocht hoe het systeem wordt gebruikt, met aandacht voor de gebruiksmethode en het vastleggen van het cognitieve framework. 
-
-De tests worden uitgevoerd met minimale interferentie voor de deelnemer, volgens de 80/20-regel en het Think Aloud Principle, zodat natuurlijke interactie en gebruikservaring zo goed mogelijk worden geobserveerd.
-  
-Insert foto interviewopstelling
-  
-#### Resultaten
-De bevindingen tonen aan dat zorgmedewerkers een intuïtieve, discrete en persoonlijk koppelbare feedbackunit verkiezen.  
-Zie voor uitgebreide observaties en gebruikersinzichten het [Rapport develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Test%20rapport%203.1.pdf).
-- Zorgmedewerkers willen **geen extra handelingen** (zoals koppelen via verificator).
-- De feedbackunit moet **zichtbaar zijn voor collega’s, maar niet voor bewoners**.
-- **Individuele koppeling** is nodig ondanks gedeelde karren.
-- Een goed geïntegreerd systeem **verlaagt cognitieve belasting**.
-- **Trilling + visuele feedback (bloem)** werkt goed, zolang niet te frequent.
-- Pauzemomenten moeten **flexibel** zijn — niet opgedrongen.
-
-  
-#### Conclusies & implicaties (design requirements en beslissingen)/
-De concepttest bevestigt dat zorgmedewerkers het systeem waarderen als ondersteuning bij stress en pauzes, maar er zijn verbeterpunten. Zelf pauzemomenten kiezen en discretie ten opzichte van bewoners zijn cruciaal. De feedbackunit moet duidelijk en persoonlijk zijn, ondanks gedeelde karren. Een verificator dichtbij is noodzakelijk, maar mag de workflow niet verstoren. Motivatieprikkels kunnen helpen om het systeem positiever te maken. Wanneer goed geïntegreerd, verlaagt het systeem de cognitieve belasting en draagt het bij aan een werkbare zorgomgeving. 
 
 
 ### Develop 3.2: [focus]  
