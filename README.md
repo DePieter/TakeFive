@@ -421,20 +421,20 @@ Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data
 
 #### Conclusies & implicaties (design requirements en beslissingen)/
 > [!IMPORTANT]
-> | ID   | Design Requirements                                                                                                      | MoSCoW | Source   | Date       |  
-> | DR1  | De feedbackunit moet in de zorgpost staan.                                                                               |            | Test 3.2 | 6/03/2025  |  
-> | DR2  | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen. |           | Test 3.2 | 6/03/2025  |  
-> | DR3  | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                   |            | Test 3.2 | 6/03/2025  |  
-> | DR4  | De feedbackunit moet gebruik maken van rustgevende signalen.                                                             |            | Test 3.2 | 6/03/2025  |  
-> | DR5  | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                             |            | Test 3.2 | 6/03/2025  |  
-> | DR6  | Iedereens manier van signaalgeven moet gekozen kunnen worden.                                                            |            | Test 3.2 | 6/03/2025  |  
-> | DR7  | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                       |            | Test 3.2 | 6/03/2025  |  
-> | DR8  | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.                                                        |            | Test 3.2 | 6/03/2025  |  
-> | DR9  | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                   |            | Test 3.2 | 6/03/2025  |  
-> | DR10 | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.                                        |            | Test 3.2 | 6/03/2025  |  
-> | DR11 | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                     |            | Test 3.2 | 6/03/2025  |  
-> | DR12 | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                    |            | Test 3.2 | 6/03/2025  |  
-> | DR13 | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                               |            | Test 3.2 | 6/03/2025  |  
+> | ID   | Design Requirements | Source   | Date       |  
+> | DR1  | De feedbackunit moet in de zorgpost staan.| Test 3.2 | 6/03/2025  |  
+> | DR2  | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen. | Test 3.2 | 6/03/2025  |  
+> | DR3  | De feedbackunit mag niet makkelijk verplaatsbaar zijn.| Test 3.2 | 6/03/2025  |  
+> | DR4  | De feedbackunit moet gebruik maken van rustgevende signalen.| Test 3.2 | 6/03/2025  |  
+> | DR5  | Er zouden dieren gebruikt moeten worden in het signaalgeven.| Test 3.2 | 6/03/2025  |  
+> | DR6  | Iedereens manier van signaalgeven moet gekozen kunnen worden.| Test 3.2 | 6/03/2025  |  
+> | DR7  | Het moet ook andere data verzamelen zoals bijv. een stappenteller.| Test 3.2 | 6/03/2025  |  
+> | DR8  | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.| Test 3.2 | 6/03/2025  |  
+> | DR9  | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.| Test 3.2 | 6/03/2025  |  
+> | DR10 | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.| Test 3.2 | 6/03/2025  |  
+> | DR11 | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.| Test 3.2 | 6/03/2025  |  
+> | DR12 | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.| Test 3.2 | 6/03/2025  |  
+> | DR13 | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.| Test 3.2 | 6/03/2025  |  
 
 ### Develop 4: [focus]  
 #### Doelstellingen (cfr. methodologie)
