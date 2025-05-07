@@ -158,13 +158,13 @@ In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het 
 - Het testen en evalueren van deze prototypes in realistische scenario's om de haalbaarheid te verifiëren.
 - Het verzamelen van gebruikersfeedback om de prototypes verder te verbeteren.
 
-### Materiaal & methoden $${\color{red}aanvullen}$$
+### Materiaal & methoden
 Twee waves die gebruik maken van volgende methodologiën:
 - Ideation
 - Storyboarding
 - MoSCow
-- Prototyping
-- User testing
+- Prototyping 
+- User testing (Wizard of OZ testen + Plug and Play testen)
   
 ### **Wave 1 (N=5)**
 ---
