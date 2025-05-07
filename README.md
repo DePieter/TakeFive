@@ -47,8 +47,7 @@ In de definitiefase wordt het probleem verder verkend met een meer praktische aa
 Deze iteratieve aanpak vormt de kern van het ontwerpproces, waarbij in volgende fasen steeds opnieuw getest zal worden met nieuwe en/of verfijnde prototypes. Tegelijkertijd bieden deze tests waardevolle inzichten in de gebruiker, waardoor hun behoeften nog beter in kaart kan worden gebracht wat leid tot design requirements die als leidraad dienen gedurende het hele proces. Het opstellen van de product concepten werd telkens ondersteund door storyboarding en de MoSCow-methode.
 
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
-
-![image](https://github.com/user-attachments/assets/c614b507-29a8-4925-a491-5f30c9200e24)
+<img src="Foto's/3 Methodologie/Methodologie geupdate tot D4.png" width=100%>
 
 <img src="Foto's/White image" height="20">
 
