@@ -48,7 +48,7 @@ Deze iteratieve aanpak vormt de kern van het ontwerpproces, waarbij in volgende 
 
 In de definefase wordt het concept verder verfijnd door middel van diverse gebruikerstesten, waarbij het 'Think Aloud principle' en 'Wizard of OZ'-prototypes centraal staan. Deze methodieken maken het mogelijk om medewerkers te interviewen met minimale beïnvloeding, zodat hun eerlijke reacties en interacties met het prototype zichtbaar worden.  
 
-De ontwikkeling van deze prototypes gebeurde tijdens gezamenlijke brainstormsessies en rollenspellen, waarna ze geëvalueerd werden met technieken zoals Dot-Voting en de MoSCoW-methode. Daarnaast werd er gebruikgemaakt van 'Emotional Mapping' en 'Plutchik's Wheel of Emotions' om emoties en gevoelens van gebruikers helder in kaart te brengen.  
+De ontwikkeling van deze prototypes gebeurde tijdens gezamenlijke brainstormsessies en rollenspellen. Aansluitend werden de prototypes getest bij WZC Panhuys, WZC Sint-Franciscus en WZC De Weister. Tijdens deze testsessies werden methodes zoals 'Emotional Mapping' en 'Plutchik's Wheel of Emotions' toegepast om de emoties van de gebruikers duidelijk in kaart te brengen, zodat de meest relevante emoties konden worden geselecteerd. De verzamelde data werd vervolgens geëvalueerd met technieken als Dot-Voting en de MoSCoW-methode om inzichten te verkrijgen voor verdere optimalisatie.
 
 Om de effectiviteit van verschillende ontwerpkeuzes te toetsen, werd A/B-testing ingezet. Hiermee konden verschillende versies van de prototypes vergeleken worden, wat waardevolle inzichten opleverde voor verdere optimalisatie en afstemming op de gebruikersbehoeften.
 <img src="Foto's/White image" height="5">
