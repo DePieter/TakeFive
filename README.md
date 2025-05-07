@@ -261,25 +261,16 @@ Om deze testen te kunnen uitvoeren, hebben we besloten om een **'Plug and Play'*
 
 Deze testfase had als doel de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Op basis van de bevindingen uit het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een reële behoefte binnen de doelgroep. De resultaten bieden waardevolle inzichten op vlak van gebruikservaring, functionaliteit en ontwerpverbeteringen. Er kan dan ook verder gewerkt worden aan het concept, met aandacht voor onderstaande design requirements:
 
-> [!IMPORTANT]
-> **Design & Requirements**
-> ### Gebruikersbehoeften
-> - Er is nood aan dit type product ter ondersteuning van mentale welzijn.  
-> - Meldingen moeten duidelijk zijn en visueel beter opvallen dan enkel een lichtsignaal.  
-> - Gebruikers willen meldingen kunnen uitschakelen of aanpassen naar persoonlijke voorkeur.
->
-> ### Functionaliteit
-> - De feedbackunit moet verwerkt worden in de zorgkar.  
-> - De voorgestelde oefeningen moeten effectief zijn en passen in de workflow.  
-> - Oefeningen moeten gepersonaliseerd kunnen worden, afgestemd op individuele noden.  
-> - Het apparaat moet makkelijk in het werkproces geïntegreerd kunnen worden.  
-> - Er is geen bestaande algemene oplossing voor stressvermindering – dit biedt een unieke meerwaarde.
->
-> ### Ontwerpcriteria
-> - Draagconfiguratie: bovenarm, lichtgewicht, zo comfortabel en compact mogelijk.  
-> - Het prototype moet klein, licht en compact worden uitgewerkt.  
-> - Het ontwerp moet intuïtief en discreet blijven.  
-
+| ID    | Design Requirements                                                                                                     | Source       | Date       |
+|-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
+| DR12  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave 2       | 23/12/2024 |
+| DR14  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
+| DR15  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
+| DR16  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
+| DR17  | Het ontwerp moet lichtgewicht en comfortabel om te dragen zijn. | Wave 2       | 23/12/2024 |
+| DR18  | Het systeem moet modulair zijn, met instelbare meldingen en functies. | Wave 2       | 23/12/2024 |
+| DR19  | Samenwerking met zorginstellingen is vereist voor brede adoptie en implementatie in beleidskaders. | Wave 2       | 23/12/2024 |
+| DR20  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te verminderen. | Wave 2       | 23/12/2024 |
 
 
 <p align="center">
