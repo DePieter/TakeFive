@@ -219,7 +219,7 @@ Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d
 
 
 #### Conclusies & implicaties:
-Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements:
+Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements (zie link invoegen, voor alle designrequirements):
 
 | ID    | Design Requirements                                                                                                                                                           | Source       | Date       |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
@@ -234,32 +234,6 @@ Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werkin
 | DR9   | Het moet lichtgewicht en comfortabel om te dragen zijn.                                                                                                                            | Wave 1 | 12/12/2024  |
 | DR10   | Het zou moeten kunnen samenwerken met zorginstellingen voor brede adoptie.                                                                                                  | Wave 1 | 12/12/2024  |
 | DR11   | Het moet een discreet en universeel ontwerp hebben om stigma te verminderen.                                                                                         | Wave 1 | 12/12/2024  |
-
-
-
-> [!IMPORTANT]
-> **Gebruikersbehoeften**  
-> 	 - Het apparaat moet subtiel en discreet zijn.  
-> 	 - Gebruik trillingen of licht in plaats van geluid.  
-> 	 - Gebruikers moeten meldingen kunnen aanpassen (frequentie & intensiteit).
-> 	    
->**Functionaliteit**  
-> 	 - Mag lopende taken niet verstoren.  
-> 	 - Moet eenvoudig in bestaande workflows passen.  
-> 	 - Feedback via visuele en tactiele signalen, geen storende geluiden.  
-> 	 - Ondersteuning voor ademhalingsoefeningen en pauzemeldingen.
-> 	   
->**Ontwerpcriteria**  
-> 	 - Lichtgewicht en comfortabel om te dragen.  
-> 	 - Modulair ontwerp met instelbare meldingen en functies.
-> 	   
->**Prototyping & Testing**  
-> 	 - Moet intuïtief en eenvoudig te bedienen zijn.  
-> 	 - Testen van effectieve pauzemeldingen in drukke omgevingen.
-> 	    
->**Implementatie in de zorg**  
-> 	 - Samenwerking met zorginstellingen voor brede adoptie.  
-> 	 - Discreet en universeel ontwerp om stigma te verminderen.  
 
 De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
 
