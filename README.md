@@ -224,19 +224,19 @@ Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d
 #### Conclusies & implicaties:
 Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements (zie link invoegen, voor alle designrequirements):
 
-| ID    | Design Requirements                                                                                                                                                           | Source       | Date       |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
-| DR1   | Het apparaat moet subtiel en discreet zijn.                                                                                                                          | Wave 1 | 12/12/2024  |
-| DR2   | Gebruik trillingen of licht in plaats van geluid.                                                                                                                                 | Wave 1 | 12/12/2024  |
-| DR3   | Gebruikers moeten meldingen kunnen aanpassen (frequentie & intensiteit).                                                                                                                                  | Wave 1 | 12/12/2024  |
-| DR4   | Het mag lopende taken niet verstoren.                                                                                                                                  | Wave 1 | 12/12/2024  |
-| DR5   | Het moet eenvoudig in bestaande workflows passen.                                                                                                                                | Wave 1 | 12/12/2024  |
-| DR6   | De feedback moet via visuele en tactiele signalen, geen storende geluiden.                                                                                                                                 | Wave 1 | 12/12/2024  |
-| DR7   | Het zou moeten ondersteuning bieden voor ademhalingsoefeningen en pauzemeldingen.                                                                                | Wave 1 | 12/12/2024  |
-| DR8   | Het moet een modulair ontwerp met instelbare meldingen en functies zijn.                                                                                                                            | Wave 1 | 12/12/2024  |
-| DR9   | Het moet lichtgewicht en comfortabel om te dragen zijn.                                                                                                                            | Wave 1 | 12/12/2024  |
-| DR10   | Het zou moeten kunnen samenwerken met zorginstellingen voor brede adoptie.                                                                                                  | Wave 1 | 12/12/2024  |
-| DR11   | Het moet een discreet en universeel ontwerp hebben om stigma te verminderen.                                                                                         | Wave 1 | 12/12/2024  |
+| ID    | Design Requirements                                                                                                     | Source       | Date       |
+|-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
+| DR01  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave 1       | 11/12/2024 |
+| DR02  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
+| DR03  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
+| DR04  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
+| DR05  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave 1       | 11/12/2024 |
+| DR06  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave 1       | 11/12/2024 |
+| DR07  | Het systeem moet de mogelijkheid bieden om functies te personaliseren, zoals het in- of uitschakelen van meldingen en het aanpassen van de intensiteit. | Wave 1       | 11/12/2024 |
+| DR08  | Prototypen moeten worden getest op gebruiksgemak en effectiviteit in een hectische zorgomgeving, met prioriteit voor eenvoudige bediening en snelle toegang tot kernfuncties. | Wave 1       | 11/12/2024 |
+| DR09  | Er moeten verschillende methoden worden getest om gebruikers effectief te stimuleren pauzes te nemen, ook onder hoge werkdruk. | Wave 1       | 11/12/2024 |
+| DR10  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
+| DR11  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
 
 De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
 
