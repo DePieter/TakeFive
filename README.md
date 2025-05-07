@@ -41,10 +41,17 @@ Met Take Five willen we bijdragen aan het vroegtijdig herkennen en verlagen van 
 ## Methodologie
 Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^5].
 User interviews bevestigden dat stress op de werkvloer een groot probleem is. Literatuuronderzoek toonde aan dat burn-outs een aanzienlijk risico vormen, terwijl methoden zoals de 5WH-methode en PESTEL-analyse kerninzichten werden geïdentificeerd.
-
+<img src="Foto's/White image" height="5">
 In de definitiefase wordt het probleem verder verkend met een meer praktische aanpak, rekening houdend met het principe "fall in love with the problem, not the solution." Tijdens deze fase worden de eerste prototypes ontwikkeld en testen we zo snel mogelijk of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Altus. De feedback uit deze testfase wordt verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.
 
 Deze iteratieve aanpak vormt de kern van het ontwerpproces, waarbij in volgende fasen steeds opnieuw getest zal worden met nieuwe en/of verfijnde prototypes. Tegelijkertijd bieden deze tests waardevolle inzichten in de gebruiker, waardoor hun behoeften nog beter in kaart kan worden gebracht wat leid tot design requirements die als leidraad dienen gedurende het hele proces. Het opstellen van de product concepten werd telkens ondersteund door storyboarding en de MoSCow-methode.
+<img src="Foto's/White image" height="5">
+In de definefase wordt het concept verder verfijnd door middel van diverse gebruikerstesten, waarbij het 'Think Aloud principle' en 'Wizard of OZ'-prototypes centraal staan. Deze methodieken maken het mogelijk om medewerkers te interviewen met minimale beïnvloeding, zodat hun eerlijke reacties en interacties met het prototype zichtbaar worden.
+
+De ontwikkeling van deze prototypes gebeurde tijdens gezamenlijke brainstormsessies en rollenspellen, waarna ze geëvalueerd werden met technieken zoals Dot-Voting en de MoSCoW-methode. Daarnaast werd er gebruikgemaakt van 'Emotional Mapping' en 'Plutchik's Wheel of Emotions' om emoties en gevoelens van gebruikers helder in kaart te brengen.
+
+Om de effectiviteit van verschillende ontwerpkeuzes te toetsen, werd A/B-testing ingezet. Hiermee konden verschillende versies van de prototypes vergeleken worden, wat waardevolle inzichten opleverde voor verdere optimalisatie en afstemming op de gebruikersbehoeften.
+<img src="Foto's/White image" height="5">
 
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 <img src="Foto's/3 Methodologie/Methodologie geupdate tot D4.png" width=100%>
