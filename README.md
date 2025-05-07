@@ -50,6 +50,7 @@ De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijd
 
 ![image](https://github.com/user-attachments/assets/c614b507-29a8-4925-a491-5f30c9200e24)
 
+<img src="Foto's/White image" height="20">
 
 
 ## Discovery
@@ -146,6 +147,8 @@ Oorzaken van stress: Werkdruk is de voornaamste factor, versterkt door personeel
 
 ### Inzichten uit Onderzoek
 Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
+
+<img src="Foto's/White image" height="20">
 
 ## Definition
 In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
@@ -286,7 +289,7 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
   <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg"  alt="Description" style="height:200px;"></td>
 </p>
 
-
+<img src="Foto's/White image" height="20">
 
 # Develop
 De develop fase draait rond het verfijnen van het product. Hiervoor wordt de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing.
