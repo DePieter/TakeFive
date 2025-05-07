@@ -571,6 +571,7 @@ ScienceDirect. (2023). Impact of Workplace Stress on HRV, van https://www.scienc
 PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https://pmc.ncbi.nlm.nih.gov/articles/PMC8863599/
 
 ## Bijlagen
+- [Design requiremente](https://ugentbe-my.sharepoint.com/:x:/r/personal/bram_tops_ugent_be/Documents/2024-2025/Gebruiksgericht%20Ontwerpen/Design%20Requirements.xlsx?d=wdda151432a374994bed4eae547a12bf4&csf=1&web=1&e=OJAUMd)
 - Discovery
   - Interview
       - [Protocol Interview](https://github.com/DePieter/TakeFive/blob/main/Protocols/Discovery/Research%20protocol%20Interviews.pdf) 
