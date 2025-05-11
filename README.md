@@ -326,16 +326,16 @@ Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd ka
 
 | Product | Concept schetsen |
 |------|------|
-| Feedback Unit |  <img src="Map foto's2/Plant sketch.png" style="width: 25%;">  <img src="Map foto's2/Plant sketch.png" style="width: 25%;"> <img src="Map foto's2/Plant sketch.png" style="width: 25%;">|
-| Verificcator | ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d)  ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d) ![image](https://github.com/user-attachments/assets/78cd7d1d-c96a-477c-b7b8-9eb2b418191d)|
+| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="width: 25%;">  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="width: 25%;">|
+| Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="width: 25%;">|
 
 #### Prototyping $${\color{red}aanvullen}$$
 Hier relevante tekst rechtstreeks over het prototypen zoals bv het doel ervan, hoe we aan de slag zijn gegeaan (theoretische kapstokken), resultaten,... De beschrijving zelf staat hieronder al in de tabel. Probeer ook in deze tekst te verwijzen naar deze tabel ("de prototypes worden in onderstaande tabel weergegeven") -> eigenlijk moet je bij elke figuur, tabel,... zo'n verwijzing maken.
 
 | *deftige foto’s wearable* | **Wearable:** Beknopte beschrijving |
 |----------------------------|------------------------------------|
-| ![image](https://github.com/user-attachments/assets/76697e9d-4312-4f01-925e-721249912be6)| **Feedback unit (hoofdfocus):**<br>Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen. |
-| ![image](https://github.com/user-attachments/assets/742783c9-0507-4413-a6cd-65177d9d8c5e)| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
+|  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="width: 25%;">| **Feedback unit (hoofdfocus):**<br>Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen. |
+|  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="width: 25%;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
 | *deftige foto’s interface* | **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
 
 #### Storyboarding $${\color{red}aanvullen}$$
