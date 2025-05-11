@@ -279,10 +279,10 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
 
 
 <p align="center">
-  <img src="Map foto's2/chest.jpeg"  alt="Description" style="height:200px;"></td>
-  <img src="Map foto's2/6f352712-c0cb-4798-a1ff-b761aba4c04a.jpeg"  alt="Description" style="height:200px;"></td>
-  <img src="Map foto's2/9bd2bdc9-50aa-4ac4-92f9-c93c5c681178.jpeg"  alt="Description" style="height:200px;"></td>
-  <img src="Map foto's2/0ace9e9f-990d-4388-912e-3b2dec61f7fc%20(1).jpeg"  alt="Description" style="height:200px;"></td>
+  <img src="Foto's/5 Definition/Wave 2/Render wearable.jpeg" style="height:200px;"></td>
+  <img src="Foto's/5 Definition/Wave 2/Wearable.jpeg"  alt="Description" style="height:200px;"></td>
+  <img src="Foto's/5 Definition/Wave 2/FeedbackunitWave2V1.jpeg"  alt="Description" style="height:200px;"></td>
+  <img src="Foto's/5 Definition/Wave 2/Zorgkar.jpeg  alt="Description" style="height:200px;"></td>
 </p>
 
 <img src="Foto's/White image" height="20">
