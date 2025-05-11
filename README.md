@@ -282,7 +282,7 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
   <img src="Foto's/5 Definition/Wave 2/Render wearable.jpeg" style="height:200px;"></td>
   <img src="Foto's/5 Definition/Wave 2/Wearable.jpeg"  alt="Description" style="height:200px;"></td>
   <img src="Foto's/5 Definition/Wave 2/FeedbackunitWave2V1.jpeg"  alt="Description" style="height:200px;"></td>
-  <img src="Foto's/5 Definition/Wave 2/Zorgkar.jpeg  alt="Description" style="height:200px;"></td>
+  <img src="Foto's/5 Definition/Wave 2/Zorgkar.jpeg"  alt="Description" style="height:200px;"></td>
 </p>
 
 <img src="Foto's/White image" height="20">
