@@ -307,6 +307,23 @@ $${\color{red}X}$$ Waves die gebruik maken van volgende methodologiën:
 Hoewel de devellopfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (devellop).
 
 #### Brainstorming
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 10px;">
+    <p>
+Wave 2 toonde aan dat er behoefte was aan een manier om aan te geven wanneer iemands stressniveau te hoog is. Belangrijk hierbij is dat de feedback losstaat van de wearable om triggerblindness te voorkomen.  
+
+Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brainstormsessie per teamlid. Elk teamlid werkte één of meerdere concepten uit en beschreef alle eigenschappen op grote A3-bladen. Vervolgens werd via dotvoting bepaald welke eigenschappen waardevol waren voor het concept en welke moesten worden uitgesloten.
+
+De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke een eerste vorm krijgen in het volgende deel: _Design sketches_.
+
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="Foto's/6 Develop/D3.1/Brainstorm develop 1.png" alt="Brainstorm" style="width: 100%;">
+  </div>
+</div>
+
+
 Wave 2 toonde aan dat er behoefte was aan een manier om aan te geven wanneer iemands stressniveau te hoog is. Belangrijk hierbij is dat de feedback losstaat van de wearable om triggerblindness te voorkomen.  
 
 Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brainstormsessie per teamlid. Elk teamlid werkte één of meerdere concepten uit en beschreef alle eigenschappen op grote A3-bladen. Vervolgens werd via dotvoting bepaald welke eigenschappen waardevol waren voor het concept en welke moesten worden uitgesloten.
