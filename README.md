@@ -206,13 +206,13 @@ Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en t
     <td>De <b><u>armband sensor:</u></b> bestaat uit een ge-3D-printe body met een elastieken band, deze kan gedragen worden op de bovenarm.</td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205720.jpg" style="width:200px;">
+    <td><img src="Foto's/5 Definition/Wave 1/Borstkassensor.jpg" style="width:200px;">
 	  <td><img src="Foto's/5 Definition/Wave 1/Wearable borstkas.jpeg"  style="width:200px;">
     <td>De borstkas-wearable bestaat uit twee verstelbare riemen met een 3D-geprinte behuizing, zodat hij naar wens kan worden aangespannen. <b><u>          </td></td>
   </tr>
   <tr>
-    <td><img src="Map%20foto's2/Schermafbeelding%202025-01-07%20205708.jpg"style="width:200px;">
-	  <td><img src="Foto's/5 Definition/Wave 1/Feedbackunit.png" style="width:200px;">
+    <td><img src="Foto's/5 Definition/Wave 1/FeedbackunitV1.jpg"style="width:200px;">
+	  <td><img src="Foto's/5 Definition/Wave 1/FeedbackunitV2.jpg" style="width:200px;">
     <td>De <b><u>feedback unit's:</u></b>  bestaan uit een MDF- en een kartonnen behuizing, waarmee alle signaalmethoden, zoals geluid en licht, getest kunnen worden met Arduino en een ingebouwde gsm.    </td></td>
   </tr>
 </table>
