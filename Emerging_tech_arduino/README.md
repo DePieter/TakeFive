@@ -17,9 +17,7 @@ Om van start te gaan hebben we ons project in 3 delen opgesplits: het IR-signaal
 Wanneer het IR-signaal detecteerbaar kon gemeten worden, gingen we over naar het koppelen van de servomotor aan het IR-signaal. 
 De ledring werd eerst apart bestuurd via de seriele monitor. Toen dit werkte, werd alles gekoppeld aan elkaar in één code. Met enkele aanpassingen (delay->millis,...) werkte alles tesamen.
 <img src="Images/Flowchart.png" width="100%"> 
-![Demo](Emerging_tech_arduino/Images/Videowerkendprototype gifversie.gif)
 
-<img src="Emerging_tech_arduino/Images/Videowerkendprototype gifversie.gif" alt="Demo" width="500"/>
-<img src="Images/Videowerkendprototype gifversie.gif" alt="Demo" width="500"/>
-![Demo]([https://raw.githubusercontent.com/DePieter/TakeFive/main/Emerging_tech_arduino/media/demo.gif](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/Images/Videowerkendprototype%20gifversie.gif))
+
+<img src="Emerging_tech_arduino/Images/Videowerkendprototype gifversie.gif" alt="Demo" width="100%"/>
 
