@@ -5,12 +5,6 @@ Hiervoor maken we gebruik van een bakje dat IR-signalen stuurt voor de Feedbacku
 
 - Arduino scripts kan je vinden in [code/arduino](Codes/combinatieServoLedRing)
 
-
-
-
-Afbeeldingen plaats je in [imgs](./imgs/)
-Bijv. ![arduino](./imgs/arduino.jpg)
-
 ## Bedradingsschema
 <img src="Images/Bedradingschema.png" width="100%"> 
 
