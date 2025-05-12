@@ -17,6 +17,6 @@ Om van start te gaan hebben we ons project in 3 delen opgesplits: het IR-signaal
 Wanneer het IR-signaal detecteerbaar kon gemeten worden, gingen we over naar het koppelen van de servomotor aan het IR-signaal. 
 De ledring werd eerst apart bestuurd via de seriele monitor. Toen dit werkte, werd alles gekoppeld aan elkaar in één code. Met enkele aanpassingen (delay->millis,...) werkte alles tesamen.
 <img src="Images/Flowchart.png" width="100%"> 
-
+Hieronder zie je een video van de werkende elektronica, nog vóór deze werd geïntegreerd in het prototype:
 <img src="Images/Videowerkendprototype gifversie.gif" alt="Demo" width="100%"/>
 
