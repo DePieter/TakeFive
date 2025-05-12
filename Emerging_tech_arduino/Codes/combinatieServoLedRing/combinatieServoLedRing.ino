@@ -1,3 +1,5 @@
+//Bram Finn Pieter
+
 /*
 Aansluitingen:
 ledStrip: GND (Grijze kabel) -> GND arduino, 5V (Witte kabel) -> 5V arduino, D (Paarse kabel) -> pin 6
