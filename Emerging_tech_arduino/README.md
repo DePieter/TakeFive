@@ -6,7 +6,7 @@ De feedbackunit bevat een IR-sensor om de signalen te detecteren, een Adafruit N
 Doelen:
 - Op afstand bestuurbaar zijn.
 - Een motor kunnen besturen.
-- Een ledring kunnen besturen.
+- Een ledring kunnen besturen.  
 De werkende Arduino scripts kan je vinden in [code/arduino](Codes/combinatieServoLedRing)
 ## Elektronica
 Hieronder staan al onze componenten die we gebruikt hebben:
