@@ -1,9 +1,10 @@
-# emerging_tech_arduino
+# Emerging_tech_arduino
+Ons project voor 'Emerging_tech_arduino'is een functioneel 'Wizard of OZ'-prototype maken.
+Hiervoor moeten we een dier kunnen laten bewegen en een ledring aansturen wanneer de zorgmedewerker in de buurt is.  
+Hiervoor maken we gebruik van een bakje dat IR-signalen stuurt voor de Feedbackunit aan te sturen wanneer de zorgmedewerker in de buurt is. In de feedbackunit zit er een IR-sensor voor de signalen te detecteren, een Adafruit NeoPixel Ring 12 en een micro servo motor.
 
-> Voorbeeld repository voor het praktijkgedeelte van het vak `emerging technologies`
+- Arduino scripts kan je vinden in [code/arduino](Emerging_tech_arduino/Codes/combinatieServoLedRing)
 
-- Arduino scripts kan je vinden in [code/arduino](./code/arduino/)
-- Python scripts kan je vinden in [code/python](./code/python/)
 
 
 
