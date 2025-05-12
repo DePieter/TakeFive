@@ -18,6 +18,5 @@ Wanneer het IR-signaal detecteerbaar kon gemeten worden, gingen we over naar het
 De ledring werd eerst apart bestuurd via de seriele monitor. Toen dit werkte, werd alles gekoppeld aan elkaar in één code. Met enkele aanpassingen (delay->millis,...) werkte alles tesamen.
 <img src="Images/Flowchart.png" width="100%"> 
 
-
-<img src="Emerging_tech_arduino/Images/Videowerkendprototype gifversie.gif" alt="Demo" width="100%"/>
+<img src="Images/Videowerkendprototype gifversie.gif" alt="Demo" width="100%"/>
 
