@@ -52,19 +52,19 @@ Omdat er zowel een ledring als servo op 1 arduino aangesloten is, is de powersup
 
 ## Code
 In het eerste deel van de code worden de library's geinclude, de pinnen gezet, de servo en ledring digitaal aangemaakt en alle variables gemaakt.
-<img src="Images/Images code/Lijntjes include, define.png" width="100%"> 
+<img src="Images/Images code/Lijntjes include, define.png" height="110"> 
 
 In de void setup worden de IR-pin en de servopin correct ingesteld. Ook wordt hier de startpositie van de servo bepaald en de ledring uitgeschakeld om mee te beginnen.
-<img src="Images/Images code/Void setup.png" width="100%"> 
+<img src="Images/Images code/Void setup.png" height="35%"> 
 
 In de start van de void loop wordt er een functie millis aangemaakt, deze zal de tijd controleren zodat de ledring iedere 18ms een verandering maakt van kleur. 
-<img src="Images/Images code/Start void loop, millis timer.png" width="100%"> 
+<img src="Images/Images code/Start void loop, millis timer.png" height="30%"> 
 
 Deze if-lus wordt enkel doorlopen als er een IR-signaal gedecteerd is. Daarna wordt er gekeken welk signaal het is voor de servo te besturen. Als het een knop voor de servo was dan zal deze verdraaien. Ondertussen zal de hoek van de servo gemapped worden in een waarde tussen 1-10. Met deze waarde wordt de ledring aangestuurd.
-<img src="Images/Images code/IRsensor inlezen en sturen van de servo.png" width="100%"> 
+<img src="Images/Images code/IRsensor inlezen en sturen van de servo.png" height="100%"> 
 
 In dit deel van de code wordt de ledring aangestuurd. Het is daarbij belangrijk dat deze 16 keer per minuut pulseert, net als een menselijke ademhaling. De puls verloopt in 200 stappen: 100 stappen waarbij het licht feller wordt en 100 waarbij het weer dimt. Na elke stap wordt de ledring aangepast via een aparte void-lus.
-<img src="Images/Images code/Pulseren van de ledring.png" width="100%"> 
+<img src="Images/Images code/Pulseren van de ledring.png" height="50%"> 
 
 In deze apart void-lus wordt de ledring bestuurd. Hierdoor is het makkelijk om de led's aan te sturen en voor de programma's te combineren.
-<img src="Images/Images code/extra functie voor de leds aan te sturen.png" width="100%"> 
+<img src="Images/Images code/extra functie voor de leds aan te sturen.png" height="25%"> 
