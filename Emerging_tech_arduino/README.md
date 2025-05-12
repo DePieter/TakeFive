@@ -4,9 +4,9 @@ Om dit te realiseren, moeten we een dier kunnen laten bewegen en een LED-ring ku
 Daarvoor gebruiken we een bakje dat IR-signalen uitzendt om de feedbackunit aan te sturen wanneer de zorgmedewerker nadert.
 De feedbackunit bevat een IR-sensor om de signalen te detecteren, een Adafruit NeoPixel Ring met 12 LEDs en een micro servo motor.
 Doelen:
-- Op afstand bestuurbaar zijn.
-- Een motor kunnen besturen.
-- Een ledring kunnen besturen.  
+- Op afstand bestuurbaar zijn. Met behulp van InfraRood
+- Een motor kunnen aansturen. Met behulp van een servomotor
+- Een ledring kunnen aansturen. Met behulp van een ledring  
 
 De werkende Arduino scripts kan je vinden in [code/arduino](Codes/combinatieServoLedRing)
 ## Elektronica
