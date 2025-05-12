@@ -11,7 +11,6 @@ Doelen:
 - Arduino scripts kan je vinden in [code/arduino](Codes/combinatieServoLedRing)
 ## Elektronica
 Hieronder staan al onze componenten die we gebruikt hebben:
-https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996
 )
 - [330 ohm weerstand](https://www.bitsandparts.nl/Weerstand-330-Ohm-1-4W-5pct-p101277?gQT=1)
