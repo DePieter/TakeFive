@@ -7,8 +7,7 @@ Doelen:
 - Op afstand bestuurbaar zijn.
 - Een motor kunnen besturen.
 - Een ledring kunnen besturen.
-
-- Arduino scripts kan je vinden in [code/arduino](Codes/combinatieServoLedRing)
+De werkende Arduino scripts kan je vinden in [code/arduino](Codes/combinatieServoLedRing)
 ## Elektronica
 Hieronder staan al onze componenten die we gebruikt hebben:
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996
