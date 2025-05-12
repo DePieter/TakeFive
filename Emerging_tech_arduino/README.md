@@ -12,8 +12,7 @@ Afbeeldingen plaats je in [imgs](./imgs/)
 Bijv. ![arduino](./imgs/arduino.jpg)
 
 ## Bedradingsschema
-
-Foto invoegen  
+<img src="Emerging_tech_arduino/Images/Bedradingschema.png" width="100%"> 
 
 
 ## indien Project GGO
