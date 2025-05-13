@@ -316,29 +316,28 @@ Wave 2 toonde aan dat er behoefte was aan een manier om aan te geven wanneer iem
 Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brainstormsessie per teamlid. Elk teamlid werkte één of meerdere concepten uit en beschreef alle eigenschappen op grote A3-bladen. Vervolgens werd via dotvoting bepaald welke eigenschappen waardevol waren voor het concept en welke moesten worden uitgesloten.
 
 De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke een eerste vorm krijgen in het volgende deel: _Design sketches_.
-
+|De wearable| Dit is de sensor die door woonzorgmedewerkers wordt gedragen om hun stressniveau te monitoren.|
+| Feedback Unit |De feedbackunit geeft een signaal wanneer een te hoog stressniveau wordt gedetecteerd. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen.|
+| Verificator | De verificator stelt pauzes voor en controleert of deze daadwerkelijk worden genomen.   |
 <div style="text-align: center;">
     <img src="Foto's/6 Develop/D3.1/Brainstorm develop 1.png" style="width: 50%;" />
 </div>
 
 #### Design sketches $${\color{red}herschrijven}$$
 
-Deze tekst staat hier niet echt op zn plaats, er moet hier iets staan dat rechtstreeks gaat over de schetsen bijvoorbeeld: de resultaten, het proces, zaken die moelijk te schetsen waren ofzo, digen die interessant en relevant zijn.
-
-Voor wave 3 is besloten om met een verificator te werken, zodat gecontroleerd kan worden of er daadwerkelijk een pauze wordt genomen. Dit is geïmplementeerd als een handmatig bedienbare gieter met behulp van Protopie. De wearable uit wave 2 wordt hergebruikt. Als feedbackunit gebruiken we momenteel een bloem, waarvan de kleur en status (bijvoorbeeld verwelkt) handmatig kunnen worden aangepast.
-
+Voor de feedbackunit maken we gebruik van een bloem die verwelkt naarmate het stressniveau toeneemt. In aansluiting daarop fungeert de verificator als een gieter, waarmee je symbolisch de bloem water geeft om haar te laten herstellen.
 | Product | Concept schetsen |
 |------|------|
-| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="width: 25%;">  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="width: 25%;">|
-| Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="width: 25%;">|
+| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200;">  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200;">|
+| Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="height: 200;">|
 
 #### Prototyping $${\color{red}aanvullen}$$
 Hier relevante tekst rechtstreeks over het prototypen zoals bv het doel ervan, hoe we aan de slag zijn gegeaan (theoretische kapstokken), resultaten,... De beschrijving zelf staat hieronder al in de tabel. Probeer ook in deze tekst te verwijzen naar deze tabel ("de prototypes worden in onderstaande tabel weergegeven") -> eigenlijk moet je bij elke figuur, tabel,... zo'n verwijzing maken.
 
 | *deftige foto’s wearable* | **Wearable:** Beknopte beschrijving |
 |----------------------------|------------------------------------|
-|  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="width: 25%;">| **Feedback unit (hoofdfocus):**<br>Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen. |
-|  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="width: 25%;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
+|  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200;">| **Feedback unit (hoofdfocus):**<br>Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen. |
+|  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="height: 200;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
 | *deftige foto’s interface* | **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
 
 #### Storyboarding $${\color{red}aanvullen}$$
