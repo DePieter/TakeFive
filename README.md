@@ -328,8 +328,8 @@ De brainstorming heeft geleid tot het implementeren van een systeem bestaande ui
 Voor de feedbackunit maken we gebruik van een bloem die verwelkt naarmate het stressniveau toeneemt. In aansluiting daarop fungeert de verificator als een gieter, waarmee je symbolisch de bloem water geeft om haar te laten herstellen.
 | Product | Concept schetsen |
 |------|------|
-| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200;">  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200;">|
-| Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="height: 200;">|
+| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200px;">  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200px;">|
+| Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="height: 200px;">|
 
 #### Prototyping $${\color{red}aanvullen}$$
 Hier relevante tekst rechtstreeks over het prototypen zoals bv het doel ervan, hoe we aan de slag zijn gegeaan (theoretische kapstokken), resultaten,... De beschrijving zelf staat hieronder al in de tabel. Probeer ook in deze tekst te verwijzen naar deze tabel ("de prototypes worden in onderstaande tabel weergegeven") -> eigenlijk moet je bij elke figuur, tabel,... zo'n verwijzing maken.
