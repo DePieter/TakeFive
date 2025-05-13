@@ -252,7 +252,7 @@ De bekomen design requirements worden gebruikt om het ontwerp aan te passen en t
 Voor wave 2 is het de bedoeling om de prototypes uit wave 1 verder uit te werken tot volwaardige versies, die grondig getest kunnen worden. Het plan is om deze herhaaldelijk gedurende een volledige voormiddagen te laten gebruiken, waarbij het systeem zowel aangeeft wanneer een pauze nodig is als welk type pauze genomen moet worden.
 
 
-#### Prototyping $${\color{red}Aanvullen+foto's}$$
+#### Prototyping
 De FU beschikt nu over een eigen oplaadstation, dat onder andere gebruikmaakt van lichtsignalen om te communiceren. Daarnaast is de wearable verbeterd: deze is vervaardigd uit EVA-foam en met behulp van een mal in vorm gebracht. In de wearable is bovendien een smartwatch-sensor geïntegreerd, zodat er echte data gemeten kon worden.
 <p align="left">
   <img src="Foto's/5 Definition/Wave 2/FeedbackunitWave2V1.jpeg" style="height:200px;"></td>
@@ -265,8 +265,8 @@ De FU beschikt nu over een eigen oplaadstation, dat onder andere gebruikmaakt va
 Woonzorgcentrum De Oever 
 Om deze testen te kunnen uitvoeren, hebben we besloten om een **'Plug and Play'**-protocol te gebruiken. De deelnemers kregen hiervoor een handleiding (zie [Protocol wave 2](#bijlagen)) waarmee ze zelfstandig aan de slag konden. In deze handleiding stond uitgelegd hoe ze het systeem moesten aanzetten, reinigen en opladen. Daarnaast bevatte het ook de verschillende soorten pauzes die ze moesten nemen (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
 <p align="left">
-  <img src="Foto's/5 Definition/Wave 2/VZW De Oever.jpg" style="height:200px;"></td>
-  <img src="Foto's/5 Definition/Wave 2/Zorgkar.jpeg"  alt="Description" style="height:200px;"></td>
+  <img src="Foto's/5 Definition/Wave 2/VZW De Oever.jpg" style="height:400px;"></td>
+  <img src="Foto's/5 Definition/Wave 2/Zorgkar.jpeg"  alt="Description" style="height:400px;"></td>
 </p>
 
 
@@ -277,7 +277,7 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR12  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave 2       | 23/12/2024 |
+| DR12  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave_2       | 23/12/2024 |
 | DR14  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
 | DR15  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
 | DR16  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
