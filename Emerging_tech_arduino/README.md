@@ -49,9 +49,8 @@ Bij het gebruik van interrupt bleek het niet betrouwbaar te zijn met andere 'rui
 Momenteel maken we maar gebruik van 2 verschillende kleuren. Als we verschillende stresswaardes hebben, kunnen we ook met een switchcase werken per stresswaarde.
 ### Tinkercad - Adafruit
 Tinkercad staat niet toe om met adafruit te werken, hierdoor konden we het niet virtueel testen waardoor we de schakeling in het echt hebben gemaakt.
-### 5V power supply.
-Omdat er zowel een ledring als servo op 1 arduino aangesloten is, is de powersupply niet sterk genoeg. Hiervoor gaan we werken met een 9V batterij die zowel de arduino powered en met behulp van een 9V-to-5V converter om die extra powersupply te voorzien.
-
+### Servo 
+De servo zit soms een stap te bewegen zonder dat hij mag bewegen. 
 
 ## Code
 In het eerste deel van de code worden de library's geinclude, de pinnen gezet, de servo en ledring digitaal aangemaakt en alle variables gemaakt.  
