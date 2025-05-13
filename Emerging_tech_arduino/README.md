@@ -1,16 +1,18 @@
 # Emerging_tech_arduino
-Ons project voor 'Emerging_tech_arduino'is een functioneel 'Wizard of OZ'-prototype maken.
-Om dit te realiseren, moeten we een dier kunnen laten bewegen en een LED-ring kunnen activeren zodra een zorgmedewerker in de buurt is.
-Daarvoor gebruiken we een bakje dat IR-signalen uitzendt om de feedbackunit aan te sturen wanneer de zorgmedewerker nadert.
-De feedbackunit bevat een IR-sensor om de signalen te detecteren, een Adafruit NeoPixel Ring met 12 LEDs en een micro servo motor.
-Doelen:
-- Op afstand bestuurbaar zijn. Met behulp van InfraRood
-- Een motor kunnen aansturen. Met behulp van een servomotor
-- Een ledring kunnen aansturen. Met behulp van een ledring  
+De overkoepelende opdracht voor het vak Opkomende Technologieën beschrijft het realiseren van een Wizard of Oz prototype voor het project van het vak gebruiksgericht ontwerpen. Het project kan als volgt in een notendop worden beschreven: een wearable die het stressniveau van een zorgverlener communiceert naar een feedbackunit die dit stressniveau van zorgverleners visualiseert met een bewegend dier als metafoor. Het doel hiervan is om meer aandacht te bieden aan stress binnen zorginstellingen, zodat hier beter op ingespeeld kan worden en burn-outs en uitval door stress op lange termijn kunnen worden voorkomen.
+Aangezien de hoofdzakelijke focus voornamelijk op de feedbackunit ligt, zal enkel dit aspect worden uitgewerkt als prototype. Als metafoor is gekozen voor een hond die verschillende houdingen kan aannemen: van staand naar zittend en alle tussenliggende posities. De positie van de hond geeft het stressniveau van de zorgverlener weer.
+Bijkomend is het de bedoeling dat de feedbackunit enkel de stress status aangeeft als de betreffende gebruiker in de buurt is, dit om negatieve stigmatisering te beperken.
+Concreet moet dit prototype voldoen aan volgende vereisten om het te kunnen beschouwen als een geslaagd wizard of zo prototype:
+| Vereiste                                                        | Methode/Technologie             |
+|------------------------------------------------------------------|----------------------------------|
+| Hond die van staan naar zitten beweegt, inclusief tussenposities | Servomotor                       |
+| Visuele aanduiding van stressniveau                              | Adafruit Neopixel 12 LED-ring    |
+| Draadloze bediening (aan/uit, houdingen, nauwkeurige positiebepaling) | IR-afstandsbediening en -ontvanger |
 
-De werkende Arduino scripts kan je vinden in [code/arduino](Codes/combinatieServoLedRing)
+
+De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieServoLedRing)
 ## Elektronica
-Hieronder staan al onze componenten die we gebruikt hebben:
+Gebruikte componenten:
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996
 )
 - [330 ohm weerstand](https://www.bitsandparts.nl/Weerstand-330-Ohm-1-4W-5pct-p101277?gQT=1)
