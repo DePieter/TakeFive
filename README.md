@@ -363,7 +363,7 @@ In fase 3 brengt de zorgmedewerker de FeedbackUnit (FU) naar de verificator (gie
 In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiezen. Zodra de keuze is gemaakt, verschijnt een menu met alle collega’s die op dat moment pauzeren. Vervolgens kan de verificator worden gebruikt om de bloem water te geven, waardoor deze weer begint te bloeien.
 invoegen interfase foto's
 <p align="left">
-  <img src="Map foto's2/Storyboard wave 3.4.png" width="45%">
+  <img src="Foto's/6 Develop/D3.1/Storyboard deel 4.png" width="45%">
 </p>
 
 #### User testing 
