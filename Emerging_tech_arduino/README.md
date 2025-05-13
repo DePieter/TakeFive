@@ -12,7 +12,7 @@ Concreet moet dit prototype voldoen aan volgende vereisten om het te kunnen besc
 | Draadloze bediening (aan/uit, houdingen, nauwkeurige positiebepaling) | IR-afstandsbediening en -ontvanger |
 
 
-De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieServoLedRing)
+De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieServoLedRingV2)
 ## Elektronica
 Gebruikte componenten:
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996
