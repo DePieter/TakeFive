@@ -26,8 +26,7 @@ Gebruikte componenten:
 - [Breadboard](https://sinuss.be/products/psg-bb-170w-breadboard-170-pin-white-pro-signal?currency=EUR)
 
 ## Bedradingsschema
-De ledring is verbonden met een 330 ohm weerstand. 
-Wat hier niet vermeld staat, is dat de Arduino zal worden aangesloten op een 9V-batterij. Deze batterij dient ook als extra stroomvoorziening, in combinatie met een 9V-naar-5V converter. Dit is omdat de arduino alleen niet sterk genoeg is om zowel de servomotor als ledring van stroom te verzien.  
+Dit schema toont een Arduino Uno die wordt aangestuurd via een IR-afstandsbediening. De IR-ontvanger ontvangt signalen en stuurt die naar de Arduino. Hiermee worden een NeoPixel LED-ring en een servomotor aangestuurd. De LED-ring is verbonden via een 330 ohm weerstand en krijgt, net als de servo, stroom via het breadboard.
 <img src="Images/Bedradingschema.png" width="100%"> 
 
 ## Workflow
