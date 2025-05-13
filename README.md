@@ -317,18 +317,18 @@ Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brain
 
 De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke een eerste vorm krijgen in het volgende deel: _Design sketches_.
 |De wearable| Dit is de sensor die door woonzorgmedewerkers wordt gedragen om hun stressniveau te monitoren.|
-| Feedback Unit |De feedbackunit geeft een signaal wanneer een te hoog stressniveau wordt gedetecteerd. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen.|
-| Verificator | De verificator stelt pauzes voor en controleert of deze daadwerkelijk worden genomen.   |
+|Feedback Unit |De feedbackunit geeft een signaal wanneer een te hoog stressniveau wordt gedetecteerd. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen.|
+|Verificator | De verificator stelt pauzes voor en controleert of deze daadwerkelijk worden genomen.   |
 <div style="text-align: center;">
     <img src="Foto's/6 Develop/D3.1/Brainstorm develop 1.png" style="width: 50%;" />
 </div>
 
-#### Design sketches $${\color{red}herschrijven}$$
+#### Design sketches
 
 Voor de feedbackunit maken we gebruik van een bloem die verwelkt naarmate het stressniveau toeneemt. In aansluiting daarop fungeert de verificator als een gieter, waarmee je symbolisch de bloem water geeft om haar te laten herstellen.
 | Product | Concept schetsen |
 |------|------|
-| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200px;">  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200px;">|
+| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200px;">|
 | Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="height: 200px;">|
 
 #### Prototyping $${\color{red}aanvullen}$$
@@ -338,7 +338,7 @@ Hier relevante tekst rechtstreeks over het prototypen zoals bv het doel ervan, h
 |----------------------------|------------------------------------|
 |  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200;">| **Feedback unit (hoofdfocus):**<br>Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen. |
 |  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="height: 200;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
-| *deftige foto’s interface* | **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
+| $${\color{red}*deftige foto’s interface*}$$| **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
 
 #### Storyboarding $${\color{red}aanvullen}$$
 
@@ -370,7 +370,8 @@ invoegen interfase foto's
 Door een uitgebreide MoSCoW-methode te combineren met brainstorming en roleplay, is een waardevolle tabel opgesteld. Deze leidt tot concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests, zoals beschreven in het [MoSCoW-document](https://ugentbe-my.sharepoint.com/:w:/g/personal/bram_tops_ugent_be/Ec037Kdu9NpClCjT8NW92lIBiGvA1C8_lfeysg7QbH_XUQ?e=BL1XDJ). $${\color{red}aanpassen-dit-document-bestaat-niet-meer-dit-is-samen-gevoegd-in-het-protocol-3.1}$$
 Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
 De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:
-
+  <img src="Foto's/6 Develop/D3.1/VZW Panhuys.webp" height="200">
+  
 **Conceptuele validatie (Definition-fase)**
 - In welke mate sluit de voorgestelde pauzestrategie aan bij de noden en verwachtingen van zorgmedewerkers? (=wat is de opinie van de gebruiker)?
 - Hoe betrouwbaar en consistent functioneert het systeem onder verschillende werkomstandigheden en stressniveaus?
