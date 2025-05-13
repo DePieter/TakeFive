@@ -394,7 +394,7 @@ zie opbouw van vorige waves
 
 | ID    | Design Requirements                                                                                                                    | Source    | Date       |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| DR21  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test 3.1  | 24/02/2024 |
+| DR21  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test_3.1  | 24/02/2024 |
 | DR22  | Gebruikers moeten zelf kunnen kiezen wanneer ze hun pauze nemen.                                                                       | Test 3.1  | 24/02/2024 |
 | DR23  | De feedback unit moet individueel herkenbaar zijn en niet gelinkt aan een gedeelde zorgkar.                                            | Test 3.1  | 24/02/2024 |
 | DR24  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
