@@ -369,7 +369,7 @@ invoegen interfase foto's
 #### User testing 
 Door een uitgebreide MoSCoW-methode te combineren met brainstorming en roleplay, is een waardevolle tabel opgesteld. Deze leidt tot concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests, zoals beschreven in het [MoSCoW-document](https://ugentbe-my.sharepoint.com/:w:/g/personal/bram_tops_ugent_be/Ec037Kdu9NpClCjT8NW92lIBiGvA1C8_lfeysg7QbH_XUQ?e=BL1XDJ). $${\color{red}aanpassen-dit-document-bestaat-niet-meer-dit-is-samen-gevoegd-in-het-protocol-3.1}$$
 Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
-De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:
+De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:     
   <img src="Foto's/6 Develop/D3.1/VZW Panhuys.webp" height="200">
   
 **Conceptuele validatie (Definition-fase)**
@@ -388,14 +388,22 @@ De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:
 
 De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zaken zijn terug te vinden in concepttestrapport 3.1.
 
-#### Conclusies & implicaties 
+#### Conclusies & implicaties $${\color{red}*aanvullen*}$$
 zie opbouw van vorige waves
 
-> [!IMPORTANT]
-> Design Requirements: $${\color{red}aanvullen}$$
-> -  jj
-> -  ...
->
+
+| ID    | Design Requirements                                                                                                                    | Source    | Date       |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
+| DR21  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test 3.1  | 24/02/2024 |
+| DR22  | Gebruikers moeten zelf kunnen kiezen wanneer ze hun pauze nemen.                                                                       | Test 3.1  | 24/02/2024 |
+| DR23  | De feedback unit moet individueel herkenbaar zijn en niet gelinkt aan een gedeelde zorgkar.                                            | Test 3.1  | 24/02/2024 |
+| DR24  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
+| DR25  | De verificator moet zich dichtbij bevinden om de drempel tot pauzes te verlagen.                                                       | Test 3.1  | 24/02/2024 |
+| DR26  | Het systeem mag geen extra werkdruk of cognitieve belasting veroorzaken.                                                                | Test 3.1  | 24/02/2024 |
+| DR27  | Een snooze-functie moet mogelijk zijn om pauzes uit te stellen.                                                                         | Test 3.1  | 24/02/2024 |
+| DR28  | Het systeem moet een positieve stimulans bieden, zoals kleine gelukjes, om acceptatie te verhogen.                                     | Test 3.1  | 24/02/2024 |
+| DR29  | Het systeem moet rekening houden met piekmomenten (ochtend- en avondzorgen) bij pauzevoorstellen.                                      | Test 3.1  | 24/02/2024 |
+
 
 
 ### Develop 3.2: [focus]  
