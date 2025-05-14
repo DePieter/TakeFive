@@ -108,7 +108,7 @@ De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieS
 
 
 ### **Opstart**
-In het eerste deel van de code worden libraries, variabelen,... gedeclareerd om de Arduino aan te sturen met een servo-motor, een NeoPixel LED-ring en een IR-afstandsbediening.
+In het eerste deel van de code worden libraries en variabelen gedeclareerd om de Arduino te bedienen met een servo-motor, een NeoPixel LED-ring en een IR-afstandsbediening. Daarnaast staat er uitleg over de aansluiting van het prototype en welke libraries geïnstalleerd moeten worden.
 
 
 ```yaml annotate
