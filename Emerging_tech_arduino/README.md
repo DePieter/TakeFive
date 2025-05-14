@@ -122,3 +122,36 @@ In dit deel van de code wordt de ledring aangestuurd. Het is daarbij belangrijk 
 
 In deze apart void-lus wordt de ledring bestuurd. Hierdoor is het makkelijk om de led's aan te sturen en voor de programma's te combineren.  
 <img src="Images/Images code/extra functie voor de leds aan te sturen.png" height="100"> 
+
+
+
+
+
+
+✅ **Supports syntax highlighting**  
+✅ **Works in README, Issues, PRs, and Discussions**
+
+---
+
+## 🔹 2. **Annotated Code Blocks (for GitHub Docs)**
+
+If you're working on **GitHub Docs** (like official GitHub documentation), you can create **annotated code blocks**:
+
+```yaml annotate
+# Name of the workflow
+name: Example
+
+# Trigger
+on: push
+
+
+
+Embed example:
+https://gist.github.com/yourusername/abcd1234
+
+
+
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
