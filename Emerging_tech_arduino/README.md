@@ -128,30 +128,10 @@ In deze apart void-lus wordt de ledring bestuurd. Hierdoor is het makkelijk om d
 
 
 
-✅ **Supports syntax highlighting**  
-✅ **Works in README, Issues, PRs, and Discussions**
 
----
 
-## 🔹 2. **Annotated Code Blocks (for GitHub Docs)**
-
-If you're working on **GitHub Docs** (like official GitHub documentation), you can create **annotated code blocks**:
+## 🔹 **Titel**
+Hier moet de tekst
 
 ```yaml annotate
-# Name of the workflow
-name: Example
-
-# Trigger
-on: push
-
-
-
-Embed example:
-https://gist.github.com/yourusername/abcd1234
-
-
-
-
-```python
-def greet(name):
-    return f"Hello, {name}!"
+Deel van de code hierin
