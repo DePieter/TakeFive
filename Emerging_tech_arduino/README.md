@@ -130,8 +130,56 @@ In deze apart void-lus wordt de ledring bestuurd. Hierdoor is het makkelijk om d
 
 
 
-## 🔹 **Titel**
-Hier moet de tekst
+### **Opstart**
+Dit deel van de code zet de Arduino op voor een systeem dat een servo-motor, een NeoPixel LED-ring en een IR-afstandsbediening aanstuurt.
 
 ```yaml annotate
-Deel van de code hierin
+#include <IRremote.hpp>
+#include <Servo.h>
+#include <Adafruit_NeoPixel.h>
+
+#define IR_RECEIVE_PIN 8
+#define SERVO_PIN 9
+#define LED_PIN 6
+#define LED_COUNT 12
+
+Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
+Servo servo;
+
+int pos = 0;
+int targetPos = 0;
+bool systeemActief = true;
+bool positieVeranderd = false;
+bool servoIsAttached = false;
+
+int RoodGB= 0;
+int RGroenB= 0;
+int RGblauw=0;
+int stapRichting=1;
+
+uint32_t Kleur_Ledring = strip.Color(0, 0, 0);    
+unsigned long vorigeTijd = 0;
+unsigned long tijd=0;
+unsigned long tijdsVerschil=0;
+
+
+
+// Debounce
+unsigned long laatsteToggleTijd = 0;
+const unsigned long debounceInterval = 500;
+
+
+### **Void setup**
+In de void setup van de code initialisesert de seriële communicatie, de IR-ontvanger, de LED-strip en de servo, en stelt de beginpositie van de servo in. Het geeft deze startpositie dan ook weer op de seriële monitor.
+```yaml annotate
+void setup() {
+  Serial.begin(9600);
+  IrReceiver.begin(IR_RECEIVE_PIN);
+  strip.begin();
+  strip.show();  // zet alle leds uit
+
+  delay(500);             // tijd om servo manueel te plaatsen
+  pos = targetPos = servo.read(); // positie bewaren bij opstart
+  Serial.print("Startpositie: ");
+  Serial.println(pos);
+}
