@@ -32,7 +32,8 @@ Dit schema toont een Arduino Uno die wordt aangestuurd via een IR-afstandsbedien
 ## Workflow
 Om het project gestructureerd aan te pakken, werd het opgedeeld in twee delen: de basiswerking en mogelijke uitbreidingen. Dit zorgt ervoor dat eerst de essentiële functies volledig en stabiel werken, zodat er op een betrouwbare manier verder kan worden gebouwd. Een werkend prototype vereist in elk geval een correct functionerende basis.
 
-**Basiswerking**_
+**Basiswerking**
+
 De basisfunctionaliteit bestaat uit het laten bewegen van een 3D-print van een hond (via een servomotor) en het weergeven van een LED-signaal (via een ledring). Deze twee elementen reageren op input via een IR-afstandsbediening.
 De stappen die hiervoor werden gevolgd:
 1.	IR-signalen uitlezen via de seriële monitor.
@@ -41,12 +42,14 @@ De stappen die hiervoor werden gevolgd:
 4.	De LED-ring tegelijk met de servo laten reageren op dezelfde input.
    
 **Uitbreiding**
+
 In een latere fase kan het systeem uitgebreid worden met een proximityfunctie via Bluetooth. Hierbij werkt de feedbackunit (servo + LED) pas als de gebruiker, die een wearable draagt, zich binnen een bepaalde afstand bevindt.
 De uitbreidingsstappen:
 1.	Een toestel ontwikkelen dat een Bluetoothsignaal uitzendt (simulatie van de wearable).
 2.	De nabijheid van dit toestel meten aan de hand van de signaalsterkte (RSSI).
    
 **Aanpak**
+
 Als eerste werd een verbinding gelegd tussen de Arduino en de IR-ontvanger. Met behulp van de seriële monitor konden de unieke codes van elke knop op de afstandsbediening gelogd worden. Vervolgens werd de servomotor aangestuurd op basis van een gekozen IR-waarde. Toen dit betrouwbaar werkte, werd de LED-ring apart getest en later toegevoegd aan de code. Pas toen alle onderdelen afzonderlijk goed functioneerden, werden ze geïntegreerd in één programma. Hieronder is een flowchart gevisualiseerd van de aanpak van dit project. 
 
 <img src="Images/Flowchart.png" width="100%"> 
