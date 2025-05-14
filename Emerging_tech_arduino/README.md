@@ -108,9 +108,27 @@ De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieS
 
 
 ### **Opstart**
-Dit deel van de code zet de Arduino op voor een systeem dat een servo-motor, een NeoPixel LED-ring en een IR-afstandsbediening aanstuurt.
+In het eerste deel van de code worden libraries, variabelen,... gedeclareerd om de Arduino aan te sturen met een servo-motor, een NeoPixel LED-ring en een IR-afstandsbediening.
+
 
 ```yaml annotate
+//Bram Finn Pieter
+
+/*
+Aansluitingen:
+ledStrip: GND (Grijze kabel) -> GND arduino, 5V (Witte kabel) -> 5V arduino, D (Paarse kabel) -> pin 6
+Servo: GND (zwarte kabel) -> GND arduino, 5V (rode kabel) -> 5V arduino, Signaal (Oranje kabel) -> pin 9
+IRsensor: GND met GND, 5V met 5V, Output (linker pootje)-> pin 8
+
+Installeer de libraries:
+"Adafruit_NeoPixel.h", 
+"IRremote" by shirriff, z3to, ArminJo
+"Servo" by Micheal Margolis, Arduino
+
+Met behulp van een IR-bakje kan je het besturen.
+De servo kan aangestuurd worden met het bakje.
+De kleur van de ledring hangt af va nde hoek van de servo.
+*/
 #include <IRremote.hpp>
 #include <Servo.h>
 #include <Adafruit_NeoPixel.h>
@@ -161,13 +179,22 @@ void setup() {
   Serial.println(pos);
 }
 ```
-
+### **Besturing ledring**
+In deze aparte void-functie wordt de LED-ring aangestuurd. Dit is zo opgezet zodat de functie eenvoudig te hergebruiken en te integreren is in andere codes.
+```yaml annotate
+void besturingLedring(int aantalLeds, uint32_t kleur) {
+  for (int i = 0; i < LED_COUNT; i++) {
+      strip.setPixelColor(i, kleur);
+    } 
+  strip.show();
+  }
+```
 
 ### **Void loop**
-Dit deel van de code bevindt zich allemaal in de void loop.
+Alle code die hieronder staat, bevindt zich binnen de void loop.
 
 #### **IR-signaal**
-De code ontvangt IR-commando's om het systeem aan of uit te zetten, de servo te bewegen en de LED-strip te bedienen, waarbij een debounce voorkomt dat commando's te snel achter elkaar worden verwerkt. Tegelijkertijd wordt de doelhoek voor de servo ingesteld.
+De code ontvangt IR-commando's om het systeem aan of uit te zetten, de servo te bewegen en de LED-strip te bedienen. Daarbij voorkomt een debounce dat commando's te snel achter elkaar worden verwerkt. Tegelijkertijd wordt de doelhoek voor de servo ingesteld.
 ```yaml annotate
   if (IrReceiver.decode()) {
     int cmd = IrReceiver.decodedIRData.command;
@@ -217,7 +244,7 @@ De code ontvangt IR-commando's om het systeem aan of uit te zetten, de servo te 
 
 
 #### **Servo**
-Hieronder bevindt zich de 
+Hieronder staat de code die de servo langzaam beweegt naar de doelpositie wanneer het systeem actief is en de positie is veranderd.
 ```yaml annotate
   if (systeemActief && positieVeranderd && servoIsAttached) {
     if (pos != targetPos) {
@@ -236,7 +263,7 @@ Hieronder bevindt zich de
 ```
 
 ### **Ledring**
-In dit deel van de code wordt ervoor gezorgd dat de ledring pulserend werkt als het systeem actief is. De kleur hangt af van de hoek die de servo moet aannemen. 
+Dit deel zorgt ervoor dat de LED-ring pulserend werkt zolang het systeem actief is. De kleur verandert afhankelijk van de hoek die de servo moet aannemen.
 ```yaml annotate
   // LED pulsering
   if (systeemActief) {
@@ -274,13 +301,3 @@ In dit deel van de code wordt ervoor gezorgd dat de ledring pulserend werkt als 
     }
 ```
 
-### **Besturing ledring**
-In deze aparte void-functie wordt de LED-ring aangestuurd. Dit is zo opgezet zodat de functie eenvoudig te hergebruiken en te integreren is in andere codes.
-```yaml annotate
-void besturingLedring(int aantalLeds, uint32_t kleur) {
-  for (int i = 0; i < LED_COUNT; i++) {
-      strip.setPixelColor(i, kleur);
-    } 
-  strip.show();
-  }
-```
