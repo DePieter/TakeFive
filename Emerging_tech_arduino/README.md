@@ -83,12 +83,9 @@ Door de voedingskabels van de servo te koppelen met een 2de arduino, werd het pr
 
 Uiteraard was deze opstelling niet optimaal, zeker aangezien de beschikbare inbouwruimte beperkt was. Om deze reden is er na veel zoeken een relatief eenvoudige oplossing bedacht die het mogelijk maakt om de schakeling te doen werken met slechtst 1 arduino die voorzien wordt van voeding door een 9V batterij. De oplossing was om de servo automatisch los te koppelen (detach) wanneer deze niet actief beweegt, waardoor de schokkende minibewegingen geen effect meer hadden op de servo.
 
-
 ### Servo beweegt bij opstart
 Bij het inschakelen van de Arduino bleek de servo zich spontaan naar een standaardpositie te verplaatsen. Dit was ongewenst omdat dit kan zorgen voor schade, zeker wanneer de hond fysiek al in een andere positie stond.
 De oplossing hiervoor was om bij het opstarten van de Arduino de huidige servo-positie uit te lezen en als beginpositie te registreren. Hierdoor worden onnodige bewegingen bij het opstarten vermeden.
-
- 
 
 ### Delay blokkeert IR-signalen
 In het oorspronkelijke programma werd een delay(18) gebruikt om de LED-ring te laten pulseren. Dit zorgde er echter voor dat inkomende IR-signalen niet altijd tijdig geregistreerd werden.
