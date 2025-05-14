@@ -50,12 +50,12 @@ De uitbreidingsstappen:
    
 **Aanpak**
 
-Als eerste werd een verbinding gelegd tussen de Arduino en de IR-ontvanger. Met behulp van de seriële monitor konden de unieke codes van elke knop op de afstandsbediening gelogd worden. Vervolgens werd de servomotor aangestuurd op basis van een gekozen IR-waarde. Toen dit betrouwbaar werkte, werd de LED-ring apart getest en later toegevoegd aan de code. Pas toen alle onderdelen afzonderlijk goed functioneerden, werden ze geïntegreerd in één programma. Hieronder is een flowchart gevisualiseerd van de aanpak voor de basiswerking.
+Als eerste werd een verbinding gelegd tussen de Arduino en de IR-ontvanger. Met behulp van de seriële monitor konden de unieke codes van elke knop op de afstandsbediening gelogd worden. Vervolgens werd de servomotor aangestuurd op basis van een gekozen IR-waarde. Toen dit betrouwbaar werkte, werd de LED-ring apart getest en later toegevoegd aan de code. Pas toen alle onderdelen afzonderlijk goed functioneerden, werden ze geïntegreerd in één programma. Hieronder is een flowchart gevisualiseerd van de aanpak voor de basiswerking en ook een video van het eerste resultaat.
 
-<img src="Images/Flowchart.png" width="100%"> 
-## Video
-Hieronder zie je een video van de werkende elektronica, nog vóór deze werd geïntegreerd in het prototype:
-<img src="Images/Videowerkendprototype gifversie.gif" alt="Demo" width="100%"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="Images/Flowchart.png" style="width: 49%;" alt="Flowchart">
+  <img src="Images/Videowerkendprototype gifversie.gif" style="width: 49%;" alt="Demo">
+</div>
 
 ## Problemen onderweg
 Hieronder staan een reeks van onze problemen en hoe we ze hebben opgelost.
