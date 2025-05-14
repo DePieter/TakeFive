@@ -75,8 +75,10 @@ De oplossing bestond erin om de servo alleen nog aan te sturen wanneer er een ge
 Op een bepaald moment bleef de servo bewegen op een onverwachte manier, ondanks dat alle software correct leek. Het bleek dat de voedingskabel en de signaalkabel van de servo te dicht bij elkaar lagen, wat elektrische interferentie veroorzaakte.
 Door de voedingskabels van de servo te koppelen met een 2de arduino, werd het probleem opgelost. De opstelling na het oplossen van dit probleem zag er als volgt uit:
 
-![image](https://github.com/user-attachments/assets/28a0c6d5-3b90-4f13-8131-db752f8e2c42)
-![image](https://github.com/user-attachments/assets/ed65dfae-38f9-4303-aea0-41e3872b80fe)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28a0c6d5-3b90-4f13-8131-db752f8e2c42" width="49%">
+  <img src="https://github.com/user-attachments/assets/ed65dfae-38f9-4303-aea0-41e3872b80fe" width="49%">
+</p>
 
 
 Uiteraard was deze opstelling niet optimaal, zeker aangezien de beschikbare inbouwruimte beperkt was. Om deze reden is er na veel zoeken een relatief eenvoudige oplossing bedacht die het mogelijk maakt om de schakeling te doen werken met slechtst 1 arduino die voorzien wordt van voeding door een 9V batterij. De oplossing was om de servo automatisch los te koppelen (detach) wanneer deze niet actief beweegt, waardoor de schokkende minibewegingen geen effect meer hadden op de servo.
