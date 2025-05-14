@@ -125,8 +125,6 @@ In deze apart void-lus wordt de ledring bestuurd. Hierdoor is het makkelijk om d
 
 
 
-```yaml
-Emerging_tech_arduino/Codes/CombinatieServoLedRingV3
 
 
 
@@ -168,7 +166,7 @@ unsigned long tijdsVerschil=0;
 // Debounce
 unsigned long laatsteToggleTijd = 0;
 const unsigned long debounceInterval = 500;
-
+```
 
 ### **Void setup**
 In de void setup van de code initialisesert de seriële communicatie, de IR-ontvanger, de LED-strip en de servo, en stelt de beginpositie van de servo in. Het geeft deze startpositie dan ook weer op de seriële monitor.
@@ -184,8 +182,5 @@ void setup() {
   Serial.print("Startpositie: ");
   Serial.println(pos);
 }
-
-
-```yaml
-Emerging_tech_arduino/Codes/CombinatieServoLedRingV3
+```
 
