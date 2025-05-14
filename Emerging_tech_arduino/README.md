@@ -63,18 +63,39 @@ Als eerste werd een verbinding gelegd tussen de Arduino en de IR-ontvanger. Met 
 
 
 ## Problemen onderweg
-Hieronder staan een reeks van onze problemen en hoe we ze hebben opgelost.
-### Gebruik van een delay bij de led's
-Bij het originele programma van de ledring stond er een delay in van 18ms, dit ging problemen geven voor het inlezen van de IR-signalen.
-Onze oplossing hiervoor is om met millis() te werken, hierbij controleert het of er al 18ms zijn gepasseerd sinds de vorige kleurverandering.
-### Interrupt
-Bij het gebruik van interrupt bleek het niet betrouwbaar te zijn met andere 'ruis'-signalen.
-### Switch case
-Momenteel maken we maar gebruik van 2 verschillende kleuren. Als we verschillende stresswaardes hebben, kunnen we ook met een switchcase werken per stresswaarde.
-### Tinkercad - Adafruit
-Tinkercad staat niet toe om met adafruit te werken, hierdoor konden we het niet virtueel testen waardoor we de schakeling in het echt hebben gemaakt.
-### Servo 
-De servo zit soms een stap te bewegen zonder dat hij mag bewegen. 
+Zoals bij elk ontwikkelingsproces verliep ook dit project niet zonder uitdagingen. In dit onderdeel worden de belangrijkste problemen besproken die zich tijdens het ontwikkelen van het prototype hebben voorgedaan, samen met de oplossingen die werden toegepast. Elk probleem droeg bij aan een beter begrip van de beperkingen van zowel hardware als software.
+
+### Beperkte functionaliteit in vroege versie
+In de eerste versies kon de hond enkel naar een andere positie bewegen (bijvoorbeeld van zittend naar staand) door herhaaldelijk op de plus- of minknop van de afstandsbediening te drukken. Dit was niet alleen onhandig, maar ook weinig representatief voor een realistische interactie. Daarom werd de code uitgebreid zodat specifieke knoppen een voorgeprogrammeerde doelpositie activeren, zoals “zit”, “neutraal” of “sta”. Daarnaast werd er ook een aan-uitknop gedefinieerd. Hierdoor werd de besturing intuïtiever en gebruiksvriendelijker. 
+### Servo beweegt ongewild
+Aanvankelijk maakte de servo regelmatig kleine, ongewenste bewegingen, zelfs zonder geldige IR-commando’s. Dit leidde tot veel frustratie, aangezien het leek alsof de motor uit zichzelf begon te bewegen. Na uitgebreide debugging bleek dit te komen doordat de IR-ontvanger voortdurend irrelevante signalen registreerde (zoals code 0 en 64), die elke keer opnieuw verwerkt werden. Hierdoor werd telkens een minisignaal naar de servo gestuurd, wat kleine verschuivingen veroorzaakte.
+De oplossing bestond erin om de servo alleen nog aan te sturen wanneer er een geldig commando wordt ontvangen (enkel codes 7, 12, 21, 24 of 94). In alle andere gevallen blijft de servo inactief. 
+
+### Interferentie in bekabeling
+Op een bepaald moment bleef de servo bewegen op een onverwachte manier, ondanks dat alle software correct leek. Het bleek dat de voedingskabel en de signaalkabel van de servo te dicht bij elkaar lagen, wat elektrische interferentie veroorzaakte.
+Door de voedingskabels van de servo te koppelen met een 2de arduino, werd het probleem opgelost. De opstelling na het oplossen van dit probleem zag er als volgt uit:
+
+……….
+
+Uiteraard was deze opstelling niet optimaal, zeker aangezien de beschikbare inbouwruimte beperkt was. Om deze reden is er na veel zoeken een relatief eenvoudige oplossing bedacht die het mogelijk maakt om de schakeling te doen werken met slechtst 1 arduino die voorzien wordt van voeding door een 9V batterij. De oplossing was om de servo automatisch los te koppelen (detach) wanneer deze niet actief beweegt, waardoor de schokkende minibewegingen geen effect meer hadden op de servo.
+
+
+### Servo beweegt bij opstart
+Bij het inschakelen van de Arduino bleek de servo zich spontaan naar een standaardpositie te verplaatsen. Dit was ongewenst omdat dit kan zorgen voor schade, zeker wanneer de hond fysiek al in een andere positie stond.
+De oplossing hiervoor was om bij het opstarten van de Arduino de huidige servo-positie uit te lezen en als beginpositie te registreren. Hierdoor worden onnodige bewegingen bij het opstarten vermeden.
+
+ 
+
+### Delay blokkeert IR-signalen
+In het oorspronkelijke programma werd een delay(18) gebruikt om de LED-ring te laten pulseren. Dit zorgde er echter voor dat inkomende IR-signalen niet altijd tijdig geregistreerd werden.
+De oplossing was om delay() te vervangen door een millis()-gebaseerde aanpak, waarmee gecontroleerd wordt of er voldoende tijd is verstreken sinds de vorige LED-update. Hierdoor blijft het systeem responsief voor afstandsbedieningscommando’s.
+
+### Onbetrouwbare interrupt-afhandeling
+Er werd geëxperimenteerd met interrupts om de IR-signalen te detecteren. In theorie zou dit sneller en efficiënter werken. In praktijk bleek echter dat ongewenste of ‘ruis’-signalen vaak foute triggers veroorzaakten, waardoor valse commando’s werden geregistreerd.
+Uiteindelijk werd gekozen om interrupts volledig te vermijden en over te schakelen op polling via de IrRemote-bibliotheek. Deze bleek veel stabieler en nauwkeuriger in het correct verwerken van inkomende IR-commando’s.
+
+### Beperkingen van Tinkercad
+Tinkercad bleek niet compatibel met de Adafruit NeoPixel-bibliotheek, wat betekent dat de LED-functionaliteit niet virtueel getest kon worden. Daardoor moest de volledige schakeling meteen in de echte wereld opgebouwd en getest worden.
 
 ## Code
 In het eerste deel van de code worden de library's geinclude, de pinnen gezet, de servo en ledring digitaal aangemaakt en alle variables gemaakt.  
