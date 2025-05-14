@@ -12,7 +12,6 @@ Concreet moet dit prototype voldoen aan volgende vereisten om het te kunnen besc
 | Draadloze bediening (aan/uit, houdingen, nauwkeurige positiebepaling) | IR-afstandsbediening en -ontvanger |
 
 
-De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieServoLedRingV2)
 ## Elektronica
 Gebruikte componenten:
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996
@@ -105,28 +104,7 @@ Uiteindelijk werd gekozen om interrupts volledig te vermijden en over te schakel
 Tinkercad bleek niet compatibel met de Adafruit NeoPixel-bibliotheek, wat betekent dat de LED-functionaliteit niet virtueel getest kon worden. Daardoor moest de volledige schakeling meteen in de echte wereld opgebouwd en getest worden.
 
 ## Code
-In het eerste deel van de code worden de library's geinclude, de pinnen gezet, de servo en ledring digitaal aangemaakt en alle variables gemaakt.  
-<img src="Images/Images code/Lijntjes include, define.png" height="440"> 
-
-In de void setup worden de IR-pin en de servopin correct ingesteld. Ook wordt hier de startpositie van de servo bepaald en de ledring uitgeschakeld om mee te beginnen.  
-<img src="Images/Images code/Void setup.png" height="140"> 
-
-In de start van de void loop wordt er een functie millis aangemaakt, deze zal de tijd controleren zodat de ledring iedere 18ms een verandering maakt van kleur.   
-<img src="Images/Images code/Start void loop, millis timer.png" height="120"> 
-
-Deze if-lus wordt enkel doorlopen als er een IR-signaal gedecteerd is. Daarna wordt er gekeken welk signaal het is voor de servo te besturen. Als het een knop voor de servo was dan zal deze verdraaien. Ondertussen zal de hoek van de servo gemapped worden in een waarde tussen 1-10. Met deze waarde wordt de ledring aangestuurd.  
-<img src="Images/Images code/IRsensor inlezen en sturen van de servo.png" height="400"> 
-
-In dit deel van de code wordt de ledring aangestuurd. Het is daarbij belangrijk dat deze 16 keer per minuut pulseert, net als een menselijke ademhaling. De puls verloopt in 200 stappen: 100 stappen waarbij het licht feller wordt en 100 waarbij het weer dimt. Na elke stap wordt de ledring aangepast via een aparte void-lus.  
-<img src="Images/Images code/Pulseren van de ledring.png" height="200"> 
-
-In deze apart void-lus wordt de ledring bestuurd. Hierdoor is het makkelijk om de led's aan te sturen en voor de programma's te combineren.  
-<img src="Images/Images code/extra functie voor de leds aan te sturen.png" height="100"> 
-
-
-
-
-
+De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieServoLedRingV3)
 
 
 ### **Opstart**
@@ -184,3 +162,125 @@ void setup() {
 }
 ```
 
+
+### **Void loop**
+Dit deel van de code bevindt zich allemaal in de void loop.
+
+#### **IR-signaal**
+De code ontvangt IR-commando's om het systeem aan of uit te zetten, de servo te bewegen en de LED-strip te bedienen, waarbij een debounce voorkomt dat commando's te snel achter elkaar worden verwerkt. Tegelijkertijd wordt de doelhoek voor de servo ingesteld.
+```yaml annotate
+  if (IrReceiver.decode()) {
+    int cmd = IrReceiver.decodedIRData.command;
+    Serial.print("Ontvangen IR commando: ");
+    Serial.println(cmd);
+
+    if (cmd == 22 && (millis() - laatsteToggleTijd > debounceInterval)) {
+      systeemActief = !systeemActief;
+      laatsteToggleTijd = millis();
+
+      Serial.print("Systeem actief: ");
+      Serial.println(systeemActief ? "JA" : "NEE");
+
+      if (!systeemActief) {
+        if (servoIsAttached) {
+          servo.detach();
+          servoIsAttached = false;
+          Serial.println("Servo losgekoppeld (systeem uit)");
+        }
+        strip.clear();
+        strip.show();
+      }
+    }
+
+    IrReceiver.resume();
+  }
+
+    if (systeemActief) {
+      if (cmd == 7)    { targetPos = constrain(pos + 10, 110, 190); positieVeranderd = true; }
+      if (cmd == 21)   { targetPos = constrain(pos - 10, 110, 190); positieVeranderd = true; }
+      if (cmd == 12)   { targetPos = 110; positieVeranderd = true; }
+      if (cmd == 24)   { targetPos = 150; positieVeranderd = true; }
+      if (cmd == 94)   { targetPos = 190; positieVeranderd = true; }
+
+      // Servo pas opnieuw koppelen bij nieuwe beweging
+      if (positieVeranderd && !servoIsAttached) {
+        servo.attach(SERVO_PIN);
+        servoIsAttached = true;
+        Serial.println("Servo opnieuw gekoppeld");
+      }
+    }
+
+    IrReceiver.resume();
+```
+
+
+
+
+#### **Servo**
+Hieronder bevindt zich de 
+```yaml annotate
+  if (systeemActief && positieVeranderd && servoIsAttached) {
+    if (pos != targetPos) {
+      pos += (pos < targetPos) ? 1 : -1;
+      servo.write(pos);
+      delay(20);
+    } else {
+      positieVeranderd = false;
+
+      // Servo uitschakelen als beweging klaar is
+      servo.detach();
+      servoIsAttached = false;
+      Serial.println("Servo beweging voltooid → detach()");
+    }
+  }
+```
+
+### **Ledring**
+In dit deel van de code wordt ervoor gezorgd dat de ledring pulserend werkt als het systeem actief is. De kleur hangt af van de hoek die de servo moet aannemen. 
+```yaml annotate
+  // LED pulsering
+  if (systeemActief) {
+      tijd=millis();// werken met Millis voor delay te vervangen -> focus op 16 keer pulseren per minuut (ademhalingsritme) -
+      tijdsVerschil= round(tijd-vorigeTijd);
+      if (tijdsVerschil >= 18.75) {
+        vorigeTijd = tijd;
+      }
+
+      
+      // Rustig groen pulserend 
+      // Groen 50 naar 255
+      if (targetPos == 190 && tijdsVerschil>18.75) {
+        if (RoodGB>=254) {stapRichting = -1;}
+        else if (RoodGB<=80) {stapRichting = 1;}
+        RoodGB = RoodGB + stapRichting * 1.75;
+        RGroenB = 10+ (RoodGB-80)/3.5;// RGroenB is afhankelijk van RoodGB
+        RoodGB = constrain(RoodGB, 80, 255);
+        RGroenB = constrain(RGroenB, 10, 60);
+
+        Kleur_Ledring = strip.Color(RoodGB, RGroenB, 0);
+        besturingLedring(12, Kleur_Ledring);
+      }
+            // Rustig groen pulserend 
+      // Groen 50 naar 200
+      else if (tijdsVerschil>18.75){// 18.75 -> 16 keer pulseren per minuut (ademhalingstempo)
+        if (RGroenB>=200) {stapRichting =-1;} // eenmaal het maximaal heeft bereikt 
+        else if (RGroenB<=50) {stapRichting =1;}
+        RGroenB = RGroenB + stapRichting * (200-50)/100; // 2.05= (200-50)/100
+        RGroenB = constrain(RGroenB, 50, 200); // extra veiligheid
+
+        Kleur_Ledring = strip.Color(0, RGroenB, 0); // RGB-code toekennen aan een variable
+        besturingLedring(12, Kleur_Ledring); // variable doorsturen naar zelfgemaakte functie die ledRing aanstuurt (zie onder void loop)
+      }
+    }
+```
+
+### **Besturing ledring**
+In deze aparte void-functie wordt de LED-ring aangestuurd. Dit is zo opgezet zodat de functie eenvoudig te hergebruiken en te integreren is in andere codes.
+```yaml annotate
+void besturingLedring(int aantalLeds, uint32_t kleur) {
+  for (int i = 0; i < LED_COUNT; i++) {
+      strip.setPixelColor(i, kleur);
+    } 
+  strip.show();
+  }
+```
