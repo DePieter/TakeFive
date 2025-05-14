@@ -104,7 +104,7 @@ Uiteindelijk werd gekozen om interrupts volledig te vermijden en over te schakel
 Tinkercad bleek niet compatibel met de Adafruit NeoPixel-bibliotheek, wat betekent dat de LED-functionaliteit niet virtueel getest kon worden. Daardoor moest de volledige schakeling meteen in de echte wereld opgebouwd en getest worden.
 
 ## Code
-De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/combinatieServoLedRingV3)
+De werkende Arduino scripts zijn te vinden via: [code/arduino](Codes/CombinatieServoLedRingV3)
 
 
 ### **Opstart**
