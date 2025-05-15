@@ -82,26 +82,15 @@ Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderligge
 
 Enkele relevante uitspraken:
 
-“Door personeelstekort sla ik vaak mijn korte pauze over.”
+>_“Door personeelstekort sla ik vaak mijn korte pauze over.”
 
-“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
+>_“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
 
 Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden en als abnormaal worden beschouwd.
 
-### 5WH Methode
-Deze methode verduidelijkt de probleemruimte:
+### 5WH Methode (verduidelijking probleemruimte)
 
-Wie? Verpleeg- en zorgkundigen
-
-Wat? Hoge werkdruk
-
-Waar? Woonzorgcentra en ziekenhuizen
-
-Wanneer? Voornamelijk ochtend- en avondzorgen
-
-Waarom? Personeelstekort
-
-Hoeveel? 43% van woonzorgmedewerkers
+<img src="Foto's/4 Discovery/5WH.jpg" width=100%>
 
 ### Literature Reviews (N=10)
 Haalbaarheidsonderzoek richt zich op meetbare biomarkers:
