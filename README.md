@@ -55,13 +55,10 @@ In de definefase wordt het concept verder verfijnd door middel van diverse gebru
 De ontwikkeling van deze prototypes gebeurde tijdens gezamenlijke brainstormsessies en rollenspellen. Aansluitend werden de prototypes getest bij WZC Panhuys, WZC Sint-Franciscus en WZC De Weister. Tijdens deze testsessies werden methodes zoals 'Emotional Mapping' en 'Plutchik's Wheel of Emotions' toegepast om de emoties van de gebruikers duidelijk in kaart te brengen, zodat de meest relevante emoties konden worden geselecteerd. De verzamelde data werd vervolgens geëvalueerd met technieken als Dot-Voting en de MoSCoW-methode om inzichten te verkrijgen voor verdere optimalisatie.
 
 Om de effectiviteit van verschillende ontwerpkeuzes te toetsen, werd A/B-testing ingezet. Hiermee konden verschillende versies van de prototypes vergeleken worden, wat waardevolle inzichten opleverde voor verdere optimalisatie en afstemming op de gebruikersbehoeften.
-<img src="Foto's/White image" height="5">
 
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
+
 <img src="Foto's/3 Methodologie/Methodologie geupdate tot D4.png" width=100%>
-
-<img src="Foto's/White image" height="20">
-
 
 ## Discovery
 De discoveryfase richt zich op het definiëren van de probleemruimte, niet op productontwikkeling. Via user interviews wordt bepaald welke problemen prioritair zijn, wat resulteert in een goed geformuleerde "how might we"-vraag.
