@@ -425,8 +425,11 @@ Gezien de omvang van de MoSCoW-tabel, worden de belangrijkste inzichten samengev
 Het doel van deze fase was tweeledig; eenderzijds was het de bedoeling om een algemeen concept te kunnen valideren en anderzijds was het de bedoeling om al enkele eerste stappen te zetten richting de optimalisatie omtrend de ergonomie. 
 Concreet zijn de belangrijkste hoofdzaken die voortvloeien uit deze wave als volgt:
 - Dergelijk systeem wordt gewaardeerd door het zorgpersoneel.
-- De bloem in zijn huidige vorm zorgt voor een negatief stigma.
-  >_“Als ik veel stress heb wil ik dit niet open en bloot tonen, zeker niet als ik bij mijn patiënten ben of als er famillie op bezoek is.” -Sofie (zorgkundige WZC Panhuys)_
+   >_"Ik ervaar veel stress tijdens het werk. Een extern apparaat dat mij eraan herinnert om een pauze te nemen op basis van mijn stressniveau zou ik erg appreciëren." -Jonatan (verpleegkundige WZC Panhuys)_
+- De feedbackunit in zijn huidige vorm als bloem, zorgt voor een negatief stigma.
+   >_“Als iemand mij vertelt dat er 8 bloemen slaphangen, zwier ik ze buiten.” -Laurence (zorgkundige WZC Panhuys)_
+- De feedbackunit mag niet op de zorg kar staan aangezien deze locatie te zichtbaar is.
+   >_“Als ik veel stress heb wil ik dit niet open en bloot tonen, zeker niet als ik bij mijn patiënten ben of als er famillie op bezoek is.” -Sofie (zorgkundige WZC Panhuys)_
 - Om de focus op alle 3 de componenten (wearable, feedbackunit, verificator) te leggen, gaat het een grote uitdaging worden om alles binnen de deadline van dit project te leggen. Daarom wordt vanaf nu de hoofdfocus gelegd op enkel de feedbackunit.
 
 Als conclusie zijn er verschillende designrequirements opgesteld die in acht genomen moeten worden voor het verder opbouwen van Take Five, deze zijn hieronder te zien:
@@ -449,9 +452,13 @@ Als conclusie zijn er verschillende designrequirements opgesteld die in acht gen
 ### Develop 3.2:  
 >_“Zorgen voor begint bij goede zelfzorg.” -Stijn (Directeur WZC Sint-Franciscus)_
 #### Doelstellingen (cfr. methodologie)
-De meest geschikte visuele metafoor werd gekozen voor de Feedback Unit. Uit eerdere tests bleek dat deze metafoor rustgevend, intuïtief en discreet moet zijn, passend binnen de context van een woonzorgcentrum.
+Voorgaande test heeft aangetoond dat de conceptuele werking bruikbaar is; een wearable in combinatie met een feedbackunit en een verificator. Echter blijkt ook dat de feedbackunit een andere vorm dan een bloem moet aannemen aangezien deze zorgt voor een negatief stigma. Daarom wordt er in deze fase onderzocht welke metafoor het best toepasbaar is om te gebruiken op de feedbackunit.
+
+
 #### Materiaal en methoden (N = 5)
-Met behulp van Wizard-of-Oz-prototypes en visuele metaforen op papier werden vijf zorgverleners van WZC Sint-Franciscus bevraagd. Emotional mapping met behulp van Plutchik's wheel of emotions. A/B-testing werden ingezet om de voorkeuren en emotionele interpretaties van de metaforen te analyseren. Ook kan je ons [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) raadplegen voor het volledige protocol en gebruikte methodologie.  
+Voorgaande fase heeft aangetoond hoe de feedbackunit moet functioneren en welke kernkwaliteiten essentieel zijn. Nu is het cruciaal om de meest geschikte metafoor te vinden, dit om op gepaste wijze de juiste emoties op te roepen. Om tot de beste keuze te komen, worden methoden ingezet voor het achterhalen van betekenisvolle en contextgevoelige metaforen. Zo wordt via antroposemiotiek onderzocht hoe zorgverleners betekenis geven aan vormen en bewegingen. Emotional mapping wordt ingezet om emotionele reacties op verschillende metaforen in kaart te brengen. Daarnaast zorgt A/B-testing ervoor dat concrete ontwerpvarianten systematisch worden vergeleken.
+
+Wanneer de categorie waarbinnen de meest succesvolle metaforen is gedefiniëerd, wordt d.m.v. een literatuurstudie verfijnd welke elementen binnen deze categorie daadwerklijk gebruikt moeten worden. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) 
   
 Insert foto WZC Sint-Franciscus + interviewopstelling + Plutchik's wheel of emotions
   
