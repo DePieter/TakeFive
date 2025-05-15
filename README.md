@@ -468,24 +468,26 @@ iets schrijven zoals: eenvoudig prototype met als doel het kunnen beoorden van d
 wat is het, wat is het doel, hoe gaat het in de praktijk,...
 
 #### User Testing (n=5)
-Eerst worden de Wizard of Oz prototypes getoond (3 in 1), vervolgens worden de bijhorende metaforen getoond (verschillende papieren afbeeldingen). Zorgverleners plaatsen deze op Plutchiks Wheel of Emotions, wat inzicht geeft in de gepercipieerde emotionele impact. Tegelijkertijd worden er doelgerichte vragen opgesteld om te achterhalen welk gevoel precies gewenst is. Hierbij is het de bedoeling om het gewenst gevoel te koppelen aan de metafoor die dat gevoel het meest representeert.
+Eerst worden de Wizard of Oz prototypes getoond (3 in 1), vervolgens worden de bijhorende metaforen getoond (verschillende papieren afbeeldingen). Zorgverleners plaatsen deze op Plutchiks Wheel of Emotions, wat inzicht geeft in de gepercipieerde emotionele impact. Tegelijkertijd worden er doelgerichte vragen opgesteld om te achterhalen welk gevoel precies gewenst is en bij wat voor beweging van het prototype deze het meest gunstig is. Hierbij is het de bedoeling om het gewenst gevoel te koppelen aan de metafoor die dat gevoel het meest representeert.
 
 <p align="center">
-  <img src="Foto's/6 Develop/D3.2/Wheel of emotions.jpg" style="height:400px;">
-  <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 1.jpg" style="height:400px;">
-  <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 2.jpg" style="height:400px;">
+  <img src="Foto's/6 Develop/D3.2/Wheel of emotions.jpg" style="height:200px;">
+  <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 1.jpg" style="height:200px;">
+  <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 2.jpg" style="height:200px;">
 </p>
   
 #### Resultaten
-Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data/Develop/Develop%203.2)). De test toonde aan dat metaforen die gevoelens van joy en rust oproepen het meest effectief en gewenst zijn. Deze gevoelens dragen volgens de respondenten positief bij aan het minderen van stress.
+Deze test heeft veel waardevolle inzichten opgeleverd, zo toonde de [raw data](Raw%20Data/Develop/Develop%203.2) aan dat metaforen (voornamelijk dieren) die gevoelens van joy en rust oproepen het meest effectief en gewenst zijn. Deze gevoelens dragen volgens de respondenten positief bij aan het minderen van stress.
 >_“Potverdorie de FU, staat weer beneden!” -Hilde (Verpleegkundige WZC Sint-Franciscus)_
 
 Aan de andere kant werden metaforen zoals tandwielen en handen geassocieerd met negatieve emoties zoals woede en frustratie: “Je blijft maar bezig”, wat zorgmedewerkers kan frustreren.
 >_“De koffietas als metafoor vind ik heel leuk en toepasselijk!” -Bruno (Ergotherapeut WZC Sint-Franciscus)_
 
+Wat betreft de beweging van de metafoor, gaf de meerderheid van de respondenten aan dat de beweging het best gekoppeld zou moeten zijn aan de gebruikte metafoor; als er een olifant wordt gebruikt als metafoor, zou de beweging logischerwijs een op en neergaande slurf kunnen representeren.
+
 
 #### Conclusies & implicaties (design requirements en beslissingen)
-Invoegen tekst beslissing, maw wat we zouden testen in de volgende wave
+Het systeem moet emoties oproepen die bijdragen aan een positieve, ondersteunende en ontspannen werkomgeving, waarin zorgmedewerkers zich veilig en persoonlijk betrokken voelen. De focus ligt op het stimuleren van gevoelens van vreugde en rust. Uit de test bleek dat vooral dierlijke metaforen het best scoorden. De gekozen beweging zal afgestemd worden op de gebruikte metafoor en moet daarmee een logisch en intuïtief verband vertonen. Deze fase heeft uiteindelijk geleid tot verschillende design requirements:
 
 
 | ID    | Design Requirements                                                                                                                                                           | Source       | Date       |
