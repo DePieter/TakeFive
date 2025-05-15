@@ -449,7 +449,7 @@ Als conclusie zijn er verschillende designrequirements opgesteld die in acht gen
 
 
 
-### Develop 3.2:  
+### Develop 3.2 [focus]:  
 >_“Zorgen voor begint bij goede zelfzorg.” -Stijn (Directeur WZC Sint-Franciscus)_
 #### Doelstellingen (cfr. methodologie)
 Uit de vorige test bleek dat het concept — een combinatie van een wearable, feedbackunit en verificator — bruikbaar is. Tegelijkertijd werd duidelijk dat de huidige vorm van de feedbackunit, een bloem, een negatief stigma oproept en dus niet geschikt is. In deze fase wordt daarom onderzocht welke metafoor beter past voor de feedbackunit. Daarnaast is het belangrijk te achterhalen welk gevoel deze metafoor idealiter moet oproepen: moet deze motiveren om harder te werken, of net rust brengen in stressvolle momenten?
