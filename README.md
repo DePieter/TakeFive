@@ -90,49 +90,20 @@ Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden en als abnormaal
 
 ### 5WH Methode (verduidelijking probleemruimte)
 
-<img src="Foto's/4 Discovery/5WH.jpg" width=100%>
+<img src="Foto's/4 Discovery/5WH.jpg" width=50%>
 
-### Literature Reviews (N=10)
-Haalbaarheidsonderzoek richt zich op meetbare biomarkers:
+Het haalbaarheidsonderzoek richt zich op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
 
-Chemische biomarkers zoals C-reactief (bloed/speeksel) zijn moeilijk frequent meetbaar.
-
-Fysische biomarkers, zoals hartslagvariabiliteit (HRV), blijken het meest haalbaar [1][3].
-
-Uit [2] blijkt:
-
-41,8% van verpleeg- en zorgkundigen ervaart hoge werkdruk als burn-outfactor.
-
-Sinds de pandemie steeg langdurig ziekteverzuim met 50%.
-
-Burn-out kost de zorgsector jaarlijks €228 miljoen (+10% in vijf jaar).
-
-Huidige interventies bestaan uit korte dagelijkse check-ups, maar missen effectiviteit.
+Volgens de Vlaamse Werkbaarheidsmonitor (2023) ervaart 41,8% van de verpleegkundigen en zorgkundigen een hoge werkdruk als een belangrijke burn-outfactor. Sinds de coronapandemie is het langdurig ziekteverzuim bovendien met 50% gestegen. Burn-outproblematiek kost de zorgsector jaarlijks naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er momenteel interventies bestaan in de vorm van korte dagelijkse check-ups, blijkt hun effectiviteit beperkt.
 
 ### PESTLE Methode
 De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
 
 ### Conclusie
-> [!IMPORTANT]
-> Design Requirements:
->Aansluiten op de hoofdoorzaak: personeelstekort.
->Focus op woonzorgcentra, met mogelijke uitbreiding naar andere settings.
->Rekening houden met personeelsbezetting.
->Ochtend- en avondzorgen kennen de hoogste werkdruk.
->Flexibele pauzemomenten in plaats van vaste schema’s.
->Een passieve, kalmerende werking is noodzakelijk.
->Niet alle medewerkers ervaren de impact even sterk; product moet zowel pain-relief als value-promise bieden.
->HRV is de meest geschikte biomarker.
 
 ### Oorzaken & Gevolgen
 
-Personeelstekort leidt tot langere shifts en ingekorte/overgeslagen pauzes, wat stress verergert.
-
-Dubbel negatief effect: Hogere werkdruk verhoogt stress en vermindert herstelmomenten.
-
-Kosten & trends: Burn-outproblematiek groeit en vereist preventieve maatregelen.
-
-Oorzaken van stress: Werkdruk is de voornaamste factor, versterkt door personeelstekort en een gebrek aan structurele oplossingen.
+Personeelstekort in de zorg leidt tot langere shifts en het inkorten of zelfs overslaan van pauzes, wat de ervaren stress bij zorgmedewerkers verder verergert. Hierdoor ontstaat een dubbel negatief effect: de verhoogde werkdruk zorgt niet alleen voor meer stress, maar vermindert tegelijkertijd ook de mogelijkheid tot herstel. Deze combinatie maakt de situatie bijzonder kwetsbaar. De burn-outproblematiek binnen de sector blijft toenemen en brengt stijgende kosten met zich mee, wat de noodzaak onderstreept voor preventieve maatregelen. Werkdruk blijkt daarbij de voornaamste oorzaak van stress, versterkt door het aanhoudende personeelstekort en het ontbreken van structurele oplossingen.
 
 ### Inzichten uit Onderzoek
 Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
