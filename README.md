@@ -45,26 +45,26 @@ Dit project focust specifiek op de toepassing binnen **woonzorgcentra (WZC)**.
 
 
 ## Methodologie
-Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^5].
+In de eerste **discoverfase** werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^5].
 User interviews bevestigden dat stress op de werkvloer een groot probleem is. Literatuuronderzoek toonde aan dat burn-outs een aanzienlijk risico vormen, terwijl methoden zoals de 5WH-methode en PESTEL-analyse kerninzichten werden geïdentificeerd.  
 
-In de definitiefase wordt het probleem verder verkend met een meer praktische aanpak, rekening houdend met het principe **"fall in love with the problem, not the solution."** Tijdens deze fase werden de eerste prototypes ontwikkeld en werd er zo snel mogelijk gestest of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Altus. De feedback uit deze testfase wordt verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.  
+In de **definitiefase** wordt het probleem verder verkend met een meer praktische aanpak, rekening houdend met het principe **"fall in love with the problem, not the solution."** Tijdens deze fase werden de eerste prototypes ontwikkeld en werd er zo snel mogelijk gestest of het concept levensvatbaar is voor verdere verfijning. Dit gebeurt in een vroege concepttest met verpleegkundigen in WZC Altus. De feedback uit deze testfase wordt verwerkt in een verbeterde prototypeversie, die gedurende een week werd getest bij VZW De Oever. Aan het einde van deze testperiode werd een groepsinterview georganiseerd om alle relevante feedback te verzamelen. De verkregen data dient als basis voor de verdere verfijning van de design requirements, zodat het uiteindelijke ontwerp beter aansluit bij de behoeften en verwachtingen van de stakeholders.  
 
-In de definefase wordt het concept verder verfijnd door middel van diverse gebruikerstesten, waarbij het 'Think Aloud principle' en 'Wizard of OZ'-prototypes centraal staan. Deze methodieken maken het mogelijk om medewerkers te interviewen met minimale beïnvloeding, zodat hun eerlijke reacties en interacties met het prototype zichtbaar worden.  
+In de **devellop**wordt het concept verder verfijnd door middel van diverse gebruikerstesten, waarbij principes zoals 'Think Aloud principle' 'Wizard of OZ'-prototypes en meer centraal staan. Deze theoretische kapstokken maken het mogelijk om constructief aan de slag te gaan om de echte noden van gebruikers meer en meer in kaart te brengen.
 
-De ontwikkeling van deze prototypes gebeurde tijdens gezamenlijke brainstormsessies en rollenspellen. Aansluitend werden de prototypes getest bij WZC Panhuys, WZC Sint-Franciscus en WZC De Weister. Tijdens deze testsessies werden methodes zoals 'Emotional Mapping' en 'Plutchik's Wheel of Emotions' toegepast om de emoties van de gebruikers duidelijk in kaart te brengen, zodat de meest relevante emoties konden worden geselecteerd. De verzamelde data werd vervolgens geëvalueerd met technieken als Dot-Voting en de MoSCoW-methode om inzichten te verkrijgen voor verdere optimalisatie.
+De ontwikkeling van deze prototypes gebeurt tijdens ideation sessies waarin methodes zoals brainstorming en rollenspellen worden toegepast. Aansluitend werden de prototypes getest in verschillende woonzorgcentra (WZC). Tijdens deze testsessies werden methodes zoals Emotional Mapping met Plutchik's Wheel of Emotions, card sorting,...  toegepast om de emoties van de gebruikers duidelijk in kaart te brengen, zodat de meest relevante emoties konden worden geselecteerd. De verzamelde data werd vervolgens geëvalueerd met technieken als Dot-Voting en de MoSCoW-methode om inzichten te verkrijgen voor verdere optimalisatie.
 
-Om de effectiviteit van verschillende ontwerpkeuzes te toetsen, werd A/B-testing ingezet. Hiermee konden verschillende versies van de prototypes vergeleken worden, wat waardevolle inzichten opleverde voor verdere optimalisatie en afstemming op de gebruikersbehoeften.
+Om de effectiviteit van verschillende ontwerpkeuzes te toetsen, werden zaken zoals A/B-testing, heuristic evaluation, SUS surveys en observatie ingezet. Hiermee konden prototypes (of onderdelen ervan) doelgericht getest worden, wat waardevolle inzichten opleverde voor verdere optimalisatie en afstemming op de gebruikersbehoeften.
 
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 
 <img src="Foto's/3 Methodologie/Methodologie geupdate tot D4.png" width=100%>
 
 ## Discovery
-De discoveryfase richt zich op het definiëren van de probleemruimte, niet op productontwikkeling. Via user interviews wordt bepaald welke problemen prioritair zijn, wat resulteert in een goed geformuleerde "how might we"-vraag.
+De discoveryfase richt zich op het definiëren van de probleemruimte, nog niet op het maken van een product. Via user interviews wordt bepaald welke problemen prioritair zijn, wat resulteert in een goed geformuleerde "how might we".
 
 ### Doelstelling
-Een heldere "how might we"-vraag formuleren binnen de probleemruimte.
+Een heldere "how might we" formuleren binnen de probleemruimte.
 
 ### Materiaal & Methoden:
 
