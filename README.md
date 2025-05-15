@@ -452,18 +452,36 @@ Als conclusie zijn er verschillende designrequirements opgesteld die in acht gen
 ### Develop 3.2:  
 >_“Zorgen voor begint bij goede zelfzorg.” -Stijn (Directeur WZC Sint-Franciscus)_
 #### Doelstellingen (cfr. methodologie)
-Voorgaande test heeft aangetoond dat de conceptuele werking bruikbaar is; een wearable in combinatie met een feedbackunit en een verificator. Echter blijkt ook dat de feedbackunit een andere vorm dan een bloem moet aannemen aangezien deze zorgt voor een negatief stigma. Daarom wordt er in deze fase onderzocht welke metafoor het best toepasbaar is om te gebruiken op de feedbackunit.
-
+Uit de vorige test bleek dat het concept — een combinatie van een wearable, feedbackunit en verificator — bruikbaar is. Tegelijkertijd werd duidelijk dat de huidige vorm van de feedbackunit, een bloem, een negatief stigma oproept en dus niet geschikt is. In deze fase wordt daarom onderzocht welke metafoor beter past voor de feedbackunit. Daarnaast is het belangrijk te achterhalen welk gevoel deze metafoor idealiter moet oproepen: moet deze motiveren om harder te werken, of net rust brengen in stressvolle momenten?
 
 #### Materiaal en methoden (N = 5)
-Voorgaande fase heeft aangetoond hoe de feedbackunit moet functioneren en welke kernkwaliteiten essentieel zijn. Nu is het cruciaal om de meest geschikte metafoor te vinden, dit om op gepaste wijze de juiste emoties op te roepen. Om tot de beste keuze te komen, worden methoden ingezet voor het achterhalen van betekenisvolle en contextgevoelige metaforen. Zo wordt via antroposemiotiek onderzocht hoe zorgverleners betekenis geven aan vormen en bewegingen. Emotional mapping wordt ingezet om emotionele reacties op verschillende metaforen in kaart te brengen. Daarnaast zorgt A/B-testing ervoor dat concrete ontwerpvarianten systematisch worden vergeleken.
+Voorgaande fase heeft aangetoond hoe de feedbackunit moet functioneren en welke kernkwaliteiten essentieel zijn. Nu is het cruciaal om de meest geschikte metafoor te vinden, dit om op gepaste wijze de juiste emoties op te roepen. Om tot de beste keuze te komen, worden methoden ingezet voor het achterhalen van betekenisvolle en contextgevoelige metaforen. Zo wordt via antroposemiotiek onderzocht hoe zorgverleners betekenis geven aan vormen en bewegingen. Emotional mapping wordt ingezet om emotionele reacties op verschillende metaforen in kaart te brengen. Daarnaast zorgt A/B-testing ervoor dat concrete ontwerpvarianten systematisch worden vergeleken. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) 
 
-Wanneer de categorie waarbinnen de meest succesvolle metaforen is gedefiniëerd, wordt d.m.v. een literatuurstudie verfijnd welke elementen binnen deze categorie daadwerklijk gebruikt moeten worden. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) 
-  
-Insert foto WZC Sint-Franciscus + interviewopstelling + Plutchik's wheel of emotions
+#### Brainstorming
+HIer moet de manier beschreven worden van hoe we tot de geteste bewegingsmethoden die verwerkt zijn in het prototype beschrijven. Idem met de gekozen afbeeldingen. -> aantonen dat er een dergelijke structuur in de brainstorming zat.
+
+
+#### Prototyping
+iets schrijven zoals: eenvoudig prototype met als doel het kunnen beoorden van de verschillende bewegingsmethoden. De verkozen methoden zijn tot stand gekomen door een selectie te maken van de brainstormresultaten.
+
+#### Emotional mapping
+wat is het, wat is het doel, hoe gaat het in de praktijk,...
+
+#### User Testing (n=5)
+Eerst worden de Wizard of Oz prototypes getoond (3 in 1), vervolgens worden de bijhorende metaforen getoond (verschillende papieren afbeeldingen). Zorgverleners plaatsen deze op Plutchiks Wheel of Emotions, wat inzicht geeft in de gepercipieerde emotionele impact. Tegelijkertijd worden er doelgerichte vragen opgesteld om te achterhalen welk gevoel precies gewenst is. Hierbij is het de bedoeling om het gewenst gevoel te koppelen aan de metafoor die dat gevoel het meest representeert.
+
+<p align="center">
+  <img src="Foto's/6 Develop/D3.2/Wheel of emotions.jpg" style="height:400px;">
+  <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 1.jpg" style="height:400px;">
+  <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 2.jpg" style="height:400px;">
+</p>
   
 #### Resultaten
-Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data/Develop/Develop%203.2)). De test toonde aan dat metaforen die gevoelens van joy en rust oproepen het meest effectief zijn. Zoals een zorgmedewerker het verwoordde: “De koffietas vind ik leuk, heel duidelijk en toepasselijk”-Bruno, deze metafoor gaf een gevoel van duidelijkheid en rust, wat zorgmedewerkers helpt om zich minder gestrest te voelen. Aan de andere kant werden metaforen zoals tandwielen en handen geassocieerd met negatieve emoties zoals woede en frustratie: “Je blijft maar bezig”, wat zorgmedewerkers kan frustreren.
+Deze test heeft veel waardevolle inzichten opgeleverd (zie [raw data](Raw%20Data/Develop/Develop%203.2)). De test toonde aan dat metaforen die gevoelens van joy en rust oproepen het meest effectief en gewenst zijn. Deze gevoelens dragen volgens de respondenten positief bij aan het minderen van stress.
+>_“Potverdorie de FU, staat weer beneden!” -Hilde (Verpleegkundige WZC Sint-Franciscus)_
+
+Aan de andere kant werden metaforen zoals tandwielen en handen geassocieerd met negatieve emoties zoals woede en frustratie: “Je blijft maar bezig”, wat zorgmedewerkers kan frustreren.
+>_“De koffietas als metafoor vind ik heel leuk en toepasselijk!” -Bruno (Ergotherapeut WZC Sint-Franciscus)_
 
 
 #### Conclusies & implicaties (design requirements en beslissingen)
@@ -489,6 +507,7 @@ Invoegen tekst beslissing, maw wat we zouden testen in de volgende wave
 ### Develop 4: [focus]  
 #### Doelstellingen (cfr. methodologie)
 #### Materiaal en methoden
+Wanneer de categorie waarbinnen de meest succesvolle metaforen is gedefiniëerd, wordt d.m.v. een literatuurstudie verfijnd welke elementen binnen deze categorie daadwerklijk gebruikt moeten worden.
 #### Resultaten
 #### Conclusies & implicaties (design requirements en beslissingen)/
 
