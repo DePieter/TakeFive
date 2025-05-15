@@ -252,7 +252,7 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
 # Develop
 De develop fase draait rond het verfijnen van het product. Hiervoor worden de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing. 
 Deze fase bestaat uit drie opeenvolgende fases, elk met een specifieke focus:
-1.	Concepttest – In deze eerste fase wordt het initiële idee geëvalueerd en gevalideerd.
+1.	Extra Concepttest – In deze eerste fase wordt het initiële idee ter aanvulling van voorgaande definitionfase geëvalueerd en gevalideerd.
 2.	Metafooronderzoek – Vervolgens wordt onderzocht welke metafoor het meest geschikt is voor de feedbackunit.
 3.	Vorm- en emotieverfijning – Tot slot wordt de gekozen metafoor verfijnd op emotioneel vlak en wordt de esthetiek van het volledige prototype geoptimaliseerd.
 
@@ -273,7 +273,7 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 
 
 ### Devellop 3.1 / Wave 3 (N=5)
-Hoewel de devellopfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (devellop).
+Hoewel de devellopfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (develop).
 
 #### Brainstorming
 
@@ -285,8 +285,8 @@ De brainstorming heeft geleid tot het implementeren van een systeem bestaande ui
 
 | Onderdeel      | Beschrijving                                                                                                                                 |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| De wearable    | Dit is de sensor die door woonzorgmedewerkers wordt gedragen om hun stressniveau te monitoren.                                              |
-| Feedback Unit  | De feedbackunit geeft een signaal wanneer een te hoog stressniveau wordt gedetecteerd. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen. |
+| De wearable    | Dit is de sensor die door zorgverleners wordt gedragen om hun stressniveau te monitoren.                                              |
+| Feedback Unit  | De feedbackunit toont op een visuele manier het real time stressniveau van de gebruiker. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen. |
 | Verificator    | De verificator stelt pauzes voor en controleert of deze daadwerkelijk worden genomen.                                                       |
 
 
@@ -296,14 +296,28 @@ De brainstorming heeft geleid tot het implementeren van een systeem bestaande ui
 
 #### Design sketches
 
-Voor de feedbackunit maken we gebruik van een bloem die verwelkt naarmate het stressniveau toeneemt. In aansluiting daarop fungeert de verificator als een gieter, waarmee je symbolisch de bloem water geeft om haar te laten herstellen.
+In de eerste versie van de feedbackunit wordt een bloem gebruikt als metafoor voor het stressniveau: naarmate de stress toeneemt, gaat de bloem zichtbaar meer hangen. De verificator wordt vormgegeven als een gieter en symboliseert de mogelijkheid om de bloem 'water te geven'. Dit gebeurt wanneer de gebruiker een voorgestelde pauze uitvoert, waarmee hij of zij actief bijdraagt aan het herstel van balans en welzijn.
 | Product | Concept schetsen |
 |------|------|
 | Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200px;">|
 | Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="height: 200px;">|
 
-#### Prototyping $${\color{red}aanvullen}$$
-Hier relevante tekst rechtstreeks over het prototypen zoals bv het doel ervan, hoe we aan de slag zijn gegeaan (theoretische kapstokken), resultaten,... De beschrijving zelf staat hieronder al in de tabel. Probeer ook in deze tekst te verwijzen naar deze tabel ("de prototypes worden in onderstaande tabel weergegeven") -> eigenlijk moet je bij elke figuur, tabel,... zo'n verwijzing maken.
+#### Roleplay
+
+Voorafgaand aan het fysieke prototypen werd gekozen om te werken met roleplay. Deze methode maakt het mogelijk om in een vroeg stadium de gebruikerservaring visueel uit te denken en eerste gebruiksfouten of knelpunten te detecteren, zonder reeds te investeren in complexe of tijdrovende prototypes.
+
+De elementen die gebruikt worden voor de roleplay konden snel verwezelijkt worden door zaken zoals bijvoorbeeld een drinkfles met post-its op geplakt. Dit gaf een eerste inzicht in hoe het systeem zich gedraagt in verschillende scenario’s op de werkvloer. Dit hielp bij het afstemmen van verwachtingen met stakeholders en bood een duidelijke basis voor de verdere ontwikkeling van functionele prototypes.
+
+<p align="center">
+  <img src="Foto's/Nieuw logo.png" style="height:400px;">
+  <img src="Foto's/6 Develop/D4/Prototype_bijgesneden.jpg" style="height:400px;">
+</p>
+
+
+
+#### Prototyping
+Het doel van dit prototypingproces was om een algemeen concept te kunnen valideren om dit vervolgens in een volgend onderdeel te kunnen verfijenen. Het prototype voor stressfeedback, zal in de concepttest verkend geevaluereerd worden op begrijpelijkheid, impact en bruikbaarheid binnen de context van woonzorgcentra. De bedoeling was om na te gaan op welke manier er feedback op een betekenisvoll gecommuniceerd kan worden, zonder de werkomgeving of collega’s te storen.
+Omdat er op deze moment nog geen concept vast ligt en omdat het project een grote omvang heeft gezien de verschillende componenten, was het moeilijk om aan varity prototyping te doen. De gemaakte prototypes worden in onderstaande tabel weergegeven en de werking wordt ervan besproken.
 
 | *deftige foto’s wearable* | **Wearable:** Beknopte beschrijving |
 |----------------------------|------------------------------------|
@@ -311,31 +325,7 @@ Hier relevante tekst rechtstreeks over het prototypen zoals bv het doel ervan, h
 |  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="height: 200;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
 | $${\color{red}*deftige foto’s interface*}$$| **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
 
-#### Storyboarding $${\color{red}aanvullen}$$
 
-Geef eerst een soort korte inleiding waarin je beschrijft waarom je gekozen hebt voor sotryboarding (bv omdat dit de eerstlijns fouten al uit het systeem kan halen alvorens het ontwikkelen van de prototypes) -> zie tekstje onder titeltje "wave 3".
-
-Verwijzing naar video's, zorg voor een mooie stuctuur (mss kan een tabel ofzo hierbij helpen??-> vraag aan copilot??)
-
-Hier ontbreken curciale dingen in de storyline, zorg dat je een volledig, gedetailleerd verhaal bekomt-> voorbeeld: VPK (verpleegkundige) is al voor een lange tijd aan het werk en is gestrest-> wearable trilt -> VPK ziet dat de bloem slap hangt en dat de bloempot rood is gekleurd->....
-
-In fase 1 begint de bloem (FU) te verwelken.
-<p align="left">
-  <img src="Foto's/6 Develop/D3.1/Storyboard deel1.png" width="45%">
-</p>
-In fase 2 merkt de zorgmedewerker op dat de bloem verwelkt is.
-<p align="left">
-  <img src="Foto's/6 Develop/D3.1/Storyboard deel2.png" width="45%">
-</p>
-In fase 3 brengt de zorgmedewerker de FeedbackUnit (FU) naar de verificator (gieter) en plaatst deze erbij.
-<p align="left">
-  <img src="Foto's/6 Develop/D3.1/Storyboard deel3.png" width="45%">
-</p>
-In fase 4 interacteert de zorgmedewerker met de verificator om een pauze te kiezen. Zodra de keuze is gemaakt, verschijnt een menu met alle collega’s die op dat moment pauzeren. Vervolgens kan de verificator worden gebruikt om de bloem water te geven, waardoor deze weer begint te bloeien.
-invoegen interfase foto's
-<p align="left">
-  <img src="Foto's/6 Develop/D3.1/Storyboard deel 4.png" width="45%">
-</p>
 
 #### User testing 
 Door een uitgebreide MoSCoW-methode te combineren met brainstorming en roleplay, is een waardevolle tabel opgesteld. Deze leidt tot concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests, zoals beschreven in het [MoSCoW-document](https://ugentbe-my.sharepoint.com/:w:/g/personal/bram_tops_ugent_be/Ec037Kdu9NpClCjT8NW92lIBiGvA1C8_lfeysg7QbH_XUQ?e=BL1XDJ). $${\color{red}aanpassen-dit-document-bestaat-niet-meer-dit-is-samen-gevoegd-in-het-protocol-3.1}$$
