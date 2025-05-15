@@ -67,19 +67,15 @@ Een heldere "how might we"-vraag formuleren binnen de probleemruimte.
 
 -User interviews (N=3)
 
--Literature reviews (N=10)
+-Literatuuronderzoek (N=10)
 
 
 ### Probleemruimte
 Op basis van literatuuronderzoek zijn de volgende kernproblemen gedefinieerd:
 
-Sinds 2019 heerst structurele werkdruk in de zorgsector, met als grootste impact op zorgpersoneel. In 2023 liep 14,4% risico op burn-out (Vlaamse Werkbaarheidsmonitor, 2023)[2].
+Sinds 2019 is er sprake van een structureel hoge werkdruk in de zorgsector, met de grootste impact op het zorgpersoneel. In 2023 liep 14,4% van de zorgmedewerkers risico op een burn-out, volgens de Vlaamse Werkbaarheidsmonitor (2023). Vooral in woonzorgcentra is de toename van burn-outsymptomen opvallend, met een stijging van 7,2% tussen 2013 en 2023. Door de toenemende vergrijzing blijft deze sector bovendien bijzonder kwetsbaar.
 
-Burn-outsymptomen stegen het sterkst in woonzorgcentra (+7,2% tussen 2013-2023) en door vergrijzing blijft deze sector kwetsbaar [2].
-
-Werkstress wordt voornamelijk veroorzaakt door een te hoge werkdruk, wat zowel werk-privébalans als welzijn negatief beïnvloedt (41,8% van zorgmedewerkers) [2].
-
-Gezien de hoogste werkdruk binnen woonzorgcentra bij verpleeg- en zorgkundigen ligt, vormt deze groep de primaire doelgroep.
+De belangrijkste oorzaak van werkstress blijkt een te hoge werkdruk te zijn, wat bij 41,8% van de zorgmedewerkers een negatieve invloed heeft op zowel hun werk-privébalans als hun algemeen welzijn. Aangezien verpleegkundigen en zorgkundigen in woonzorgcentra de hoogste werkdruk ervaren, vormen zij dan ook de primaire doelgroep voor interventies.
 
 ### User Interviews (N=3)
 Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
