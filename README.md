@@ -308,9 +308,10 @@ Wave 2 toonde aan dat er behoefte was aan een manier om aan te geven wanneer iem
 Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brainstormsessie per teamlid. Elk teamlid werkte één of meerdere concepten uit en beschreef alle eigenschappen op grote A3-bladen. Vervolgens werd via dotvoting bepaald welke eigenschappen waardevol waren voor het concept en welke moesten worden uitgesloten.
 
 De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke een eerste vorm krijgen in het volgende deel: _Design sketches_.  
-|De wearable| Dit is de sensor die door woonzorgmedewerkers wordt gedragen om hun stressniveau te monitoren.|
-|Feedback Unit |De feedbackunit geeft een signaal wanneer een te hoog stressniveau wordt gedetecteerd. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen.|
-|Verificator | De verificator stelt pauzes voor en controleert of deze daadwerkelijk worden genomen.   |
+|De wearable| Dit is de sensor die door woonzorgmedewerkers wordt gedragen om hun stressniveau te monitoren.|  
+|Feedback Unit |De feedbackunit geeft een signaal wanneer een te hoog stressniveau wordt gedetecteerd. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen.|  
+|Verificator | De verificator stelt pauzes voor en controleert of deze daadwerkelijk worden genomen.   |  
+
 <div style="text-align: center;">
     <img src="Foto's/6 Develop/D3.1/Brainstorm develop 1.png" style="width: 50%;" />
 </div>
