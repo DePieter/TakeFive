@@ -14,7 +14,7 @@ In de definitionfase werden inzichten vertaald naar ontwerpcriteria via iteratie
 
 **Take Five helpt zorgverleners hun stressniveau tijdig te herkennen, beheersbaar en bespreekbaar** te maken om een werkomgeving te creëren waar zelfzorg en zorg voor elkaar, centraal staat.
 
-<img src="Foto's/Logo.png" alt="Description of image" width="100%">
+<img src="Foto's/Nieuw logo.png" alt="Description of image" width="100%">
 
 
 
