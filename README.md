@@ -421,8 +421,15 @@ Gezien de omvang van de MoSCoW-tabel, worden de belangrijkste inzichten samengev
 - Gebruikerservaring testen: intuïtief gebruik vs. uitleg krijgen. 
 
 
-#### Conclusies & implicaties $${\color{red}*aanvullen*}$$
-zie opbouw van vorige waves
+#### Conclusies & implicaties
+Het doel van deze fase was tweeledig; eenderzijds was het de bedoeling om een algemeen concept te kunnen valideren en anderzijds was het de bedoeling om al enkele eerste stappen te zetten richting de optimalisatie omtrend de ergonomie. 
+Concreet zijn de belangrijkste hoofdzaken die voortvloeien uit deze wave als volgt:
+- Dergelijk systeem wordt gewaardeerd door het zorgpersoneel.
+- De bloem in zijn huidige vorm zorgt voor een negatief stigma.
+  >_“Als ik veel stress heb wil ik dit niet open en bloot tonen, zeker niet als ik bij mijn patiënten ben of als er famillie op bezoek is.” -Sofie (zorgkundige WZC Panhuys)_
+- Om de focus op alle 3 de componenten (wearable, feedbackunit, verificator) te leggen, gaat het een grote uitdaging worden om alles binnen de deadline van dit project te leggen. Daarom wordt vanaf nu de hoofdfocus gelegd op enkel de feedbackunit.
+
+Als conclusie zijn er verschillende designrequirements opgesteld die in acht genomen moeten worden voor het verder opbouwen van Take Five, deze zijn hieronder te zien:
 
 
 | ID    | Design Requirements                                                                                                                    | Source    | Date       |
@@ -439,7 +446,7 @@ zie opbouw van vorige waves
 
 
 
-### Develop 3.2: [focus]  
+### Develop 3.2:  
 >_“Zorgen voor begint bij goede zelfzorg.” -Stijn (Directeur WZC Sint-Franciscus)_
 #### Doelstellingen (cfr. methodologie)
 De meest geschikte visuele metafoor werd gekozen voor de Feedback Unit. Uit eerdere tests bleek dat deze metafoor rustgevend, intuïtief en discreet moet zijn, passend binnen de context van een woonzorgcentrum.
