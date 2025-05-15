@@ -1,18 +1,24 @@
 # Take Five
-Take Five is een innovatief systeem dat met een slimme wearable en feedbackunit stress op de werkvloer zichtbaar maakt en zorgverleners bewust maakt van hun mentale welzijn.
 
-Projectteam: Demaegdt Pieter, Tops Bram, Schrijvers Finn
+Take Five is een innovatief systeem dat zorgverleners in woonzorgcentra helpt hun stressgrens beter te bewaken via een combinatie van een slimme wearable, een realtime feedbackunit en een optionele verificator. Het doel is om stress bespreekbaar en beheersbaar te maken zonder het werk te verstoren.
 
-23/05/2025
+**Projectteam:** Demaegdt Pieter, Tops Bram, Schrijvers Finn  
+**Datum:** 23/05/2025
+
 
 ## Samenvatting
+
 > _Goede zorg start bij goede zelfzorg._
 
-Zorgverleners in woonzorgcentra ervaren hoge werkstress, wat vaak leidt tot burn-out. Omdat stress vaak telaat wordt herkend en/of aangepakt, kan dit op langere termijn lijden tot een burn out. Om dit probleem aan te pakken, is onderzoek uitgevoerd dat start vanuit een discoveryfase. In deze fase wordt het probleem zoveel mogelijk in kaart gebracht d.m.v. **literatuuronderzoek, PESTLE-analyse, interviews, ... ** Hiermee staat de mindset "Fall in love with the problem, not the solution" centraal. 
+Zorgverleners ervaren vaak hoge werkstress, wat kan leiden tot burn-out. Omdat stress doorgaans te laat wordt herkend en aangepakt, is het belangrijk om vroegtijdige signalen zichtbaar te maken. Take Five biedt een persoonlijk hulpmiddel dat aangeeft wanneer stress echt te veel wordt, zodat zorgverleners tijdig kunnen ingrijpen.
 
-In de definitionfase werden inzichten vertaald naar ontwerpcriteria via iteratieve prototyping, rollpay, concept testing,... . Dit leidde tot Take Five, een systeem dat zorgverleners bewust maakt van hun stressniveau. Het bestaat uit een wearable die stress meet, een Verfificator die data verwerkt en wetenschappelijk onderbouwde pauzes voorstelt en logt, en een feedbackunit die persoonsgerichte feedback geeft.
+Het systeem bestaat uit drie componenten:
 
-**Take Five helpt zorgverleners hun stressniveau tijdig te herkennen, beheersbaar en bespreekbaar** te maken om een werkomgeving te creëren waar zelfzorg en zorg voor elkaar, centraal staat.
+- **Wearable:** detecteert fysiologische stresssignalen zoals hartslagvariatie (HVR) en cortisol. Bij een te hoog stressniveau trilt het apparaat zacht, met een aangenaam rithme. Indien de stress te lang aanhoudt, volgt een duidelijkere trilling.
+- **Feedbackunit (FU):** toont enkel aan de desbetreffende gebruiker het realtime stressniveau op een visuele en discrete manier.
+- **Verificator (optioneel):** stelt gebruikers in staat om bewust pauzes te nemen met wetenschappelijk onderbouwde oefeningen. De gebruiker scant zichzelf in, waarna een geschikte interventie wordt voorgesteld (beperkt in tijd). Er is een ingebouwde tijdslimiet per persoon om misbruik te voorkomen.
+
+Take Five maakt stress zichtbaar, ondersteunt zelfzorg en draagt bij aan een gezonde, collegiale werkomgeving.
 
 <p align="center">
   <img src="Foto's/Nieuw logo.png" style="height:400px;">
@@ -20,26 +26,23 @@ In de definitionfase werden inzichten vertaald naar ontwerpcriteria via iteratie
 </p>
 
 
-
-
 ## Introductie
+
 In de Belgische zorgsector loopt één op de vijf verpleegkundigen een groot risico op burn-out, en bijna 40% van de zorgverleners ervaart te veel werkstress [^1]. Dit probleem leidt tot ziekteverzuim en hoge kosten: in 2021 werd meer dan 1,8 miljard euro besteed aan arbeidsongeschiktheid door burn-out en depressie, een stijging van 59% sinds 2016 [^3]. Zorgverleners missen echter vaak directe en persoonlijke feedback over hun stressniveau, waardoor tijdig ingrijpen uitblijft.
 
-> _Ieder jaar wordt er 280 miljoen euro gespendeert aan burnouts in de zorgsector._
-> _Op welke manier kan de stress bij woonzorgmedewerkers verlaagt zonder dat dit het werk verstoord?_
+> _Ieder jaar wordt er 280 miljoen euro gespendeerd aan burn-outs in de zorgsector._  
+> _Op welke manier kan de stress bij woonzorgmedewerkers verlaagd worden zonder dat dit het werk verstoort?_
 
 
-Om deze uitdaging aan te pakken, wordt Take Five ontwikkeld: een systeem dat werkstress monitort en via real-time feedback zorgverleners bewust maakt van hun stressniveau. Het systeem bestaat uit een wearable die fysiologische signalen zoals hartslagvariabiliteit meet, gekoppeld aan een fysieke feedbackunit. De wearable geeft subtiele meldingen bij verhoogde stress en stelt d.m.v. de zogenaamde verificator wetenschappelijk onderbouwde pauzes voor. De feedbackunit toont op een visuele manier de stressstatus van elke individuele zorgverlener.
+## Doelstelling
 
-De doelstelling is om een laagdrempelig en persoonsgebonden systeem te creëren dat stress beheersbaar én bespreekbaar maakt op de werkvloer.
+Een laagdrempelig en persoonsgericht systeem ontwikkelen dat zorgverleners helpt hun stressniveau tijdig te herkennen en te beheersen. Take Five stimuleert zelfzorg, voorkomt burn-out en versterkt het welzijn van zorgpersoneel.
 
-De belangrijkste randvoorwaarden zijn:
+Dit project focust specifiek op de toepassing binnen **woonzorgcentra (WZC)**.
 
-Persoonsgebonden: duidelijk welke feedback bij wie hoort.
-Eenvoudig en snel uitleesbaar tijdens het werk.
-Real-time en dynamisch: zo weinig mogelijk vertraging
+[^1]: Cijfers uit de Belgische gezondheidszorgstudie 2022  
+[^3]: RIZIV-rapport over arbeidsongeschiktheid, 2021
 
-Met Take Five willen we bijdragen aan het vroegtijdig herkennen en verlagen van stress bij zorgpersoneel, wat uiteindelijk burn-out helpt voorkomen en het welzijn verhoogt. Binnen dit project wordt het onderzoek slechts uitgevoerd voor woonzorgcentra (WZC).
 
 ## Methodologie
 Als eerst werd de opdracht verkend: Wat is het doel van de opdracht? Welke problemen doen zich voor, kunnen deze problemen gekoppeld worden aan bestaande oplossingen? Deze opdracht startte met het verkennen van de designchallenge Werkbaar Werk in de Zorg met de bijhorende noden en behoeften [^5].
