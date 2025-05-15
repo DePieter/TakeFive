@@ -306,14 +306,20 @@ In de eerste versie van de feedbackunit wordt een bloem gebruikt als metafoor vo
 
 Voorafgaand aan het fysieke prototypen werd gekozen om te werken met roleplay. Deze methode maakt het mogelijk om in een vroeg stadium de gebruikerservaring visueel uit te denken en eerste gebruiksfouten of knelpunten te detecteren, zonder reeds te investeren in complexe of tijdrovende prototypes.
 
-De elementen die gebruikt worden voor de roleplay konden snel verwezelijkt worden door zaken zoals bijvoorbeeld een drinkfles met post-its op geplakt. Dit gaf een eerste inzicht in hoe het systeem zich gedraagt in verschillende scenario’s op de werkvloer. Dit hielp bij het afstemmen van verwachtingen met stakeholders en bood een duidelijke basis voor de verdere ontwikkeling van functionele prototypes.
+De elementen die gebruikt worden voor de roleplay konden snel verwezelijkt worden door zaken zoals bijvoorbeeld een drinkfles met post-its op geplakt. Dit gaf een eerste inzicht in hoe het systeem zich gedraagt in verschillende scenario’s op de werkvloer. Dit hielp bij het afstemmen van verwachtingen met stakeholders en bood een duidelijke basis voor de verdere ontwikkeling van functionele prototypes. 
+
+Op onderstaande afbeeldingen is te zien hoe het concept van een bloem als feedbackunit is gerealiseerd met drinkflessen met verschillende kleuren post-its. Deze verschillende kleuren representeren de status van de bloem (slap of rechtopstaand). De verificator in de vorm van een gieter werd getekend op papier en opgehangen aan de muur. Met deze componenten kon al een eerste roleplay als volgt van start gaan:
+
+De verpleegkundige (in dit geval Pieter) doet zijn verpleegkundige taken ergens op de afdeling. Vervolgens voelt hij de wearable die hij draagt trillen en ziet hij dat de bloem op de verpleegkar volledig slap hangt, nu weet hij dat het tijd is om even wat rustiger aan te doen en misschien even een korte pauze te nemen. Daarom neemt hij de bloem van de zorgkar en gaat hij ermee naar de verificator die zich bevind in de verpleegpost. Vervolgens plaats hij de bloem op de voorziene plaats bij de verificator en kiest hij een pauzeopdracht die hij graag wil doen. Nadat de pauze is afgelopen neemt hij de bloem terug mee naar de verpleegkar en hervat hij zijn werk.
 
 <p align="center">
-  <img src="Foto's/Nieuw logo.png" style="height:400px;">
-  <img src="Foto's/6 Develop/D4/Prototype_bijgesneden.jpg" style="height:400px;">
+  <img src="Foto's/6 Develop/D3.1/Roleplay met bloemconcept 2.jpg" style="height:400px;">
+  <img src="Foto's/6 Develop/D3.1/Roleplay met bloemconcept 1.jpg" style="height:400px;">
 </p>
 
-
+Uit deze roleplay zijn verschillende aandachtspunten tevoorschijn gekomen:
+- De bloem moet uitgerust worden met een lampje dat van kleur veranderd om onderscheid te kunnen maken van een bloem die nog net niet helemaal slap hangt vs een bloem die wel volledig slap hangt.
+- Men kan makkelijk de bloem vergeten mee te nemen wat het onmogelijk maakt om in te loggen op de verificator. Ook kan dit als een overbodige extra taak worden gezien.
 
 #### Prototyping
 Het doel van dit prototypingproces was om een algemeen concept te kunnen valideren om dit vervolgens in een volgend onderdeel te kunnen verfijenen. Het prototype voor stressfeedback, zal in de concepttest verkend geevaluereerd worden op begrijpelijkheid, impact en bruikbaarheid binnen de context van woonzorgcentra. De bedoeling was om na te gaan op welke manier er feedback op een betekenisvoll gecommuniceerd kan worden, zonder de werkomgeving of collega’s te storen.
@@ -325,11 +331,8 @@ Omdat er op deze moment nog geen concept vast ligt en omdat het project een grot
 |  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="height: 200;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
 | $${\color{red}*deftige foto’s interface*}$$| **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
 
-
-
 #### User testing 
-Door een uitgebreide MoSCoW-methode te combineren met brainstorming en roleplay, is een waardevolle tabel opgesteld. Deze leidt tot concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests, zoals beschreven in het [MoSCoW-document](https://ugentbe-my.sharepoint.com/:w:/g/personal/bram_tops_ugent_be/Ec037Kdu9NpClCjT8NW92lIBiGvA1C8_lfeysg7QbH_XUQ?e=BL1XDJ). $${\color{red}aanpassen-dit-document-bestaat-niet-meer-dit-is-samen-gevoegd-in-het-protocol-3.1}$$
-Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
+De voorgaande methodes zoals roleplaying, brainstorming, prototyping,... hebben doorheen het proces geleid tot verschillende ontwerpvragen te zien in [Test protocol 3.1](Protocols/Develop/Test%20protocol%203.1.pdf). Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
 De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:     
   <img src="Foto's/6 Develop/D3.1/VZW Panhuys.webp" height="200">
   
@@ -348,6 +351,76 @@ De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:
 - Hoe goed past het systeem binnen de bestaande workflow van zorgmedewerkers zonder extra stress of werkdruk te veroorzaken?
 
 De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zaken zijn terug te vinden in concepttestrapport 3.1.
+
+
+#### MoSCoW
+Om alle verkregen data (concepttest, opmerkingen van roleplay,...) op een structurele manier te verwerken, werd d.m.v. een extra uitgebreide MoSCoW- methode in combinatie met brainstorming, een waardevolle tabel bekomen welke resulteert in concrete ontwerpvragen, design requirements en aandachtspunten.
+In deze MoSCoW-tabel heeft elk teamlid zoveel mogelijk relevante vragen geformuleerd welke voortvloeien uit reeds uitgevoerde methoden. Vervolgens zijn deze gezamenlijk besproken en beoordeeld, wat heeft geleid tot waardevolle discussies en oplossingen. Desbetreffende tabel wordt hieronder weergegeven:
+
+
+| Nr. | Vraag | Ontwerpimplicatie | MoSCoW | Opmerkingen/Oplossing |
+|-----|-------|-------------------|--------|------------------------|
+| 1 | Mag de gebruiker pauze nemen? | Er moet heel duidelijk gesignaleerd worden naar de gebruiker dat deze pauze mag nemen om verwarring te vermijden. | M | Eénduidige signalisatie |
+| 2 | Neemt de gebruiker niet te lang pauze? | Er moet een manier zijn waarop deze op de hoogte wordt gebracht wanneer de pauze voorbij is. | M | Vlak voor afloop moet de wearable beginnen trillen, tot dat de pauze wordt beëindigd met de stopknop op de verificator. <br> & <br> Hoofdverpleegkundige/afdelingshoofd moet de beschikbare pauze kunnen regelen. |
+| 3 | Kan er worden nagegaan dat de pauze effectief wordt genomen? | Het moet duidelijk zijn naar de gebruiker en anderen toe dat de pauze moet worden genomen. <br><br> Ook moet er een controlemiddel zijn op technologisch vlak. De gebruiker moet verifiëren dat deze de pauze neemt. | M | Bloem eventueel op slot bij nemen van pauze. <br> Bij start van pauze start een timer, zorg dat andere VPK de lopende timers ook kunnen zien (sociaal stigma). <br> Bij einde van pauze moet nog eens op een knop gedrukt worden. <br> Werken zonder bloem sociaal onaanvaard. |
+| 4 | Kan er op worden valsgespeeld? | / | / | Dit zal de test moeten uitwijzen |
+| 5 | Moet de pauzeopdracht worden voorgesteld door de feedbackunit? | Het is geen vereiste om in elke kar een unit te integreren met scherm en interface (kostprijs). | M | Psychologisch worden ruimtes gekoppeld aan handelingen. Om doorwerken te vermijden, wordt gebruiker verplicht naar pauzeruimte te gaan. Verificator (= gieter) in pauzeruimte plaatsen. |
+| 6 | Wat kunnen we met de data uit de wearable? | Een app/interface voor afdelingshoofden kan meerwaarde bieden | S | Taakverdeling regelen, life-inzichten geven van medewerkers |
+| 6.1 | Moet de gieter een functie bieden om de gevoeligheid van het systeem te beperken? | Zie vraag 2 | M | Zie vraag 2 |
+| 7 | Welke ruimte is het meest geschikt voor de verificator? | Geeft inzicht over de beste plaatsen. | / | De pauzeruimte -> zie vraag 5 |
+| 8 | Welke manier van interactie wordt verkozen door de gebruiker? | Is een fysieke interface beter (bv knoppen) of volstaat een digitale aanpak? | / | Enkel de verificator krijgt display + knoppen. Focus ligt op de feedbackunit (=bloem). |
+| 9 | Hoe kunnen we de gebruiker verwittigen dat de pauze voorbij is? | / | M | De wearable moet een trilsignaal geven. |
+| 10 | Bestaan er gelijkaardige concepten? | Heuristiek met bestaand fenomeen? | / | [Little Signals](https://littlesignals.withgoogle.com/) <br> [TouchPoint](https://thetouchpointsolution.com/pages/emdr) <br> [Soft Robot Design](https://elenasabinson.com/soft-robot-system-design) |
+| 11 | Hoe kunnen we de feedbackunit antropomorferen? | Werken met een “buddy” is vaak aangenamer en motiverend. | S | Concept bevat een bloem die slap hangt bij toenemend stressniveau. |
+| 12 | Wanneer mag de feedbackunit veranderen van status? | Stressniveau verschilt per persoon. | M | Eerste week enkel metingen. Daarna systeem activeren. Vervolgens passief blijven analyseren en bijsturen. |
+| 12.1 | Hoe omgaan met ongewenste meldingen? | Wanneer in slaapstand? | M | Feedbackunit gaat in slaapstand bij uitdoen van wearable. |
+| 14 | Hoe worden opdrachten gekoppeld aan de verificator? | Buitenopdrachten vragen specifieke plaatsing. | S | Meerdere verificators: <br> • Buitenopdrachten: bij uitgang. <br> • Binnenopdrachten: in pauzeruimte. |
+| 15 | Is een dockingstation nodig? | / | S | Extra esthetische waarde (bv bloembak). <br> Wearable & FU kunnen daar opgeladen worden. |
+| 15.1 | Wat als opladen vergeten is? | Uitwisselbare reservebatterij. | C | / |
+| 16 | Kan het oplaadpunt en verificator samen worden gebracht? | / | / | Via oplaadstation bij verificator. <br> Micro-interactie: “aan het opladen”-signaal via groen pulserend licht. |
+| 17 | Is een deelsysteem mogelijk? | Aan gebruiker vragen. | W | Moeilijk door shiften en batterijniveau. |
+| 18 | Moet back-end rekening houden met duur pauze? | / | M | Pauze wordt gestuurd door hoofdverpleegkundige (zie vraag 2). |
+| 19 | Hoe lang duurt interactie met verificator? Kans op dubbele bezetting? | Interactie moet kort zijn. | M | Snel en toegankelijk. Minimale wachttijd. |
+| 20 | Hoe gebruiksvriendelijk is het product? | Between-subjects test. | M | Groep 1 krijgt uitleg, groep 2 test intuïtief. |
+| 21 | Kan er mechanisch valsgespeeld worden? | Betrouwbare bloemknop nodig. | M | Stevige mechanische scharnier + lichtkleur voor status. |
+| 22 | Wil elke zorgmedewerker het product gebruiken? | Alternatief indien iemand geen pauze wil/mag nemen. | / | Geen verandering, verantwoordelijkheid bij gebruiker. |
+| 23 | Moet het product slimmer zijn dan de gebruiker? | Kijken naar manipulatie & relevantie. | / | / |
+| 26 | Hoe start interactie met verificator? | Stations of interface? | M | Te testen: badge scanner / wearable scan / bloem scan. |
+| 27 | Moet het product gebruiker detecteren? | Nabijheidsdetectie vermijden onnodige interactie. | W | / |
+| 28 | Wat doen met data buiten pauzes? | Value promise uitbreiden. | S | Webapp met stressoverzicht, taakvariatie aanduiden. |
+| 29 | Hoeveel is te veel? | Moet alles wat bedacht is, er effectief in? | C | Data: volledige toegang optioneel voor hoofdverpleegkundige. <br> Prototypes bepalen wat nodig blijkt. |
+| 30 | In hoeverre wil men privacy? | Hoeveel data mag gekend zijn door collega’s? | S | Hoofdverpleegkundige als vertrouwenspersoon. |
+| 31 | Hoe batterijstatus weergeven? | / | M | Op FU zoals JBL speaker. Verificator met lichtsignaal (zie vraag 16). |
+| 32 | Moet feedbackunit mee naar verificator? | Verificatie via wearable. | M | Testen. <br> Kan vervangen worden door badge-scan of naamselectie. (zie vraag 26) |
+| 33 | Wordt pauze als extra gezien? | Hoe wordt deze geïmplementeerd? | M | Hoofdverpleegkundige kan pauzekrediet bepalen. |
+
+
+Dit proces resulteerde in concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests. 
+Gezien de omvang van de MoSCoW-tabel, worden de belangrijkste inzichten samengevat in onderstaande sectie. 
+
+**Designrequirements voor de feedback unit (bloem):**
+- Moet eenduidig visueel en fysiek signaleren wanneer een pauze mag worden genomen. 
+- Kan in slaapstand gaan bij uitdoen van de wearable. 
+- Moet een betrouwbare werking hebben (stevige scharnier i.c.m. lichtkleurindicatie). 
+- Kan antropomorfische elementen bevatten (bv. slap hangen bij stress). 
+- Optioneel een dockingstation voor opladen (met micro-interacties zoals pulserend licht). 
+
+**Designrequirements voor het algehele systeem:**
+- Pauzebeheer: Hoofdverpleegkundige/afdelingshoofd moet de pauzeduur kunnen regelen. 
+- Interactie: De verificator (gieter) moet strategisch geplaatst worden in de pauzeruimte en/of vlakbij de uitgang indien buitenactiviteiten gewenst zijn. 
+- Notificaties: Wearable moet een trilsignaal geven als de pauze voorbij is. Signalisaties zullen pas stoppen zodra er op de stopknop is gedrukt op de verificator. 
+- Data & Privacy: Webapplicatie kan inzicht geven in stressniveaus, maar privacy moet gewaarborgd blijven. 
+- Oplaadmogelijkheden: Moet voorzien worden van een laadstation. 
+- Gebruiksvriendelijkheid: Systeem moet intuïtief zijn.
+
+**Te testen:** 
+- Kan er valsgespeeld worden met de pauze-verificatie? 
+- Wat is de meest efficiënte manier om interactie met de verificator te starten? (Badge, wearable, bloem) 
+- Hoe lang duurt de interactie met de verificator en zijn er wachttijdproblemen? 
+- Wordt het als sociaal onaanvaardbaar gezien om zonder de bloem te werken? 
+- Is het nodig om de feedbackunit fysiek mee te nemen naar de verificator, of is een alternatieve verificatiemethode beter? 
+- Gebruikerservaring testen: intuïtief gebruik vs. uitleg krijgen. 
+
 
 #### Conclusies & implicaties $${\color{red}*aanvullen*}$$
 zie opbouw van vorige waves
