@@ -21,8 +21,8 @@ Het systeem bestaat uit drie componenten:
 Take Five maakt stress zichtbaar, ondersteunt zelfzorg en draagt bij aan een gezonde, collegiale werkomgeving.
 
 <p align="center">
-  <img src="Foto's/Nieuw logo.png" style="height:400px;">
-  <img src="Foto's/6 Develop/D4/Prototype_bijgesneden.jpg" style="height:400px;">
+  <img src="Foto's/Teaser.png" style="height:400px;">
+  <img src="Foto's/6 Develop/D4/Prototype_bijgesneden.jpg" style="height:590px;">
 </p>
 
 
