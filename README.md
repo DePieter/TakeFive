@@ -334,7 +334,6 @@ Omdat er op deze moment nog geen concept vast ligt en omdat het project een grot
 #### User testing 
 De voorgaande methodes zoals roleplaying, brainstorming, prototyping,... hebben doorheen het proces geleid tot verschillende ontwerpvragen te zien in [Test protocol 3.1](Protocols/Develop/Test%20protocol%203.1.pdf). Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
 De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:     
-  <img src="Foto's/6 Develop/D3.1/VZW Panhuys.webp" height="200">
   
 **Conceptuele validatie (Definition-fase)**
 - In welke mate sluit de voorgestelde pauzestrategie aan bij de noden en verwachtingen van zorgmedewerkers? (=wat is de opinie van de gebruiker)?
