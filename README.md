@@ -287,20 +287,27 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
 <img src="Foto's/White image" height="20">
 
 # Develop
-De develop fase draait rond het verfijnen van het product. Hiervoor wordt de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing.
+De develop fase draait rond het verfijnen van het product. Hiervoor worden de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing. 
+Deze fase bestaat uit drie opeenvolgende fases, elk met een specifieke focus:
+1.	Concepttest – In deze eerste fase wordt het initiële idee geëvalueerd en gevalideerd.
+2.	Metafooronderzoek – Vervolgens wordt onderzocht welke metafoor het meest geschikt is voor de feedbackunit.
+3.	Vorm- en emotieverfijning – Tot slot wordt de gekozen metafoor verfijnd op emotioneel vlak en wordt de esthetiek van het volledige prototype geoptimaliseerd.
 
 ### Doelstellingen
-- Prototype verfijnen
-- Belangrijkste design challenges identificeren door zowel theoretisch als praktisch onderzoek
+•	Prototype verfijnen
+•	Belangrijkste design challenges identificeren door zowel theoretisch als praktisch onderzoek
 
 ### Materiaal & methoden
-$${\color{red}X}$$ Waves die gebruik maken van volgende methodologiën:
-- Brainstorming
-- Design sketches
-- Storyboarding
-- MoSCoW
-- Prototyping
-- User testing
+Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
+•	Brainstorming
+•	Enquêtes
+•	Emotional mapping
+•	Design sketches
+•	Storyboarding
+•	MoSCoW-methode
+•	Prototyping
+•	Gebruikerstesten
+
 
 ### Wave 3 (N=5)
 Hoewel de devellopfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (devellop).
