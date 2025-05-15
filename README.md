@@ -1,9 +1,9 @@
 # Take Five
-Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.
+Take Five is een innovatief systeem dat met een slimme wearable en feedbackunit stress op de werkvloer zichtbaar maakt en zorgverleners bewust maakt van hun mentale welzijn.
 
 Projectteam: Demaegdt Pieter, Tops Bram, Schrijvers Finn
 
-12/12/2024
+23/05/2025
 
 ## Samenvatting
 > _Goede zorg start bij goede zelfzorg._
