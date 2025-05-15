@@ -82,9 +82,9 @@ Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderligge
 
 Enkele relevante uitspraken:
 
->_“Door personeelstekort sla ik vaak mijn korte pauze over.”
+>“Door personeelstekort sla ik vaak mijn korte pauze over.”
 
->_“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
+>“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
 
 Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden en als abnormaal worden beschouwd.
 
