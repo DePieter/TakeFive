@@ -22,7 +22,7 @@ Take Five maakt stress zichtbaar, ondersteunt zelfzorg en draagt bij aan een gez
 
 <p align="center">
   <img src="Foto's/Teaser 2.png" style="height:400px;">
-  <img src="Foto's/6 Develop/D4/Prototype_bijgesneden.jpg" style="height:720px;">
+  <img src="Foto's/6 Develop/D4/Prototype infini.jpg" style="height:600px;">
 </p>
 
 
