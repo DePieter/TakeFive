@@ -18,7 +18,9 @@ Het systeem bestaat uit drie componenten:
 - **Feedbackunit (FU):** toont enkel aan de desbetreffende gebruiker het realtime stressniveau op een visuele en discrete manier.
 - **Verificator (optioneel):** stelt gebruikers in staat om bewust pauzes te nemen met wetenschappelijk onderbouwde oefeningen. De gebruiker scant zichzelf in, waarna een geschikte interventie wordt voorgesteld (beperkt in tijd). Er is een ingebouwde tijdslimiet per persoon om misbruik te voorkomen.
 
-Take Five maakt stress zichtbaar, ondersteunt zelfzorg en draagt bij aan een gezonde, collegiale werkomgeving.
+> _Take Five maakt stress zichtbaar, ondersteunt zelfzorg en draagt bij aan een gezonde, collegiale werkomgeving._
+
+
 
 <p align="center">
   <img src="Foto's/Teaser 2.png" style="height:400px;">
