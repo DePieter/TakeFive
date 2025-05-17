@@ -165,9 +165,7 @@ De zorgverlener arriveert op het werk, neemt de wearable en doet deze om. Zodra 
 </p>
 
 #### MoSCow
-$\color{red}{\textsf{De moscow tabel zegt weinig, betere structuur maken door bv per rij een categorie te voorzien}}$
-$\color{red}{\textsf{Schrijf ook zo relevant mogelijk want hier staan veel irrelevante dingen}}$
-Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable moet voldoen wordt er een eerste MoSCoW uitgewerkt. 
+Om een eerste idee te krijgen van enkele voorwaarden waaraan de wearable moest voldoen, werd een eerste MoSCoW-analyse uitgewerkt.
 
 <table>
   <tr>
