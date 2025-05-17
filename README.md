@@ -505,18 +505,29 @@ Uit de vorige test bleek dat het concept — een combinatie van een wearable, fe
 Voorgaande fase heeft aangetoond hoe de feedbackunit moet functioneren en welke kernkwaliteiten essentieel zijn. Nu is het cruciaal om de meest geschikte metafoor te vinden, dit om op gepaste wijze de juiste emoties op te roepen. Om tot de beste keuze te komen, worden methoden ingezet voor het achterhalen van betekenisvolle en contextgevoelige metaforen. Zo wordt via antroposemiotiek onderzocht hoe zorgverleners betekenis geven aan vormen en bewegingen. Emotional mapping wordt ingezet om emotionele reacties op verschillende metaforen in kaart te brengen. Daarnaast zorgt A/B-testing ervoor dat concrete ontwerpvarianten systematisch worden vergeleken. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) 
 
 #### Brainstorming
+Om tot geschikte metaforen voor de feedbackunit te komen, werd met het team een gerichte brainstormsessie georganiseerd. Het doel was om ideeën te creëren die zowel emotioneel resoneren met zorgmedewerkers als functioneel bruikbaar zijn op een feedbackunit in een zorgomgeving.
+
+Er werd gestard met een korte reflectie over hoe de huidige feedbackunit (de bloem) een onbedoeld negatief stigma opriep. Daarna volgde een individuele ideefase waarin elk teamlid op post-its zoveel mogelijk metaforen noteerde die gevoelens oproepen zoals rust, zorg, verbondenheid en vreugde. Deze ideeën werden vervolgens gebundeld, besproken en geclusterd op thematiek.
+
+In deze brainstormsessie werd er gebruik gemaakt van verschillende methodieken:
+
+- Metaphor Cards: we ontwierpen zelf inspiratiekaarten met verschillende afbeeldingen zoals dieren, koffietassen, zonnestralen enzovoort.
+
+- Verhalenmethodiek: elk teamlid bracht situaties aan waarin zorgverleners mogelijk overprikkeld raken of net tot rust komen, en beschreef hierbij wat in die situaties visueel of emotioneel opviel.
+
+- Thema-associaties: we koppelden de metaforen aan concepten zoals zelfzorg, teamgevoel en herstel.
+
+Als resultaat van deze brainstormsessie, kan er gezegd worden dat alle afbeeldingen die op een manier rust uitstralen interessant kunnen zijn. Wat de metafoor precies zou moeten zijn is nog vrij vaag, wat het antwoord precies is op deze vraag zal moeten blijken uit een test.
+
+#### Prototyping
 Het prototype is ontwikkeld om te onderzoeken hoe zorgmedewerkers discrete signalen waarnemen en welke voorkeuren zij daarbij hebben. Voor het ontwerp diende 'Little Signals' van Google als inspiratie, omdat dit concept op een subtiele manier signalen vormgeeft.
-Het prototype bevat drie verschillende actuatoren, die elk een ander type beweging en communicatievorm simuleren. Ze worden handmatig bediend via de achterkant:
+Het prototype (zie onderstaande foto) bevat drie verschillende actuatoren, die elk een ander type beweging en communicatievorm simuleren. Ze worden handmatig bediend via de achterkant:
 
 -	Cilinder 		->  abstracte vorm
 -	Op- en neergaande foto	->  beeldje in de vorm van een metafoor
 -	Bewegend papier		->  Golvende beweging
 
   <img src="Foto's/6 Develop/D3.2/Prototype.png" style="height:200px;">
-
-
-#### Prototyping
-iets schrijven zoals: eenvoudig prototype met als doel het kunnen beoorden van de verschillende bewegingsmethoden. De verkozen methoden zijn tot stand gekomen door een selectie te maken van de brainstormresultaten.
 
 #### Emotional mapping
 wat is het, wat is het doel, hoe gaat het in de praktijk,...
