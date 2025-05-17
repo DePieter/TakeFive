@@ -208,9 +208,13 @@ Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d
 
 
 > _"Het zou handig zijn als een systeem stress kan detecteren voordat het te erg wordt."._
+
 > _"Een discreet signaal, zoals een trilling, zou helpen zonder cliënten te storen."._
+
 > _"Als ik zou kunnen kiezen, kies ik voor de armband."._
+
 > _"Een discreet signaal, zoals een trilling, zou voorkomen dat gebruikers geïrriteerd of boos worden."._
+
 > _"Ik vind de externe feedbackunit een goed concept omdat ik in the heat of the moment zo'n trilling via enkel de wearable niet altijd zal opmerken vrees ik"._
 
 
