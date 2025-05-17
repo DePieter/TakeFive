@@ -357,8 +357,8 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 - Gebruikerstesten
 
 
-### Devellop 3.1 / Wave 3 (N=5)
-Hoewel de devellopfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (develop).
+### Develop 3.1 / Wave 3 (N=5)
+Hoewel de developfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (develop).
 
 #### Brainstorming
 
