@@ -171,49 +171,6 @@ Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable
 
 <table>
   <tr>
-    <td> Must >
-
-    <td>
-    - Makkelijk schoon te maken  
-    - Positieve feedback  
-    - Goedkoop  
-    - Hogerop verwittigen  
-    - Leuke interacties>
-    </td>
-  </tr>
-
-    <td> Should >
-
-    <td>
-    - Eén vaste locatie  
-    - Licht geven  
-    - Wifi-verbinding of intern geheugen>
-    </td>
-  </tr>
-  
-      <td> Could >
-
-    <td>    
-    - Leuk uitzien  
-    - Snoozbaar zijn  
-    - Altijd aanwezig zijn  
-    - Teambuilding pauzes  
-    - Anderen verwittigen  >
-  </tr>
-  
-      <td> Wouldn't >
-
-    <td>
-    - Luid zijn  
-    - Opdringerig zijn  
-    - Storend zijn  
-    - Ongewenste gebruikersaantrekkingen  >
-    </td>
-  </tr>
-  </table>
-
-<table>
-  <tr>
     <th>Must</th>
     <td>
       - Makkelijk schoon te maken<br>
