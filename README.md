@@ -537,7 +537,13 @@ Het prototype (zie onderstaande foto) bevat drie verschillende actuatoren, die e
 wat is het, wat is het doel, hoe gaat het in de praktijk,...
 
 #### User Testing (n=5)
-Eerst worden de Wizard of Oz prototypes getoond (3 in 1), vervolgens worden de bijhorende metaforen getoond (verschillende papieren afbeeldingen). Zorgverleners plaatsen deze op Plutchiks Wheel of Emotions, wat inzicht geeft in de gepercipieerde emotionele impact. Tegelijkertijd worden er doelgerichte vragen opgesteld om te achterhalen welk gevoel precies gewenst is en bij wat voor beweging van het prototype deze het meest gunstig is. Hierbij is het de bedoeling om het gewenst gevoel te koppelen aan de metafoor die dat gevoel het meest representeert.
+Tijdens deze testfase werd het prototype (Wizard of Oz, 3-in-1) getoond aan vijf zorgverleners. Hierbij werd onderzocht hoe zorgverleners emotioneel reageren op verschillende metaforen en bewegingen. De test startte met het tonen van de drie actuatoren van het prototype, gevolgd door papieren afbeeldingen van de bijhorende metaforen. De respondenten plaatsten deze op Plutchiks Wheel of Emotions. Zo kon visueel worden vastgelegd welke emotionele respons elke metafoor opriep.
+
+Deze techniek — het koppelen van gevoelens aan visuele metaforen via het emotiespectrum — bood niet alleen inzicht in de emotionele impact van elke metafoor, maar hielp ook om op een meer intuïtieve manier over gevoelens te praten. Doordat het wiel een gezamenlijke, visuele referentie bood, konden deelnemers makkelijker aangeven wat een bepaalde metafoor bij hen opriep, zoals rust, afkeer of vreugde. Tegelijkertijd werd de onderliggende betekenis van vormen, kleuren en bewegingen bevraagd aan de hand van doelgerichte vragen.
+
+Het doel was om duidelijk te achterhalen welk gevoel het systeem idealiter moet oproepen, en welke combinatie van metafoor en beweging dat gevoel het best vertegenwoordigt. Bijvoorbeeld: roept een zacht bewegende vlinder eerder rust of verdriet op? En welk gevoel roept een ritmisch op- en neergaande koffietas op?
+
+Deze testmethode hielp zo niet alleen om feedback te verzamelen, maar legde ook verbanden tussen vorm, beweging, emotie en betekenis in de zorgcontext.
 
 <p align="center">
   <img src="Foto's/6 Develop/D3.2/Wheel of emotions.png" style="height:200px;">
