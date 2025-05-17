@@ -297,19 +297,19 @@ Deze fase bestaat uit drie opeenvolgende fases, elk met een specifieke focus:
 3.	Vorm- en emotieverfijning – Tot slot wordt de gekozen metafoor verfijnd op emotioneel vlak en wordt de esthetiek van het volledige prototype geoptimaliseerd.
 
 ### Doelstellingen
-•	Prototype verfijnen
-•	Belangrijkste design challenges identificeren door zowel theoretisch als praktisch onderzoek
+- Prototype verfijnen
+- Belangrijkste design challenges identificeren door zowel theoretisch als praktisch onderzoek
 
 ### Materiaal & methoden
 Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
-•	Brainstorming
-•	Enquêtes
-•	Emotional mapping
-•	Design sketches
-•	Storyboarding
-•	MoSCoW-methode
-•	Prototyping
-•	Gebruikerstesten
+- Brainstorming
+- Enquêtes
+- Emotional mapping
+- Design sketches
+- Storyboarding
+- MoSCoW-methode
+- Prototyping
+- Gebruikerstesten
 
 
 ### Devellop 3.1 / Wave 3 (N=5)
@@ -317,11 +317,12 @@ Hoewel de devellopfase zich voornamelijk richt op het verfijnen van het product,
 
 #### Brainstorming
 
-Wave 2 toonde aan dat er behoefte was aan een manier om aan te geven wanneer iemands stressniveau te hoog is. Belangrijk hierbij is dat de feedback losstaat van de wearable om triggerblindness te voorkomen.  
+Wave 2 toonde aan dat er behoefte was aan een feedbackunit (= een manier om aan te geven wanneer iemands stressniveau te hoog is). Belangrijk hierbij is dat de feedback losstaat van de wearable om triggerblindness te voorkomen.  
 
 Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brainstormsessie per teamlid. Elk teamlid werkte één of meerdere concepten uit en beschreef alle eigenschappen op grote A3-bladen. Vervolgens werd via dotvoting bepaald welke eigenschappen waardevol waren voor het concept en welke moesten worden uitgesloten.
 
-De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten, welke een eerste vorm krijgen in het volgende deel: _Design sketches_.  
+De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten. Hierbij worden de componenten die reeds zijn gedefinieerd (wearable en feedbackunit) uitgebreid met een extra component; een verificator. Omdat uit eerdere waves bleek dat er twijfel bestaat over de betrouwbaarheid van zelfgenomen pauzes, fungeert de verificator als een vorm van controlemechanisme.
+Alle componenten van het systeem worden in onderstaande tabel kort beschreven.
 
 | Onderdeel      | Beschrijving                                                                                                                                 |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -489,7 +490,7 @@ Als conclusie zijn er verschillende designrequirements opgesteld die in acht gen
 
 
 
-### Develop 3.2 [focus]:  
+### Develop 3.2 [Affectief ontwerp]:  
 >_“Zorgen voor begint bij goede zelfzorg.” -Stijn (Directeur WZC Sint-Franciscus)_
 #### Doelstellingen (cfr. methodologie)
 Uit de vorige test bleek dat het concept — een combinatie van een wearable, feedbackunit en verificator — bruikbaar is. Tegelijkertijd werd duidelijk dat de huidige vorm van de feedbackunit, een bloem, een negatief stigma oproept en dus niet geschikt is. In deze fase wordt daarom onderzocht welke metafoor beter past voor de feedbackunit. Daarnaast is het belangrijk te achterhalen welk gevoel deze metafoor idealiter moet oproepen: moet deze motiveren om harder te werken, of net rust brengen in stressvolle momenten?
@@ -498,7 +499,7 @@ Uit de vorige test bleek dat het concept — een combinatie van een wearable, fe
 Voorgaande fase heeft aangetoond hoe de feedbackunit moet functioneren en welke kernkwaliteiten essentieel zijn. Nu is het cruciaal om de meest geschikte metafoor te vinden, dit om op gepaste wijze de juiste emoties op te roepen. Om tot de beste keuze te komen, worden methoden ingezet voor het achterhalen van betekenisvolle en contextgevoelige metaforen. Zo wordt via antroposemiotiek onderzocht hoe zorgverleners betekenis geven aan vormen en bewegingen. Emotional mapping wordt ingezet om emotionele reacties op verschillende metaforen in kaart te brengen. Daarnaast zorgt A/B-testing ervoor dat concrete ontwerpvarianten systematisch worden vergeleken. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) 
 
 #### Brainstorming
-HIer moet de manier beschreven worden van hoe we tot de geteste bewegingsmethoden die verwerkt zijn in het prototype beschrijven. Idem met de gekozen afbeeldingen. -> aantonen dat er een dergelijke structuur in de brainstorming zat.
+
 
 
 #### Prototyping
