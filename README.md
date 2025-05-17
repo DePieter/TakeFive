@@ -252,7 +252,7 @@ Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daa
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR01  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave_1       | 11/12/2024 |
+| DR01  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave&nbsp;1       | 11/12/2024 |
 | DR02  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
 | DR03  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
 | DR04  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
