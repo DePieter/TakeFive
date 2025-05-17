@@ -82,17 +82,6 @@ Sinds 2019 is er sprake van een structureel hoge werkdruk in de zorgsector, met 
 
 De belangrijkste oorzaak van werkstress blijkt een te hoge werkdruk te zijn, wat bij 41,8% van de zorgmedewerkers een negatieve invloed heeft op zowel hun werk-privébalans als hun algemeen welzijn. Aangezien verpleegkundigen en zorgkundigen in woonzorgcentra de hoogste werkdruk ervaren, vormen zij dan ook de primaire doelgroep binnen dit project.
 
-### User Interviews (N=3) 
- $\color{red}{\textsf{Uitbreiden: je kan hier niet maar een paar zinnetjes schrijven>> hoe aan de slag gegaan, welke theoretische kapstokken, raw data, resultaten,...}}$
-Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
-
-Enkele relevante uitspraken:
-
->“Door personeelstekort sla ik vaak mijn korte pauze over.”
-
->“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
-
-Hieruit blijkt dat vaste pauzemomenten vaak niet genomen.
 
 ### 5WH Methode (verduidelijking probleemruimte)
 
@@ -106,8 +95,20 @@ Het haalbaarheidsonderzoek richt zich op het meten van biomarkers om werkstress 
 
 Volgens de Vlaamse Werkbaarheidsmonitor (2023) ervaart 41,8% van de verpleegkundigen en zorgkundigen een hoge werkdruk als een belangrijke burn-outfactor. Sinds de coronapandemie is het langdurig ziekteverzuim bovendien met 50% gestegen. Burn-outproblematiek kost de zorgsector jaarlijks naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er momenteel interventies bestaan in de vorm van korte dagelijkse check-ups, blijkt effectiviteit beperkt.
 
+### User Interviews (N=3) 
+ $\color{red}{\textsf{Uitbreiden: je kan hier niet maar een paar zinnetjes schrijven, voor alles wat hier staat had je zelfs geen interview moeten uitvoeren want dit kan ik ook zo uit mn mouw schudden>> hoe aan de slag gegaan, welke theoretische kapstokken, raw data, resultaten,...}}$
+Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
+
+Enkele relevante uitspraken:
+
+>“Door personeelstekort sla ik vaak mijn korte pauze over.”
+
+>“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
+
+Hieruit blijkt dat vaste pauzemomenten vaak niet genomen.
+
 ### PESTLE Methode 
-$\color{red}{\textsf{Uitbreiden: je kan hier niet maar 2 zinnetjes schrijven>> hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
+$\color{red}{\textsf{Uitbreiden: je kan hier niet maar 2 zinnetjes schrijven. voor alles wat hier staat had je zelfs geen interview moeten uitvoeren want dit kan ik ook zo uit mn mouw schudden>> toon aan dat de pestle nuttig was om uit te voeren, toon aan dat je hem daadwerkelijk hebt uitgevoerd, hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
 De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
 
 ### Oorzaken & Gevolgen
