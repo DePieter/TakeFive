@@ -125,8 +125,6 @@ $\color{red}{\textsf{Aanvullen met een duidelijke boodschap>> wat was het doel, 
 $\color{red}{\textsf{welke bevindingen hab je onderweg gemaakt, wat is de eindconclusie?}}$
 Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
 
-<img src="Foto's/White image" height="20">
-
 ## Definition
 In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
 
@@ -167,6 +165,11 @@ De zorgverlener arriveert op het werk, neemt de wearable en doet deze om. Zodra 
 </p>
 
 #### MoSCow
+$\color{red}{\textsf{De moscow tabel zegt weinig, betere structuur maken door bv per rij een categorie te voorzien}}$
+$\color{red}{\textsf{Schrijf ook zo relevant mogelijk want hier staan veel irrelevante dingen}}$
+Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable moet voldoen wordt er een eerste MoSCoW uitgewerkt. 
+
+
 | Must                  | Should              | Could               | Wouldn't                 |
 |-----------------------|--------------------|---------------------|--------------------------|
 | Makkelijk schoon te maken | Vastzitten op één plek | Er leuk uitzien | Luid zijn |
@@ -176,7 +179,11 @@ De zorgverlener arriveert op het werk, neemt de wearable en doet deze om. Zodra 
 | Leuke interacties         | Verbonden zijn met wifi/intern geheugen hebben |  |   |
 
 #### Prototyping
-Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om meerdere testpersonen tegelijk te laten testen. Voor de feedbackunit hebben we alle mogelijke signaleringsmethoden geïntegreerd in twee compacte apparaten, die op afstand kunnen worden aangestuurd met onze gsm. Hieronder worden de prototypes weergegeven en beschreven.
+Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om met meerdere testpersonen tegelijk te testen.
+
+Momenteel is het nog niet duidelijk of het voldoende is om de feedback te laten gebeuren via de wearable of dat er een externe feedbackunit nodig is. Om deze reden is er ook een extra concept voorzien bij het prototypen; de feedbackunit.
+
+Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in twee compacte wizard of oz prototypes, die op afstand kunnen worden aangestuurd via een smartphone. Hieronder worden de prototypes weergegeven en beschreven.
 
 <table>
   <tr>
@@ -197,16 +204,18 @@ Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en t
 </table>
 
 #### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Bijlagen](#bijlagen)) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties". Ook het verslag van deze eerste test is terug te vinden al "Rapport wave 1" in [Bijlagen](#bijlagen).
+Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie XXXXXXXXXXXXX TESTPROTOCOL1 XXXXXXX) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties". Ook het verslag van deze eerste test is terug te vinden al "Rapport wave 1" in [Bijlagen](#bijlagen).
 
-- "Het zou handig zijn als een systeem stress kan detecteren voordat het te erg wordt."
-- "Een discreet signaal, zoals een trilling, zou helpen zonder cliënten te storen."
-- "Als ik nog een keer zou kunnen kiezen, kies ik voor de armband."
-- "Een discreet signaal, zoals een trilling, zou voorkomen dat cliënten geïrriteerd of boos worden."
+
+> _"Het zou handig zijn als een systeem stress kan detecteren voordat het te erg wordt."._
+> _"Een discreet signaal, zoals een trilling, zou helpen zonder cliënten te storen."._
+> _"Als ik zou kunnen kiezen, kies ik voor de armband."._
+> _"Een discreet signaal, zoals een trilling, zou voorkomen dat gebruikers geïrriteerd of boos worden."._
+> _"Ik vind de externe feedbackunit een goed concept omdat ik in the heat of the moment zo'n trilling via enkel de wearable niet altijd zal opmerken vrees ik"._
 
 
 #### Conclusies & implicaties:
-Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werking. Dankzij de nuttige feedback bij onderanderen de eerste gebruikerstesten, bied deze test meer dan enkel een antwoord op het hoofddoel en kunnen er reeds al enkele ontwerpdetails vast gelegd worden. Als concusie kan er worden verdergewerkt met dit concept en dient er rekening gehouden te worden met volgende design requirements (zie link invoegen, voor alle designrequirements):
+Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daarbij werd onderzocht of het gebruik van een feedbackunit effectief en zinvol is. Dankzij waardevolle inzichten uit onder andere de eerste gebruikerstesten, levert deze test niet alleen een antwoord op de hoofdvraag, maar maakt ze het ook mogelijk om al enkele ontwerpdetails vast te leggen. De conclusie is dat het concept verder uitgewerkt kan worden, met de feedbackunit als essentieel element om triggerblindheid te voorkomen. Daarbij moet rekening gehouden worden met de volgende ontwerpvereisten:
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
@@ -222,27 +231,43 @@ Het hoofddoel van wave 1 betreft het goed- of afkeuren van de conceptuele werkin
 | DR10  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
 | DR11  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
 
-De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: Design sketches -> Storyboarding -> MoSCoW -> Prototyping -> User testing
+De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: ideation -> Storyboarding -> MoSCoW -> Prototyping -> User testing
 
 
 ### **Wave 2 (N=5)**
 ---
-#### Ideation
-Voor wave 2 is het de bedoeling om de prototypes uit wave 1 verder uit te werken tot volwaardige versies, die grondig getest kunnen worden. Het plan is om deze herhaaldelijk gedurende een volledige voormiddagen te laten gebruiken, waarbij het systeem zowel aangeeft wanneer een pauze nodig is als welk type pauze genomen moet worden.
+In deze tweede wave ligt de focus op het verder ontwikkelen van de prototypes uit wave 1 tot volwaardigere versies, geschikt voor uitgebreide testing in een realistische werkomgeving. Het systeem wordt herhaaldelijk ingezet tijdens volledige ochtenden, waarbij het zowel aangeeft wanneer een pauze nodig is als welk type pauze het best genomen wordt. Zo kan het gebruik en de werking van het systeem in een praktijksituatie grondig geëvalueerd worden.
 
+#### Ideation
+$\color{red}{\textsf{een ideation heeft schetsen en een beschrijving van de gedachtegang bij het creëren van deze ideeën}}$
 
 #### Prototyping
-De FU beschikt nu over een eigen oplaadstation, dat onder andere gebruikmaakt van lichtsignalen om te communiceren. Daarnaast is de wearable verbeterd: deze is vervaardigd uit EVA-foam en met behulp van een mal in vorm gebracht. In de wearable is bovendien een smartwatch-sensor geïntegreerd, zodat er echte data gemeten kon worden.
-<p align="left">
-  <img src="Foto's/5 Definition/Wave 2/FeedbackunitWave2V1.jpeg" style="height:200px;"></td>
-  <img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg"  alt="Description" style="height:200px;"></td>
-  <img src="Foto's/5 Definition/Wave 2/Render wearable.jpeg"  alt="Description" style="height:200px;"></td>
-  <img src="Foto's/5 Definition/Wave 2/Wearable.jpeg"  alt="Description" style="height:200px;"></td>
-</p>
+Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele prototypes uitgewerkt. De FU beschikt nu over een eigen oplaadstation, dat onder andere gebruikmaakt van lichtsignalen om te communiceren. Daarnaast is de wearable verbeterd: deze is vervaardigd uit EVA-foam en met behulp van een mal in vorm gebracht. In de wearable is bovendien een smartwatch-sensor geïntegreerd, zodat er echte data gemeten kon worden.
 
-#### User testing
-Woonzorgcentrum De Oever 
-Om deze testen te kunnen uitvoeren, hebben we besloten om een **'Plug and Play'**-protocol te gebruiken. De deelnemers kregen hiervoor een handleiding (zie [Protocol wave 2](#bijlagen)) waarmee ze zelfstandig aan de slag konden. In deze handleiding stond uitgelegd hoe ze het systeem moesten aanzetten, reinigen en opladen. Daarnaast bevatte het ook de verschillende soorten pauzes die ze moesten nemen (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
+<table>
+  <tr>
+    <td><img src="Foto's/5 Definition/Wave 2/FeedbackunitWave2V1.jpeg" style="height:200px;">
+    <td>**"Wat te zien is op foto": ** Beschrijving </td>
+  </tr>
+  <tr>
+    <td><img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg"  alt="Description" style="height:200px;">
+    <td>**"Wat te zien is op foto": ** Beschrijving <b><u>          </td></td>
+  </tr>
+  <tr>
+    <td><img src="Foto's/5 Definition/Wave 2/Render wearable.jpeg"  alt="Description" style="height:200px;">
+    <td>**"Wat te zien is op foto": ** Beschrijving </td></td>
+  </tr>
+     <td><img src="Foto's/5 Definition/Wave 2/Wearable.jpeg"  alt="Description" style="height:200px;">
+    <td>**"Wat te zien is op foto": ** Beschrijving </td></td>
+  </tr>
+     <td><>
+    <td> idem voor FU "Wat te zien is op foto": Beschrijving </td></td>
+  </tr>
+</table>
+
+
+#### User testing (n=3)
+Om deze testen te kunnen uitvoeren, is er besloten om een **'Plug and Play'**-protocol te gebruiken. De respondenten van WZC De Oever kregen hiervoor een handleiding (zie [Protocol wave 2](#bijlagen)) waarmee men zelfstandig aan de slag kon. In deze handleiding stond uitgelegd hoe het systeem precies werkt. Ook in deze handleiding, stond welke soort pauzes genomen moesten worden (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
 <p align="left">
   <img src="Foto's/5 Definition/Wave 2/VZW De Oever.jpg" style="height:400px;"></td>
   <img src="Foto's/5 Definition/Wave 2/Zorgkar.jpeg"  alt="Description" style="height:400px;"></td>
@@ -251,8 +276,7 @@ Om deze testen te kunnen uitvoeren, hebben we besloten om een **'Plug and Play'*
 
 
 ### Conclusies & implicaties:
-
-Deze testfase had als doel de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Op basis van de bevindingen uit het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een reële behoefte binnen de doelgroep. De resultaten bieden waardevolle inzichten op vlak van gebruikservaring, functionaliteit en ontwerpverbeteringen. Er kan dan ook verder gewerkt worden aan het concept, met aandacht voor onderstaande design requirements:
+Het doel van deze testfase was om de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Daarbij was het ook de bedoeling om de complicaties van het systeem in een reële omgeving vast te stellen. Uit de bevindingen in het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een concrete behoefte binnen de doelgroep. De resultaten leveren waardevolle inzichten op het vlak van gebruikservaring, functionaliteit en mogelijke ontwerpverbeteringen. Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
@@ -264,10 +288,6 @@ Deze testfase had als doel de toepasbaarheid en integratie van het prototype in 
 | DR18  | Het systeem moet modulair zijn, met instelbare meldingen en functies. | Wave 2       | 23/12/2024 |
 | DR19  | Samenwerking met zorginstellingen is vereist voor brede adoptie en implementatie in beleidskaders. | Wave 2       | 23/12/2024 |
 | DR20  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te verminderen. | Wave 2       | 23/12/2024 |
-
-
-
-<img src="Foto's/White image" height="20">
 
 # Develop
 De develop fase draait rond het verfijnen van het product. Hiervoor worden de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing. 
