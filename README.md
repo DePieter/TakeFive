@@ -148,7 +148,6 @@ Tijdens de eerste ontwikkelingsfase lag de focus al snel op het ontwerpen van ee
 
 Nadat er geweten is dat de opties voor een wearable geperkt zijn, werden de mogelijke concepten eenvoudig en snel uitgeschetst om een algemeen idee te kunnen krijgen van het concept. Deze schetsen zijn hieronder te zien.
 
-$\color{red}{\textsf{meer en betere schetsen mogen (en nee geen brakke AI shit)}}$
 
 <p align="center">
   <img src="Foto's/5 Definition/Wave 1/slagadren-lichaam.jpg" style="height:300px;">
@@ -170,14 +169,49 @@ $\color{red}{\textsf{De moscow tabel zegt weinig, betere structuur maken door bv
 $\color{red}{\textsf{Schrijf ook zo relevant mogelijk want hier staan veel irrelevante dingen}}$
 Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable moet voldoen wordt er een eerste MoSCoW uitgewerkt. 
 
+<table>
+  <tr>
+    <td> Must >
 
-| Must                  | Should              | Could               | Wouldn't                 |
-|-----------------------|--------------------|---------------------|--------------------------|
-| Makkelijk schoon te maken | Vastzitten op één plek | Er leuk uitzien | Luid zijn |
-| Positieve feedback        | Licht geven           | Anderen waarschuwen | Opdringerig zijn |
-| Goedkoop                  | Altijd bij de persoon zijn | Kunnen snoozen | Vervelend |
-| Hogerop verwittigen       | Teambuilding pauzes   |                 | De gebruiker aantrekken wanneer dat niet zou moeten |
-| Leuke interacties         | Verbonden zijn met wifi/intern geheugen hebben |  |   |
+    <td>
+    - Makkelijk schoon te maken  
+    - Positieve feedback  
+    - Goedkoop  
+    - Hogerop verwittigen  
+    - Leuke interacties
+    </td>
+  </tr>
+
+    <td> Should >
+
+    <td>
+    - Eén vaste locatie  
+    - Licht geven  
+    - Wifi-verbinding of intern geheugen
+    </td>
+  </tr>
+  
+      <td> Could >
+
+    <td>    
+    - Leuk uitzien  
+    - Snoozbaar zijn  
+    - Altijd aanwezig zijn  
+    - Teambuilding pauzes  
+    - Anderen verwittigen  
+  </tr>
+  
+      <td> Wouldn't >
+
+    <td>
+    - Luid zijn  
+    - Opdringerig zijn  
+    - Storend zijn  
+    - Ongewenste gebruikersaantrekkingen  
+    </td>
+  </tr>
+  </table>
+
 
 #### Prototyping
 Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om met meerdere testpersonen tegelijk te testen.
@@ -205,8 +239,7 @@ Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in t
 </table>
 
 #### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie XXXXXXXXXXXXX TESTPROTOCOL1 XXXXXXX) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen, zoals te zien in het volgende deel "Conclusies & implicaties". Ook het verslag van deze eerste test is terug te vinden al "Rapport wave 1" in [Bijlagen](#bijlagen).
-
+Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) ) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen. Deze kunnen worden teruggevonden onder [Conclusies & implicaties](#conclusies--implicaties) of in  [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) 
 
 > _"Het zou handig zijn als een systeem stress kan detecteren voordat het te erg wordt."._
 
@@ -224,7 +257,7 @@ Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daa
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR01  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave 1       | 11/12/2024 |
+| DR01  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave_1       | 11/12/2024 |
 | DR02  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
 | DR03  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
 | DR04  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
