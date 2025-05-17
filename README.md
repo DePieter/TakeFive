@@ -153,7 +153,8 @@ $\color{red}{\textsf{meer en betere schetsen mogen (en nee geen brakke AI shit)}
 <p align="center">
   <img src="Foto's/5 Definition/Wave 1/slagadren-lichaam.jpg" style="height:300px;">
   <img src="Foto's/5 Definition/Wave 1/Design wave 1.png" style="height:300px;">
-  <img src="Foto's/5 Definition/Wave 1/design wave 1.1.png" style="height:300px;">
+  <img src="Foto's/5 Definition/Wave 1/Borstkast wearable.png" style="height:300px;">
+  <img src="Foto's/5 Definition/Wave 1/Beide wearables tesamen aan.png" style="height:300px;">
 </p>
 
 #### Storyboarding
@@ -274,7 +275,6 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
 Om deze testen te kunnen uitvoeren, is er besloten om een **'Plug and Play'**-protocol te gebruiken. De respondenten van WZC De Oever kregen hiervoor een handleiding (zie [Protocol wave 2](#bijlagen)) waarmee men zelfstandig aan de slag kon. In deze handleiding stond uitgelegd hoe het systeem precies werkt. Ook in deze handleiding, stond welke soort pauzes genomen moesten worden (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
 <p align="left">
   <img src="Foto's/5 Definition/Wave 2/VZW De Oever.jpg" style="height:400px;"></td>
-  <img src="Foto's/5 Definition/Wave 2/Zorgkar.jpeg"  alt="Description" style="height:400px;"></td>
 </p>
 
 
