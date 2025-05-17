@@ -278,8 +278,6 @@ Voor de ideation fase van wave 2 werden versies van de FU en de wearable ontworp
 De FU bevatte zowel de signaalfunctie als een oplaadstation.
 De wearable werd voorzien van EVA-foam, gevormd met behulp van een mal zodat het goed aansluit op het lichaam."
 
-
-$\color{red}{\textsf{een ideation heeft schetsen en een beschrijving van de gedachtegang bij het creëren van deze ideeën}}$
 <p align="center">
   <img src="Foto's/5 Definition/Wave 2/Wave 2 ideation.png" style="height:300px;">
   <img src="Foto's/5 Definition/Wave 2/sketch wearable wave 2 V3 .png" style="height:300px;">
