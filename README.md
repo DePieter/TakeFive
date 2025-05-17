@@ -276,7 +276,11 @@ Om deze testen te kunnen uitvoeren, is er besloten om een **'Plug and Play'**-pr
 
 
 ### Conclusies & implicaties:
-Het doel van deze testfase was om de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Daarbij was het ook de bedoeling om de complicaties van het systeem in een reële omgeving vast te stellen. Uit de bevindingen in het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een concrete behoefte binnen de doelgroep. De resultaten leveren waardevolle inzichten op het vlak van gebruikservaring, functionaliteit en mogelijke ontwerpverbeteringen. Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
+Het doel van deze testfase was om de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Daarbij was het ook de bedoeling om de complicaties van het systeem in een reële omgeving vast te stellen. Uit de bevindingen in het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een concrete behoefte binnen de doelgroep. 
+
+Deze wave heeft aangetoond dat er twijfel bestaat over de betrouwbaarheid van zelfgenomen pauzes. Om deze reden moet er verder worden nagedacht over een oplossing die er voor zorgt dat er een soort van controlemechanisme is verwerkt in het systeem
+
+De resultaten leveren waardevolle inzichten op het vlak van gebruikservaring, functionaliteit en mogelijke ontwerpverbeteringen. Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
@@ -321,7 +325,9 @@ Wave 2 toonde aan dat er behoefte was aan een feedbackunit (= een manier om aan 
 
 Om een bruikbaar idee te ontwikkelen, begon het proces met een individuele brainstormsessie per teamlid. Elk teamlid werkte één of meerdere concepten uit en beschreef alle eigenschappen op grote A3-bladen. Vervolgens werd via dotvoting bepaald welke eigenschappen waardevol waren voor het concept en welke moesten worden uitgesloten.
 
-De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten. Hierbij worden de componenten die reeds zijn gedefinieerd (wearable en feedbackunit) uitgebreid met een extra component; een verificator. Omdat uit eerdere waves bleek dat er twijfel bestaat over de betrouwbaarheid van zelfgenomen pauzes, fungeert de verificator als een vorm van controlemechanisme.
+De brainstorming heeft geleid tot het implementeren van een systeem bestaande uit 3 verschillende componenten. Hierbij worden de componenten die reeds zijn gedefinieerd (wearable en feedbackunit) uitgebreid met een extra component; een verificator. 
+
+Omdat uit eerdere waves bleek dat er twijfel bestaat over de betrouwbaarheid van zelfgenomen pauzes, fungeert de verificator als een vorm van controlemechanisme.
 Alle componenten van het systeem worden in onderstaande tabel kort beschreven.
 
 | Onderdeel      | Beschrijving                                                                                                                                 |
@@ -499,7 +505,14 @@ Uit de vorige test bleek dat het concept — een combinatie van een wearable, fe
 Voorgaande fase heeft aangetoond hoe de feedbackunit moet functioneren en welke kernkwaliteiten essentieel zijn. Nu is het cruciaal om de meest geschikte metafoor te vinden, dit om op gepaste wijze de juiste emoties op te roepen. Om tot de beste keuze te komen, worden methoden ingezet voor het achterhalen van betekenisvolle en contextgevoelige metaforen. Zo wordt via antroposemiotiek onderzocht hoe zorgverleners betekenis geven aan vormen en bewegingen. Emotional mapping wordt ingezet om emotionele reacties op verschillende metaforen in kaart te brengen. Daarnaast zorgt A/B-testing ervoor dat concrete ontwerpvarianten systematisch worden vergeleken. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 3.2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.2.pdf) 
 
 #### Brainstorming
+Het prototype is ontwikkeld om te onderzoeken hoe zorgmedewerkers discrete signalen waarnemen en welke voorkeuren zij daarbij hebben. Voor het ontwerp diende 'Little Signals' van Google als inspiratie, omdat dit concept op een subtiele manier signalen vormgeeft.
+Het prototype bevat drie verschillende actuatoren, die elk een ander type beweging en communicatievorm simuleren. Ze worden handmatig bediend via de achterkant:
 
+-	Cilinder 		->  abstracte vorm
+-	Op- en neergaande foto	->  beeldje in de vorm van een metafoor
+-	Bewegend papier		->  Golvende beweging
+
+  <img src="Foto's/6 Develop/D3.2/Prototype.jpg" style="height:200px;">
 
 
 #### Prototyping
