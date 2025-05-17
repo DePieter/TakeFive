@@ -96,7 +96,9 @@ Het haalbaarheidsonderzoek richt zich op het meten van biomarkers om werkstress 
 Volgens de Vlaamse Werkbaarheidsmonitor (2023) ervaart 41,8% van de verpleegkundigen en zorgkundigen een hoge werkdruk als een belangrijke burn-outfactor. Sinds de coronapandemie is het langdurig ziekteverzuim bovendien met 50% gestegen. Burn-outproblematiek kost de zorgsector jaarlijks naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er momenteel interventies bestaan in de vorm van korte dagelijkse check-ups, blijkt effectiviteit beperkt.
 
 ### User Interviews (N=3) 
- $\color{red}{\textsf{Uitbreiden: je kan hier niet maar een paar zinnetjes schrijven, voor alles wat hier staat had je zelfs geen interview moeten uitvoeren want dit kan ik ook zo uit mn mouw schudden>> hoe aan de slag gegaan, welke theoretische kapstokken, raw data, resultaten,...}}$
+ $\color{red}{\textsf{Uitbreiden: je kan hier niet maar een paar zinnetjes schrijven, voor alles wat hier staat had je zelfs geen interview moeten uitvoeren }}$
+ $\color{red}{\textsf{uitvoeren want dit kan ik ook zo uit mn mouw schudden>> hoe aan de slag gegaan, welke theoretische kapstokken, raw data, resultaten,...}}$
+
 Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
 
 Enkele relevante uitspraken:
@@ -108,7 +110,10 @@ Enkele relevante uitspraken:
 Hieruit blijkt dat vaste pauzemomenten vaak niet genomen.
 
 ### PESTLE Methode 
-$\color{red}{\textsf{Uitbreiden: je kan hier niet maar 2 zinnetjes schrijven. voor alles wat hier staat had je zelfs geen interview moeten uitvoeren want dit kan ik ook zo uit mn mouw schudden>> toon aan dat de pestle nuttig was om uit te voeren, toon aan dat je hem daadwerkelijk hebt uitgevoerd, hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
+$\color{red}{\textsf{Uitbreiden: je kan hier niet maar 2 zinnetjes schrijven. voor alles wat hier staat had je zelfs geen interview moeten uitvoeren }}$
+$\color{red}{\textsf{Uitbreiden: want dit kan ik ook zo uit mn mouw schudden>> toon aan dat de pestle nuttig was om uit te voeren, }}$
+$\color{red}{\textsf{Uitbreiden: toon aan dat je hem daadwerkelijk hebt uitgevoerd, hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
+
 De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
 
 ### Oorzaken & Gevolgen
@@ -116,7 +121,8 @@ Personeelstekort in de zorg leidt tot langere shifts en het inkorten of zelfs ov
 
 
 ### Conclusie 
-$\color{red}{\textsf{Aanvullen met een duidelijke boodschap>> wat was het doel, hoe heb je al dan niet dat doel bereikt, welke bevindingen hab je onderweg gemaakt, wat is de eindconclusie?}}$
+$\color{red}{\textsf{Aanvullen met een duidelijke boodschap>> wat was het doel, hoe heb je al dan niet dat doel bereikt,}}$
+$\color{red}{\textsf{welke bevindingen hab je onderweg gemaakt, wat is de eindconclusie?}}$
 Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
 
 <img src="Foto's/White image" height="20">
