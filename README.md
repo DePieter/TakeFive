@@ -224,7 +224,7 @@ Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in t
   <tr>
     <td><img src="Foto's/5 Definition/Wave 1/Borstkassensor.jpg" style="width:200px;">
 	  <td><img src="Foto's/5 Definition/Wave 1/Wearable borstkas.jpeg"  style="width:200px;">
-    <td>De borstkas-wearable bestaat uit twee verstelbare riemen met een 3D-geprinte behuizing, zodat hij naar wens kan worden aangespannen. <b><u>          </td></td>
+    <td>De <b><u> borstkas sensor</u></b> bestaat uit twee verstelbare riemen met een 3D-geprinte behuizing, zodat hij naar wens kan worden aangespannen. <b><u>          </td></td>
   </tr>
   <tr>
     <td><img src="Foto's/5 Definition/Wave 1/FeedbackunitV1.jpg"style="width:200px;">
