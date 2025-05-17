@@ -178,7 +178,7 @@ Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable
     - Positieve feedback  
     - Goedkoop  
     - Hogerop verwittigen  
-    - Leuke interacties
+    - Leuke interacties>
     </td>
   </tr>
 
@@ -187,7 +187,7 @@ Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable
     <td>
     - Eén vaste locatie  
     - Licht geven  
-    - Wifi-verbinding of intern geheugen
+    - Wifi-verbinding of intern geheugen>
     </td>
   </tr>
   
@@ -198,7 +198,7 @@ Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable
     - Snoozbaar zijn  
     - Altijd aanwezig zijn  
     - Teambuilding pauzes  
-    - Anderen verwittigen  
+    - Anderen verwittigen  >
   </tr>
   
       <td> Wouldn't >
@@ -207,7 +207,7 @@ Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable
     - Luid zijn  
     - Opdringerig zijn  
     - Storend zijn  
-    - Ongewenste gebruikersaantrekkingen  
+    - Ongewenste gebruikersaantrekkingen  >
     </td>
   </tr>
   </table>
