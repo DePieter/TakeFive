@@ -82,7 +82,8 @@ Sinds 2019 is er sprake van een structureel hoge werkdruk in de zorgsector, met 
 
 De belangrijkste oorzaak van werkstress blijkt een te hoge werkdruk te zijn, wat bij 41,8% van de zorgmedewerkers een negatieve invloed heeft op zowel hun werk-privébalans als hun algemeen welzijn. Aangezien verpleegkundigen en zorgkundigen in woonzorgcentra de hoogste werkdruk ervaren, vormen zij dan ook de primaire doelgroep binnen dit project.
 
-### User Interviews (N=3)
+### User Interviews (N=3) 
+ $\color{red}{\textsf{Uitbreiden: je kan hier niet maar een paar zinnetjes schrijven>> hoe aan de slag gegaan, welke theoretische kapstokken, raw data, resultaten,...}}$
 Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
 
 Enkele relevante uitspraken:
@@ -91,26 +92,30 @@ Enkele relevante uitspraken:
 
 >“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
 
-Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden en als abnormaal worden beschouwd.
+Hieruit blijkt dat vaste pauzemomenten vaak niet genomen.
 
 ### 5WH Methode (verduidelijking probleemruimte)
 
-<img src="Foto's/4 Discovery/5WH.jpg" width=50%>
+
+<div align="center">
+  <img src="Foto's/4 Discovery/5WH.jpg" width="50%">
+</div>
+
 
 Het haalbaarheidsonderzoek richt zich op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
 
-Volgens de Vlaamse Werkbaarheidsmonitor (2023) ervaart 41,8% van de verpleegkundigen en zorgkundigen een hoge werkdruk als een belangrijke burn-outfactor. Sinds de coronapandemie is het langdurig ziekteverzuim bovendien met 50% gestegen. Burn-outproblematiek kost de zorgsector jaarlijks naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er momenteel interventies bestaan in de vorm van korte dagelijkse check-ups, blijkt hun effectiviteit beperkt.
+Volgens de Vlaamse Werkbaarheidsmonitor (2023) ervaart 41,8% van de verpleegkundigen en zorgkundigen een hoge werkdruk als een belangrijke burn-outfactor. Sinds de coronapandemie is het langdurig ziekteverzuim bovendien met 50% gestegen. Burn-outproblematiek kost de zorgsector jaarlijks naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er momenteel interventies bestaan in de vorm van korte dagelijkse check-ups, blijkt effectiviteit beperkt.
 
-### PESTLE Methode
+### PESTLE Methode 
+$\color{red}{\textsf{Uitbreiden: je kan hier niet maar 2 zinnetjes schrijven>> hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
 De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
 
-### Conclusie
-
 ### Oorzaken & Gevolgen
+Personeelstekort in de zorg leidt tot langere shifts en het inkorten of zelfs overslaan van pauzes, wat de ervaren stress bij zorgmedewerkers verder verergert. Hierdoor ontstaat een dubbel negatief effect: de verhoogde werkdruk zorgt niet alleen voor meer stress, maar vermindert tegelijkertijd ook de mogelijkheid tot herstel. Deze combinatie maakt de situatie bijzonder kwetsbaar. De burn-outproblematiek binnen de sector blijft toenemen en brengt stijgende kosten met zich mee, wat de noodzaak onderstreept voor preventieve maatregelen. Werkdruk die hoofdzakelijk wordt veroorzaakt door personeelstekort blijkt daarbij de voornaamste oorzaak van stress, versterkt door het ontbreken van structurele oplossingen.
 
-Personeelstekort in de zorg leidt tot langere shifts en het inkorten of zelfs overslaan van pauzes, wat de ervaren stress bij zorgmedewerkers verder verergert. Hierdoor ontstaat een dubbel negatief effect: de verhoogde werkdruk zorgt niet alleen voor meer stress, maar vermindert tegelijkertijd ook de mogelijkheid tot herstel. Deze combinatie maakt de situatie bijzonder kwetsbaar. De burn-outproblematiek binnen de sector blijft toenemen en brengt stijgende kosten met zich mee, wat de noodzaak onderstreept voor preventieve maatregelen. Werkdruk blijkt daarbij de voornaamste oorzaak van stress, versterkt door het aanhoudende personeelstekort en het ontbreken van structurele oplossingen.
 
-### Inzichten uit Onderzoek
+### Conclusie 
+$\color{red}{\textsf{Aanvullen met een duidelijke boodschap>> wat was het doel, hoe heb je al dan niet dat doel bereikt, welke bevindingen hab je onderweg gemaakt, wat is de eindconclusie?}}$
 Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
 
 <img src="Foto's/White image" height="20">
@@ -134,16 +139,22 @@ Twee waves die gebruik maken van volgende methodologiën:
 ### **Wave 1 (N=5)**
 ---
 #### Ideation
-Voor wave 1 hebben we onderzocht waar we de wearable kunnen plaatsen. De mogelijke locaties worden bepaald door medische richtlijnen en de geschiktheid voor hartslagmeting. Uiteindelijk blijven er drie opties over: de borst, de benen en de bovenarm. De benen vallen af vanwege het sociale stigma rondom enkelmonitors.
+Tijdens de eerste ontwikkelingsfase lag de focus al snel op het ontwerpen van een wearable die het stressniveau meet en feedback geeft aan de gebruiker. De vorm van deze wearable hangt sterk af van de draaglocatie, die op haar beurt beperkt wordt door medische richtlijnen (bv. wearable rond pols mag niet wegens verhoogde kans op bacteriële overdracht) en de geschiktheid voor nauwkeurige hartslagmetingen. Na het afwegen van deze factoren blijven drie mogelijke locaties over: borst, bovenarm en benen. De optie om de wearable op de benen te dragen wordt uitgesloten vanwege het mogelijke negatieve stigma dat geassocieerd wordt met enkelbanden.
+
+Nadat er geweten is dat de opties voor een wearable geperkt zijn, werden de mogelijke concepten eenvoudig en snel uitgeschetst om een algemeen idee te kunnen krijgen van het concept. Deze schetsen zijn hieronder te zien.
+
+$\color{red}{\textsf{meer en betere schetsen mogen (en nee geen brakke AI shit)}}$
 
 <p align="center">
-  <img src="Foto's/5 Definition/Wave 1/slagadren-lichaam.jpg" style="height:200px;">
-  <img src="Foto's/5 Definition/Wave 1/Design wave 1.png" style="height:200px;">
-  <img src="Foto's/5 Definition/Wave 1/design wave 1.1.png" style="height:200px;">
+  <img src="Foto's/5 Definition/Wave 1/slagadren-lichaam.jpg" style="height:300px;">
+  <img src="Foto's/5 Definition/Wave 1/Design wave 1.png" style="height:300px;">
+  <img src="Foto's/5 Definition/Wave 1/design wave 1.1.png" style="height:300px;">
 </p>
 
 #### Storyboarding
-De zorgmedewerker arriveert op het werk, pakt de wearable en doet deze om. Zodra ze het apparaat inschakelt, verschijnt er een lichtsignaal. Enkele uren later voelt ze een trilling, wat aangeeft dat het tijd is voor een korte pauze. Na ongeveer vijf minuten hervat ze haar werk. Aan het einde van haar shift plaatst ze de wearable op de oplader.
+Om de eerste mogelijke onvoorziene fouten uit het concept van een wearable te krijgen, wordt er een sotryboard uitgewerkt. Dit geeft op een eerste niveau inzicht in de werkelijke situatie en wijst op mogelijke eerstelijnsfouten. Het storyboard verloopt als volgt:
+
+De zorgverlener arriveert op het werk, neemt de wearable en doet deze om. Zodra het apparaat wordt inschakelt, verschijnt er een lichtsignaal. Enkele uren later wordt er een trilling waargenomen, wat aangeeft dat het stressniveau hoog ligt. De zorgverlener beslist om even een glaasje water te drinken en een aantal keer diep in en uit te ademen, vervolgens hervat de persoon zijn/haar werk. Aan het einde van de shift, wordt de wearable op de oplader geplaatst.
 <p align="center">
   <img src="Foto's/5 Definition/Wave 1/Storyboard wave 1.png" width="600px">
 </p>
