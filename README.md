@@ -517,6 +517,8 @@ In deze brainstormsessie werd er gebruik gemaakt van verschillende methodieken:
 
 - Thema-associaties: we koppelden de metaforen aan concepten zoals zelfzorg, teamgevoel en herstel.
 
+  <img src="Foto's/6 Develop/D3.2/Brainstorm.jpg" style="height:200px;">
+
 Als resultaat van deze brainstormsessie, kan er gezegd worden dat alle afbeeldingen die op een manier rust uitstralen interessant kunnen zijn. Wat de metafoor precies zou moeten zijn is nog vrij vaag, wat het antwoord precies is op deze vraag zal moeten blijken uit een test.
 
 #### Prototyping
