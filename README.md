@@ -325,7 +325,7 @@ De resultaten leveren waardevolle inzichten op het vlak van gebruikservaring, fu
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR12  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave_2       | 23/12/2024 |
+| DR12  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave&nbsp;2       | 23/12/2024 |
 | DR14  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
 | DR15  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
 | DR16  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
@@ -525,7 +525,7 @@ Als conclusie zijn er verschillende designrequirements opgesteld die in acht gen
 
 | ID    | Design Requirements                                                                                                                    | Source    | Date       |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| DR21  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test_3.1  | 24/02/2024 |
+| DR21  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test&nbsp;3.1  | 24/02/2024 |
 | DR22  | Gebruikers moeten zelf kunnen kiezen wanneer ze hun pauze nemen.                                                                       | Test 3.1  | 24/02/2024 |
 | DR23  | De feedback unit moet individueel herkenbaar zijn en niet gelinkt aan een gedeelde zorgkar.                                            | Test 3.1  | 24/02/2024 |
 | DR24  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
@@ -608,7 +608,7 @@ Het systeem moet emoties oproepen die bijdragen aan een positieve, ondersteunend
 
 | ID    | Design Requirements                                                                                                                                                           | Source       | Date       |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
-| DR1   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test 3.2 | 6/03/2025  |
+| DR1   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test&nbsp;3.2 | 6/03/2025  |
 | DR2   | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen.     | Test 3.2 | 6/03/2025  |
 | DR3   | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                                                                        | Test 3.2 | 6/03/2025  |
 | DR4   | De feedbackunit moet gebruik maken van rustgevende signalen.                                                                                                                  | Test 3.2 | 6/03/2025  |
