@@ -212,6 +212,46 @@ Om een eerste idee te krijgen over enkele eerste voorwaarden aan wat de wearable
   </tr>
   </table>
 
+<table>
+  <tr>
+    <th>Must</th>
+    <td>
+      - Makkelijk schoon te maken<br>
+      - Positieve feedback<br>
+      - Goedkoop<br>
+      - Hogerop verwittigen<br>
+      - Leuke interacties
+    </td>
+  </tr>
+  <tr>
+    <th>Should</th>
+    <td>
+      - Eén vaste locatie<br>
+      - Licht geven<br>
+      - Wifi-verbinding of intern geheugen
+    </td>
+  </tr>
+  <tr>
+    <th>Could</th>
+    <td>
+      - Leuk uitzien<br>
+      - Snoozbaar zijn<br>
+      - Altijd aanwezig zijn<br>
+      - Teambuilding pauzes<br>
+      - Anderen verwittigen
+    </td>
+  </tr>
+  <tr>
+    <th>Wouldn't</th>
+    <td>
+      - Luid zijn<br>
+      - Opdringerig zijn<br>
+      - Storend zijn<br>
+      - Ongewenste gebruikersaantrekkingen
+    </td>
+  </tr>
+</table>
+
 
 #### Prototyping
 Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om met meerdere testpersonen tegelijk te testen.
