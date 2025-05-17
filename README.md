@@ -111,8 +111,8 @@ Hieruit blijkt dat vaste pauzemomenten vaak niet genomen.
 
 ### PESTLE Methode 
 $\color{red}{\textsf{Uitbreiden: je kan hier niet maar 2 zinnetjes schrijven. voor alles wat hier staat had je zelfs geen interview moeten uitvoeren }}$
-$\color{red}{\textsf{Uitbreiden: want dit kan ik ook zo uit mn mouw schudden>> toon aan dat de pestle nuttig was om uit te voeren, }}$
-$\color{red}{\textsf{Uitbreiden: toon aan dat je hem daadwerkelijk hebt uitgevoerd, hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
+$\color{red}{\textsf{ want dit kan ik ook zo uit mn mouw schudden>> toon aan dat de pestle nuttig was om uit te voeren, }}$
+$\color{red}{\textsf{ toon aan dat je hem daadwerkelijk hebt uitgevoerd, hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
 
 De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
 
