@@ -512,7 +512,7 @@ Het prototype bevat drie verschillende actuatoren, die elk een ander type bewegi
 -	Op- en neergaande foto	->  beeldje in de vorm van een metafoor
 -	Bewegend papier		->  Golvende beweging
 
-  <img src="Foto's/6 Develop/D3.2/Prototype.jpg" style="height:200px;">
+  <img src="Foto's/6 Develop/D3.2/Prototype.png" style="height:200px;">
 
 
 #### Prototyping
@@ -525,7 +525,7 @@ wat is het, wat is het doel, hoe gaat het in de praktijk,...
 Eerst worden de Wizard of Oz prototypes getoond (3 in 1), vervolgens worden de bijhorende metaforen getoond (verschillende papieren afbeeldingen). Zorgverleners plaatsen deze op Plutchiks Wheel of Emotions, wat inzicht geeft in de gepercipieerde emotionele impact. Tegelijkertijd worden er doelgerichte vragen opgesteld om te achterhalen welk gevoel precies gewenst is en bij wat voor beweging van het prototype deze het meest gunstig is. Hierbij is het de bedoeling om het gewenst gevoel te koppelen aan de metafoor die dat gevoel het meest representeert.
 
 <p align="center">
-  <img src="Foto's/6 Develop/D3.2/Wheel of emotions.jpg" style="height:200px;">
+  <img src="Foto's/6 Develop/D3.2/Wheel of emotions.png" style="height:200px;">
   <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 1.jpg" style="height:200px;">
   <img src="Foto's/6 Develop/D3.2/Test 3.2 foto 2.jpg" style="height:200px;">
 </p>
