@@ -511,13 +511,15 @@ Er werd gestard met een korte reflectie over hoe de huidige feedbackunit (de blo
 
 In deze brainstormsessie werd er gebruik gemaakt van verschillende methodieken:
 
-- Metaphor Cards: we ontwierpen zelf inspiratiekaarten met verschillende afbeeldingen zoals dieren, koffietassen, zonnestralen enzovoort.
+- Metaphor Cards: er werden post-its gemaakt met verschillende zaken op die kunnen dienen als metafoor voor de feedbackunit zoals bv koffietas, zon, mist,...
 
 - Verhalenmethodiek: elk teamlid bracht situaties aan waarin zorgverleners mogelijk overprikkeld raken of net tot rust komen, en beschreef hierbij wat in die situaties visueel of emotioneel opviel.
 
 - Thema-associaties: we koppelden de metaforen aan concepten zoals zelfzorg, teamgevoel en herstel.
 
-  <img src="Foto's/6 Develop/D3.2/Brainstorm.jpg" style="height:200px;">
+<div align="center">
+  <img src="Foto's/6 Develop/D3.2/brainstorm2.jpg" height="400">
+</div>
 
 Als resultaat van deze brainstormsessie, kan er gezegd worden dat alle afbeeldingen die op een manier rust uitstralen interessant kunnen zijn. Wat de metafoor precies zou moeten zijn is nog vrij vaag, wat het antwoord precies is op deze vraag zal moeten blijken uit een test.
 
