@@ -217,18 +217,18 @@ Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in t
 
 <table>
   <tr>
-    <td><img src="Foto's/5 Definition/Wave 1/Wave 1 armbandsensor.2.png"  style="width:200px;">
-	  <td><img src="Foto's/5 Definition/Wave 1/Wave 1 armbandsensor.png" style="width:200px;">
+    <td><img src="Foto's/5 Definition/Wave 1/Wave 1 armbandsensor.2.png"  style="width:300px;">
+	  <td><img src="Foto's/5 Definition/Wave 1/Wave 1 armbandsensor.png" style="width:300px;">
     <td>De <b><u>armband sensor:</u></b> bestaat uit een ge-3D-printe body met een elastieken band, deze kan gedragen worden op de bovenarm.</td>
   </tr>
   <tr>
-    <td><img src="Foto's/5 Definition/Wave 1/Borstkassensor.jpg" style="width:200px;">
-	  <td><img src="Foto's/5 Definition/Wave 1/Wearable borstkas.jpeg"  style="width:200px;">
+    <td><img src="Foto's/5 Definition/Wave 1/Borstkassensor.jpg" style="width:300px;">
+	  <td><img src="Foto's/5 Definition/Wave 1/Wearable borstkas.jpeg"  style="width:300px;">
     <td>De <b><u> borstkas sensor</u></b> bestaat uit twee verstelbare riemen met een 3D-geprinte behuizing, zodat hij naar wens kan worden aangespannen. <b><u>          </td></td>
   </tr>
   <tr>
-    <td><img src="Foto's/5 Definition/Wave 1/FeedbackunitV1.jpg"style="width:200px;">
-	  <td><img src="Foto's/5 Definition/Wave 1/FeedbackunitV2.jpg" style="width:200px;">
+    <td><img src="Foto's/5 Definition/Wave 1/FeedbackunitV1.jpg"style="width:300px;">
+	  <td><img src="Foto's/5 Definition/Wave 1/FeedbackunitV2.jpg" style="width:300px;">
     <td>De <b><u>feedback unit's:</u></b>  bestaan uit een MDF- en een kartonnen behuizing, waarmee alle signaalmethoden, zoals geluid en licht, getest kunnen worden met Arduino en een ingebouwde gsm.    </td></td>
   </tr>
 </table>
@@ -287,7 +287,7 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
 <table>
   <tr>
     <td>
-      <img src="Foto's/5 Definition/Wave 2/FU wave 2 prototyping.png" style="height:180px;" alt="FU wave 2 prototyping">
+      <img src="Foto's/5 Definition/Wave 2/FU wave 2 prototyping.png" style="height:150px;" alt="FU wave 2 prototyping">
     </td>
     <td>
       De FU maakt gebruik van lichtsignalen en geluid om te communiceren. Ook beschikt de FU over een oplaadstation voor de wearable.
@@ -295,9 +295,9 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
   </tr>
   <tr>
     <td>
-      <img src="Foto's/5 Definition/Wave 2/Render wearable V2.png" alt="Render wearable V2" style="height:180px;">
-      <img src="Foto's/5 Definition/Wave 2/Wearable.jpeg" alt="Wearable" style="height:180px;">
-      <img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg" alt="Wearable prototype" style="height:180px;">
+      <img src="Foto's/5 Definition/Wave 2/Render wearable V2.png" alt="Render wearable V2" style="height:150px;">
+      <img src="Foto's/5 Definition/Wave 2/Wearable.jpeg" alt="Wearable" style="height:150px;">
+      <img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg" alt="Wearable prototype" style="height:150px;">
     </td>
     <td>
       De wearable is vervaardigd van EVA-foam, gevormd naar de mal van een bovenarm. Daarnaast is er een smartwatchsensor geïntegreerd voor nauwkeurige stressmetingen.
