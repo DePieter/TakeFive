@@ -264,9 +264,6 @@ Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daa
 | DR10  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
 | DR11  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
 
-De bekomen design requirements worden gebruikt om het ontwerp aan te passen en te verbeteren. In de volgende wave wordt dezelfde structuur zoals bij wave 1 opnieuw toegepast: ideation -> Storyboarding -> MoSCoW -> Prototyping -> User testing
-
-
 ### **Wave 2 (N=5)**
 ---
 De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bijna dezelfde structuur zoals wave 1 toegepast: Ideation -> Storyboarding -> Prototyping -> User testing
