@@ -269,9 +269,9 @@ Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daa
 De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bijna dezelfde structuur zoals wave 1 toegepast: Ideation -> Storyboarding -> Prototyping -> User testing
 
 #### Ideation
-Voor de ideation fase van wave 2 werden versies van de FU en de wearable ontworpen. Deze ontwerpen waren geschikt voor uitgebreide tests in realistische werkomgevingen.
+Tijdens de ideatiefase van wave 2 werd in een brainstormsessie besloten om nieuwe versies van de FU en de wearable te ontwerpen, met als doel deze geschikt te maken voor uitgebreide tests in een realistische werkomgeving. Nadat de twee beste concepten waren geschetst, werd onderzocht hoe deze gerealiseerd konden worden.
 De FU bevatte zowel de signaalfunctie als een oplaadstation.
-De wearable werd voorzien van EVA-foam, gevormd met behulp van een mal zodat het goed aansluit op het lichaam."
+De wearable werd voorzien van EVA-foam, gevormd met behulp van een mal zodat het goed aansluit op het lichaam.
 
 <p align="center">
   <img src="Foto's/5 Definition/Wave 2/Wave 2 ideation V2 .png" style="height:300px;">
