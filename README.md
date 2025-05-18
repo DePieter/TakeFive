@@ -305,13 +305,13 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
 
 
 #### User testing (n=3)
-Om deze testen te kunnen uitvoeren, is er besloten om een **'Plug and Play'**-protocol te gebruiken. De respondenten van WZC De Oever kregen hiervoor een handleiding (zie [Protocol wave 2](#bijlagen)) waarmee men zelfstandig aan de slag kon. In deze handleiding stond uitgelegd hoe het systeem precies werkt. Ook in deze handleiding, stond welke soort pauzes genomen moesten worden (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
+Om deze testen te kunnen uitvoeren, is er besloten om een **'Plug and Play'**-protocol te gebruiken. De respondenten van WZC De Oever kregen hiervoor een handleiding (zie [Protocol wave 2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%202%20Protocol%20De%20Oever.pdf) ) waarmee men zelfstandig aan de slag kon. In deze handleiding stond uitgelegd hoe het systeem precies werkt. Ook in deze handleiding, stond welke soort pauzes genomen moesten worden (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
 
 
 
 
 ### Conclusies & implicaties:
-Het doel van deze testfase was om de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Daarbij was het ook de bedoeling om de complicaties van het systeem in een reële omgeving vast te stellen. Uit de bevindingen in het testverslag (zie [Verslag wave 2](#bijlagen)) blijkt dat het concept inspeelt op een concrete behoefte binnen de doelgroep. 
+Het doel van deze testfase was om de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Daarbij was het ook de bedoeling om de complicaties van het systeem in een reële omgeving vast te stellen. Uit de bevindingen in het testverslag (zie [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)) blijkt dat het concept inspeelt op een concrete behoefte binnen de doelgroep. 
 
 Deze wave heeft aangetoond dat er twijfel bestaat over de betrouwbaarheid van zelfgenomen pauzes. Om deze reden moet er verder worden nagedacht over een oplossing die er voor zorgt dat er een soort van controlemechanisme is verwerkt in het systeem
 
