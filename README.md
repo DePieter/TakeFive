@@ -271,8 +271,6 @@ De bekomen design requirements worden gebruikt om het ontwerp aan te passen en t
 ---
 De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bijna dezelfde structuur zoals wave 1 toegepast: Ideation -> Storyboarding -> Prototyping -> User testing
 
-In deze tweede wave ligt de focus op het verder ontwikkelen van de prototypes uit wave 1 tot volwaardigere versies, geschikt voor uitgebreide testing in een realistische werkomgeving. Het systeem wordt herhaaldelijk ingezet tijdens volledige ochtenden, waarbij het zowel aangeeft wanneer een pauze nodig is als welk type pauze het best genomen wordt. Zo kan het gebruik en de werking van het systeem in een praktijksituatie grondig geëvalueerd worden.
-
 #### Ideation
 Voor de ideation fase van wave 2 werden versies van de FU en de wearable ontworpen. Deze ontwerpen waren geschikt voor uitgebreide tests in realistische werkomgevingen.
 De FU bevatte zowel de signaalfunctie als een oplaadstation.
