@@ -407,14 +407,43 @@ Uit deze roleplay zijn verschillende aandachtspunten tevoorschijn gekomen:
 Het doel van dit prototypingproces was om een algemeen concept te kunnen valideren om dit vervolgens in een volgend onderdeel te kunnen verfijenen. Het prototype voor stressfeedback, zal in de concepttest verkend geevaluereerd worden op begrijpelijkheid, impact en bruikbaarheid binnen de context van woonzorgcentra. De bedoeling was om na te gaan op welke manier er feedback op een betekenisvoll gecommuniceerd kan worden, zonder de werkomgeving of collega’s te storen.
 Omdat er op deze moment nog geen concept vast ligt en omdat het project een grote omvang heeft gezien de verschillende componenten, was het moeilijk om aan varity prototyping te doen. De gemaakte prototypes worden in onderstaande tabel weergegeven en de werking wordt ervan besproken.
 
-| *deftige foto’s wearable* | **Wearable:** Beknopte beschrijving |
-|----------------------------|------------------------------------|
-|  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200;">| **Feedback unit (hoofdfocus):**<br>Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen. |
-|  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="height: 200;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
-| <span style="color:red;">*deftige foto’s interface*</span>| **Interface:** Beknopte beschrijving, zorg dat het goed aansluit op de beschrijvingen hierboven. |
+
+
+<table border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <td>
+      <img src="Fotos/6%20Develop/D3.1/Prototype%20bloem.png" style="height: 200px;">
+    </td>
+    <td>
+      <strong>Feedback unit (hoofdfocus):</strong><br>
+      Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>
+      Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="Fotos/6%20Develop/D3.1/Prototype%20gieter.png" style="height: 200px;">
+    </td>
+    <td>
+      <strong>Verificator (gieter):</strong><br>
+      Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de <strong>verificator (gieter)</strong> worden geplaatst.<br><br>
+      De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>
+      Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen).
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="Fotos/6%20Develop/D3.1/Interface.png" style="height: 200px;">
+    </td>
+    <td>
+      De verificator bevat een <strong>interface</strong> die de gebruiker verschillende pauzes kan voorstellen. Tegelijk is dit een systeem dat de pauzes zal loggen om misbruik zoveel mogelijk tegen te gaan.
+    </td>
+  </tr>
+</table>
+
 
 #### User testing 
-De voorgaande methodes zoals roleplaying, brainstorming, prototyping,... hebben doorheen het proces geleid tot verschillende ontwerpvragen te zien in [Test protocol 3.1](Protocols/Develop/Test%20protocol%203.1.pdf). Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
+De voorgaande methodes zoals roleplaying, brainstorming, prototyping,... hebben doorheen het proces geleid tot verschillende ontwerpvragen te zien in [Protocol develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.1.pdf). Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
 De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:     
   
 **Conceptuele validatie (Definition-fase)**
