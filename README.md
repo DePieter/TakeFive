@@ -296,11 +296,7 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
   <tr>
     <td>
       <img src="Foto's/5 Definition/Wave 2/Render wearable V2.png" alt="Render wearable V2" style="height:200px;">
-    </td>
-    <td>
       <img src="Foto's/5 Definition/Wave 2/Wearable.jpeg" alt="Wearable" style="height:200px;">
-    </td>
-    <td>
       <img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg" alt="Wearable prototype" style="height:200px;">
     </td>
     <td>
