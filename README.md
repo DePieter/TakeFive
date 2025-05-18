@@ -284,26 +284,19 @@ De wearable werd voorzien van EVA-foam, gevormd met behulp van een mal zodat het
 </p>  
 
 #### Prototyping
-Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele prototypes uitgewerkt. De FU beschikt nu over een eigen oplaadstation, dat onder andere gebruikmaakt van lichtsignalen om te communiceren. Daarnaast is de wearable verbeterd: deze is vervaardigd uit EVA-foam en met behulp van een mal in vorm gebracht. In de wearable is bovendien een smartwatch-sensor geïntegreerd, zodat er echte data gemeten kon worden.
+Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele prototypes uitgewerkt. 
 
 <table>
   <tr>
-    <td><img src="Foto's/5 Definition/Wave 2/FeedbackunitWave2V1.jpeg" style="height:200px;">
-    <td>**"Wat te zien is op foto": ** Beschrijving </td>
+    <td><img src="Foto's/5 Definition/Wave 2/FU wave 2 prototyping.png" style="height:200px;">
+    <td> De FU maakt gebruik van lichtsignalen en geluid om te communiceren. Ook beschikt de FU van een oplaadstation voor de wearable. </td>
   </tr>
   <tr>
+    <td><img src="Foto's/5 Definition/Wave 2/Render wearable V2.png"  alt="Description" style="height:200px;">
+    <td><img src="Foto's/5 Definition/Wave 2/Wearable.jpeg"  alt="Description" style="height:200px;">
     <td><img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg"  alt="Description" style="height:200px;">
-    <td>**"Wat te zien is op foto": ** Beschrijving <b><u>          </td></td>
-  </tr>
-  <tr>
-    <td><img src="Foto's/5 Definition/Wave 2/Render wearable.jpeg"  alt="Description" style="height:200px;">
-    <td>**"Wat te zien is op foto": ** Beschrijving </td></td>
-  </tr>
-     <td><img src="Foto's/5 Definition/Wave 2/Wearable.jpeg"  alt="Description" style="height:200px;">
-    <td>**"Wat te zien is op foto": ** Beschrijving </td></td>
-  </tr>
-     <td><>
-    <td> idem voor FU "Wat te zien is op foto": Beschrijving </td></td>
+     
+    <td>  De wearable is vervaardigd van EVA-foam, gevormd naar de mal van een bovenarm. Daarnaast is er een smartwatchsensor geïntegreerd voor nauwkeurige stressmetingen. </td></td>
   </tr>
 </table>
 
