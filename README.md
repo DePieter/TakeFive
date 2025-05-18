@@ -286,24 +286,34 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
 
 <table>
   <tr>
-    <td><img src="Foto's/5 Definition/Wave 2/FU wave 2 prototyping.png" style="height:200px;">
-    <td> De FU maakt gebruik van lichtsignalen en geluid om te communiceren. Ook beschikt de FU van een oplaadstation voor de wearable. </td>
+    <td>
+      <img src="Foto's/5 Definition/Wave 2/FU wave 2 prototyping.png" style="height:200px;" alt="FU wave 2 prototyping">
+    </td>
+    <td>
+      De FU maakt gebruik van lichtsignalen en geluid om te communiceren. Ook beschikt de FU over een oplaadstation voor de wearable.
+    </td>
   </tr>
   <tr>
-    <td><img src="Foto's/5 Definition/Wave 2/Render wearable V2.png"  alt="Description" style="height:200px;">
-    <td><img src="Foto's/5 Definition/Wave 2/Wearable.jpeg"  alt="Description" style="height:200px;">
-    <td><img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg"  alt="Description" style="height:200px;">
-     
-    <td>  De wearable is vervaardigd van EVA-foam, gevormd naar de mal van een bovenarm. Daarnaast is er een smartwatchsensor geïntegreerd voor nauwkeurige stressmetingen. </td></td>
+    <td>
+      <img src="Foto's/5 Definition/Wave 2/Render wearable V2.png" alt="Render wearable V2" style="height:200px;">
+    </td>
+    <td>
+      <img src="Foto's/5 Definition/Wave 2/Wearable.jpeg" alt="Wearable" style="height:200px;">
+    </td>
+    <td>
+      <img src="Foto's/5 Definition/Wave 2/Wearable prototype.jpeg" alt="Wearable prototype" style="height:200px;">
+    </td>
+    <td>
+      De wearable is vervaardigd van EVA-foam, gevormd naar de mal van een bovenarm. Daarnaast is er een smartwatchsensor geïntegreerd voor nauwkeurige stressmetingen.
+    </td>
   </tr>
 </table>
 
 
+
 #### User testing (n=3)
 Om deze testen te kunnen uitvoeren, is er besloten om een **'Plug and Play'**-protocol te gebruiken. De respondenten van WZC De Oever kregen hiervoor een handleiding (zie [Protocol wave 2](#bijlagen)) waarmee men zelfstandig aan de slag kon. In deze handleiding stond uitgelegd hoe het systeem precies werkt. Ook in deze handleiding, stond welke soort pauzes genomen moesten worden (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
-<p align="left">
-  <img src="Foto's/5 Definition/Wave 2/VZW De Oever.jpg" style="height:400px;"></td>
-</p>
+
 
 
 
