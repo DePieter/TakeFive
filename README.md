@@ -598,12 +598,75 @@ Het systeem moet emoties oproepen die bijdragen aan een positieve, ondersteunend
 | DR41  | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                                                                         | Test 3.2 | 6/03/2025  |
 | DR42  | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                                                                                    | Test 3.2 | 6/03/2025  |
 
+
+
 ### Develop 4: [focus]  
+>_“In een grote instelling heb je afdelingen met tien tot twintig medewerkers. Daar moet je rekening mee houden in het design.” -Jan (Directeur WZC De Weister)_
+
 #### Doelstellingen (cfr. methodologie)
+Deze test bevindt zich in de develop-fase waar voornamelijk het ergonomische aspect wordt onderzocht. Hierbij ligt de primaire focus op de feedback unit en word er op cognitief vlak de duidelijkheid van de signalisatie onderzocht. 
+
+
 #### Materiaal en methoden
-Wanneer de categorie waarbinnen de meest succesvolle metaforen is gedefiniëerd, wordt d.m.v. een literatuurstudie verfijnd welke elementen binnen deze categorie daadwerklijk gebruikt moeten worden.
+Om inzicht te verkrijgen in welk abstractieniveau van dierlijke vormen de grootste duidelijkheid biedt, wordt gebruikgemaakt van card sorting. Hierbij rangschikken zorgverleners visuele kaarten met dieren op vier abstractieniveaus – van realistisch tot extreem abstract – op basis van herkenbaarheid en interpretatiegemak.
+
+Daarnaast wordt via een combinatie van think aloud, A/B-testing en kwantitatieve analyse onderzocht hoe bewegende metaforen met en zonder lichtsignaal worden waargenomen in de context van de verpleegpost. Zorgverleners observeren een prototype in twee scenario’s: (1) enkel beweging van het dier, en (2) beweging in combinatie met een geïntegreerd LED-signaal. Door hun spontane interpretaties te registreren, wordt het verschil in duidelijkheid tussen beide situaties meetbaar gemaakt. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf).
+
+#### Brainstorming
+Uit D3.2 blijkt dat de voorkeur van de FU ligt bij dieren. Hierna werd er een brainstormsessie gehouden om te beslissen hoe en wat er ging getest worden. Na het schetsen van alle ideeën werd alles besproken, hieruit zijn de design requirements vastgelegd (oranje markering).
+
+Naar aanleiding van de resultaten uit fase D3.2, waarin duidelijk werd dat de voorkeur van de feedbackunit uitgaat naar het gebruik van dieren als metafoor, werd een brainstormsessie georganiseerd om de volgende stappen in het testproces te bepalen. Tijdens deze sessie zijn diverse ideeën geschetst en gezamenlijk besproken. Op basis van deze evaluatie zijn de belangrijkste design requirements geformuleerd, die visueel aangeduid zijn met een oranje markering.
+
+#### Prototyping
+Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prototype zal gemaakt zal worden.
+
+<table>
+  <tr>
+    <td>
+      <img src="Foto's/6 Develop/D4/Dier 1 D4.png" style="height:200px;" alt="FU wave 2 prototyping">
+    </td>
+    <td>
+**De vlinder** is een dier dat rust symboliseert, tesamen met rustige bewegingen is het een symbool van rust.
+    </td>
+  </tr>
+
+
+  <tr>
+    <td>
+      <img src="Foto's/6 Develop/D4/Dier 2 olifant D4.png" style="height:200px;" alt="FU wave 2 prototyping">
+    </td>
+    <td>
+**De olifant** is een symbool van rust in zijn kalme, rustige bewegingen.
+    </td>
+  </tr>
+
+  
+  <tr>
+    <td>
+      <img src="Foto's/6 Develop/D4/Dier 3 hond D4.png" style="height:200px;" alt="FU wave 2 prototyping">
+    </td>
+    <td>
+**De hond** ("Man's best friend") werd gekozen als een goedgekend symbool van vertrouwen en rust.
+    </td>
+  </tr>
+</table>
+
+#### Abstractieniveau
+Om het abstractieniveau te bepalen, kregen zorgverleners foto's te zien van dieren in oplopende vormen van abstractie. Waarna hen gevraagd werd om deze beelden te rangschikken van meest naar minst herkenbaar.
+<p align="center">
+  <img src="Foto's/6 Develop/D4/Abstractieniveau hond.jpg" style="height:400px;">
+</p>
+
+
+#### User Testing (n=5)
+
+
+
 #### Resultaten
+
 #### Conclusies & implicaties (design requirements en beslissingen)/
+
+
 
 ### Develop 5: [focus]  
 #### Doelstellingen (cfr. methodologie)
