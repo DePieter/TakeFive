@@ -799,22 +799,22 @@ Hieronder staan de product design requirements voor de wearable.
 Hieronder staan de product design requirements voor de verificator.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|---------|------------|
-| DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wav&nbsp;1       | 11/12/2024 |
+| DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave&nbsp;1       | 11/12/2024 |
 | DR30  | De verificator moet zich dichtbij bevinden om de drempel tot pauzes te verlagen.                                                       | Test 3.1  | 24/02/2024 |
 
 
 
 ## Bill of materials
-Technische beschrijving
-Dit vervangt de bill of materials en omvat zowel de finale bill of materials (verwijs ook naar webpagina’s voor componenten en voeg eventueel ook de kostprijs toe), code en build instructions.
-Hiermee moet iemand die wel (wil?) verderwerken op je product genoeg hebben om dit na te bouwen.
-
-- EVA-foam
-- Velcrostrips
-- zachte elastische stof
-- PPG sensor: gelijkaardig aan polar verity sense, state of the art (Empatica embrace plus)
-- Arduino nano 33 IOT
-- Led strip +- 40cm
+Het laatste prototype van de FU is geprint uit [marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120). Een uitgebreide uitleg kan worden teruggevonden bij: [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
+### Gebruikte componenten FU:
+- [marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120)
+- [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996)
+- [330 ohm weerstand](https://www.bitsandparts.nl/Weerstand-330-Ohm-1-4W-5pct-p101277?gQT=1)
+- [Micro servomotor](https://www.bitsandparts.nl/Servo-motor-analoog-Micro-Servo-9g-SG90-180%C2%B0-p1907205?gQT=1)
+- [IR-sensor](https://www.amazon.com.be/-/nl/LAOMAO-IR-zender-ontvanger-infrarood-diode/dp/B00EFOTJZE/ref=asc_df_B00EFOTJZE?mcid=ccc62f0bed2f3b54b88e6d84a187dd9d&hvadid=714474122054&hvpos=&hvnetw=g&hvrand=13440445988076704702&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-391957536169&psc=1&language=nl_BE)
+- [9V batterij](https://www.amazon.com.be/-/nl/Duracell-Plus-Power-Alkaline-batterijen-stuks/dp/B00L6ZBJQC/ref=asc_df_B00L6ZBJQC?mcid=0bd8d411819c35bea0549e8427ceeeae&hvadid=714355656954&hvpos=&hvnetw=g&hvrand=1374928461625661830&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-423435131457&psc=1&language=nl_BE)
+- [Arduino UNO](https://www.bitsandparts.nl/product/FUNDUINO_ARDUINO_UNO_R3?gad_campaignid=22404178302)
+- [Breadboard](https://sinuss.be/products/psg-bb-170w-breadboard-170-pin-white-pro-signal?currency=EUR)
 
 ## Kritische reflectie
 Kritische reflectie
