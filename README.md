@@ -608,14 +608,12 @@ Deze test bevindt zich in de develop-fase waar voornamelijk het ergonomische asp
 
 
 #### Materiaal en methoden
-Om inzicht te verkrijgen in welk abstractieniveau van dierlijke vormen de grootste duidelijkheid biedt, wordt gebruikgemaakt van card sorting. Hierbij rangschikken zorgverleners visuele kaarten met dieren op vier abstractieniveaus – van realistisch tot extreem abstract – op basis van herkenbaarheid en interpretatiegemak.
+Om inzicht te verkrijgen in welk abstractieniveau van dierlijke vormen de grootste duidelijkheid biedt, wordt gebruikgemaakt van card sorting. Hierbij rangschikken zorgverleners visuele kaarten met dieren op negen abstractieniveaus – van realistisch tot extreem abstract en op basis van herkenbaarheid en interpretatiegemak.
 
-Daarnaast wordt via een combinatie van think aloud, A/B-testing en kwantitatieve analyse onderzocht hoe bewegende metaforen met en zonder lichtsignaal worden waargenomen in de context van de verpleegpost. Zorgverleners observeren een prototype in twee scenario’s: (1) enkel beweging van het dier, en (2) beweging in combinatie met een geïntegreerd LED-signaal. Door hun spontane interpretaties te registreren, wordt het verschil in duidelijkheid tussen beide situaties meetbaar gemaakt. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf).
+Daarnaast wordt via een combinatie van think aloud, A/B-testing en kwantitatieve analyse onderzocht hoe bewegende metaforen en het gebruik van lichtsignaal (zie [wave 2DR14](#wave2n5)) worden waargenomen in de context van de verpleegpost. Zorgverleners observeren een prototype in twee scenario’s: (1) enkel beweging van het dier, en (2) beweging in combinatie met een geïntegreerd LED-signaal. Door hun spontane interpretaties te registreren, wordt het verschil in duidelijkheid tussen beide situaties meetbaar gemaakt. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf).
 
 #### Brainstorming
-Uit D3.2 blijkt dat de voorkeur van de FU ligt bij dieren. Hierna werd er een brainstormsessie gehouden om te beslissen hoe en wat er ging getest worden. Na het schetsen van alle ideeën werd alles besproken, hieruit zijn de design requirements vastgelegd (oranje markering).
-
-Naar aanleiding van de resultaten uit fase D3.2, waarin duidelijk werd dat de voorkeur van de feedbackunit uitgaat naar het gebruik van dieren als metafoor, werd een brainstormsessie georganiseerd om de volgende stappen in het testproces te bepalen. Tijdens deze sessie zijn diverse ideeën geschetst en gezamenlijk besproken. Op basis van deze evaluatie zijn de belangrijkste design requirements geformuleerd, die visueel aangeduid zijn met een oranje markering.
+Uit D3.2 blijkt dat de voorkeur van de FU ligt bij dieren. Hierna werd er een brainstormsessie gehouden om te beslissen hoe en wat er ging getest worden. Na het schetsen van alle ideeën werd alles besproken, hieruit zijn de design requirements vastgelegd (zie oranje markeringen op de foto).
 
 <p align="center">
   <img src="Foto's/6 Develop/D4/Brainstormsessie D4.png" style="height:300px;">
@@ -623,7 +621,14 @@ Naar aanleiding van de resultaten uit fase D3.2, waarin duidelijk werd dat de vo
 
 
 #### Prototyping
-Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prototype zal gemaakt zal worden. De dieren zullen dan op de FU geplaatst worden die met behulp van een ledring gecontroleerd kan oplichten.
+Voor de FU werd er een basisversie gemaakt die gebruikt kan worden voor alle 3 de dieren. Hierbij is er ruimte voorzien voor alle elektronica die nodig zou zijn om het dier te laten bewegen. De ledring zal op het plateau bevestigd worden waar de dieren op kunnen staan. De FU is ook zo ontworpen zodat er meerdere naast elkaar kunnen staan.
+
+<p align="center">
+  <img src="Foto's/6 Develop/D4/FU voor D4.png" style="height:300px;">
+</p>
+
+
+Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prototype zal gemaakt zal worden. De dieren zullen op het plateau van de FU gezet worden zodat ze goed zichtbaar zijn. Hierbij zijn de 3D-modellen van de dieren genomen van [Printables](https://www.printables.com/model?ordering=views&period=month) 
 
 <table>
   <tr>
@@ -680,6 +685,7 @@ Aan de andere kant mocht het er niet te kinderachtig uitzien.
 
 Kleurgebruik is toegestaan, mits het met zorg en in beperkte mate wordt toegepast.
 >_“Kleuren geven snel duidelijkheid, maar een teveel eraan komt over als kinderachtig.” -Evy (zorgkundige: wonen en leven)_  
+De kwantitatieve test waarbij deelnemers zo snel mogelijk moesten aangeven welke verandering ze aan de FU zagen, leverde weinig op, omdat ze hun waarnemingen niet direct uitspraken. Hierdoor is het kwantitatieve onderzoek niet validatief genoeg.
 
 
 #### Conclusies & implicaties
