@@ -616,7 +616,11 @@ Daarnaast wordt via een combinatie van think aloud, A/B-testing en kwantitatieve
 Uit D3.2 blijkt dat de voorkeur van de FU ligt bij dieren. Hierna werd er een brainstormsessie gehouden om te beslissen hoe en wat er ging getest worden. Na het schetsen van alle ideeën werd alles besproken, hieruit zijn de design requirements vastgelegd (oranje markering).
 
 Naar aanleiding van de resultaten uit fase D3.2, waarin duidelijk werd dat de voorkeur van de feedbackunit uitgaat naar het gebruik van dieren als metafoor, werd een brainstormsessie georganiseerd om de volgende stappen in het testproces te bepalen. Tijdens deze sessie zijn diverse ideeën geschetst en gezamenlijk besproken. Op basis van deze evaluatie zijn de belangrijkste design requirements geformuleerd, die visueel aangeduid zijn met een oranje markering.
-img src="Foto's/6 Develop/D4/Brainstormsessie D4.png" style="height:200px;" alt="FU wave 2 prototyping"
+
+<p align="center">
+  <img src="Foto's/6 Develop/D4/Brainstormsessie D4.png" style="height:300px;">
+</p>
+
 
 #### Prototyping
 Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prototype zal gemaakt zal worden. De dieren zullen dan op de FU geplaatst worden die met behulp van een ledring gecontroleerd kan oplichten.
