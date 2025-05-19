@@ -807,7 +807,7 @@ Hieronder staan de product design requirements voor de verificator.
 ## Bill of materials
 Het laatste prototype van de FU is geprint uit [marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120). Een uitgebreide uitleg kan worden teruggevonden bij: [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
 ### Gebruikte componenten FU:
-- [marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120)
+- [Marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120)
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996)
 - [330 ohm weerstand](https://www.bitsandparts.nl/Weerstand-330-Ohm-1-4W-5pct-p101277?gQT=1)
 - [Micro servomotor](https://www.bitsandparts.nl/Servo-motor-analoog-Micro-Servo-9g-SG90-180%C2%B0-p1907205?gQT=1)
