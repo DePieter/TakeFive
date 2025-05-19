@@ -584,19 +584,19 @@ Het systeem moet emoties oproepen die bijdragen aan een positieve, ondersteunend
 
 | ID    | Design Requirements                                                                                                                                                           | Source       | Date       |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
-| DR1   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test&nbsp;3.2 | 6/03/2025  |
-| DR2   | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen.     | Test 3.2 | 6/03/2025  |
-| DR3   | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                                                                        | Test 3.2 | 6/03/2025  |
-| DR4   | De feedbackunit moet gebruik maken van rustgevende signalen.                                                                                                                  | Test 3.2 | 6/03/2025  |
-| DR5   | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                                                                                  | Test 3.2 | 6/03/2025  |
-| DR6   | Iedereens manier van signaalgeven moet gekozen kunnen worden.                                                                                                                 | Test 3.2 | 6/03/2025  |
-| DR7   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
-| DR8   | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.                                                                                                             | Test 3.2 | 6/03/2025  |
-| DR9   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
-| DR10  | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.                                                                                             | Test 3.2 | 6/03/2025  |
-| DR11  | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                                                                          | Test 3.2 | 6/03/2025  |
-| DR12  | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                                                                         | Test 3.2 | 6/03/2025  |
-| DR13  | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                                                                                    | Test 3.2 | 6/03/2025  |
+| DR30   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test&nbsp;3.2 | 6/03/2025  |
+| DR31   | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen.     | Test 3.2 | 6/03/2025  |
+| DR32   | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                                                                        | Test 3.2 | 6/03/2025  |
+| DR33   | De feedbackunit moet gebruik maken van rustgevende signalen.                                                                                                                  | Test 3.2 | 6/03/2025  |
+| DR34   | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                                                                                  | Test 3.2 | 6/03/2025  |
+| DR35   | Iedereens manier van signaalgeven moet gekozen kunnen worden.                                                                                                                 | Test 3.2 | 6/03/2025  |
+| DR36   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
+| DR37   | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.                                                                                                             | Test 3.2 | 6/03/2025  |
+| DR38   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
+| DR39  | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.                                                                                             | Test 3.2 | 6/03/2025  |
+| DR40  | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                                                                          | Test 3.2 | 6/03/2025  |
+| DR41  | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                                                                         | Test 3.2 | 6/03/2025  |
+| DR42  | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                                                                                    | Test 3.2 | 6/03/2025  |
 
 ### Develop 4: [focus]  
 #### Doelstellingen (cfr. methodologie)
@@ -610,6 +610,13 @@ Wanneer de categorie waarbinnen de meest succesvolle metaforen is gedefiniëerd,
 #### Materiaal en methoden
 #### Resultaten
 #### Conclusies & implicaties (design requirements en beslissingen)/
+
+| ID    | Design Requirement                                                                                                                                | Source | Date       |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|
+| DR43  | De feedbackunit moet abstracte, niet-kinderachtige dierfiguren gebruiken om een professionele uitstraling te behouden.                            | Test&nbsp;4 | 03/04/2025 |
+| DR44  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
+| DR45  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
+| DR46  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
 
 
 
