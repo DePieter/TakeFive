@@ -408,7 +408,7 @@ Het doel van dit prototypingproces was om een algemeen concept te kunnen valider
 Omdat er op deze moment nog geen concept vast ligt en omdat het project een grote omvang heeft gezien de verschillende componenten, was het moeilijk om aan varity prototyping te doen. De gemaakte prototypes worden in onderstaande tabel weergegeven en de werking wordt ervan besproken.
 
 
-| Schets      | Beschrijving                                                                                                                                 |
+| Prototype      | Beschrijving                                                                                                                                 |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 |  <img src="Foto's/6 Develop/D3.1/Prototype bloem.png" style="height: 200;">| **Feedback unit (hoofdfocus):**<br>Elke gebruiker heeft een eigen bloem op zijn/haar zorgkar staan. De bloem gaat slapper hangen naarmate het stressniveau toeneemt.<br><br>Zodra de bloem volledig slap hangt, zal de kleur van de bloempot rood kleuren. Op dat moment is het tijd om de bloem water te geven → pauze nemen. |
 |  <img src="Foto's/6 Develop/D3.1/Prototype gieter.png" style="height: 200;">| **Verificator (gieter):**<br>Wanneer de bloem aangeeft dat het tijd is voor een pauze (door slap te hangen en een rode pot te tonen), moet deze bij de **verificator (gieter)** worden geplaatst.<br><br>De verificator herkent de eigenaar van de bloem en stelt verschillende pauzes voor. De gebruiker kiest een pauze, waarna de verificator de starttijd registreert. Kort voor het einde van de pauze trilt de wearable om aan te geven dat het tijd is om het werk te hervatten.<br><br>Hierbij moet de gebruiker de pauze met een knop op de verificator stoppen. Indien de pauze goed is uitgevoerd, heeft men water verdiend om de bloem weer gezond te maken (bloem rechtop en pot kleurt groen). |
@@ -433,7 +433,7 @@ De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:
 - Worden de meldingen en suggesties van het systeem als helpend of storend ervaren tijdens het werk?
 - Hoe goed past het systeem binnen de bestaande workflow van zorgmedewerkers zonder extra stress of werkdruk te veroorzaken?
 
-De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zaken zijn terug te vinden in concepttestrapport 3.1.
+De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zaken zijn terug te vinden in [Rapport develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Test%20rapport%203.1.pdf).
 
 
 #### MoSCoW
@@ -478,33 +478,6 @@ In deze MoSCoW-tabel heeft elk teamlid zoveel mogelijk relevante vragen geformul
 | 33 | Wordt pauze als extra gezien? | Hoe wordt deze geïmplementeerd? | M | Hoofdverpleegkundige kan pauzekrediet bepalen. |
 
 
-Dit proces resulteerde in concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests. 
-Gezien de omvang van de MoSCoW-tabel, worden de belangrijkste inzichten samengevat in onderstaande sectie. 
-
-**Designrequirements voor de feedback unit (bloem):**
-- Moet eenduidig visueel en fysiek signaleren wanneer een pauze mag worden genomen. 
-- Kan in slaapstand gaan bij uitdoen van de wearable. 
-- Moet een betrouwbare werking hebben (stevige scharnier i.c.m. lichtkleurindicatie). 
-- Kan antropomorfische elementen bevatten (bv. slap hangen bij stress). 
-- Optioneel een dockingstation voor opladen (met micro-interacties zoals pulserend licht). 
-
-**Designrequirements voor het algehele systeem:**
-- Pauzebeheer: Hoofdverpleegkundige/afdelingshoofd moet de pauzeduur kunnen regelen. 
-- Interactie: De verificator (gieter) moet strategisch geplaatst worden in de pauzeruimte en/of vlakbij de uitgang indien buitenactiviteiten gewenst zijn. 
-- Notificaties: Wearable moet een trilsignaal geven als de pauze voorbij is. Signalisaties zullen pas stoppen zodra er op de stopknop is gedrukt op de verificator. 
-- Data & Privacy: Webapplicatie kan inzicht geven in stressniveaus, maar privacy moet gewaarborgd blijven. 
-- Oplaadmogelijkheden: Moet voorzien worden van een laadstation. 
-- Gebruiksvriendelijkheid: Systeem moet intuïtief zijn.
-
-**Te testen:** 
-- Kan er valsgespeeld worden met de pauze-verificatie? 
-- Wat is de meest efficiënte manier om interactie met de verificator te starten? (Badge, wearable, bloem) 
-- Hoe lang duurt de interactie met de verificator en zijn er wachttijdproblemen? 
-- Wordt het als sociaal onaanvaardbaar gezien om zonder de bloem te werken? 
-- Is het nodig om de feedbackunit fysiek mee te nemen naar de verificator, of is een alternatieve verificatiemethode beter? 
-- Gebruikerservaring testen: intuïtief gebruik vs. uitleg krijgen. 
-
-
 #### Conclusies & implicaties
 Het doel van deze fase was tweeledig; eenderzijds was het de bedoeling om een algemeen concept te kunnen valideren en anderzijds was het de bedoeling om al enkele eerste stappen te zetten richting de optimalisatie omtrend de ergonomie. 
 Concreet zijn de belangrijkste hoofdzaken die voortvloeien uit deze wave als volgt:
@@ -517,7 +490,7 @@ Concreet zijn de belangrijkste hoofdzaken die voortvloeien uit deze wave als vol
 - Om de focus op alle 3 de componenten (wearable, feedbackunit, verificator) te leggen, gaat het een grote uitdaging worden om alles binnen de deadline van dit project te leggen. Daarom wordt vanaf nu de hoofdfocus gelegd op enkel de feedbackunit.
 
 Als conclusie zijn er verschillende designrequirements opgesteld die in acht genomen moeten worden voor het verder opbouwen van Take Five, deze zijn hieronder te zien:
-
+Dit proces resulteerde in concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests. 
 
 | ID    | Design Requirements                                                                                                                    | Source    | Date       |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
@@ -531,6 +504,13 @@ Als conclusie zijn er verschillende designrequirements opgesteld die in acht gen
 | DR28  | Het systeem moet een positieve stimulans bieden, zoals kleine gelukjes, om acceptatie te verhogen.                                     | Test 3.1  | 24/02/2024 |
 | DR29  | Het systeem moet rekening houden met piekmomenten (ochtend- en avondzorgen) bij pauzevoorstellen.                                      | Test 3.1  | 24/02/2024 |
 
+**Te testen:** 
+- Kan er valsgespeeld worden met de pauze-verificatie? 
+- Wat is de meest efficiënte manier om interactie met de verificator te starten? (Badge, wearable, bloem) 
+- Hoe lang duurt de interactie met de verificator en zijn er wachttijdproblemen? 
+- Wordt het als sociaal onaanvaardbaar gezien om zonder de bloem te werken? 
+- Is het nodig om de feedbackunit fysiek mee te nemen naar de verificator, of is een alternatieve verificatiemethode beter? 
+- Gebruikerservaring testen: intuïtief gebruik vs. uitleg krijgen. 
 
 
 ### Develop 3.2 [Affectief ontwerp]:  
