@@ -618,7 +618,7 @@ Uit D3.2 blijkt dat de voorkeur van de FU ligt bij dieren. Hierna werd er een br
 Naar aanleiding van de resultaten uit fase D3.2, waarin duidelijk werd dat de voorkeur van de feedbackunit uitgaat naar het gebruik van dieren als metafoor, werd een brainstormsessie georganiseerd om de volgende stappen in het testproces te bepalen. Tijdens deze sessie zijn diverse ideeën geschetst en gezamenlijk besproken. Op basis van deze evaluatie zijn de belangrijkste design requirements geformuleerd, die visueel aangeduid zijn met een oranje markering.
 
 #### Prototyping
-Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prototype zal gemaakt zal worden.
+Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prototype zal gemaakt zal worden. De dieren zullen dan op de FU geplaatst worden die met behulp van een ledring gecontroleerd kan oplichten.
 
 <table>
   <tr>
@@ -659,12 +659,32 @@ Om het abstractieniveau te bepalen, kregen zorgverleners foto's te zien van dier
 
 
 #### User Testing (n=5)
+De test startte met een korte introductie, gevolgd door het activeren van de feedbackunit in signalisatiemodus. Na het invullen van een informed consent-formulier en het starten van een spraakopname, werd het doel van de test uitgelegd aan de hand van een herkenbaar voorbeeld zoals de ([Rorschachtest](https://nl.wikipedia.org/wiki/Rorschachtest)). Deze metafoor illustreerde het belang van interpretatie: waar in bij de Rorschachtest verwarring ontstaat door té abstracte beelden, onderzoekt deze test net hoe ver een signaal geabstraheerd kan worden vóór het onherkenbaar wordt.
+
+In de testsessie kregen de respondenten fotoreeksen te zien van dieren op negen verschillende [abstractieniveaus](#abstractieniveau) die liggen tussen: realistisch, gestileerd, geometrisch en extreem abstract. De opdracht bestond erin deze beelden te rangschikken van meest naar minst herkenbaar. De resulterende ordeningen werden per deelnemer vastgelegd via fotografie, met als doel een visuele en kwalitatieve analyse van voorkeuren en interpretatievermogen.
+
+Daarna werd het prototype geïntroduceerd: een dierlijke metafoor met geïntegreerde lichtindicatie. In twee opeenvolgende scenario’s werd aan zorgverleners gevraagd wat zij waarnamen – eerst bij enkel beweging, vervolgens bij beweging in combinatie met licht. Door de reacties per situatie te vergelijken, werd het verschil in duidelijkheid tussen beide condities kwantitatief vastgelegd.
 
 
+Ten slotte was er nog een korte vragenreeks die terug te vinden is bij [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf)
 
 #### Resultaten
+Uit de gesprekken met zorgprofessionals kwamen diverse waardevolle inzichten naar voren over de herkenbaarheid, interpretatie en vormgeving van dierlijke metaforen. Zo toonde de [raw data](Raw%20Data/Develop/Develop%204) duidelijk dat er een voorkeur bestaat voor abstractere beelden met een duidelijk contrast.
+Aan de andere kant mocht het er niet te kinderachtig uitzien.
+>_“Het mag er niet kinderachtig uitzien.” -Jan (Directeur WZC De Weister)_  
+Kleurgebruik is toegestaan, mits het met zorg en in beperkte mate wordt toegepast.
+>_“Kleuren geven snel duidelijkheid, maar een teveel eraan komt over als kinderachtig.” -Evy (zorgkundige: wonen en leven)_  
 
-#### Conclusies & implicaties (design requirements en beslissingen)/
+
+#### Conclusies & implicaties
+De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor abstracte dierfiguren en rustig kleurgebruik. Groen en warm wit zorgen voor rust, terwijl felle kleuren vaak als kinderachtig worden ervaren. Zonder uitleg is de functie niet altijd meteen duidelijk, wat de gewenste discretie weerspiegelt. Bewegingen en lichtsignalen gecombineerd bieden de beste herkenbaarheid. Voor verdere tests ligt de focus op het vergroten van persoonlijke herkenbaarheid, het oproepen van rust en veiligheid, en het behouden van subtiele maar duidelijke feedback in een drukke werkomgeving.
+
+| ID    | Design Requirement                                                                                                                                | Source | Date       |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|
+| DR43  | De feedbackunit moet abstracte, niet-kinderachtige dierfiguren gebruiken om een professionele uitstraling te behouden.                            | Test&nbsp;4 | 03/04/2025 |
+| DR44  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
+| DR45  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
+| DR46  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
 
 
 
