@@ -728,44 +728,91 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 ## Slotbevindingen  
 ## Product design requirements
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
+
+### Algemeen
+
+| ID   | Design Requirement                                                                 |  Source  | Date       |
+|------|-----------------------------------------------------------------------------------|--------|------------|
+| DR01 | Het ontwerp moet flexibel inspelen op wisselende personeelsbezetting gedurende de dag, zodat het inzetbaar blijft bij schommelingen in beschikbaarheid.   | Discovery |  /  |
+| DR02 | Het systeem of de ruimte moet extra ondersteuning bieden tijdens piekmomenten, met name tijdens ochtend- en avondzorg, waarin de werkdruk het hoogst is.  | Discovery |  /  |
+| DR03 | Het ontwerp moet flexibele pauzemomenten faciliteren, afgestemd op het actuele zorgritme, in plaats van vaste tijdsintervallen.                           | Discovery |  /  |
+| DR05 | Het product moet inspelen op uiteenlopende gebruikerservaringen en zowel stressverlichting (pain relief) als positieve meerwaarde (value promise) bieden. | Discovery |  /  |
+| DR08  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
+| DR10  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
+| DR13  | Het systeem moet de mogelijkheid bieden om functies te personaliseren, zoals het in- of uitschakelen van meldingen en het aanpassen van de intensiteit. | Wave 1       | 11/12/2024 |
+| DR14  | Prototypen moeten worden getest op gebruiksgemak en effectiviteit in een hectische zorgomgeving, met prioriteit voor eenvoudige bediening en snelle toegang tot kernfuncties. | Wave 1       | 11/12/2024 |
+| DR15  | Er moeten verschillende methoden worden getest om gebruikers effectief te stimuleren pauzes te nemen, ook onder hoge werkdruk. | Wave 1       | 11/12/2024 |
+| DR16  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
+| DR17  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
+| DR18  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave&nbsp;2       | 23/12/2024 |
+| DR20  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
+| DR21  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
+| DR23  | Het systeem moet modulair zijn, met instelbare meldingen en functies. | Wave 2       | 23/12/2024 |
+| DR24  | Samenwerking met zorginstellingen is vereist voor brede adoptie en implementatie in beleidskaders. | Wave 2       | 23/12/2024 |
+| DR25  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te verminderen. | Wave 2       | 23/12/2024 |
+| DR27  | Gebruikers moeten zelf kunnen kiezen wanneer ze hun pauze nemen.                                                                       | Test 3.1  | 24/02/2024 |
+| DR31  | Het systeem mag geen extra werkdruk of cognitieve belasting veroorzaken.                                                                | Test 3.1  | 24/02/2024 |
+| DR32  | Een snooze-functie moet mogelijk zijn om pauzes uit te stellen.                                                                         | Test 3.1  | 24/02/2024 |
+| DR34  | Het systeem moet rekening houden met piekmomenten (ochtend- en avondzorgen) bij pauzevoorstellen.                                      | Test 3.1  | 24/02/2024 |
+| DR40   | Iedereens manier van signaalgeven moet gekozen kunnen worden.                                                                                                                 | Test 3.2 | 6/03/2025  |
+| DR42   | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.                                                                                                             | Test 3.2 | 6/03/2025  |
+| DR45  | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                                                                          | Test 3.2 | 6/03/2025  |
+
+
+
+![image](https://github.com/user-attachments/assets/55136627-ae85-46fd-ac19-00e7ef7453ab)
+
+
+
 ### Feedbackunit
 
-| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
-|------|-----------------------------------------------------------------------------------|--------|---------|------------|
-| FUDR1  | X | X | X | X |
-| FUDR2  | X | X | X | X |
-| FUDR3  | X | X | X | X |
-| FUDR4  | X | X | X | X |
-| FUDR5  | X | X | X | X |
-| FUDR6  | X | X | X | X |
-| FUDR7  | X | X | X | X |
-| FUDR8  | X | X | X | X |
+| ID   | Design Requirement                                                                 |  Source  | Date       |
+|------|-----------------------------------------------------------------------------------|--------|------------|
+| DR04 | Het ontwerp moet bijdragen aan een rustgevende en stressverlagende omgeving door middel van passieve elementen zoals licht, kleur en geluid.              | Discovery |   /  |
+| DR07  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave&nbsp;1       | 11/12/2024 |
+| DR09  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
+| DR19  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
+| DR26  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test&nbsp;3.1  | 24/02/2024 |
+| DR28  | De feedback unit moet individueel herkenbaar zijn en niet gelinkt aan een gedeelde zorgkar.                                            | Test 3.1  | 24/02/2024 |
+| DR33  | Het systeem moet een positieve stimulans bieden, zoals kleine gelukjes, om acceptatie te verhogen.                                     | Test 3.1  | 24/02/2024 |
+| DR35   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test&nbsp;3.2 | 6/03/2025  |
+| DR36   | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen.     | Test 3.2 | 6/03/2025  |
+| DR37   | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                                                                        | Test 3.2 | 6/03/2025  |
+| DR38   | De feedbackunit moet gebruik maken van rustgevende signalen.                                                                                                                  | Test 3.2 | 6/03/2025  |
+| DR39   | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                                                                                  | Test 3.2 | 6/03/2025  |
+| DR44  | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.                                                                                             | Test 3.2 | 6/03/2025  |
+| DR46  | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                                                                         | Test 3.2 | 6/03/2025  |
+| DR47  | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                                                                                    | Test 3.2 | 6/03/2025  |
+| DR48  | De feedbackunit moet abstracte, niet-kinderachtige dierfiguren gebruiken om een professionele uitstraling te behouden.                            | Test&nbsp;4 | 03/04/2025 |
+| DR49  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
+| DR50  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
+| DR51  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
+![image](https://github.com/user-attachments/assets/c07bd8da-51fe-4948-8e2e-553cc37e22b9)
+
 
 ### Wearable
 
-| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
-|------|-----------------------------------------------------------------------------------|--------|---------|------------|
-| WDR1  | X | X | X | X |
-| WDR2  | X | X | X | X |
-| WDR3  | X | X | X | X |
-| WDR4  | X | X | X | X |
-| WDR5  | X | X | X | X |
-| WDR6  | X | X | X | X |
-| WDR7  | X | X | X | X |
-| WDR8  | X | X | X | X |
+| ID   | Design Requirement                                                                 |   Source  | Date       |
+|------|-----------------------------------------------------------------------------------|---------|------------|
+| DR06 | Hartslagvariabiliteit (HRV) moet worden gebruikt als de primaire biomarker voor het meten van stressniveaus en herstelmomenten.                           | Discovery |  /  |
+| DR12  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave 1       | 11/12/2024 |
+| DR22  | Het ontwerp moet lichtgewicht en comfortabel om te dragen zijn. | Wave 2       | 23/12/2024 |
+| DR29  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
+| DR41   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
+| DR43   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
+![image](https://github.com/user-attachments/assets/ac037f3e-0391-4ec7-b9f5-baced52740e4)
+
 
 ### Verificator
 
-| ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
-|------|-----------------------------------------------------------------------------------|--------|---------|------------|
-| VDR1  | X | X | X | X |
-| VDR2  | X | X | X | X |
-| VDR3  | X | X | X | X |
-| VDR4  | X | X | X | X |
-| VDR5  | X | X | X | X |
-| VDR6  | X | X | X | X |
-| VDR7  | X | X | X | X |
-| VDR8  | X | X | X | X |
+| ID   | Design Requirement                                                                 |  Source  | Date       |
+|------|-----------------------------------------------------------------------------------|---------|------------|
+| DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave 1       | 11/12/2024 |
+| DR30  | De verificator moet zich dichtbij bevinden om de drempel tot pauzes te verlagen.                                                       | Test 3.1  | 24/02/2024 |
+![image](https://github.com/user-attachments/assets/e57b70b4-2396-439b-b235-a96ed77b5550)
+
+![image](https://github.com/user-attachments/assets/cbf9bfad-d7cc-4886-84b0-f887bc0f30e9)
+
 
 
 
