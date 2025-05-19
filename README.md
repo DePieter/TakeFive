@@ -730,7 +730,7 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
 
 ### Algemeen
-
+Hieronder staan de product design requirements voor de algemene werking van het product.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|--------|------------|
 | DR01 | Het ontwerp moet flexibel inspelen op wisselende personeelsbezetting gedurende de dag, zodat het inzetbaar blijft bij schommelingen in beschikbaarheid.   | Discovery |  /  |
@@ -759,13 +759,8 @@ Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTL
 | DR45  | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                                                                          | Test 3.2 | 6/03/2025  |
 
 
-
-![image](https://github.com/user-attachments/assets/55136627-ae85-46fd-ac19-00e7ef7453ab)
-
-
-
 ### Feedbackunit
-
+Hieronder staan de product design requirements voor de feedbackunit.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|--------|------------|
 | DR04 | Het ontwerp moet bijdragen aan een rustgevende en stressverlagende omgeving door middel van passieve elementen zoals licht, kleur en geluid.              | Discovery |   /  |
@@ -787,11 +782,9 @@ Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTL
 | DR49  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
 | DR50  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
 | DR51  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
-![image](https://github.com/user-attachments/assets/c07bd8da-51fe-4948-8e2e-553cc37e22b9)
-
 
 ### Wearable
-
+Hieronder staan de product design requirements voor de wearable.
 | ID   | Design Requirement                                                                 |   Source  | Date       |
 |------|-----------------------------------------------------------------------------------|---------|------------|
 | DR06 | Hartslagvariabiliteit (HRV) moet worden gebruikt als de primaire biomarker voor het meten van stressniveaus en herstelmomenten.                           | Discovery |  /  |
@@ -800,19 +793,14 @@ Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTL
 | DR29  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
 | DR41   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
 | DR43   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
-![image](https://github.com/user-attachments/assets/ac037f3e-0391-4ec7-b9f5-baced52740e4)
 
 
 ### Verificator
-
+Hieronder staan de product design requirements voor de verificator.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|---------|------------|
 | DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave 1       | 11/12/2024 |
 | DR30  | De verificator moet zich dichtbij bevinden om de drempel tot pauzes te verlagen.                                                       | Test 3.1  | 24/02/2024 |
-![image](https://github.com/user-attachments/assets/e57b70b4-2396-439b-b235-a96ed77b5550)
-
-![image](https://github.com/user-attachments/assets/cbf9bfad-d7cc-4886-84b0-f887bc0f30e9)
-
 
 
 
