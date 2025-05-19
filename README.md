@@ -547,7 +547,7 @@ Het prototype (zie onderstaande foto) bevat drie verschillende actuatoren, die e
 -	Cilinder 		->  abstracte vorm
 -	Op- en neergaande foto	->  beeldje in de vorm van een metafoor
 -	Bewegend papier		->  Golvende beweging
--	Gsmscherm		->  [Licht](https://github.com/DePieter/TakeFive/blob/main/src/golvende%20beweging.mp4)
+-	Gsm-scherm		->  [Bewegend licht](https://github.com/DePieter/TakeFive/blob/main/src/golvende%20beweging.mp4)
   <img src="Foto's/6 Develop/D3.2/Prototype.png" style="height:200px;">
 
 #### Emotional mapping
@@ -626,7 +626,7 @@ Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prot
       <img src="Foto's/6 Develop/D4/Dier 1 D4.png" style="height:200px;" alt="FU wave 2 prototyping">
     </td>
     <td>
-**De vlinder** is een dier dat rust symboliseert, tesamen met rustige bewegingen is het een symbool van rust.
+<strong>De vlinder</strong> is een dier dat rust symboliseert, tesamen met rustige bewegingen is het een symbool van rust.
     </td>
   </tr>
 
@@ -636,7 +636,7 @@ Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prot
       <img src="Foto's/6 Develop/D4/Dier 2 olifant D4.png" style="height:200px;" alt="FU wave 2 prototyping">
     </td>
     <td>
-**De olifant** is een symbool van rust in zijn kalme, rustige bewegingen.
+<strong>De olifant</strong> is een symbool van rust in zijn kalme, rustige bewegingen.
     </td>
   </tr>
 
@@ -646,7 +646,7 @@ Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prot
       <img src="Foto's/6 Develop/D4/Dier 3 hond D4.png" style="height:200px;" alt="FU wave 2 prototyping">
     </td>
     <td>
-**De hond** ("Man's best friend") werd gekozen als een goedgekend symbool van vertrouwen en rust.
+<strong>De hond</strong> ("Man's best friend") werd gekozen als een goedgekend symbool van vertrouwen en rust.
     </td>
   </tr>
 </table>
@@ -671,7 +671,8 @@ Ten slotte was er nog een korte vragenreeks die terug te vinden is bij [Protocol
 #### Resultaten
 Uit de gesprekken met zorgprofessionals kwamen diverse waardevolle inzichten naar voren over de herkenbaarheid, interpretatie en vormgeving van dierlijke metaforen. Zo toonde de [raw data](Raw%20Data/Develop/Develop%204) duidelijk dat er een voorkeur bestaat voor abstractere beelden met een duidelijk contrast.
 Aan de andere kant mocht het er niet te kinderachtig uitzien.
->_“Het mag er niet kinderachtig uitzien.” -Jan (Directeur WZC De Weister)_  
+>_“Het mag er niet kinderachtig uitzien.” -Jan (Directeur WZC De Weister)_
+
 Kleurgebruik is toegestaan, mits het met zorg en in beperkte mate wordt toegepast.
 >_“Kleuren geven snel duidelijkheid, maar een teveel eraan komt over als kinderachtig.” -Evy (zorgkundige: wonen en leven)_  
 
@@ -693,13 +694,6 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 #### Materiaal en methoden
 #### Resultaten
 #### Conclusies & implicaties (design requirements en beslissingen)/
-
-| ID    | Design Requirement                                                                                                                                | Source | Date       |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|
-| DR43  | De feedbackunit moet abstracte, niet-kinderachtige dierfiguren gebruiken om een professionele uitstraling te behouden.                            | Test&nbsp;4 | 03/04/2025 |
-| DR44  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
-| DR45  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
-| DR46  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
 
 
 
