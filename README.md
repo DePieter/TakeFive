@@ -123,7 +123,21 @@ Personeelstekort in de zorg leidt tot langere shifts en het inkorten of zelfs ov
 ### Conclusie 
 $\color{red}{\textsf{Aanvullen met een duidelijke boodschap>> wat was het doel, hoe heb je al dan niet dat doel bereikt,}}$
 $\color{red}{\textsf{welke bevindingen hab je onderweg gemaakt, wat is de eindconclusie?}}$
-Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel XXX staat een overzichtstabel met alle design requirements voor het eindproduct.
+Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel [product design requirements](#product-design-requirements) staat een overzichtstabel met alle design requirements voor het eindproduct.
+
+
+
+| ID   | Design Requirements                                                                                                                                       | Source    |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | 
+| DR01 | Het ontwerp moet flexibel inspelen op wisselende personeelsbezetting gedurende de dag, zodat het inzetbaar blijft bij schommelingen in beschikbaarheid.   | Discovery |
+| DR02 | Het systeem of de ruimte moet extra ondersteuning bieden tijdens piekmomenten, met name tijdens ochtend- en avondzorg, waarin de werkdruk het hoogst is.  | Discovery |
+| DR03 | Het ontwerp moet flexibele pauzemomenten faciliteren, afgestemd op het actuele zorgritme, in plaats van vaste tijdsintervallen.                           | Discovery |
+| DR04 | Het ontwerp moet bijdragen aan een rustgevende en stressverlagende omgeving door middel van passieve elementen zoals licht, kleur en geluid.              | Discovery |
+| DR05 | Het product moet inspelen op uiteenlopende gebruikerservaringen en zowel stressverlichting (pain relief) als positieve meerwaarde (value promise) bieden. | Discovery |
+| DR06 | Hartslagvariabiliteit (HRV) moet worden gebruikt als de primaire biomarker voor het meten van stressniveaus en herstelmomenten.                           | Discovery | 
+
+
+
 
 ## Definition
 In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
@@ -252,17 +266,18 @@ Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daa
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR01  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave&nbsp;1       | 11/12/2024 |
-| DR02  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
-| DR03  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
-| DR04  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
-| DR05  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave 1       | 11/12/2024 |
-| DR06  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave 1       | 11/12/2024 |
-| DR07  | Het systeem moet de mogelijkheid bieden om functies te personaliseren, zoals het in- of uitschakelen van meldingen en het aanpassen van de intensiteit. | Wave 1       | 11/12/2024 |
-| DR08  | Prototypen moeten worden getest op gebruiksgemak en effectiviteit in een hectische zorgomgeving, met prioriteit voor eenvoudige bediening en snelle toegang tot kernfuncties. | Wave 1       | 11/12/2024 |
-| DR09  | Er moeten verschillende methoden worden getest om gebruikers effectief te stimuleren pauzes te nemen, ook onder hoge werkdruk. | Wave 1       | 11/12/2024 |
-| DR10  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
-| DR11  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
+| DR07  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave&nbsp;1       | 11/12/2024 |
+| DR08  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
+| DR09  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
+| DR10  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
+| DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave 1       | 11/12/2024 |
+| DR12  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave 1       | 11/12/2024 |
+| DR13  | Het systeem moet de mogelijkheid bieden om functies te personaliseren, zoals het in- of uitschakelen van meldingen en het aanpassen van de intensiteit. | Wave 1       | 11/12/2024 |
+| DR14  | Prototypen moeten worden getest op gebruiksgemak en effectiviteit in een hectische zorgomgeving, met prioriteit voor eenvoudige bediening en snelle toegang tot kernfuncties. | Wave 1       | 11/12/2024 |
+| DR15  | Er moeten verschillende methoden worden getest om gebruikers effectief te stimuleren pauzes te nemen, ook onder hoge werkdruk. | Wave 1       | 11/12/2024 |
+| DR16  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
+| DR17  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
+
 
 ### **Wave 2 (N=5)**
 ---
@@ -319,14 +334,14 @@ De resultaten leveren waardevolle inzichten op het vlak van gebruikservaring, fu
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR12  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave&nbsp;2       | 23/12/2024 |
-| DR14  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
-| DR15  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
-| DR16  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
-| DR17  | Het ontwerp moet lichtgewicht en comfortabel om te dragen zijn. | Wave 2       | 23/12/2024 |
-| DR18  | Het systeem moet modulair zijn, met instelbare meldingen en functies. | Wave 2       | 23/12/2024 |
-| DR19  | Samenwerking met zorginstellingen is vereist voor brede adoptie en implementatie in beleidskaders. | Wave 2       | 23/12/2024 |
-| DR20  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te verminderen. | Wave 2       | 23/12/2024 |
+| DR18  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave&nbsp;2       | 23/12/2024 |
+| DR19  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
+| DR20  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
+| DR21  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
+| DR22  | Het ontwerp moet lichtgewicht en comfortabel om te dragen zijn. | Wave 2       | 23/12/2024 |
+| DR23  | Het systeem moet modulair zijn, met instelbare meldingen en functies. | Wave 2       | 23/12/2024 |
+| DR24  | Samenwerking met zorginstellingen is vereist voor brede adoptie en implementatie in beleidskaders. | Wave 2       | 23/12/2024 |
+| DR25  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te verminderen. | Wave 2       | 23/12/2024 |
 
 # Develop
 De develop fase draait rond het verfijnen van het product. Hiervoor worden de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing. 
@@ -494,15 +509,15 @@ Dit proces resulteerde in concrete ontwerpvragen, design requirements en aandach
 
 | ID    | Design Requirements                                                                                                                    | Source    | Date       |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| DR21  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test&nbsp;3.1  | 24/02/2024 |
-| DR22  | Gebruikers moeten zelf kunnen kiezen wanneer ze hun pauze nemen.                                                                       | Test 3.1  | 24/02/2024 |
-| DR23  | De feedback unit moet individueel herkenbaar zijn en niet gelinkt aan een gedeelde zorgkar.                                            | Test 3.1  | 24/02/2024 |
-| DR24  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
-| DR25  | De verificator moet zich dichtbij bevinden om de drempel tot pauzes te verlagen.                                                       | Test 3.1  | 24/02/2024 |
-| DR26  | Het systeem mag geen extra werkdruk of cognitieve belasting veroorzaken.                                                                | Test 3.1  | 24/02/2024 |
-| DR27  | Een snooze-functie moet mogelijk zijn om pauzes uit te stellen.                                                                         | Test 3.1  | 24/02/2024 |
-| DR28  | Het systeem moet een positieve stimulans bieden, zoals kleine gelukjes, om acceptatie te verhogen.                                     | Test 3.1  | 24/02/2024 |
-| DR29  | Het systeem moet rekening houden met piekmomenten (ochtend- en avondzorgen) bij pauzevoorstellen.                                      | Test 3.1  | 24/02/2024 |
+| DR26  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test&nbsp;3.1  | 24/02/2024 |
+| DR27  | Gebruikers moeten zelf kunnen kiezen wanneer ze hun pauze nemen.                                                                       | Test 3.1  | 24/02/2024 |
+| DR28  | De feedback unit moet individueel herkenbaar zijn en niet gelinkt aan een gedeelde zorgkar.                                            | Test 3.1  | 24/02/2024 |
+| DR29  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
+| DR30  | De verificator moet zich dichtbij bevinden om de drempel tot pauzes te verlagen.                                                       | Test 3.1  | 24/02/2024 |
+| DR31  | Het systeem mag geen extra werkdruk of cognitieve belasting veroorzaken.                                                                | Test 3.1  | 24/02/2024 |
+| DR32  | Een snooze-functie moet mogelijk zijn om pauzes uit te stellen.                                                                         | Test 3.1  | 24/02/2024 |
+| DR33  | Het systeem moet een positieve stimulans bieden, zoals kleine gelukjes, om acceptatie te verhogen.                                     | Test 3.1  | 24/02/2024 |
+| DR34  | Het systeem moet rekening houden met piekmomenten (ochtend- en avondzorgen) bij pauzevoorstellen.                                      | Test 3.1  | 24/02/2024 |
 
 **Te testen:** 
 - Kan er valsgespeeld worden met de pauze-verificatie? 
@@ -584,19 +599,19 @@ Het systeem moet emoties oproepen die bijdragen aan een positieve, ondersteunend
 
 | ID    | Design Requirements                                                                                                                                                           | Source       | Date       |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------|
-| DR30   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test&nbsp;3.2 | 6/03/2025  |
-| DR31   | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen.     | Test 3.2 | 6/03/2025  |
-| DR32   | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                                                                        | Test 3.2 | 6/03/2025  |
-| DR33   | De feedbackunit moet gebruik maken van rustgevende signalen.                                                                                                                  | Test 3.2 | 6/03/2025  |
-| DR34   | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                                                                                  | Test 3.2 | 6/03/2025  |
-| DR35   | Iedereens manier van signaalgeven moet gekozen kunnen worden.                                                                                                                 | Test 3.2 | 6/03/2025  |
-| DR36   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
-| DR37   | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.                                                                                                             | Test 3.2 | 6/03/2025  |
-| DR38   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
-| DR39  | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.                                                                                             | Test 3.2 | 6/03/2025  |
-| DR40  | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                                                                          | Test 3.2 | 6/03/2025  |
-| DR41  | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                                                                         | Test 3.2 | 6/03/2025  |
-| DR42  | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                                                                                    | Test 3.2 | 6/03/2025  |
+| DR35   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test&nbsp;3.2 | 6/03/2025  |
+| DR36   | De feedbackunit moet uiterst stevig en duurzaam zijn. Dit betekent dat het waterdicht is, bestand tegen stoten en honderden keren zonder schade kan worden laten vallen.     | Test 3.2 | 6/03/2025  |
+| DR37   | De feedbackunit mag niet makkelijk verplaatsbaar zijn.                                                                                                                        | Test 3.2 | 6/03/2025  |
+| DR38   | De feedbackunit moet gebruik maken van rustgevende signalen.                                                                                                                  | Test 3.2 | 6/03/2025  |
+| DR39   | Er zouden dieren gebruikt moeten worden in het signaalgeven.                                                                                                                  | Test 3.2 | 6/03/2025  |
+| DR40   | Iedereens manier van signaalgeven moet gekozen kunnen worden.                                                                                                                 | Test 3.2 | 6/03/2025  |
+| DR41   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
+| DR42   | Voor het hele ‘ecosysteem’ ontwerpen, niet enkel zorgmedewerkers.                                                                                                             | Test 3.2 | 6/03/2025  |
+| DR43   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
+| DR44  | Niet iedereen moet andermans stressniveau kunnen zien, enkel een groepsindicatie.                                                                                             | Test 3.2 | 6/03/2025  |
+| DR45  | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                                                                          | Test 3.2 | 6/03/2025  |
+| DR46  | De feedbackunit moet de mogelijkheid hebben om met verschillende metaforen te werken.                                                                                         | Test 3.2 | 6/03/2025  |
+| DR47  | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                                                                                    | Test 3.2 | 6/03/2025  |
 
 
 
@@ -610,7 +625,7 @@ Deze test bevindt zich in de develop-fase waar voornamelijk het ergonomische asp
 #### Materiaal en methoden
 Om inzicht te verkrijgen in welk abstractieniveau van dierlijke vormen de grootste duidelijkheid biedt, wordt gebruikgemaakt van card sorting. Hierbij rangschikken zorgverleners visuele kaarten met dieren op negen abstractieniveaus – van realistisch tot extreem abstract en op basis van herkenbaarheid en interpretatiegemak.
 
-Daarnaast wordt via een combinatie van think aloud, A/B-testing en kwantitatieve analyse onderzocht hoe bewegende metaforen en het gebruik van lichtsignaal (zie [wave 2DR14](#wave2n5)) worden waargenomen in de context van de verpleegpost. Zorgverleners observeren een prototype in twee scenario’s: (1) enkel beweging van het dier, en (2) beweging in combinatie met een geïntegreerd LED-signaal. Door hun spontane interpretaties te registreren, wordt het verschil in duidelijkheid tussen beide situaties meetbaar gemaakt. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf).
+Daarnaast wordt via een combinatie van think aloud, A/B-testing en kwantitatieve analyse onderzocht hoe bewegende metaforen en het gebruik van lichtsignaal (zie [wave 2 DR19](#wave2n5)) worden waargenomen in de context van de verpleegpost. Zorgverleners observeren een prototype in twee scenario’s: (1) enkel beweging van het dier, en (2) beweging in combinatie met een geïntegreerd LED-signaal. Door hun spontane interpretaties te registreren, wordt het verschil in duidelijkheid tussen beide situaties meetbaar gemaakt. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf).
 
 #### Brainstorming
 Uit D3.2 blijkt dat de voorkeur van de FU ligt bij dieren. Hierna werd er een brainstormsessie gehouden om te beslissen hoe en wat er ging getest worden. Na het schetsen van alle ideeën werd alles besproken, hieruit zijn de design requirements vastgelegd (zie oranje markeringen op de foto).
@@ -694,10 +709,10 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 
 | ID    | Design Requirement                                                                                                                                | Source | Date       |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|
-| DR43  | De feedbackunit moet abstracte, niet-kinderachtige dierfiguren gebruiken om een professionele uitstraling te behouden.                            | Test&nbsp;4 | 03/04/2025 |
-| DR44  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
-| DR45  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
-| DR46  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
+| DR48  | De feedbackunit moet abstracte, niet-kinderachtige dierfiguren gebruiken om een professionele uitstraling te behouden.                            | Test&nbsp;4 | 03/04/2025 |
+| DR49  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
+| DR50  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
+| DR51  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
 
 
 
@@ -709,17 +724,10 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 
 
 
-#### Conclusie  
-#### Slotbevindingen  
-#### Tabel met de finale design requirements  
-
-
-
-
-
-## Product requirements
+## Conclusie  
+## Slotbevindingen  
+## Product design requirements
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
-
 ### Feedbackunit
 
 | ID   | Design Requirement                                                                 | MoSCoW | Source  | Date       |
