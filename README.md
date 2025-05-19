@@ -788,7 +788,7 @@ Hieronder staan de product design requirements voor de wearable.
 | ID   | Design Requirement                                                                 |   Source  | Date       |
 |------|-----------------------------------------------------------------------------------|---------|------------|
 | DR06 | Hartslagvariabiliteit (HRV) moet worden gebruikt als de primaire biomarker voor het meten van stressniveaus en herstelmomenten.                           | Discovery |  /  |
-| DR12  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave 1       | 11/12/2024 |
+| DR12  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave&nbsp;1       | 11/12/2024 |
 | DR22  | Het ontwerp moet lichtgewicht en comfortabel om te dragen zijn. | Wave 2       | 23/12/2024 |
 | DR29  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
 | DR41   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
@@ -799,7 +799,7 @@ Hieronder staan de product design requirements voor de wearable.
 Hieronder staan de product design requirements voor de verificator.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|---------|------------|
-| DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave 1       | 11/12/2024 |
+| DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wav&nbsp;1       | 11/12/2024 |
 | DR30  | De verificator moet zich dichtbij bevinden om de drempel tot pauzes te verlagen.                                                       | Test 3.1  | 24/02/2024 |
 
 
