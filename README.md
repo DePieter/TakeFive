@@ -547,7 +547,7 @@ In deze brainstormsessie werd er gebruik gemaakt van verschillende methodieken:
 
 - Verhalenmethodiek: elk teamlid bracht situaties aan waarin zorgverleners mogelijk overprikkeld raken of net tot rust komen, en beschreef hierbij wat in die situaties visueel of emotioneel opviel.
 
-- Thema-associaties: we koppelden de metaforen aan concepten zoals zelfzorg, teamgevoel en herstel.
+- Thema-associaties: de metaforen zullen gekoppeld worden aan concepten zoals zelfzorg, teamgevoel en herstel.
 
 <div align="center">
   <img src="Foto's/6 Develop/D3.2/brainstorm2.jpg" height="400">
