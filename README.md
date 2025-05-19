@@ -433,7 +433,7 @@ De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:
 - Worden de meldingen en suggesties van het systeem als helpend of storend ervaren tijdens het werk?
 - Hoe goed past het systeem binnen de bestaande workflow van zorgmedewerkers zonder extra stress of werkdruk te veroorzaken?
 
-De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zaken zijn terug te vinden in [Rapport develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Test%20rapport%203.1.pdf).
+De geanalyseerde data wordt vertaald naar antwoorden op de ontwerpvragen, wat leidt tot verschillende design requirements. Deze zaken zijn terug te vinden in [Rapport develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Concept%20test%20rapport%203.1.pdf).
 
 
 #### MoSCoW
