@@ -684,7 +684,8 @@ Aan de andere kant mocht het er niet te kinderachtig uitzien.
 >_“Het mag er niet kinderachtig uitzien.” -Jan (Directeur WZC De Weister)_
 
 Kleurgebruik is toegestaan, mits het met zorg en in beperkte mate wordt toegepast.
->_“Kleuren geven snel duidelijkheid, maar een teveel eraan komt over als kinderachtig.” -Evy (zorgkundige: wonen en leven)_  
+>_“Kleuren geven snel duidelijkheid, maar een teveel eraan komt over als kinderachtig.” -Evy (zorgkundige: wonen en leven)_
+
 De kwantitatieve test waarbij deelnemers zo snel mogelijk moesten aangeven welke verandering ze aan de FU zagen, leverde weinig op, omdat ze hun waarnemingen niet direct uitspraken. Hierdoor is het kwantitatieve onderzoek niet validatief genoeg.
 
 
