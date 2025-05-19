@@ -600,7 +600,7 @@ Het systeem moet emoties oproepen die bijdragen aan een positieve, ondersteunend
 
 
 
-### Develop 4: [focus]  
+### Develop 4: [Cognitieve ergonomie]  
 >_“In een grote instelling heb je afdelingen met tien tot twintig medewerkers. Daar moet je rekening mee houden in het design.” -Jan (Directeur WZC De Weister)_
 
 #### Doelstellingen (cfr. methodologie)
