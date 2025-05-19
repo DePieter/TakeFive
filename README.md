@@ -547,11 +547,11 @@ Het prototype (zie onderstaande foto) bevat drie verschillende actuatoren, die e
 -	Cilinder 		->  abstracte vorm
 -	Op- en neergaande foto	->  beeldje in de vorm van een metafoor
 -	Bewegend papier		->  Golvende beweging
-
+-	Gsmscherm		->  [Licht](https://github.com/DePieter/TakeFive/blob/main/src/golvende%20beweging.mp4)
   <img src="Foto's/6 Develop/D3.2/Prototype.png" style="height:200px;">
 
 #### Emotional mapping
-wat is het, wat is het doel, hoe gaat het in de praktijk,...
+Plutchiks Wheel of Emotions is een model dat helpt om emoties in kaart te brengen, het bevat acht emoties: vreugde, vertrouwen,... Zo wordt het eenvoudiger voor de woonzorgmedewerkers om de metaforen aan emoties toe te wijzen. Hierdoor kunnen de juiste metaforen gekozen worden voor de FU.
 
 #### User Testing (n=5)
 Tijdens deze testfase werd het prototype (Wizard of Oz, 3-in-1) getoond aan vijf zorgverleners. Hierbij werd onderzocht hoe zorgverleners emotioneel reageren op verschillende metaforen en bewegingen. De test startte met het tonen van de drie actuatoren van het prototype, gevolgd door papieren afbeeldingen van de bijhorende metaforen. De respondenten plaatsten deze op Plutchiks Wheel of Emotions. Zo kon visueel worden vastgelegd welke emotionele respons elke metafoor opriep.
@@ -613,9 +613,9 @@ Wanneer de categorie waarbinnen de meest succesvolle metaforen is gedefiniëerd,
 
 
 
-Conclusie  
-Slotbevindingen  
-Tabel met de finale design requirements  
+#### Conclusie  
+#### Slotbevindingen  
+#### Tabel met de finale design requirements  
 
 
 
