@@ -716,12 +716,45 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 
 
 
-### Develop 5: [focus]  
-#### Doelstellingen (cfr. methodologie)
-#### Materiaal en methoden
-#### Resultaten
-#### Conclusies & implicaties (design requirements en beslissingen)/
+### Develop 5: [Esthetische evaluatie & visuele test]
+#### Doelstellingen
+In dit onderdeel werd onderzocht hoe de Feedback Unit binnen het Take Five-systeem er visueel moet uitzien om optimaal te integreren in een zorgcontext (woonzorgcentra en ziekenhuizen). De focus lag hierbij op cognitieve ergonomie en esthetiek. Het doel was een ontwerp te ontwikkelen dat rust, vertrouwen en herkenning oproept bij zorgverleners.
 
+#### Materiaal en methoden
+Voor deze test werd een online enquête uitgevoerd via Qualtrics (n = 35). Deelnemers kwamen uit verschillende leeftijdsgroepen en bestonden uit studenten, familie en kennissen.
+
+Gebruikte testmethoden:
+
+- **Moodboard (A/B) Test**  
+  Deelnemers kozen welk moodboard het meest geschikt was voor een toestel in een zorgomgeving.  
+  Resultaat: Moodboard 1 werd het meest passend ervaren.
+
+- **Preference Test (Likert-schaal)**  
+  Beoordeling van verschillende ontwerpvarianten op betrouwbaarheid (schaal 1–7).  
+  Resultaat: Apparaat 1 scoorde het hoogst met een gemiddelde van 5.12.
+
+- **Desirability Test (woordkaarten)**  
+  Deelnemers selecteerden 3 tot 5 woorden die het best pasten bij hun voorkeursontwerp.  
+  Meest gekozen woorden: natuurlijk, kalmerend, vriendelijk.
+
+- **5 Second Test**  
+  Eerste indruk na het bekijken van een korte video van het prototype.  
+  Veel deelnemers vonden het product visueel aantrekkelijk maar begrepen de functionaliteit niet direct, wat aansluit bij de wens voor een discreet ontwerp.
+
+#### Resultaten
+- Rustgevende kleuren (pastel- en aardetinten) en natuurlijke materialen (hout, stof) worden sterk geapprecieerd.
+- Ronde vormen en zachte afwerkingen stralen vertrouwen uit.
+- Abstracte diermetaforen, zoals een hond, worden positief ontvangen zolang ze niet kinderachtig overkomen.
+- De visuele communicatie mag subtiel zijn. De functie hoeft niet meteen duidelijk te zijn voor bezoekers, zolang het personeel het begrijpt.
+
+#### Conclusies & implicaties (design requirements en beslissingen)/
+De resultaten uit D5 bevestigen dat een rustige, natuurlijke esthetiek essentieel is voor een succesvolle integratie van de Feedback Unit in een zorgomgeving. De voorkeur gaat uit naar zachte vormen, warme materialen en discrete visuele communicatie. Deze inzichten vormen de basis voor verdere verfijning van het ontwerp in de eindfase van het project.
+| ID   | Omschrijving                                                                 | Type | Bron    | Datum       |
+|------|-------------------------------------------------------------------------------|------|---------|-------------|
+| DR52 | Het ontwerp moet rust en vertrouwen uitstralen via ronde vormen              | M    | Test 5  | 17/05/2025  |
+| DR2  | Gebruik van natuurlijke kleuren zoals pastel- of aardetinten                 | M    | Test 5  | 17/05/2025  |
+| DR3  | Materialen moeten natuurlijk ogen, zoals hout en stof                        | S    | Test 5  | 17/05/2025  |
+| DR4  | Afwerkingen mogen niet te glanzend of kil zijn                               | S    | Test 5  | 17/05/2025  |
 
 
 ## Conclusie  
