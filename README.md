@@ -96,10 +96,11 @@ Het haalbaarheidsonderzoek richt zich op het meten van biomarkers om werkstress 
 Volgens de Vlaamse Werkbaarheidsmonitor (2023) ervaart 41,8% van de verpleegkundigen en zorgkundigen een hoge werkdruk als een belangrijke burn-outfactor. Sinds de coronapandemie is het langdurig ziekteverzuim bovendien met 50% gestegen. Burn-outproblematiek kost de zorgsector jaarlijks naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er momenteel interventies bestaan in de vorm van korte dagelijkse check-ups, blijkt effectiviteit beperkt.
 
 ### User Interviews (N=3) 
- $\color{red}{\textsf{Uitbreiden: je kan hier niet maar een paar zinnetjes schrijven, voor alles wat hier staat had je zelfs geen interview moeten uitvoeren }}$
- $\color{red}{\textsf{uitvoeren want dit kan ik ook zo uit mn mouw schudden>> hoe aan de slag gegaan, welke theoretische kapstokken, raw data, resultaten,...}}$
+Het doel van deze interviews was om inzicht te krijgen in hoe verpleegkundigen werkdruk ervaren en hoe dit zich vertaalt naar stress en burn-out in hun dagelijkse praktijk. Omdat stress een subjectieve ervaring is die sterk verschilt per persoon, werd gekozen voor **contextual inquiries**: een open, verkennende interviewmethode die inzichten oplevert binnen de echte werkcontext van de zorg.
 
-Interviews met verpleegkundestudenten brachten inzicht in werkdruk en onderliggende oorzaken. De 5WHY- en PESTLE-methoden hielpen de probleemruimte te verduidelijken.
+Er werden drie interviews afgenomen bij **studenten verpleegkunde**, geselecteerd via **purposive sampling**. Door hun stages hebben deze studenten ervaring met verschillende afdelingen (zoals geriatrie en woonzorgcentra) en kunnen ze zowel praktijkgericht als reflectief naar het probleem kijken. Deze steekproef was niet bedoeld om statistisch representatief te zijn, maar om *diepgang* te bieden en **oorzaak-gevolgrelaties** te identificeren.
+
+Bij elk interview werden **5WHY’s** en een **PESTLE-analyse** gebruikt als theoretisch kapstok:
 
 Enkele relevante uitspraken:
 
@@ -107,23 +108,33 @@ Enkele relevante uitspraken:
 
 >“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
 
-Hieruit blijkt dat vaste pauzemomenten vaak niet genomen.
+Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden wanneer werkdruk dit niet toelaat.
 
 ### PESTLE Methode 
-$\color{red}{\textsf{Uitbreiden: je kan hier niet maar 2 zinnetjes schrijven. voor alles wat hier staat had je zelfs geen interview moeten uitvoeren }}$
-$\color{red}{\textsf{ want dit kan ik ook zo uit mn mouw schudden>> toon aan dat de pestle nuttig was om uit te voeren, }}$
-$\color{red}{\textsf{ toon aan dat je hem daadwerkelijk hebt uitgevoerd, hoe aan de slag gegaan, waarom pestle, wat betekend pestle, raw data, resultaten,...}}$
+De **PESTLE-analyse** werd gebruikt als gesprekskader tijdens de interviews om de externe invloeden op werkdruk te analyseren. Deze dimensies werden onderzocht:
 
-De PESTLE-analyse beoordeelt externe invloeden op het product. Uit drie uitvoeringen blijkt dat verpleegkundestudenten niet de juiste doelgroep vormen. Toekomstig onderzoek moet zich richten op afdelingshoofden en directies.
+- **Political:** Beleid rond personeelsinzet en pauzeplanning
+- **Economic:** Kosten van ziekteverzuim en burn-out
+- **Social:** Collega's die geen pauzes nemen → sociale norm
+- **Technological:** Beperkingen en kansen van wearables in de zorg
+- **Legal:** Arbeidswetgeving rond rusttijden
+- **Environmental:** Werkomgeving en logistieke indeling van afdelingen
+
+Hoewel studenten niet de primaire doelgroep zijn voor het eindproduct, boden zij **waardevolle inzichten in de dagelijkse realiteit op de werkvloer**. Op basis van deze bevindingen wordt aanbevolen om in vervolgonderzoek ook leidinggevenden en directies te betrekken, om structurele oplossingen in kaart te brengen.
 
 ### Oorzaken & Gevolgen
 Personeelstekort in de zorg leidt tot langere shifts en het inkorten of zelfs overslaan van pauzes, wat de ervaren stress bij zorgmedewerkers verder verergert. Hierdoor ontstaat een dubbel negatief effect: de verhoogde werkdruk zorgt niet alleen voor meer stress, maar vermindert tegelijkertijd ook de mogelijkheid tot herstel. Deze combinatie maakt de situatie bijzonder kwetsbaar. De burn-outproblematiek binnen de sector blijft toenemen en brengt stijgende kosten met zich mee, wat de noodzaak onderstreept voor preventieve maatregelen. Werkdruk die hoofdzakelijk wordt veroorzaakt door personeelstekort blijkt daarbij de voornaamste oorzaak van stress, versterkt door het ontbreken van structurele oplossingen.
 
 
 ### Conclusie 
-$\color{red}{\textsf{Aanvullen met een duidelijke boodschap>> wat was het doel, hoe heb je al dan niet dat doel bereikt,}}$
-$\color{red}{\textsf{welke bevindingen hab je onderweg gemaakt, wat is de eindconclusie?}}$
-Deze fase verduidelijkte zowel de probleemruimte als de betrokken stakeholders (verpleegkundigen in WZC). Interviews, literatuurstudie, de 5W- en PESTLE-methoden hebben de eerste design requirements bepaald. Deze vormen de basis voor de volgende definitionfase. In deel [product design requirements](#product-design-requirements) staat een overzichtstabel met alle design requirements voor het eindproduct.
+Het doel van deze fase was het verkennen en afbakenen van de probleemruimte binnen de zorgsector, met een focus op werkdruk, stress en burn-out. Door middel van kwalitatieve interviews, literatuurstudie en het toepassen van de 5WHY- en PESTLE-methodologieën werd duidelijk dat:
+
+- Pauzes een cruciale maar onderbenutte herstelstrategie zijn.
+- Werkdruk toeneemt door personeelstekort en hoge zorgzwaarte.
+- Technologische ondersteuning potentieel heeft, mits aangepast aan de context.
+
+Deze inzichten hebben geleid tot de eerste set van **design requirements**, die de basis vormen voor het volgende projectonderdeel: de definitiefase en conceptontwikkeling van een oplossing die zorgverleners ondersteunt bij stressmanagement.
+In deel [product design requirements](#product-design-requirements) staat een overzichtstabel met alle design requirements voor het eindproduct.
 
 
 
