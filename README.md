@@ -728,15 +728,23 @@ Gebruikte testmethoden:
 - **Moodboard (A/B) Test**  
   Deelnemers kozen welk moodboard het meest geschikt was voor een toestel in een zorgomgeving.  
   Resultaat: Moodboard 1 werd het meest passend ervaren.
+  
+  <p align="center">
+  <img src="Foto's/5 Definition/Wave 1/Storyboard wave 1.png" width="600px">
+</p>
 
 - **Preference Test (Likert-schaal)**  
   Beoordeling van verschillende ontwerpvarianten op betrouwbaarheid (schaal 1–7).  
   Resultaat: Apparaat 1 scoorde het hoogst met een gemiddelde van 5.12.
+  
+<p align="center">
+  <img src="Foto's/5 Definition/Wave 1/Storyboard wave 1.png" width="600px">
+</p>
 
 - **Desirability Test (woordkaarten)**  
   Deelnemers selecteerden 3 tot 5 woorden die het best pasten bij hun voorkeursontwerp.  
   Meest gekozen woorden: natuurlijk, kalmerend, vriendelijk.
-
+  
 - **5 Second Test**  
   Eerste indruk na het bekijken van een korte video van het prototype.  
   Veel deelnemers vonden het product visueel aantrekkelijk maar begrepen de functionaliteit niet direct, wat aansluit bij de wens voor een discreet ontwerp.
