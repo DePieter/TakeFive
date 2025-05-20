@@ -730,7 +730,7 @@ Gebruikte testmethoden:
   Resultaat: Moodboard 1 werd het meest passend ervaren.
   
   <p align="center">
-  <img src="Foto's/5 Definition/Wave 1/Storyboard wave 1.png" width="600px">
+  <img src="Foto's/6 Develop/D5/Moodboard1.jpg" width="600px">
 </p>
 
 - **Preference Test (Likert-schaal)**  
@@ -738,7 +738,7 @@ Gebruikte testmethoden:
   Resultaat: Apparaat 1 scoorde het hoogst met een gemiddelde van 5.12.
   
 <p align="center">
-  <img src="Foto's/5 Definition/Wave 1/Storyboard wave 1.png" width="600px">
+  <img src="Foto's/6 Develop/D5/Roundedcase_V2.jpg" width="600px">
 </p>
 
 - **Desirability Test (woordkaarten)**  
