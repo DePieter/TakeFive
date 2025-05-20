@@ -748,6 +748,7 @@ Gebruikte testmethoden:
 - **5 Second Test**  
   Eerste indruk na het bekijken van een korte video van het prototype.  
   Veel deelnemers vonden het product visueel aantrekkelijk maar begrepen de functionaliteit niet direct, wat aansluit bij de wens voor een discreet ontwerp.
+[▶️ Bekijk video](Foto's/6 Develop/D5/beweging prototype.mp4)
 
 #### Resultaten
 - Rustgevende kleuren (pastel- en aardetinten) en natuurlijke materialen (hout, stof) worden sterk geapprecieerd.
