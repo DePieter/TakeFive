@@ -752,9 +752,9 @@ De resultaten uit D5 bevestigen dat een rustige, natuurlijke esthetiek essentiee
 | ID   | Omschrijving                                                                 | Type | Bron    | Datum       |
 |------|-------------------------------------------------------------------------------|------|---------|-------------|
 | DR52 | Het ontwerp moet rust en vertrouwen uitstralen via ronde vormen              | M    | Test 5  | 17/05/2025  |
-| DR2  | Gebruik van natuurlijke kleuren zoals pastel- of aardetinten                 | M    | Test 5  | 17/05/2025  |
-| DR3  | Materialen moeten natuurlijk ogen, zoals hout en stof                        | S    | Test 5  | 17/05/2025  |
-| DR4  | Afwerkingen mogen niet te glanzend of kil zijn                               | S    | Test 5  | 17/05/2025  |
+| DR53  | Gebruik van natuurlijke kleuren zoals pastel- of aardetinten                 | M    | Test 5  | 17/05/2025  |
+| DR54  | Materialen moeten natuurlijk ogen, zoals hout en stof                        | S    | Test 5  | 17/05/2025  |
+| DR55  | Afwerkingen mogen niet te glanzend of kil zijn                               | S    | Test 5  | 17/05/2025  |
 
 
 ## Conclusie  
@@ -815,6 +815,10 @@ Hieronder staan de product design requirements voor de feedbackunit.
 | DR49  | Bewegings- en lichtelementen moeten gecombineerd worden om duidelijke, begrijpelijke feedback te geven aan de gebruiker.                          | Test 4 | 03/04/2025 |
 | DR50  | Het kleurgebruik moet rust en kalmte uitstralen, bijvoorbeeld door gebruik van warme wittinten of natuurlijke groentinten.                         | Test 4 | 03/04/2025 |
 | DR51  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
+| DR52 | Het ontwerp moet rust en vertrouwen uitstralen via ronde vormen               | Test 5  | 17/05/2025  |
+| DR53  | Gebruik van natuurlijke kleuren zoals pastel- of aardetinten                 | Test 5  | 17/05/2025  |
+| DR54  | Materialen moeten natuurlijk ogen, zoals hout en stof                        | Test 5  | 17/05/2025  |
+| DR55  | Afwerkingen mogen niet te glanzend of kil zijn                               | Test 5  | 17/05/2025  |
 
 ### Wearable
 Hieronder staan de product design requirements voor de wearable.
