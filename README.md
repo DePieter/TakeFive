@@ -778,11 +778,11 @@ De resultaten uit D5 bevestigen dat een rustige, natuurlijke esthetiek essentiee
 
 
 ## Conclusie  
-## Slotbevindingen  
-## Product design requirements
+### Slotbevindingen  
+### Product design requirements
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
 
-### Algemeen
+#### Algemeen
 Hieronder staan de product design requirements voor de algemene werking van het product.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|--------|------------|
@@ -812,7 +812,7 @@ Hieronder staan de product design requirements voor de algemene werking van het 
 | DR45  | Het mag geen grote veranderingen (“Franse Revolutie”) veroorzaken, maar het moet wel waardevol zijn.                                                                          | Test 3.2 | 6/03/2025  |
 
 
-### Feedbackunit
+#### Feedbackunit
 Hieronder staan de product design requirements voor de feedbackunit.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|--------|------------|
@@ -840,7 +840,7 @@ Hieronder staan de product design requirements voor de feedbackunit.
 | DR54  | Materialen moeten natuurlijk ogen, zoals hout en stof                        | Test 5  | 17/05/2025  |
 | DR55  | Afwerkingen mogen niet te glanzend of kil zijn                               | Test 5  | 17/05/2025  |
 
-### Wearable
+#### Wearable
 Hieronder staan de product design requirements voor de wearable.
 | ID   | Design Requirement                                                                 |   Source  | Date       |
 |------|-----------------------------------------------------------------------------------|---------|------------|
@@ -852,7 +852,7 @@ Hieronder staan de product design requirements voor de wearable.
 | DR43   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
 
 
-### Verificator
+#### Verificator
 Hieronder staan de product design requirements voor de verificator.
 | ID   | Design Requirement                                                                 |  Source  | Date       |
 |------|-----------------------------------------------------------------------------------|---------|------------|
