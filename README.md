@@ -732,7 +732,7 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 In dit onderdeel werd onderzocht hoe de Feedback Unit binnen het Take Five-systeem er visueel moet uitzien om optimaal te integreren in een zorgcontext (woonzorgcentra en ziekenhuizen). De focus lag hierbij op cognitieve ergonomie en esthetiek. Het doel was een ontwerp te ontwikkelen dat rust, vertrouwen en herkenning oproept bij zorgverleners.
 
 #### Materiaal en methoden
-Voor deze test werd een online enquête uitgevoerd via Qualtrics (n = 35). Deelnemers kwamen uit verschillende leeftijdsgroepen en bestonden uit studenten, familie en kennissen.
+Voor deze test werd een online enquête uitgevoerd via Qualtrics (n = 35). Deelnemers kwamen uit verschillende leeftijdsgroepen en bestonden uit studenten, familie en kennissen. De volledige uitwerken kan worden teruggevonden in [Protocol develop 5.](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Concept%20test%20protocol%205.1.pdf)
 
 Gebruikte testmethoden:
 
@@ -762,6 +762,7 @@ Gebruikte testmethoden:
 [![Bekijk video]](Foto's/6%20Develop/D5/beweging%20prototype.mp4)
 
 #### Resultaten
+De analyse voor de resulaten kan worden teruggevonden bij [Rapport develop 5.](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Concept%20test%20rapport%205.1.pdf)
 - Rustgevende kleuren (pastel- en aardetinten) en natuurlijke materialen (hout, stof) worden sterk geapprecieerd.
 - Ronde vormen en zachte afwerkingen stralen vertrouwen uit.
 - Abstracte diermetaforen, zoals een hond, worden positief ontvangen zolang ze niet kinderachtig overkomen.
