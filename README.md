@@ -863,7 +863,7 @@ Hieronder staan de product design requirements voor de verificator.
 
 
 ## Technische beschrijving
-Het laatste prototype van de FU is geprint uit [marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120), de CAD-files zijn terug te vinden onder [CAD-files](https://github.com/DePieter/TakeFive/tree/main/CAD/Develop%205). Een uitgebreide uitleg over de code en elektronica kan worden teruggevonden bij: [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
+Het laatste prototype van de FU is geprint uit marble PLA, de CAD-files zijn terug te vinden onder [CAD-files](https://github.com/DePieter/TakeFive/tree/main/CAD/Develop%205). Een uitgebreide uitleg over de code en elektronica kan worden teruggevonden bij: [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
 ### Bill of materials FU:
 - [Marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120)
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996)
