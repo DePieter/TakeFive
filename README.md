@@ -780,6 +780,13 @@ De resultaten uit D5 bevestigen dat een rustige, natuurlijke esthetiek essentiee
 
 ## Conclusie  
 ### Slotbevindingen  
+Na een jaar ontwerpen en testen is een werkend prototype van de Feedbackunit ontwikkeld binnen het Take Five-project. Deze unit vormt samen met een draagbare sensor en een optionele verificator een systeem dat zorgverleners helpt hun stressniveau tijdig af te bakenen in woonzorgomgevingen.  
+De Feedbackunit werd ontworpen met aandacht voor intuïtieve bediening, visuele en tactiele signalen en minimale afleiding tijdens het werk. Via een discreet dierobject en licht geeft de FU directe maar discrete feedback over het gemeten stressniveau. Gebruikstesten met zorgverleners leverden waardevolle inzichten op voor de vormgeving en interactie, met als resultaat een toestel dat praktisch inzetbaar is en eenvoudig te integreren valt in het dagelijkse zorgproces.  
+De huidige versie is klaar voor grootschaligere praktijktesten en verdere integratie met het volledige systeem. Het ontwerp vormt een concrete stap richting meer mentaal welzijn voor zorgpersoneel, ondersteund door technologie die meebeweegt met hun noden.
+<p align="center">
+  <img src="Foto's/Teaser 2.png" style="height:400px;">
+</p>
+
 ### Product design requirements
 Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
 
