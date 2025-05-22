@@ -77,30 +77,25 @@ Een heldere "how might we" formuleren binnen de probleemruimte.
 -Literatuuronderzoek (N=10)
 
 
-### Probleemruimte
-Op basis van literatuuronderzoek zijn de volgende kernproblemen gedefinieerd:
+### Literatuuronderzoek
+Literatuuronderzoek ([Research report: literature reviews](Reports/Discovery/Research%20report%20literature%20reviews.pdf)) heeft de probleemruimte duidelijker in kaart gebracht, zo blijkt dat de zorgsector sinds 2019 kampt met een structureel hoge werkdruk, waarbij vooral het zorgpersoneel zwaar wordt getroffen. In 2023 liep 14,4% van de zorgmedewerkers risico op een burn-out (Vlaamse Werkbaarheidsmonitor, 2023). Deze problematiek is het sterkst aanwezig in woonzorgcentra, waar het aantal medewerkers met burn-outsymptomen tussen 2013 en 2023 met 7,2% is gestegen. In combinatie met de toenemende vergrijzing maakt dit de sector bijzonder kwetsbaar.
 
-Sinds 2019 is er sprake van een structureel hoge werkdruk in de zorgsector, met de grootste impact op het zorgpersoneel. In 2023 liep 14,4% van de zorgmedewerkers risico op een burn-out, volgens de Vlaamse Werkbaarheidsmonitor (2023). Vooral in woonzorgcentra is de toename van burn-outsymptomen opvallend, met een stijging van 7,2% tussen 2013 en 2023. Dit in combinatie met de toenemende vergrijzing blijft de sector bijzonder kwetsbaar.
+Werkdruk wordt als de belangrijkste oorzaak van werkstress geïdentificeerd. Bij 41,8% van de zorgmedewerkers heeft dit een negatieve impact op zowel hun werk-privébalans als hun algemeen welzijn. Verpleegkundigen en zorgkundigen in woonzorgcentra ervaren de hoogste werkdruk en vormen daarom de primaire doelgroep van dit project.
 
-Een te hoge werkdruk blijkt de belangtijkste oorzaak van werkstress te zijn, wat bij 41,8% van de zorgmedewerkers een negatieve invloed heeft op zowel hun werk-privébalans als het algemeen welzijn. Aangezien verpleegkundigen en zorgkundigen in woonzorgcentra de hoogste werkdruk ervaren, vormen zij dan ook de primaire doelgroep binnen dit project.
-
-
-### 5WH Methode (verduidelijking probleemruimte)
-
+Sinds de coronapandemie is het langdurig ziekteverzuim met 50% gestegen. De economische impact van burn-out is aanzienlijk: jaarlijks kost het de zorgsector naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er reeds interventies bestaan, zoals korte dagelijkse check-ups, blijkt de effectiviteit daarvan voorlopig beperkt.
+In onderstaande foto wordt de probleemruimte concreet weergegeven:
 
 <div align="center">
   <img src="Foto's/4 Discovery/5WH.jpg" width="50%">
 </div>
 
-
-Het haalbaarheidsonderzoek richt zich op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
-
-Volgens de Vlaamse Werkbaarheidsmonitor (2023) ervaart 41,8% van de verpleegkundigen en zorgkundigen een hoge werkdruk als een belangrijke burn-outfactor. Sinds de coronapandemie is het langdurig ziekteverzuim bovendien met 50% gestegen. Burn-outproblematiek kost de zorgsector jaarlijks naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er momenteel interventies bestaan in de vorm van korte dagelijkse check-ups, blijkt effectiviteit beperkt.
+### Haalbaarheid
+Het is al snel duidelijk dat het in dit project van belang is om stress meetbaar te maken. Hieromtrend richt het haalbaarheidsonderzoek richt op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
 
 ### User Interviews (N=3) 
 Het doel van deze interviews was om inzicht te krijgen in hoe verpleegkundigen werkdruk ervaren en hoe dit zich vertaalt naar stress en burn-out in hun dagelijkse praktijk. Omdat stress een subjectieve ervaring is die sterk verschilt per persoon, werd gekozen voor **contextual inquiries**: een open, verkennende interviewmethode die inzichten oplevert binnen de echte werkcontext van de zorg.
 
-Er werden drie interviews afgenomen bij **studenten verpleegkunde**, geselecteerd via **purposive sampling**. Door hun stages hebben deze studenten ervaring met verschillende afdelingen (zoals geriatrie en woonzorgcentra) en kunnen ze zowel praktijkgericht als reflectief naar het probleem kijken. Deze steekproef was niet bedoeld om statistisch representatief te zijn, maar om *diepgang* te bieden en **oorzaak-gevolgrelaties** te identificeren.
+Er werden drie interviews afgenomen bij **studenten verpleegkunde**, geselecteerd via **purposive sampling**. Door hun stages hebben deze studenten ervaring met verschillende afdelingen (zoals geriatrie en woonzorgcentra) en kunnen ze zowel praktijkgericht als reflectief naar het probleem kijken. Deze proef was niet bedoeld om statistisch representatief te zijn, maar om *diepgang* te bieden en **oorzaak-gevolgrelaties** te identificeren.
 
 Bij elk interview werden **5WHY’s** en een **PESTLE-analyse** gebruikt als theoretisch kapstok:
 
@@ -110,9 +105,9 @@ Enkele relevante uitspraken:
 
 >“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
 
-Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden wanneer werkdruk dit niet toelaat.
+UitHieruit blijkt dat vaste pauzemomenten vaak niet genomen worden wanneer werkdruk dit niet toelaat.
 
-### PESTLE Methode 
+### PESTLE 
 De **PESTLE-analyse** werd gebruikt als gesprekskader tijdens de interviews om de externe invloeden op werkdruk te analyseren. Deze dimensies werden onderzocht:
 
 - **Political:** Beleid rond personeelsinzet en pauzeplanning
@@ -129,11 +124,11 @@ Personeelstekort in de zorg leidt tot langere shifts en het inkorten of zelfs ov
 
 
 ### Conclusie 
-Het doel van deze fase was het verkennen en afbakenen van de probleemruimte binnen de zorgsector, met een focus op werkdruk, stress en burn-out. Door middel van kwalitatieve interviews, literatuurstudie en het toepassen van de 5WHY- en PESTLE-methodologieën werd duidelijk dat:
+Het doel van deze fase was het verkennen en afbakenen van de probleemruimte binnen de zorgsector, met een focus op werkdruk, stress en burn-out. Door middel van kwalitatieve interviews, literatuurstudie en het toepassen van de 5WHY- en PESTLE-methodologieën werd meermaals duidelijk dat:
 
 - Pauzes een cruciale maar onderbenutte herstelstrategie zijn.
 - Werkdruk toeneemt door personeelstekort en hoge zorgzwaarte.
-- Technologische ondersteuning potentieel heeft, mits aangepast aan de context.
+- Technologische ondersteuning potentieel heeft, mits aangepast aan de context en noden van de gebruikers.
 
 Deze inzichten hebben geleid tot de eerste set van **design requirements**, die de basis vormen voor het volgende projectonderdeel: de definitiefase en conceptontwikkeling van een oplossing die zorgverleners ondersteunt bij stressmanagement.
 In deel [product design requirements](#product-design-requirements) staat een overzichtstabel met alle design requirements voor het eindproduct.
