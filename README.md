@@ -148,27 +148,30 @@ In deel [product design requirements](#product-design-requirements) staat een ov
 
 
 ## Definition
-In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in twee waves, waarbij het concept per wave steeds verder wordt verfijnd.
+In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in drie waves, waarvan één van deze waves zich al deel in de devellop fase bevindt. Het concept wordt per wave steeds verder verfijnd, telkens gebruikmakend van theoretische modellen als rode draad.
 
 ### Doelstellingen
-- Het ontwikkelen van concrete prototypes die de geïdentificeerde problemen aanpakken.
+- Het ontwikkelen van prototypes die een doordacht concept representeren en de geïdentificeerde problemen aanpakken.
 - Het testen en evalueren van deze prototypes in realistische scenario's om de haalbaarheid te verifiëren.
-- Het verzamelen van gebruikersfeedback om de prototypes verder te verbeteren.
+- Het verzamelen van inzichten en gebruikersfeedback om de prototypes verder te verbeteren.
 
 ### Materiaal & methoden
-Twee waves die gebruik maken van volgende methodologiën:
+Twee (+1) waves die gebruik maken van volgende methodologiën:
 - Ideation
 - Storyboarding
 - MoSCow
 - Prototyping 
 - User testing (Wizard of OZ testen + Plug and Play testen)
-  
-### **Wave 1 (N=5)**
----
-#### Ideation
-Tijdens de eerste ontwikkelingsfase lag de focus al snel op het ontwerpen van een wearable die het stressniveau meet en feedback geeft aan de gebruiker. De vorm van deze wearable hangt sterk af van de draaglocatie, die op haar beurt beperkt wordt door medische richtlijnen (bv. wearable rond pols mag niet wegens verhoogde kans op bacteriële overdracht) en de geschiktheid voor nauwkeurige hartslagmetingen. Na het afwegen van deze factoren blijven drie mogelijke locaties over: borst, bovenarm en benen. De optie om de wearable op de benen te dragen wordt uitgesloten vanwege het mogelijke negatieve stigma dat geassocieerd wordt met enkelbanden.
 
-Nadat er geweten is dat de opties voor een wearable geperkt zijn, werden de mogelijke concepten eenvoudig en snel uitgeschetst om een algemeen idee te kunnen krijgen van het concept. Deze schetsen zijn hieronder te zien.
+---
+
+### **Wave 1 (N=5)**
+In deze eerste wave staat verkenning centraal: het vinden van de juiste oplossing is nog onzeker, maar de eerste ideeën, prototypes en tests vormen een cruciale stap om grip te krijgen op stress op de werkvloer.
+
+#### Ideation
+Tijdens de eerste ontwikkelingsfase lag de focus al snel op een concept van een wearable die het stressniveau meet en feedback geeft aan de gebruiker. De vorm van deze wearable hangt sterk af van de draaglocatie, die op haar beurt beperkt wordt door medische richtlijnen (bv. wearable rond pols mag niet wegens verhoogde kans op bacteriële overdracht) en de geschiktheid voor nauwkeurige hartslagmetingen. Na het afwegen van deze factoren blijven drie mogelijke locaties over: borst, bovenarm en benen. De optie om de wearable op de benen te dragen wordt uitgesloten vanwege het mogelijke negatieve stigma dat geassocieerd wordt met enkelbanden.
+
+Nadat er geweten is dat de opties voor een wearable geperkt zijn, werden de mogelijke concepten eenvoudig en snel uitgeschetst om een algemeen idee te kunnen krijgen van het concept. Deze eerste, snelle schetsen zijn hieronder te zien.
 
 
 <p align="center">
@@ -193,29 +196,29 @@ Om een eerste idee te krijgen van enkele voorwaarden waaraan de wearable moest v
   <tr>
     <th>Must</th>
     <td>
-      - Makkelijk schoon te maken<br>
-      - Positieve feedback<br>
+      - Aangename feedback<br>
       - Goedkoop<br>
-      - Hogerop verwittigen<br>
-      - Leuke interacties
+      - Comfortabel zijn<br>
+      - Altijd aanwezig zijn<br>
+      - Oplaadbaar zijn<br>
     </td>
   </tr>
   <tr>
     <th>Should</th>
     <td>
       - Eén vaste locatie<br>
+      - Makkelijk schoon te maken<br>
       - Licht geven<br>
-      - Wifi-verbinding of intern geheugen
+      - Wifi-verbinding<br>
     </td>
   </tr>
   <tr>
     <th>Could</th>
     <td>
       - Leuk uitzien<br>
+      - Hogerop verwittigen<br>
       - Snoozbaar zijn<br>
-      - Altijd aanwezig zijn<br>
       - Teambuilding pauzes<br>
-      - Anderen verwittigen
     </td>
   </tr>
   <tr>
@@ -224,7 +227,7 @@ Om een eerste idee te krijgen van enkele voorwaarden waaraan de wearable moest v
       - Luid zijn<br>
       - Opdringerig zijn<br>
       - Storend zijn<br>
-      - Ongewenste gebruikersaantrekkingen
+      - Ongewenste gebruikersaantrekkingen<br>
     </td>
   </tr>
 </table>
@@ -233,7 +236,7 @@ Om een eerste idee te krijgen van enkele voorwaarden waaraan de wearable moest v
 #### Prototyping
 Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om met meerdere testpersonen tegelijk te testen.
 
-Momenteel is het nog niet duidelijk of het voldoende is om de feedback te laten gebeuren via de wearable of dat er een externe feedbackunit nodig is. Om deze reden is er ook een extra concept voorzien bij het prototypen; de feedbackunit.
+Momenteel is het nog niet duidelijk of het voldoende is om de feedback te laten gebeuren via de wearable of dat er een externe feedbackunit nodig is. Om deze reden is er ook een extra concept voorzien bij het prototypen; de feedbackunit (FU).
 
 Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in twee compacte wizard of oz prototypes, die op afstand kunnen worden aangestuurd via een smartphone. Hieronder worden de prototypes weergegeven en beschreven.
 
@@ -256,7 +259,20 @@ Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in t
 </table>
 
 #### User testing
-Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d.h.v. het testing protocol wave 1 (zie [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) ) Het doel van deze eerste tests is vooral om de levensvatbaarheid van het concept te verifiëren om ze vervolgens in een volgende test het concept correct te kunnen bijsturen en meer te kunnen focussen op details. Hieronder staan de belangrijkste waarnemingen toegelicht, deze waarnemingen worden gebruikt om de design requirements vast te leggen. Deze kunnen worden teruggevonden onder [Conclusies & implicaties](#conclusies--implicaties) of in  [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) 
+Tijdens deze gebruikerstest werden de eerste functionele prototypes van het stressdetectiesysteem getest in WZC Althus. Het doel van deze eerste test was om de levensvatbaarheid van het concept na te gaan, inzichten te verzamelen rond gebruiksvriendelijkheid en impact, en zo de richting voor verdere ontwikkeling en bijsturing te bepalen.
+
+De test bestond uit semigestructureerde interviews met vijf zorgmedewerkers van verschillende leeftijden en functies (begeleiders, opvoeders en een teamleider). Eerst werd via een korte introductie en informed consent uitgelegd waar het project om draait en wat de verwachtingen zijn. Daarna volgden vragen over hun dagelijkse werk, ervaren stressniveaus, huidige copingstrategieën en hun mening over de eerste prototypes. (zie [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) )
+
+Tijdens het interview konden de respondenten ook de prototypes zelf ervaren. Hierbij werd gepeild naar hun ervaring met deze meldingsvormen: waren ze storend of net ondersteunend? Waren ze duidelijk en bruikbaar in een drukke werkomgeving?
+
+De respondenten gaven over het algemeen aan dat stress in hun werk vaak ontstaat door tijdsdruk, onverwachte situaties en het moeten multitasken. Alle respondenten herkenden het probleem van structurele overbelasting, zowel bij zichzelf als bij collega’s. Momenteel wordt vooral geprobeerd stress te beheersen door rustig te blijven, prioriteiten te stellen of kort te ventileren met collega's — maar deze strategieën schieten vaak tekort bij hoge werkdruk.
+
+Wat betreft het prototype bleek vooral het trilsignaal op een armband goed aan te slaan: het werd als subtiel en niet-storend ervaren. Geluidssignalen daarentegen werden als te opvallend en storend omschreven. Sommige deelnemers gaven ook aan dat een externe feedbackunit op een zorgkar een nuttige aanvulling kan zijn, omdat ze in drukke momenten een trilsignaal op het lichaam niet altijd bewust opmerken.
+
+Het nemen van een pauze op basis van meldingen bleek in de praktijk vaak niet haalbaar: de werkdruk liet dit zelden toe. Toch gaf men aan dat een vroegtijdige waarschuwing, nog vóór het stressniveau te hoog wordt, erg waardevol zou zijn.
+De behoefte aan een compact, discreet en intuïtief systeem dat zich vlot integreert in de workflow werd door alle respondenten onderstreept.
+
+Deze inzichten zijn samengevat en verwerkt tot ontwerpvereisten die terug te vinden zijn onder Conclusies & implicaties of in [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Rapport%20Althus.pdf).
 
 > _"Het zou handig zijn als een systeem stress kan detecteren voordat het te erg wordt."._
 
@@ -267,7 +283,6 @@ Tijdens deze gebruikerstest worden de eerste prototypes getest in WZC Althus a.d
 > _"Een discreet signaal, zoals een trilling, zou voorkomen dat gebruikers geïrriteerd of boos worden."._
 
 > _"Ik vind de externe feedbackunit een goed concept omdat ik in the heat of the moment zo'n trilling via enkel de wearable niet altijd zal opmerken vrees ik"._
-
 
 #### Conclusies & implicaties:
 Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daarbij werd onderzocht of het gebruik van een feedbackunit effectief en zinvol is. Dankzij waardevolle inzichten uit onder andere de eerste gebruikerstesten, levert deze test niet alleen een antwoord op de hoofdvraag, maar maakt ze het ook mogelijk om al enkele ontwerpdetails vast te leggen. De conclusie is dat het concept verder uitgewerkt kan worden, met de feedbackunit als essentieel element om triggerblindheid te voorkomen. Daarbij moet rekening gehouden worden met de volgende ontwerpvereisten:
@@ -286,13 +301,13 @@ Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daa
 | DR16  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
 | DR17  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
 
-
+---
 ### **Wave 2 (N=5)**
 ---
-De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bijna dezelfde structuur zoals wave 1 toegepast: Ideation -> Storyboarding -> Prototyping -> User testing
+De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bij benadering eenzelfde structuur zoals wave 1 toegepast: Ideation -> Storyboarding -> Prototyping -> User testing
 
 #### Ideation
-Tijdens de ideatiefase van wave 2 werd in een brainstormsessie besloten om nieuwe versies van de FU en de wearable te ontwerpen, met als doel deze geschikt te maken voor uitgebreide tests in een realistische werkomgeving. Nadat de twee beste concepten waren geschetst, werd onderzocht hoe deze gerealiseerd konden worden.
+Tijdens de ideatiefase van wave 2 werd in een brainstormsessie besloten om nieuwe versies van de FU en de wearable te ontwerpen met enkele werkende, primitieve functies. Dit heeft als doel om de prototypes geschikt te maken voor een meer uitgebreide tests in een realistische werkomgeving. Nadat de twee beste concepten waren geschetst, werd onderzocht hoe deze gerealiseerd konden worden.
 De FU bevatte zowel de signaalfunctie als een oplaadstation.
 De wearable werd voorzien van EVA-foam, gevormd met behulp van een mal zodat het goed aansluit op het lichaam.
 
@@ -328,17 +343,31 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
 
 
 #### User testing (n=3)
-Om deze testen te kunnen uitvoeren, is er besloten om een **'Plug and Play'**-protocol te gebruiken. De respondenten van WZC De Oever kregen hiervoor een handleiding (zie [Protocol wave 2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%202%20Protocol%20De%20Oever.pdf) ) waarmee men zelfstandig aan de slag kon. In deze handleiding stond uitgelegd hoe het systeem precies werkt. Ook in deze handleiding, stond welke soort pauzes genomen moesten worden (zoals ademhalingsoefeningen, een praatmoment, ...), gevolgd door een zelfevaluatie. Aan het einde van de vijfdaagse testperiode vond er een groepsgesprek plaats met alle aanwezige testpersonen. 
+Voor deze testfase werd een ‘Plug and Play’-protocol (zie [Protocol wave 2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%202%20Protocol%20De%20Oever.pdf) ) ontwikkeld waarmee de zorgverleners van WZC De Oever zelfstandig aan de slag konden. Elke deelnemer kreeg een uitgebreide handleiding met instructies over het installeren van de wearable en feedbackunit, het uitvoeren van pauzeoefeningen (zoals ademhaling, korte babbel of buiten wandelen) en het invullen van een zelfevaluatie na elke oefening. De test liep over vijf dagen, waarbij deelnemers meerdere keren per dag door de feedbackunit visueel (via knipperlicht) werden aangespoord om een korte pauze te nemen.
+
+Elke interventie werd geëvalueerd op effectiviteit via een scoreformulier. Deze kwantitatieve evaluatie werd aangevuld met kwalitatieve feedback in een afsluitend groepsgesprek.
+
 
 
 
 
 ### Conclusies & implicaties:
-Het doel van deze testfase was om de toepasbaarheid en integratie van het prototype in de werkomgeving te evalueren. Daarbij was het ook de bedoeling om de complicaties van het systeem in een reële omgeving vast te stellen. Uit de bevindingen in het testverslag (zie [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)) blijkt dat het concept inspeelt op een concrete behoefte binnen de doelgroep. 
+Deze testfase had als doel om de toepasbaarheid en integratie van het prototype in een realistische zorgcontext te onderzoeken. Uit de resultaten blijkt dat het systeem inspeelt op een concrete behoefte: de oefeningen hielpen gebruikers om even stil te staan bij hun stressniveau en gaven hen een rustmoment, al werkte dit voor iedereen anders.
 
-Deze wave heeft aangetoond dat er twijfel bestaat over de betrouwbaarheid van zelfgenomen pauzes. Om deze reden moet er verder worden nagedacht over een oplossing die er voor zorgt dat er een soort van controlemechanisme is verwerkt in het systeem
+Wel bleek dat het waarnemen van de lichtsignalen niet altijd lukte in de hectiek van de werkvloer. Respondenten suggereerden om subtiele extra signalen (zoals een zachte trilling of geluid) toe te voegen. Ook werd duidelijk dat de betrouwbaarheid van zelfgenomen pauzes in twijfel wordt getrokken — wat duidt op de nood aan een vorm van terugkoppeling of controlemechanisme in het systeem.
 
-De resultaten leveren waardevolle inzichten op het vlak van gebruikservaring, functionaliteit en mogelijke ontwerpverbeteringen. Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
+Overige inzichten:
+
+- De wearable werd als comfortabel genoeg ervaren voor korte tijd, maar zou voor langdurig gebruik kleiner, zachter en robuuster moeten zijn.
+
+- De impact op bewoners was nihil, wat positief is voor discretie.
+
+- De testopstelling werd eenvoudig gevonden en zelfstandig beheerd door het personeel.
+
+- Gebruikers zouden het systeem aanraden aan collega’s.
+
+Deze resultaten leverden waardevolle inzichten op voor het verfijnen van de gebruikservaring, het verhogen van de effectiviteit en het verder uitwerken van functionele ontwerpcriteria. Het volledige overzicht is terug te vinden in het [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)
+Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
 |-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
@@ -394,10 +423,9 @@ Alle componenten van het systeem worden in onderstaande tabel kort beschreven.
 | Feedback Unit  | De feedbackunit toont op een visuele manier het real time stressniveau van de gebruiker. Deze is los van de wearable geplaatst om gewenning of negeren van signalen (trigger blindness) te voorkomen. |
 | Verificator    | De verificator stelt pauzes voor en controleert of deze daadwerkelijk worden genomen.                                                       |
 
-
-<div style="text-align: center;">
-    <img src="Foto's/6 Develop/D3.1/Brainstorm develop 1.png" style="width: 50%;" />
-</div>
+<p align="center">
+  <img src="Foto's/6 Develop/D3.1/Brainstorm develop 1.png" width="600px">
+</p>
 
 #### Design sketches
 
