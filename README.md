@@ -58,6 +58,8 @@ De ontwikkeling van deze prototypes gebeurt tijdens ideation sessies waarin meth
 
 Om de effectiviteit van verschillende ontwerpkeuzes te toetsen, werden zaken zoals A/B-testing, heuristic evaluation, SUS surveys en observatie ingezet. Hiermee konden prototypes (of onderdelen ervan) doelgericht getest worden, wat waardevolle inzichten opleverde voor verdere optimalisatie en afstemming op de gebruikersbehoeften.
 
+Ook werd er een online enquête opgesteld ter verfijning van de ontwerpkeuzes. Deze enquête focuste op esthetische en visuele perceptie en werd breed toegankelijk gemaakt via familie, kennissen en vrienden binnen verschillende leeftijdsgroepen. Methodologisch werd hierbij rekening gehouden met het query effect waarbij antwoordopties en visuele input's zo gekozen werden om bias te vermijden. Voor de enquête werden verschillende ontwerpmethodes zoals desirability testing, preference testing, 5 second testing en zoveel andere toegepast.
+
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 
 <img src="Foto's/3 Methodologie/Methodologie geupdate tot D5.png" width=100%>
