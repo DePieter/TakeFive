@@ -402,7 +402,7 @@ Tijdens deze fases worden verschillende methodologieën toegepast, waaronder:
 - Prototyping
 - Gebruikerstesten
 
-
+---
 ### Develop 3.1 / Wave 3 (N=5)
 Hoewel de developfase zich voornamelijk richt op het verfijnen van het product, bevindt wave 3 zich deels nog in de discoveryfase. Dit komt doordat het concept is uitgebreid met extra componenten, zoals de feedback unit en de verificator. In wave 3 worden deze nieuwe componenten gevalideerd (discovery), terwijl tegelijkertijd zoveel mogelijk aspecten van de ergonomie worden getest (develop).
 
@@ -563,7 +563,7 @@ Dit proces resulteerde in concrete ontwerpvragen, design requirements en aandach
 - Is het nodig om de feedbackunit fysiek mee te nemen naar de verificator, of is een alternatieve verificatiemethode beter? 
 - Gebruikerservaring testen: intuïtief gebruik vs. uitleg krijgen. 
 
-
+---
 ### Develop 3.2 [Affectief ontwerp]:  
 >_“Zorgen voor begint bij goede zelfzorg.” -Stijn (Directeur WZC Sint-Franciscus)_
 #### Doelstellingen (cfr. methodologie)
@@ -650,7 +650,7 @@ Het systeem moet emoties oproepen die bijdragen aan een positieve, ondersteunend
 | DR47  | De gebruikte metafoor moet rustgevend zijn en een gevoel van joy opwekken.                                                                                                    | Test 3.2 | 6/03/2025  |
 
 
-
+---
 ### Develop 4: [Cognitieve ergonomie]  
 >_“In een grote instelling heb je afdelingen met tien tot twintig medewerkers. Daar moet je rekening mee houden in het design.” -Jan (Directeur WZC De Weister)_
 
@@ -713,32 +713,31 @@ Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prot
 </table>
 
 #### Abstractieniveau
-Om het abstractieniveau te bepalen, kregen zorgverleners foto's te zien van dieren in oplopende vormen van abstractie. Waarna hen gevraagd werd om deze beelden te rangschikken van meest naar minst herkenbaar.
+Om het abstractieniveau, die de metafoor van de FU moet aannemen, te bepalen, kregen zorgverleners foto's te zien van dieren in oplopende vormen van abstractie. Waarna hen gevraagd werd om deze beelden te rangschikken van meest naar minst herkenbaar.
+
+
+#### User Testing (n=5)
+De test startte met een korte introductie waarbij het volledige project werd toegelicht. Na het invullen van een informed consent-formulier en het starten van een spraakopname, werd het doel van de test uitgelegd aan de hand van een herkenbaar voorbeeld zoals de ([Rorschachtest](https://nl.wikipedia.org/wiki/Rorschachtest)). Deze metafoor illustreerde het belang van interpretatie: waar in bij de Rorschachtest verwarring ontstaat door té abstracte beelden, onderzoekt deze test net hoe ver een signaal geabstraheerd kan worden vóór het onherkenbaar wordt.
+
+In de testsessie kregen de respondenten fotoreeksen te zien van verschillende dieren op negen verschillende [abstractieniveaus](#abstractieniveau) die liggen tussen: realistisch, gestileerd, geometrisch en extreem abstract, hieronder is daarvan een voorbeeld weergegeven:
+
 <p align="center">
   <img src="Foto's/6 Develop/D4/Abstractieniveau hond.jpg" style="height:400px;">
 </p>
 
+De opdracht bestond erin deze beelden te rangschikken van meest naar minst herkenbaar. De resulterende ordeningen werden per deelnemer vastgelegd via fotografie, met als doel een visuele en kwalitatieve analyse van voorkeuren en interpretatievermogen.
 
-#### User Testing (n=5)
-De test startte met een korte introductie, gevolgd door het activeren van de feedbackunit in signalisatiemodus. Na het invullen van een informed consent-formulier en het starten van een spraakopname, werd het doel van de test uitgelegd aan de hand van een herkenbaar voorbeeld zoals de ([Rorschachtest](https://nl.wikipedia.org/wiki/Rorschachtest)). Deze metafoor illustreerde het belang van interpretatie: waar in bij de Rorschachtest verwarring ontstaat door té abstracte beelden, onderzoekt deze test net hoe ver een signaal geabstraheerd kan worden vóór het onherkenbaar wordt.
-
-In de testsessie kregen de respondenten fotoreeksen te zien van dieren op negen verschillende [abstractieniveaus](#abstractieniveau) die liggen tussen: realistisch, gestileerd, geometrisch en extreem abstract. De opdracht bestond erin deze beelden te rangschikken van meest naar minst herkenbaar. De resulterende ordeningen werden per deelnemer vastgelegd via fotografie, met als doel een visuele en kwalitatieve analyse van voorkeuren en interpretatievermogen.
-
-Daarna werd het prototype geïntroduceerd: een dierlijke metafoor met geïntegreerde lichtindicatie. In twee opeenvolgende scenario’s werd aan zorgverleners gevraagd wat zij waarnamen – eerst bij enkel beweging, vervolgens bij beweging in combinatie met licht. Door de reacties per situatie te vergelijken, werd het verschil in duidelijkheid tussen beide condities kwantitatief vastgelegd.
-
-
-Ten slotte was er nog een korte vragenreeks die terug te vinden is bij [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf)
+Daarna werd het prototype geïntroduceerd: een dierlijke metafoor met geïntegreerde lichtindicatie. In twee opeenvolgende scenario’s werd aan zorgverleners gevraagd wat zij waarnamen – eerst bij enkel beweging van het dier, vervolgens bij beweging in combinatie met licht. Door de reacties per situatie te vergelijken, was het de bedoeling om het verschil in duidelijkheid tussen beide condities kwantitatief vast te leggen.
+Ten slotte werd er nog een korte vragenreeks afgelopen (terug te vinden bij [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf)).
 
 #### Resultaten
-Uit de gesprekken met zorgprofessionals kwamen diverse waardevolle inzichten naar voren over de herkenbaarheid, interpretatie en vormgeving van dierlijke metaforen. Zo toonde de [raw data](Raw%20Data/Develop/Develop%204) duidelijk dat er een voorkeur bestaat voor abstractere beelden met een duidelijk contrast.
-Aan de andere kant mocht het er niet te kinderachtig uitzien.
+Uit de gesprekken met zorgprofessionals kwamen diverse waardevolle inzichten naar voren over de herkenbaarheid, interpretatie en vormgeving van dierlijke metaforen. Zo toonde de [raw data](Raw%20Data/Develop/Develop%204) duidelijk dat er een voorkeur bestaat voor abstractere beelden met een duidelijk contrast. Aan de andere kant mocht het er niet te kinderachtig uitzien door te veel kleuren en te simplistische cartoons.
 >_“Het mag er niet kinderachtig uitzien.” -Jan (Directeur WZC De Weister)_
 
-Kleurgebruik is toegestaan, mits het met zorg en in beperkte mate wordt toegepast.
+Daarbij is aan te geven dat kleurgebruik is toegestaan, mits het met zorg en in beperkte mate wordt toegepast.
 >_“Kleuren geven snel duidelijkheid, maar een teveel eraan komt over als kinderachtig.” -Evy (zorgkundige: wonen en leven)_
 
-De kwantitatieve test waarbij deelnemers zo snel mogelijk moesten aangeven welke verandering ze aan de FU zagen, leverde weinig op, omdat ze hun waarnemingen niet direct uitspraken. Hierdoor is het kwantitatieve onderzoek niet validatief genoeg.
-
+De kwantitatieve test, waarbij deelnemers zo snel mogelijk moesten aangeven welke verandering ze aan de feedbackunit (FU) opmerkten, bleek weinig betrouwbaar. De reactiesnelheid varieerde sterk tussen de deelnemers: terwijl de ene deelnemer eerst rustig ging zitten en vroeg of hij al mocht beginnen, gaf een andere al antwoord na een eerste blik. Door deze inconsistente startmomenten en interpretaties is het niet mogelijk om op basis van deze test geldige uitspraken te doen over reactiesnelheid. De resultaten missen daardoor de noodzakelijke validiteit om als kwantitatieve data gebruikt te worden.
 
 #### Conclusies & implicaties
 De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor abstracte dierfiguren en rustig kleurgebruik. Groen en warm wit zorgen voor rust, terwijl felle kleuren vaak als kinderachtig worden ervaren. Zonder uitleg is de functie niet altijd meteen duidelijk, wat de gewenste discretie weerspiegelt. Bewegingen en lichtsignalen gecombineerd bieden de beste herkenbaarheid. Voor verdere tests ligt de focus op het vergroten van persoonlijke herkenbaarheid, het oproepen van rust en veiligheid, en het behouden van subtiele maar duidelijke feedback in een drukke werkomgeving.
@@ -751,13 +750,13 @@ De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor
 | DR51  | De betekenis van bewegingen moet intuïtief en positief geïnterpreteerd worden. Bewegingen met negatieve associaties (bv. angst) moeten vermeden worden. | Test 4 | 03/04/2025 |
 
 
-
+---
 ### Develop 5: [Esthetische evaluatie & visuele test]
 #### Doelstellingen
-In dit onderdeel werd onderzocht hoe de Feedback Unit binnen het Take Five-systeem er visueel moet uitzien om optimaal te integreren in een zorgcontext (woonzorgcentra en ziekenhuizen). De focus lag hierbij op cognitieve ergonomie en esthetiek. Het doel was een ontwerp te ontwikkelen dat rust, vertrouwen en herkenning oproept bij zorgverleners.
+In dit onderdeel werd onderzocht hoe de Feedback Unit binnen het Take Five-systeem er visueel moet uitzien om optimaal te integreren in een zorgcontext (WZC en ziekenhuizen) rekeninghoudend met de cognitieve ergonomie en esthetiek. Het doel was om een ontwerp te ontwikkelen dat rust, vertrouwen en herkenning oproept bij zorgverleners.
 
 #### Materiaal en methoden
-Voor deze test werd een online enquête uitgevoerd via Qualtrics (n = 35). Deelnemers kwamen uit verschillende leeftijdsgroepen en bestonden uit studenten, familie en kennissen. De volledige uitwerken kan worden teruggevonden in [Protocol develop 5.](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Concept%20test%20protocol%205.1.pdf)
+Voor deze test werd een online enquête gelanceerd via Qualtrics (n = 35). Deelnemers kwamen uit verschillende leeftijdsgroepen en bestonden uit studenten, familie en kennissen. De volledige uitwerking kan worden teruggevonden in [Protocol develop 5.](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Concept%20test%20protocol%205.1.pdf)
 
 Gebruikte testmethoden:
 
@@ -793,8 +792,8 @@ De analyse voor de resulaten kan worden teruggevonden bij [Rapport develop 5.](h
 - Abstracte diermetaforen, zoals een hond, worden positief ontvangen zolang ze niet kinderachtig overkomen.
 - De visuele communicatie mag subtiel zijn. De functie hoeft niet meteen duidelijk te zijn voor bezoekers, zolang het personeel het begrijpt.
 
-#### Conclusies & implicaties (design requirements en beslissingen)/
-De resultaten uit D5 bevestigen dat een rustige, natuurlijke esthetiek essentieel is voor een succesvolle integratie van de Feedback Unit in een zorgomgeving. De voorkeur gaat uit naar zachte vormen, warme materialen en discrete visuele communicatie. Deze inzichten vormen de basis voor verdere verfijning van het ontwerp in de eindfase van het project.
+#### Conclusies & implicaties
+De resultaten uit deze vijfde devellop bevestigen dat een rustige, natuurlijke esthetiek essentieel is voor een succesvolle integratie van de Feedback Unit in een zorgomgeving. De voorkeur gaat uit naar zachte vormen, warme materialen en discrete visuele communicatie. Deze inzichten vormen de basis voor verdere verfijning van het ontwerp in de eindfase van het project.
 | ID   | Omschrijving                                                                 | Type | Bron    | Datum       |
 |------|-------------------------------------------------------------------------------|------|---------|-------------|
 | DR52 | Het ontwerp moet rust en vertrouwen uitstralen via ronde vormen              | M    | Test 5  | 17/05/2025  |
@@ -805,17 +804,14 @@ De resultaten uit D5 bevestigen dat een rustige, natuurlijke esthetiek essentiee
 
 ## Conclusie  
 ### Slotbevindingen  
-Na een jaar ontwerpen en testen is een werkend prototype van de Feedbackunit ontwikkeld binnen het Take Five-project. Deze unit vormt samen met een draagbare sensor en een optionele verificator een systeem dat zorgverleners helpt hun stressniveau tijdig af te bakenen in woonzorgomgevingen.  
+Ten einde van het projectvak Gebruiksgericht Ontwerpen, is een volledig concept ontwikkeld om stress bij zorgverleners de aandacht te geven die het verdient. Dit door de gebruikers meer bewust te maken van hun stressniveau. Het volledige poject is conceptueel uitbedacht en onderbouwd, waarbij een werkend prototype van de feedbackunit is ontwikkeld. Deze unit vormt samen met een draagbare sensor en een optionele verificator een compleet systeem dat zorgverleners helpt hun stressniveau tijdig af te bakenen.  
 
-De Feedbackunit werd ontworpen met aandacht voor intuïtieve bediening, visuele en tactiele signalen en minimale afleiding tijdens het werk. Via een discreet dierobject en licht geeft de FU directe maar discrete feedback over het gemeten stressniveau. Gebruikstesten met zorgverleners leverden waardevolle inzichten op voor de vormgeving en interactie, met als resultaat een toestel dat praktisch inzetbaar is en eenvoudig te integreren valt in het dagelijkse zorgproces.  
+De volledige concept is ondersteund door aangetoonde feiten en werd ontworpen met aandacht voor intuïtieve communicatie met de gebruiker, visuele en tactiele signalen en minimale afleiding tijdens het werk. Via een bewegend dier als metafoot en licht, geeft de FU directe maar discrete feedback over het gemeten stressniveau. Gebruikstesten met zorgverleners leverden waardevolle inzichten op voor de vormgeving en interactie, met als resultaat een toestel dat praktisch inzetbaar is en eenvoudig te integreren valt in het dagelijkse zorgproces.
 
-De huidige versie is klaar voor grootschaligere praktijktesten en verdere integratie met het volledige systeem. Het ontwerp vormt een concrete stap richting meer mentaal welzijn voor zorgpersoneel, ondersteund door technologie die meebeweegt met hun noden.
-<p align="center">
-  <img src="Foto's/Teaser 2.png" style="height:400px;">
-</p>
+Het project in dit stadium kan geklassificeerd worden als **TRL 6**, wat betekent dat het systeem in een relevante werkomgeving getest is en klaar is voor grootschaligere praktijktesten en verdere integratie in een volwaardig systeem. Daarbij wordt **geen rekening gehouden met de technische maturiteit van cortisolmetingen**, die op momenteel nog in ontwikkeling zijn. Het project vormt een concrete stap richting meer mentaal welzijn voor zorgpersoneel, met als doel het aantal burn-outs structureel te verminderen.
 
 ### Product design requirements
-Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE, MoSCoW, literatuuronderzoek, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
+Doorheen dit volledige project zijn tijdens de uitgevoerde analyses (zoals PESTLE- en MoSCoW-analyse, plug & play testing, user interviews, user testing, ...) steeds meer design requirements vastgesteld. Deze helpen om het eindproduct zo goed mogelijk te omschrijven. In dit deel worden alle design requirements opgelijst per onderdeel van het eindproduct (wearable, verificator, feedbackunit). Het is daarbij belangrijk om opnieuw te benadrukken dat binnen het gebruiksgerichte onderzoek de meeste aandacht naar de feedbackunit is gegaan.
 
 #### Algemeen
 Hieronder staan de product design requirements voor de algemene werking van het product.
@@ -897,8 +893,8 @@ Hieronder staan de product design requirements voor de verificator.
 
 
 ## Technische beschrijving
-Het laatste prototype van de FU is geprint uit marble PLA, de CAD-files zijn terug te vinden onder [CAD-files](https://github.com/DePieter/TakeFive/tree/main/CAD/Develop%205). Een uitgebreide uitleg over de code en elektronica kan worden teruggevonden bij: [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
-### Bill of materials FU:
+Het laatste prototype van de FU is ge-3D-print waarvan de CAD-files zijn terug te vinden onder [CAD-files](https://github.com/DePieter/TakeFive/tree/main/CAD/Develop%205). Een uitgebreide uitleg over de code en elektronica kan worden teruggevonden in het deel [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
+### Bill of materials FU prototype:
 - [Marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120)
 - [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996)
 - [330 ohm weerstand](https://www.bitsandparts.nl/Weerstand-330-Ohm-1-4W-5pct-p101277?gQT=1)
