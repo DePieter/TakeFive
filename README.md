@@ -60,7 +60,7 @@ Om de effectiviteit van verschillende ontwerpkeuzes te toetsen, werden zaken zoa
 
 De ontwerpmethodologie van dit proces is vastgelegd in onderstaande visuele tijdlijn.
 
-<img src="Foto's/3 Methodologie/Methodologie geupdate tot D4.png" width=100%>
+<img src="Foto's/3 Methodologie/Methodologie geupdate tot D5.png" width=100%>
 
 ## Discovery
 De discoveryfase richt zich op het definiëren van de probleemruimte, nog niet op het maken van een product. Via user interviews wordt bepaald welke problemen prioritair zijn, wat resulteert in een goed geformuleerde "how might we".
