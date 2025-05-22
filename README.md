@@ -16,7 +16,7 @@ Het systeem bestaat uit drie componenten:
 
 - **Wearable:** detecteert fysiologische stresssignalen zoals hartslagvariatie (HVR) en cortisol. Bij een te hoog stressniveau trilt het apparaat zacht, met een aangenaam rithme. Indien de stress te lang aanhoudt, volgt een duidelijkere trilling.
 - **Feedbackunit (FU):** toont enkel aan de desbetreffende gebruiker het realtime stressniveau op een visuele en discrete manier.
-- **Verificator (optioneel):** stelt gebruikers in staat om bewust pauzes te nemen met wetenschappelijk onderbouwde oefeningen. De gebruiker scant zichzelf in, waarna een geschikte interventie wordt voorgesteld (beperkt in tijd). Er is een ingebouwde tijdslimiet per persoon om misbruik te voorkomen.
+- **Verificator (optioneel):** stelt gebruiker in staat om zich te laten begeleiden bij wetenschappelijk onderbouwde oefeningen. De gebruiker scant zichzelf in, waarna een geschikte pauze wordt voorgesteld. Hierbij is een ingebouwde tijdslimiet per persoon om misbruik te voorkomen.
 
 > _Take Five maakt stress zichtbaar, ondersteunt zelfzorg en draagt bij aan een gezonde, collegiale werkomgeving._
 
