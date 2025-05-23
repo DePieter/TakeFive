@@ -698,7 +698,7 @@ De vleugels van <strong>de vlinder</strong> zullen zich geleidelijk openslaan na
       <img src="Foto's/6 Develop/D4/Dier 2 olifant D4.png" style="height:200px;" alt="FU wave 2 prototyping">
     </td>
     <td>
-De slurf van<strong>de olifant</strong> zal geleidelijk omhoog gaan naarmate het stressniveau van de gebruiker stijgt. De olifant is gekozen aangezien zijn uitstraling van kracht en stabiliteit.
+De slurf van<strong> de olifant</strong> zal geleidelijk omhoog gaan naarmate het stressniveau van de gebruiker stijgt. De olifant is gekozen aangezien zijn uitstraling van kracht en stabiliteit.
     </td>
   </tr>
 
@@ -712,9 +712,6 @@ De slurf van<strong>de olifant</strong> zal geleidelijk omhoog gaan naarmate het
     </td>
   </tr>
 </table>
-
-#### Abstractieniveau
-Om het abstractieniveau, die de metafoor van de FU moet aannemen, te bepalen, kregen zorgverleners foto's te zien van dieren in oplopende vormen van abstractie. Waarna hen gevraagd werd om deze beelden te rangschikken van meest naar minst herkenbaar.
 
 
 #### User Testing (n=5)
@@ -738,12 +735,20 @@ Uit de gesprekken met zorgprofessionals kwamen diverse waardevolle inzichten naa
 Daarbij is aan te geven dat kleurgebruik is toegestaan, mits het met zorg en in beperkte mate wordt toegepast.
 >_“Kleuren geven snel duidelijkheid, maar een teveel eraan komt over als kinderachtig.” -Evy (zorgkundige: wonen en leven)_
 
+Niet alle natuurlijke bewegingen van de dieren worden even positief waargenomen.
+>_“Als de olifant zijn slurf omhoog doet, denk ik dat hij gaat aanvallen."_
+
 De kwantitatieve test, waarbij deelnemers zo snel mogelijk moesten aangeven welke verandering ze aan de feedbackunit (FU) opmerkten, bleek weinig betrouwbaar. De reactiesnelheid varieerde sterk tussen de deelnemers: terwijl de ene deelnemer eerst rustig ging zitten en vroeg of hij al mocht beginnen, gaf een andere al antwoord na een eerste blik. Door deze inconsistente startmomenten en interpretaties is het niet mogelijk om op basis van deze test geldige uitspraken te doen over reactiesnelheid. De resultaten missen daardoor de noodzakelijke validiteit om als kwantitatieve data gebruikt te worden.
 
-#### Conclusies & implicaties
-De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor abstracte dierfiguren en rustig kleurgebruik. Groen en warm wit zorgen voor rust, terwijl felle kleuren vaak als kinderachtig worden ervaren. Zonder uitleg is de functie niet altijd meteen duidelijk, wat de gewenste discretie weerspiegelt. Bewegingen en lichtsignalen gecombineerd bieden de beste herkenbaarheid. Voor verdere tests ligt de focus op het vergroten van persoonlijke herkenbaarheid, het oproepen van rust en veiligheid, en het behouden van subtiele maar duidelijke feedback in een drukke werkomgeving.
 
-Op termijn is het de bedoeling dat elke gebruiker een eigen dier krijgt toegewezen, aangepast aan hun voorkeur, persoonlijkheid of teamdynamiek. Die personalisatie kan zich uiten in vorm, kleur of expressie. Voor het uiteindelijke uitwerken van een meer functioneel prototype, **zak er gefocust worden op één enkel dier**, zodat de werking en signaalduidelijkheid van de feedbackunit eerst in zijn eenvoud getest konden worden.
+
+
+#### Conclusies & implicaties
+De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor abstracte dierfiguren en rustig kleurgebruik. Groen en warm wit zorgen voor rust, terwijl felle kleuren vaak als kinderachtig worden ervaren. Zonder uitleg is de functie niet altijd meteen duidelijk, wat de gewenste discretie weerspiegelt. Bewegingen en lichtsignalen gecombineerd bieden de beste herkenbaarheid.
+
+De keuze van de beweging moet zorgvuldig gebeuren om een positief gevoel op te roepen. Uit eerdere tests blijkt dat de beweging logisch moet aansluiten bij het karakter van de gekozen metafoor. Uit deze test is gebleken dat ook de uitstraling van de beweging een belangrijke rol speelt: zo kan een olifant die zijn slurf omhoog steekt als bedreigend overkomen, terwijl een zittende olifant net een speelse en vriendelijke indruk wekt.
+
+Op termijn is het de bedoeling dat elke gebruiker een eigen dier krijgt toegewezen, aangepast aan hun voorkeur, persoonlijkheid of teamdynamiek. Die personalisatie kan zich uiten in vorm, kleur of expressie. Voor het uiteindelijke uitwerken van een meer functioneel prototype, **zal er gefocust worden op één enkel dier**, zodat de werking en signaalduidelijkheid van de feedbackunit eerst in zijn eenvoud getest konden worden.
 
 | ID    | Design Requirement                                                                                                                                | Source | Date       |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|
