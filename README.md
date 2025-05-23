@@ -162,10 +162,8 @@ Twee (+1) waves die gebruik maken van volgende methodologiën:
 In deze eerste wave staat verkenning centraal: het vinden van de juiste oplossing is nog onzeker, maar de eerste ideeën, prototypes en tests vormen een cruciale stap om grip te krijgen op stress op de werkvloer.
 
 #### Ideation
-Tijdens de eerste ontwikkelingsfase lag de focus al snel op een concept van een wearable die het stressniveau meet en feedback geeft aan de gebruiker. De vorm van deze wearable hangt sterk af van de draaglocatie, die op haar beurt beperkt wordt door medische richtlijnen (bv. wearable rond pols mag niet wegens verhoogde kans op bacteriële overdracht) en de geschiktheid voor nauwkeurige hartslagmetingen. Na het afwegen van deze factoren blijven drie mogelijke locaties over: borst, bovenarm en benen. De optie om de wearable op de benen te dragen wordt uitgesloten vanwege het mogelijke negatieve stigma dat geassocieerd wordt met enkelbanden.
-
-Nadat er geweten is dat de opties voor een wearable geperkt zijn, werden de mogelijke concepten eenvoudig en snel uitgeschetst om een algemeen idee te kunnen krijgen van het concept. Deze eerste, snelle schetsen zijn hieronder te zien.
-
+In de eerste ontwikkelingsfase werd al snel gefocust op een wearable die stress meet en feedback geeft. De vorm hangt af van de draaglocatie, die beperkt wordt door medische richtlijnen (bv. geen pols wegens infectierisico) en nauwkeurigheid van hartslagmeting. Drie locaties bleven over: borst, bovenarm en benen. De benen vielen af vanwege mogelijke associaties met enkelbanden.
+Vervolgens werden snel eenvoudige schetsen gemaakt om het concept visueel te verkennen.
 
 <p align="center">
   <img src="Foto's/5 Definition/Wave 1/slagadren-lichaam.jpg" style="height:300px;">
@@ -175,9 +173,10 @@ Nadat er geweten is dat de opties voor een wearable geperkt zijn, werden de moge
 </p>
 
 #### Storyboarding
-Om de eerste mogelijke onvoorziene fouten uit het concept van een wearable te krijgen, wordt er een sotryboard uitgewerkt. Dit geeft op een eerste niveau inzicht in de werkelijke situatie en wijst op mogelijke eerstelijnsfouten. Het storyboard verloopt als volgt:
+Om eerste onvoorziene fouten in het wearable-concept op te sporen, werd een storyboard opgesteld. Dit geeft een eerste inzicht in de werksituatie en mogelijke basisfouten.
 
-De zorgverlener arriveert op het werk, neemt de wearable en doet deze om. Zodra het apparaat wordt inschakelt, verschijnt er een lichtsignaal. Enkele uren later wordt er een trilling waargenomen, wat aangeeft dat het stressniveau hoog ligt. De zorgverlener beslist om even een glaasje water te drinken en een aantal keer diep in en uit te ademen, vervolgens hervat de persoon zijn/haar werk. Aan het einde van de shift, wordt de wearable op de oplader geplaatst.
+Scenario: De zorgverlener komt aan, neemt de wearable en activeert die, waarop een lichtsignaal verschijnt. Enkele uren later volgt een trilling als teken van verhoogde stress. De zorgverlener neemt kort pauze (water drinken, diep ademhalen) en hervat daarna het werk. Na de shift wordt de wearable opgeladen.
+
 <p align="center">
   <img src="Foto's/5 Definition/Wave 1/Storyboard wave 1.png" width="600px">
 </p>
