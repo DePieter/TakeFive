@@ -905,22 +905,24 @@ Het laatste prototype van de FU is ge-3D-print waarvan de CAD-files zijn terug t
 - [Breadboard](https://sinuss.be/products/psg-bb-170w-breadboard-170-pin-white-pro-signal?currency=EUR)
 
 ## Kritische reflectie
-Kritische reflectie
-Over SEM1 en SEM2
-Over zowel het ontwerp zelf, de methodologie, de uitgevoerde testen en analyses, de gemaakte prototypes, als openstaande onderzoeksvragen (future reserach should focus on …) 
+### Semester 1
+Tijdens semester 1 bleek het bijzonder moeilijk om gestructureerd te werk te gaan binnen de discovery- en define-fase. Hoewel er veel waardevolle inzichten verzameld zijn, verliep dit vaak inconsistent. Protocollen en dossiers waren onoverzichtelijk en misten een duidelijke opbouw. Het doel van testsessies werd regelmatig pas achteraf scherpgesteld, waardoor de resultaten minder gericht en moeilijker interpreteerbaar waren. Dit leidde ertoe dat conclusies pas via omwegen bereikt werden, wat vaak veel tijd kostte. 
 
+### Semester 2
+In semester 2, met de start van de develop- en deliver-fase, werd het team versterkt met een nieuw teamlid. Op deze moment had iedereen waardevolle lessen uit semester 1 geleerd waardoor er bewust gekozen werd voor een gestructureerde werkwijze, met gestructureerde onderlinge feedbackmomenten tussen teamleden, duidelijke taakverdeling, regelmatige vergaderingen en concrete doelen per fase. Testprotocollen waren beter onderbouwd en bruikbaar voor externe testpersonen, zoals te zien in de Plug and Play-test in WZC De Oever. Toch bleven ook hier enkele methodologische kanttekeningen: zo bleek uit de test dat de zelfrapportage van pauzes geen betrouwbare meetmethode is, en dat bijvoorbeeld signalen van de feedbackunit soms niet werden opgemerkt. De test rond reactiesnelheid op signaalveranderingen miste validiteit door inconsistent gedrag van deelnemers, wat de waarde van de verzamelde data sterk beperkte. Hieruit blijkt dat dit een waardevolle testmethode kan zijn, maar dat dit pas echt goed zal werken als het gaat om een meer afgewerkt prototype bij meer concrete afbakeningen.
 
-In het eerste semester van dit project hebben we ons gericht op het testen van een breed scala aan mogelijkheden en het verifiëren van de resultaten. Dit proces heeft ons waardevolle inzichten opgeleverd, die we hebben gebruikt om ons uiteindelijke concept goed te onderbouwen.
+### Ethisch
+Daarnaast moet ook kritisch stilgestaan worden bij de ethische dimensie van het systeem. De data die gecapteerd wordt — zoals stressniveaus, gedragsreacties of biometrische signalen — kan op ethisch vlak zowel een **enorme positieve als negatieve impact** hebben. Enerzijds kan het leiden tot betere ondersteuning en preventie van burn-outs, anderzijds schuilt er een reëel risico op misbruik, stigmatisering of ongewenste monitoring van medewerkers. Deze gevoeligheden zijn niet enkel technisch van aard, maar raken aan fundamentele vragen over privacy, autonomie en controle binnen de arbeidscontext. Dit vraagt om een bewuste, transparante en ethisch verantwoorde aanpak in elke volgende fase van ontwikkeling en implementatie.
 
-Bij het prototypen van de waves hebben we verschillende opties onderzocht, met behulp van tools zoals Arduino. Deze prototypes hebben we vervolgens geëvalueerd door middel van gebruikerstesten, waarbij we ons vooral hebben gefocust op de ergonomie en de discretie van de prototypes.
+### technisch
+Hoewel het systeem technisch geclassificeerd kan worden als TRL 6, is dit enkel correct wanneer de integratie van cortisolmetingen buiten beschouwing wordt gelaten aangezien deze component nog in ontwikkeling is. Bovendien werd binnen dit project vooral gefocust op de ontwikkeling en test van de feedbackunit; de verificator en wearablecomponenten werden slechts beperkt meegenomen. De volledigheid van het systeem vormt daarom een belangrijke focus voor verder onderzoek.
 
-Voor het vervolg van het project zullen we ons voornamelijk richten op twee zaken, zonder de eerdere iteraties uit het oog te verliezen:
-- Het correct regelen van de pauzes: We willen pauzes beter afstemmen op de drukte, bijvoorbeeld door in stressvolle periodes minder snel een pauze voor te stellen of pauzes te baseren op de oorzaak van de stress (snel stijgend, geleidelijk stijgend, etc.).
-- Het ontwikkelen van de apparatuur (wearable en feedback-unit) zodat deze voldoet aan alle ontwerpvereisten.
+### Vervolg
+Daarnaast blijft er een fundamentele vraag open: hoe meet je betrouwbaar het effect van zo’n systeem op mentaal welzijn? De aanpak in semester 2 was duidelijk sterker en consistenter dan in semester 1, maar er is nog ruimte voor verbetering.
 
+Vervolgonderzoek zou zich moeten richten op het betrouwbaar integreren van biometrische gegevens zoals cortisolwaarden, en het ontwikkelen van methodes om automatisch te controleren of pauzes effectief worden genomen (verificator uitwerken). Daarnaast moet onderzocht worden hoe het systeem sociaal aanvaard wordt binnen zorgteams, en welke effecten langdurig gebruik hebben op stressbeleving en welzijn.
 
-
-
+Kortom, TakeFive groeide in één academiejaar van een ruw idee tot een functioneel en getest concept. Hoewel het eerste semester gekenmerkt werd door een chaotische aanpak, vormden de lessen die daaruit voortkwamen de basis voor een sterkere en meer doordachte tweede fase. De verworven inzichten bieden een solide fundament om verder te bouwen aan een concreet en relevant product dat mentaal welzijn in de zorgsector bevordert en burn-outs tot een minimum beperkt — mits het gepaard gaat met een kritische blik op ethiek, volledigheid en contextuele haalbaarheid.
 
 
 
