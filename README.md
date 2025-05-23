@@ -803,16 +803,13 @@ Hieronder staan de product design requirements voor de algemene werking van het 
 | DR05 | Het product moet inspelen op uiteenlopende gebruikerservaringen en zowel stressverlichting (pain relief) als positieve meerwaarde (value promise) bieden. | Discovery |  /  |
 | DR08  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
 | DR10  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
-| DR13  | Het systeem moet de mogelijkheid bieden om functies te personaliseren, zoals het in- of uitschakelen van meldingen en het aanpassen van de intensiteit. | Wave 1       | 11/12/2024 |
 | DR14  | Prototypen moeten worden getest op gebruiksgemak en effectiviteit in een hectische zorgomgeving, met prioriteit voor eenvoudige bediening en snelle toegang tot kernfuncties. | Wave 1       | 11/12/2024 |
 | DR15  | Er moeten verschillende methoden worden getest om gebruikers effectief te stimuleren pauzes te nemen, ook onder hoge werkdruk. | Wave 1       | 11/12/2024 |
 | DR16  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
 | DR17  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
 | DR18  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave&nbsp;2       | 23/12/2024 |
-| DR20  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
 | DR21  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
 | DR23  | Het systeem moet modulair zijn, met instelbare meldingen en functies. | Wave 2       | 23/12/2024 |
-| DR24  | Samenwerking met zorginstellingen is vereist voor brede adoptie en implementatie in beleidskaders. | Wave 2       | 23/12/2024 |
 | DR25  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te verminderen. | Wave 2       | 23/12/2024 |
 | DR27  | Gebruikers moeten zelf kunnen kiezen wanneer ze hun pauze nemen.                                                                       | Test 3.1  | 24/02/2024 |
 | DR31  | Het systeem mag geen extra werkdruk of cognitieve belasting veroorzaken.                                                                | Test 3.1  | 24/02/2024 |
@@ -830,8 +827,6 @@ Hieronder staan de product design requirements voor de feedbackunit.
 | DR04 | Het ontwerp moet bijdragen aan een rustgevende en stressverlagende omgeving door middel van passieve elementen zoals licht, kleur en geluid.              | Discovery |   /  |
 | DR07  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave&nbsp;1       | 11/12/2024 |
 | DR09  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
-| DR19  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
-| DR26  | De feedback unit moet discreet zijn en enkel interpreteerbaar voor collega’s. Dit door te werken met visuele Affordances.             | Test&nbsp;3.1  | 24/02/2024 |
 | DR28  | De feedback unit moet individueel herkenbaar zijn en niet gelinkt aan een gedeelde zorgkar.                                            | Test 3.1  | 24/02/2024 |
 | DR33  | Het systeem moet een positieve stimulans bieden, zoals kleine gelukjes, om acceptatie te verhogen.                                     | Test 3.1  | 24/02/2024 |
 | DR35   | De feedbackunit moet in de zorgpost staan.                                                                                                                                    | Test&nbsp;3.2 | 6/03/2025  |
@@ -857,7 +852,6 @@ Hieronder staan de product design requirements voor de wearable.
 |------|-----------------------------------------------------------------------------------|---------|------------|
 | DR06 | Hartslagvariabiliteit (HRV) moet worden gebruikt als de primaire biomarker voor het meten van stressniveaus en herstelmomenten.                           | Discovery |  /  |
 | DR12  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave&nbsp;1       | 11/12/2024 |
-| DR22  | Het ontwerp moet lichtgewicht en comfortabel om te dragen zijn. | Wave 2       | 23/12/2024 |
 | DR29  | De wearable moet minimale verstoring veroorzaken en niet te vaak trillen.                                                              | Test 3.1  | 24/02/2024 |
 | DR41   | Het moet ook andere data verzamelen zoals bijv. een stappenteller.                                                                                                            | Test 3.2 | 6/03/2025  |
 | DR43   | Het moet snel controleerbaar zijn zonder fysiek naar een feedbackunit te moeten lopen.                                                                                        | Test 3.2 | 6/03/2025  |
