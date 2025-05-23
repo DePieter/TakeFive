@@ -273,23 +273,15 @@ De inzichten zijn verwerkt tot ontwerpvereisten in
 > _"Ik vind de externe feedbackunit een goed concept omdat ik in the heat of the moment zo'n trilling via enkel de wearable niet altijd zal opmerken vrees ik"._
 
 #### Conclusies & implicaties:
-Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daarbij werd onderzocht of het gebruik van een feedbackunit effectief en zinvol is. Dankzij waardevolle inzichten uit onder andere de eerste gebruikerstesten, levert deze test niet alleen een antwoord op de hoofdvraag, maar maakt ze het ook mogelijk om al enkele ontwerpdetails vast te leggen. De conclusie is dat het concept verder uitgewerkt kan worden, met de feedbackunit als essentieel element om triggerblindheid te voorkomen. Daarbij moet rekening gehouden worden met de volgende ontwerpvereisten:
+Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daarbij werd onderzocht of het gebruik van een feedbackunit effectief en zinvol is. Dankzij waardevolle inzichten uit onder andere de eerste gebruikerstesten, levert deze test niet alleen een antwoord op de hoofdvraag, maar maakt ze het ook mogelijk om al enkele ontwerpdetails vast te leggen. De conclusie is dat het concept verder uitgewerkt kan worden, met de feedbackunit als essentieel element om triggerblindheid te voorkomen. Daarbij moet rekening gehouden worden met de [Product design requirements](#product-design-requirements) waarvan hieronder de belangrijkste staan weergegeven:
 
-| ID    | Design Requirements                                                                                                     | Source       | Date       |
-|-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR07  | Het apparaat moet subtiel en onopvallend zijn om ongemak of sociale aandacht te vermijden. Waarschuwingssignalen moeten bij voorkeur tactiel (trillingen) of visueel (licht) zijn, in plaats van auditieve signalen. | Wave&nbsp;1       | 11/12/2024 |
-| DR08  | Het systeem moet de mogelijkheid bieden om de meldingsfrequentie en intensiteit te personaliseren, zodat gebruikers het kunnen afstemmen op hun voorkeuren en werkomstandigheden. | Wave 1       | 11/12/2024 |
-| DR09  | Het apparaat moet naadloos integreren met de huidige werkomgeving zonder onderbrekingen te veroorzaken. Gebruik discreet geplaatste feedbackmechanismen die meebewegen met de zorgprofessional. | Wave 1       | 11/12/2024 |
-| DR10  | Het systeem moet niet-invasieve meldingen bieden via visuele of tactiele signalen en storende functies zoals harde geluiden of buzzers vermijden. | Wave 1       | 11/12/2024 |
-| DR11  | Het apparaat moet functies bevatten zoals ademhalingsoefeningen en pauzevoorstellen die eenvoudig te gebruiken zijn, zelfs in een drukke omgeving. | Wave 1       | 11/12/2024 |
-| DR12  | Het apparaat moet klein, lichtgewicht en onopvallend zijn, zodat het comfortabel te dragen is tijdens het werk. | Wave 1       | 11/12/2024 |
-| DR13  | Het systeem moet de mogelijkheid bieden om functies te personaliseren, zoals het in- of uitschakelen van meldingen en het aanpassen van de intensiteit. | Wave 1       | 11/12/2024 |
-| DR14  | Prototypen moeten worden getest op gebruiksgemak en effectiviteit in een hectische zorgomgeving, met prioriteit voor eenvoudige bediening en snelle toegang tot kernfuncties. | Wave 1       | 11/12/2024 |
-| DR15  | Er moeten verschillende methoden worden getest om gebruikers effectief te stimuleren pauzes te nemen, ook onder hoge werkdruk. | Wave 1       | 11/12/2024 |
-| DR16  | Samenwerking met zorginstellingen is nodig om de stressmonitor te integreren in bestaande beleidskaders en het gebruik vrijwillig en breed toegankelijk te maken. | Wave 1       | 11/12/2024 |
-| DR17  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te minimaliseren en het gebruik als normaal en ondersteunend te positioneren. | Wave 1       | 11/12/2024 |
+| ID    | Design Requirements                                                                 | Source   | Date       |
+|-------|---------------------------------------------------------------------------------------|----------|------------|
+| DR07  | Subtiel design met trilling of licht, geen geluid.                                   |          |            |
+| DR12  | Klein, licht en comfortabel draagbaar ontwerp.                                       |          |            |
+| DR17  | Discreet en universeel ontwerp tegen stigma.                                         |  Wave 1  | 11/12/2024 |
 
----
+
 ### **Wave 2 (N=5)**
 De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bij benadering eenzelfde structuur zoals wave 1 toegepast.
 
@@ -350,16 +342,17 @@ Belangrijke inzichten:
 Deze resultaten bieden input voor het verfijnen van de gebruikservaring, het verhogen van de effectiviteit en het aanscherpen van de functionele ontwerpcriteria. Het volledig verslag is terug te vinden in [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)
 Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
 
-| ID    | Design Requirements                                                                                                     | Source       | Date       |
-|-------|-------------------------------------------------------------------------------------------------------------------------|--------------|------------|
-| DR18  | Het apparaat moet intuïtief en eenvoudig te bedienen zijn, met specifieke aandacht voor effectieve pauzemeldingen in drukke omgevingen. | Wave&nbsp;2       | 23/12/2024 |
-| DR19  | Het apparaat moet subtiel en discreet zijn, met voorkeur voor trillingen of licht boven geluidssignalen. | Wave 2       | 23/12/2024 |
-| DR20  | Gebruikers moeten meldingen kunnen aanpassen, inclusief de frequentie en intensiteit. | Wave 2       | 23/12/2024 |
-| DR21  | Het apparaat mag lopende taken niet verstoren en moet eenvoudig in bestaande workflows passen. | Wave 2       | 23/12/2024 |
-| DR22  | Het ontwerp moet lichtgewicht en comfortabel om te dragen zijn. | Wave 2       | 23/12/2024 |
-| DR23  | Het systeem moet modulair zijn, met instelbare meldingen en functies. | Wave 2       | 23/12/2024 |
-| DR24  | Samenwerking met zorginstellingen is vereist voor brede adoptie en implementatie in beleidskaders. | Wave 2       | 23/12/2024 |
-| DR25  | Het ontwerp moet discreet en universeel toepasbaar zijn om stigma te verminderen. | Wave 2       | 23/12/2024 |
+| ID    | Design Requirements                                                                                   | Source   | Date       |
+|-------|-------------------------------------------------------------------------------------------------------|----------|------------|
+| DR18  | Intuïtieve bediening met duidelijke pauzemeldingen in drukke omgevingen.                              |    |            |
+| DR19  | Discreet ontwerp met voorkeur voor trilling of licht boven geluid.                                    |    |            |
+| DR20  | Instelbare meldingen (frequentie en intensiteit).                                                     |    |            |
+| DR21  | Verstoort geen lopende taken en past in bestaande workflows.                                          |    |            |
+| DR22  | Lichtgewicht en comfortabel ontwerp.                                                                  |    |            |
+| DR23  | Modulair systeem met instelbare functies.                                                              |    |            |
+| DR24  | Samenwerking met zorginstellingen voor brede adoptie en beleidsintegratie.                            |    |            |
+| DR25  | Discreet en universeel inzetbaar ontwerp ter vermindering van stigma.                                 | Wave 2   | 23/12/2024 |
+
 
 # Develop
 De develop fase draait rond het verfijnen van het product. Hiervoor worden de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing. 
