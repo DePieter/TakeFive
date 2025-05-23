@@ -340,7 +340,7 @@ Belangrijke inzichten:
 - Gebruikers zouden het systeem aanbevelen aan collega’s.
 
 Deze resultaten bieden input voor het verfijnen van de gebruikservaring, het verhogen van de effectiviteit en het aanscherpen van de functionele ontwerpcriteria. Het volledig verslag is terug te vinden in [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)
-Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
+Daarbij moet rekening gehouden worden met de [Product design requirements](#product-design-requirements) waarvan hieronder de belangrijkste staan weergegeven:
 
 | ID    | Design Requirements                                                                                   | Source   | Date       |
 |-------|-------------------------------------------------------------------------------------------------------|----------|------------|
