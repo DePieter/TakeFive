@@ -141,12 +141,12 @@ In deel [product design requirements](#product-design-requirements) staat een ov
 
 
 ## Definition
-In de definitiefase worden mogelijke oplossingen onderzocht die inspelen op het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze te maken. Dit concept vormt de basis voor verdere ontwikkeling in de develop en deliver fasen. De definitiefase wordt opgedeeld in drie waves, waarvan één van deze waves zich al deel in de devellop fase bevindt. Het concept wordt per wave steeds verder verfijnd, telkens gebruikmakend van theoretische modellen als rode draad.
+In de definitiefase worden mogelijke oplossingen onderzocht voor het eerder gedefinieerde probleem, met als doel een onderbouwde conceptkeuze. Dit concept vormt de basis voor verdere ontwikkeling in de develop- en deliverfases. De definitiefase bestaat uit drie waves, waarvan één al deels in de developfase zit. Per wave wordt het concept verder verfijnd aan de hand van theoretische modellen.
 
 ### Doelstellingen
-- Het ontwikkelen van prototypes die een doordacht concept representeren en de geïdentificeerde problemen aanpakken.
-- Het testen en evalueren van deze prototypes in realistische scenario's om de haalbaarheid te verifiëren.
-- Het verzamelen van inzichten en gebruikersfeedback om de prototypes verder te verbeteren.
+- Ontwikkelen van prototypes die een doordacht concept representeren.
+- Testen van deze prototypes in realistische scenario’s om haalbaarheid te verifiëren.
+- Inzichten en gebruikersfeedback verzamelen voor verdere verbetering.
 
 ### Materiaal & methoden
 Twee (+1) waves die gebruik maken van volgende methodologiën:
@@ -154,7 +154,7 @@ Twee (+1) waves die gebruik maken van volgende methodologiën:
 - Storyboarding
 - MoSCow
 - Prototyping 
-- User testing (Wizard of OZ testen + Plug and Play testen)
+- User testing (Wizard of Oz + Plug & Play)
 
 ---
 
