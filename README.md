@@ -898,16 +898,7 @@ Hieronder staan de product design requirements voor de verificator.
 
 
 ## Technische beschrijving
-Het laatste prototype van de FU is ge-3D-print waarvan de CAD-files zijn terug te vinden onder [CAD-files](https://github.com/DePieter/TakeFive/tree/main/CAD/Develop%205). Een uitgebreide uitleg over de code en elektronica kan worden teruggevonden in het deel [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
-### Bill of materials FU prototype:
-- [Marble PLA](https://acproducts.nl/products/polymaker-polyterra-pla-filament-marble-white-1-75-mm-1kg?variant=44448695582984&country=NL&currency=EUR&gad_campaignid=21757080120)
-- [12 led's ledring](https://www.otronic.nl/nl/12-bit-rgb-leds-ws2812b-cirkel-rond-neop-140567797.html?source=googlebase&gad_campaignid=19639985996)
-- [330 ohm weerstand](https://www.bitsandparts.nl/Weerstand-330-Ohm-1-4W-5pct-p101277?gQT=1)
-- [Micro servomotor](https://www.bitsandparts.nl/Servo-motor-analoog-Micro-Servo-9g-SG90-180%C2%B0-p1907205?gQT=1)
-- [IR-sensor](https://www.amazon.com.be/-/nl/LAOMAO-IR-zender-ontvanger-infrarood-diode/dp/B00EFOTJZE/ref=asc_df_B00EFOTJZE?mcid=ccc62f0bed2f3b54b88e6d84a187dd9d&hvadid=714474122054&hvpos=&hvnetw=g&hvrand=13440445988076704702&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-391957536169&psc=1&language=nl_BE)
-- [9V batterij](https://www.amazon.com.be/-/nl/Duracell-Plus-Power-Alkaline-batterijen-stuks/dp/B00L6ZBJQC/ref=asc_df_B00L6ZBJQC?mcid=0bd8d411819c35bea0549e8427ceeeae&hvadid=714355656954&hvpos=&hvnetw=g&hvrand=1374928461625661830&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-423435131457&psc=1&language=nl_BE)
-- [Arduino UNO](https://www.bitsandparts.nl/product/FUNDUINO_ARDUINO_UNO_R3?gad_campaignid=22404178302)
-- [Breadboard](https://sinuss.be/products/psg-bb-170w-breadboard-170-pin-white-pro-signal?currency=EUR)
+Het laatste prototype van de FU is ge-3D-print waarvan de CAD-files zijn terug te vinden onder [CAD-files](https://github.com/DePieter/TakeFive/tree/main/CAD/Develop%205). Een uitgebreide beschrijving over code, elektronica en CAD-bestanden kan worden teruggevonden in het deel [Emerging_tech_arduino](https://github.com/DePieter/TakeFive/blob/main/Emerging_tech_arduino/README.md)
 
 ## Kritische reflectie
 ### Semester 1
