@@ -30,7 +30,7 @@ Het systeem bestaat uit drie componenten:
 
 ## Introductie
 
-In de Belgische zorgsector loopt één op de vijf verpleegkundigen een groot risico op burn-out, en bijna 40% van de zorgverleners ervaart te veel werkstress [^1]. Dit probleem leidt tot ziekteverzuim en hoge kosten: in 2021 werd meer dan 1,8 miljard euro besteed aan arbeidsongeschiktheid door burn-out en depressie, een stijging van 59% sinds 2016 [^3]. Zorgverleners missen echter vaak directe en persoonlijke feedback over hun stressniveau, waardoor tijdig ingrijpen uitblijft.
+In de Belgische zorgsector loopt één op de vijf verpleegkundigen een groot risico op burn-out, en bijna 40% van de zorgverleners ervaart te veel werkstress [^1]. Dit probleem leidt tot ziekteverzuim en hoge kosten: in 2021 werd meer dan 1,8 miljard euro besteed aan arbeidsongeschiktheid door burn-out en depressie, een stijging van 59% sinds 2016 [^2]. Zorgverleners missen echter vaak directe en persoonlijke feedback over hun stressniveau, waardoor tijdig ingrijpen uitblijft.
 
 > _Ieder jaar wordt er 280 miljoen euro gespendeerd aan burn-outs in de zorgsector._  
 > _Op welke manier kan de stress bij woonzorgmedewerkers verlaagd worden zonder dat dit het werk verstoort?_
@@ -43,7 +43,7 @@ Een laagdrempelig en persoonsgericht systeem ontwikkelen dat zorgverleners helpt
 Dit project focust specifiek op de toepassing binnen **woonzorgcentra (WZC)**.
 
 [^1]: Cijfers uit de Belgische gezondheidszorgstudie 2022  
-[^3]: RIZIV-rapport over arbeidsongeschiktheid, 2021
+[^2]: RIZIV-rapport over arbeidsongeschiktheid, 2021
 
 
 ## Methodologie
@@ -71,7 +71,7 @@ Een heldere "how might we" formuleren binnen de probleemruimte.
 
 
 ### Literatuuronderzoek
-Literatuuronderzoek ([Research report: literature reviews](Reports/Discovery/Research%20report%20literature%20reviews.pdf)) heeft de probleemruimte duidelijker in kaart gebracht, zo blijkt dat de zorgsector sinds 2019 kampt met een structureel hoge werkdruk, waarbij vooral het zorgpersoneel zwaar wordt getroffen. In 2023 liep 14,4% van de zorgmedewerkers risico op een burn-out (Vlaamse Werkbaarheidsmonitor, 2023). Deze problematiek is het sterkst aanwezig in woonzorgcentra, waar het aantal medewerkers met burn-outsymptomen tussen 2013 en 2023 met 7,2% is gestegen. In combinatie met de toenemende vergrijzing maakt dit de sector bijzonder kwetsbaar.
+Literatuuronderzoek ([Research report: literature reviews](Reports/Discovery/Research%20report%20literature%20reviews.pdf)) heeft de probleemruimte duidelijker in kaart gebracht, zo blijkt dat de zorgsector sinds 2019 kampt met een structureel hoge werkdruk, waarbij vooral het zorgpersoneel zwaar wordt getroffen. In 2023 liep 14,4% van de zorgmedewerkers risico op een burn-out[^3]. Deze problematiek is het sterkst aanwezig in woonzorgcentra, waar het aantal medewerkers met burn-outsymptomen tussen 2013 en 2023 met 7,2% is gestegen. In combinatie met de toenemende vergrijzing maakt dit de sector bijzonder kwetsbaar.
 
 Werkdruk wordt als de belangrijkste oorzaak van werkstress geïdentificeerd. Bij 41,8% van de zorgmedewerkers heeft dit een negatieve impact op zowel hun werk-privébalans als hun algemeen welzijn. Verpleegkundigen en zorgkundigen in woonzorgcentra ervaren de hoogste werkdruk en vormen daarom de primaire doelgroep van dit project.
 
@@ -81,6 +81,8 @@ In onderstaande foto wordt de probleemruimte concreet weergegeven:
 <div align="center">
   <img src="Foto's/4 Discovery/5WH.jpg" width="50%">
 </div>
+
+[^3]: Vlaamse Overheid. (2023). Werkbaar werk in de zorg- en welzijnssector: Samenvatting.
 
 ### Haalbaarheid
 Het is al snel duidelijk dat het in dit project van belang is om stress meetbaar te maken. Hieromtrend richt het haalbaarheidsonderzoek zich op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
