@@ -1,6 +1,6 @@
 # Take Five
 
-Take Five is een innovatief systeem dat zorgverleners in woonzorgcentra helpt hun stressgrens beter te bewaken via een combinatie van een slimme wearable, een realtime feedbackunit en een optionele verificator. Het doel is om stress bespreekbaar en beheersbaar te maken zonder het werk te verstoren.
+Take Five is een innovatief systeem dat zorgverleners in woonzorgcentra helpt hun stressgrens beter te bewaken door stress op een niet-verstorende manier bespreekbaar en beheersbaar te maken via een combinatie van een slimme wearable, een realtime feedbackunit en een optionele verificator.
 
 **Projectteam:** Demaegdt Pieter, Tops Bram, Schrijvers Finn  
 **Datum:** 23/05/2025
