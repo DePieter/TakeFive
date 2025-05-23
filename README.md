@@ -966,10 +966,3 @@ PubMed Central. (2022). HRV Analysis in a Chinese Workplace Setting, van https:/
       - [Protocol develop 5](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Concept%20test%20protocol%205.1.pdf)
       - [Rapport develop 5](https://github.com/DePieter/TakeFive/blob/main/Reports/Develop/Concept%20test%20rapport%205.1.pdf)
 
-
-
-[^1]: https://www.hln.be/binnenland/helft-zorgverleners-kampt-met-te-veel-stress-op-het-werk~a46bdd30/?referrer=https%3A%2F%2Fwww.google.com%2F
-[^2]: Zorgnet-Icuro. (2024). KCE-rapport: Eén op vijf verpleegkundigen loopt grote kans op burn-out, van https://www.zorgneticuro.be/nieuws/kce-rapport-een-op-vijf-verpleegkundigen-loopt-grote-kans-op-burn-out
-[^3]: https://www.vzinfo.nl/overspannenheid-en-burn-out/zorguitgaven#:~:text=De%20zorguitgaven%20voor%20burn%2Dout,aan%20de%20gezondheidszorg%20in%20Nederland.
-[^4]: https://www.agnesnibbeling.nl/burn-outs-in-de-zorgsector/
-[^5]: Noden- en behoeftenanalyse van personeel in de zorg- en welzijnssectoren en maatwerkbedrijven. (z.j.). Ongepubliceerd document
