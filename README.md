@@ -599,7 +599,11 @@ Het prototype (zie onderstaande foto) bevat drie verschillende actuatoren, die e
 -	Op- en neergaande foto	->  beeldje in de vorm van een metafoor
 -	Bewegend papier		->  Golvende beweging
 -	Gsm-scherm		->  [Bewegend licht](https://github.com/DePieter/TakeFive/blob/main/src/golvende%20beweging.mp4)
-  <img src="Foto's/6 Develop/D3.2/Prototype.png" style="height:200px;">
+
+<div align="center">
+  <img src="Foto's/6 Develop/D3.2/Prototype.png" height="300px">
+</div>
+
 
 #### Emotional mapping
 Plutchiks Wheel of Emotions is een model dat helpt om emoties in kaart te brengen, het bevat acht emoties: vreugde, vertrouwen,... Zo wordt het eenvoudiger voor de woonzorgmedewerkers om de metaforen aan emoties toe te wijzen. Hierdoor kunnen de juiste metaforen gekozen worden voor de FU.
