@@ -400,7 +400,7 @@ Alle componenten van het systeem worden in onderstaande tabel kort beschreven.
 In de eerste versie van de feedbackunit wordt een bloem gebruikt als metafoor voor het stressniveau: naarmate de stress toeneemt, gaat de bloem zichtbaar meer hangen. De verificator wordt vormgegeven als een gieter en symboliseert de mogelijkheid om de bloem 'water te geven'. Dit gebeurt wanneer de gebruiker een voorgestelde pauze uitvoert, waarmee hij of zij actief bijdraagt aan het herstel van balans en welzijn.
 | Product | Concept schetsen |
 |------|------|
-| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200px;">|
+| Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch1.png" style="height: 200px;">|
 | Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch1.png" style="height: 200px;">|
 
 #### Roleplay
