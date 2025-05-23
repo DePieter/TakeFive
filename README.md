@@ -252,20 +252,16 @@ Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in t
 </table>
 
 #### User testing
-Tijdens deze gebruikerstest werden de eerste functionele prototypes van het stressdetectiesysteem getest in WZC Althus. Het doel van deze eerste test was om de levensvatbaarheid van het concept na te gaan, inzichten te verzamelen rond gebruiksvriendelijkheid en impact, en zo de richting voor verdere ontwikkeling en bijsturing te bepalen.
-
-De test bestond uit semigestructureerde interviews met vijf zorgmedewerkers van verschillende leeftijden en functies (begeleiders, opvoeders en een teamleider). Eerst werd via een korte introductie en informed consent uitgelegd waar het project om draait en wat de verwachtingen zijn. Daarna volgden vragen over hun dagelijkse werk, ervaren stressniveaus, huidige copingstrategieën en hun mening over de eerste prototypes. (zie [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf) )
+Tijdens deze gebruikerstest in WZC Althus werden de eerste functionele prototypes van het stressdetectiesysteem geëvalueerd. Doel was het concept te toetsen op levensvatbaarheid, gebruiksvriendelijkheid en impact, om zo richting te geven aan verdere ontwikkeling.
+Vijf zorgmedewerkers (begeleiders, opvoeders, teamleider) werden geïnterviewd na een korte introductie en informed consent. Ze vertelden over hun werk, stresservaringen, copingstrategieën en gaven feedback op de prototypes (zie [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf)).
 
 Tijdens het interview konden de respondenten ook de prototypes zelf ervaren. Hierbij werd gepeild naar hun ervaring met deze meldingsvormen: waren ze storend of net ondersteunend? Waren ze duidelijk en bruikbaar in een drukke werkomgeving?
 
-De respondenten gaven over het algemeen aan dat stress in hun werk vaak ontstaat door tijdsdruk, onverwachte situaties en het moeten multitasken. Alle respondenten herkenden het probleem van structurele overbelasting, zowel bij zichzelf als bij collega’s. Momenteel wordt vooral geprobeerd stress te beheersen door rustig te blijven, prioriteiten te stellen of kort te ventileren met collega's — maar deze strategieën schieten vaak tekort bij hoge werkdruk.
-
-Wat betreft het prototype bleek vooral het trilsignaal op een armband goed aan te slaan: het werd als subtiel en niet-storend ervaren. Geluidssignalen daarentegen werden als te opvallend en storend omschreven. Sommige deelnemers gaven ook aan dat een externe feedbackunit op een zorgkar een nuttige aanvulling kan zijn, omdat ze in drukke momenten een trilsignaal op het lichaam niet altijd bewust opmerken.
-
-Het nemen van een pauze op basis van meldingen bleek in de praktijk vaak niet haalbaar: de werkdruk liet dit zelden toe. Toch gaf men aan dat een vroegtijdige waarschuwing, nog vóór het stressniveau te hoog wordt, erg waardevol zou zijn.
-De behoefte aan een compact, discreet en intuïtief systeem dat zich vlot integreert in de workflow werd door alle respondenten onderstreept.
-
-Deze inzichten zijn samengevat en verwerkt tot ontwerpvereisten die terug te vinden zijn onder Conclusies & implicaties of in [Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Rapport%20Althus.pdf).
+Respondenten ervaren stress door tijdsdruk, onverwachte situaties en multitasking. Men herkende structurele overbelasting en gaf aan dat hun huidige strategieën vaak tekortschieten.
+Het trilsignaal van de armband werd als subtiel en niet-storend ervaren, geluidssignalen als te opdringerig. Een externe feedbackunit op de zorgkar werd gezien als nuttige aanvulling, aangezien trillingen soms onopgemerkt blijven.
+Meteen pauze nemen op basis van meldingen bleek zelden haalbaar, maar vroegtijdige signalering werd als waardevol beschouwd. De behoefte aan een compact, discreet en intuïtief systeem dat naadloos past in de workflow werd breed gedeeld.
+De inzichten zijn verwerkt tot ontwerpvereisten in 
+[Rapport wave 1](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Rapport%20Althus.pdf).
 
 > _"Het zou handig zijn als een systeem stress kan detecteren voordat het te erg wordt."._
 
@@ -296,8 +292,7 @@ Het hoofddoel van wave 1 was om de conceptuele werking goed of af te keuren. Daa
 
 ---
 ### **Wave 2 (N=5)**
----
-De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bij benadering eenzelfde structuur zoals wave 1 toegepast: Ideation -> Storyboarding -> Prototyping -> User testing
+De bekomen design requirements uit wave 1 worden hier in wave 2 gebruikt om het ontwerp te verbeteren. Hierbij werd bij benadering eenzelfde structuur zoals wave 1 toegepast.
 
 #### Ideation
 Tijdens de ideatiefase van wave 2 werd in een brainstormsessie besloten om nieuwe versies van de FU en de wearable te ontwerpen met enkele werkende, primitieve functies. Dit heeft als doel om de prototypes geschikt te maken voor een meer uitgebreide tests in een realistische werkomgeving. Nadat de twee beste concepten waren geschetst, werd onderzocht hoe deze gerealiseerd konden worden.
@@ -345,21 +340,15 @@ Elke interventie werd geëvalueerd op effectiviteit via een scoreformulier. Deze
 
 
 ### Conclusies & implicaties:
-Deze testfase had als doel om de toepasbaarheid en integratie van het prototype in een realistische zorgcontext te onderzoeken. Uit de resultaten blijkt dat het systeem inspeelt op een concrete behoefte: de oefeningen hielpen gebruikers om even stil te staan bij hun stressniveau en gaven hen een rustmoment, al werkte dit voor iedereen anders.
+Deze testfase onderzocht de toepasbaarheid en integratie van het prototype in een realistische zorgcontext. Het systeem beantwoordt aan een concrete behoefte: de oefeningen hielpen gebruikers om stil te staan bij hun stressniveau en gaven rustmomenten, al verschilde de effectiviteit per persoon.
+Lichtsignalen werden niet altijd opgemerkt in de drukte. Respondenten stelden subtiele extra signalen (zoals trilling of geluid) voor. Ook bleek er twijfel over de betrouwbaarheid van zelfgenomen pauzes, wat wijst op de nood aan terugkoppeling of controle in het systeem.
+Belangrijke inzichten:
+- De wearable was comfortabel voor korte duur, maar moet kleiner, zachter en robuuster voor langdurig gebruik.
+- De impact op bewoners was nihil, wat de discretie bevestigt.
+- De testopstelling was eenvoudig en werd zelfstandig beheerd.
+- Gebruikers zouden het systeem aanbevelen aan collega’s.
 
-Wel bleek dat het waarnemen van de lichtsignalen niet altijd lukte in de hectiek van de werkvloer. Respondenten suggereerden om subtiele extra signalen (zoals een zachte trilling of geluid) toe te voegen. Ook werd duidelijk dat de betrouwbaarheid van zelfgenomen pauzes in twijfel wordt getrokken — wat duidt op de nood aan een vorm van terugkoppeling of controlemechanisme in het systeem.
-
-Overige inzichten:
-
-- De wearable werd als comfortabel genoeg ervaren voor korte tijd, maar zou voor langdurig gebruik kleiner, zachter en robuuster moeten zijn.
-
-- De impact op bewoners was nihil, wat positief is voor discretie.
-
-- De testopstelling werd eenvoudig gevonden en zelfstandig beheerd door het personeel.
-
-- Gebruikers zouden het systeem aanraden aan collega’s.
-
-Deze resultaten leverden waardevolle inzichten op voor het verfijnen van de gebruikservaring, het verhogen van de effectiviteit en het verder uitwerken van functionele ontwerpcriteria. Het volledige overzicht is terug te vinden in het [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)
+Deze resultaten bieden input voor het verfijnen van de gebruikservaring, het verhogen van de effectiviteit en het aanscherpen van de functionele ontwerpcriteria. Het volledig verslag is terug te vinden in [Rapport wave 2](https://github.com/DePieter/TakeFive/blob/main/Reports/Define/Report%20De%20Oever.pdf)
 Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande design requirements:
 
 | ID    | Design Requirements                                                                                                     | Source       | Date       |
