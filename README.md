@@ -672,14 +672,15 @@ Uit D3.2 blijkt dat de voorkeur van de FU ligt bij dieren. Hierna werd er een br
 
 
 #### Prototyping
-Voor de FU werd er een basisversie gemaakt die gebruikt kan worden voor alle 3 de dieren. Hierbij is er ruimte voorzien voor alle elektronica die nodig zou zijn om het dier te laten bewegen. De ledring zal op het plateau bevestigd worden waar de dieren op kunnen staan. De FU is ook zo ontworpen zodat er meerdere naast elkaar kunnen staan.
+Uit voorgaande interpretatietest werd duidelijk dat een dierlijke metafoor een krachtig communicatiemiddel kan zijn binnen het systeem. Er werd een algemeen model gemaakt als FU dat gebruikt kan worden om verschillende soorten dieren per FU te integreren. Hierbij is ruimte voorzien om alle elektronica die nodig zou zijn om het dier te laten bewegen, in het model te verwerken. De ledring zal op het plateau bevestigd worden waar de dieren op kunnen staan. Er is beslist om de FU zodanig te ontworpen zodat er meerdere naast elkaar kunnen staan.
 
 <p align="center">
   <img src="Foto's/6 Develop/D4/FU voor D4.png" style="height:300px;">
 </p>
 
 
-Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prototype zal gemaakt zal worden. De dieren zullen op het plateau van de FU gezet worden zodat ze goed zichtbaar zijn. Hierbij zijn de 3D-modellen van de dieren genomen van [Printables](https://www.printables.com/model?ordering=views&period=month) 
+Uit de brainstormsessie zijn er 3 dieren gekomen waarvan een conceptuele beweging is bedacht om het stressniveau te representeren. Deze modellen (van [Printables](https://www.printables.com/model?ordering=views&period=month)) zullen in de volgende test deeld afgetoetst worden op het vlak van interpretatie door de gebruiker.
+
 
 <table>
   <tr>
@@ -687,7 +688,7 @@ Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prot
       <img src="Foto's/6 Develop/D4/Dier 1 D4.png" style="height:200px;" alt="FU wave 2 prototyping">
     </td>
     <td>
-<strong>De vlinder</strong> is een dier dat rust symboliseert, tesamen met rustige bewegingen is het een symbool van rust.
+De vleugels van <strong>de vlinder</strong> zullen zich geleidelijk openslaan naarmate het stressniveau van de gebruiker stijgt. De vlinder is gekozen vanwege zijn uitstraling van lichtheid, vrijheid en lentegevoel.
     </td>
   </tr>
 
@@ -697,7 +698,7 @@ Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prot
       <img src="Foto's/6 Develop/D4/Dier 2 olifant D4.png" style="height:200px;" alt="FU wave 2 prototyping">
     </td>
     <td>
-<strong>De olifant</strong> is een symbool van rust in zijn kalme, rustige bewegingen.
+De slurf van<strong>de olifant</strong> zal geleidelijk omhoog gaan naarmate het stressniveau van de gebruiker stijgt. De olifant is gekozen aangezien zijn uitstraling van kracht en stabiliteit.
     </td>
   </tr>
 
@@ -707,7 +708,7 @@ Uit de brainstormsessie zijn er 3 dieren uitgekomen waarvan er een bewegend prot
       <img src="Foto's/6 Develop/D4/Dier 3 hond D4.png" style="height:200px;" alt="FU wave 2 prototyping">
     </td>
     <td>
-<strong>De hond</strong> ("Man's best friend") werd gekozen als een goedgekend symbool van vertrouwen en rust.
+<strong>De hond</strong> ("Man's best friend") zal geleidelijk gaan zitten naarmate het stressniveau van de gebruiker stijgt. Dit dier werd gekozen als een goedgekend symbool van vertrouwen en rust.
     </td>
   </tr>
 </table>
@@ -741,6 +742,8 @@ De kwantitatieve test, waarbij deelnemers zo snel mogelijk moesten aangeven welk
 
 #### Conclusies & implicaties
 De feedbackunit moet duidelijk en intuïtief communiceren, met een voorkeur voor abstracte dierfiguren en rustig kleurgebruik. Groen en warm wit zorgen voor rust, terwijl felle kleuren vaak als kinderachtig worden ervaren. Zonder uitleg is de functie niet altijd meteen duidelijk, wat de gewenste discretie weerspiegelt. Bewegingen en lichtsignalen gecombineerd bieden de beste herkenbaarheid. Voor verdere tests ligt de focus op het vergroten van persoonlijke herkenbaarheid, het oproepen van rust en veiligheid, en het behouden van subtiele maar duidelijke feedback in een drukke werkomgeving.
+
+Op termijn is het de bedoeling dat elke gebruiker een eigen dier krijgt toegewezen, aangepast aan hun voorkeur, persoonlijkheid of teamdynamiek. Die personalisatie kan zich uiten in vorm, kleur of expressie. Voor het uiteindelijke uitwerken van een meer functioneel prototype, **zak er gefocust worden op één enkel dier**, zodat de werking en signaalduidelijkheid van de feedbackunit eerst in zijn eenvoud getest konden worden.
 
 | ID    | Design Requirement                                                                                                                                | Source | Date       |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------|------------|
