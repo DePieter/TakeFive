@@ -401,7 +401,7 @@ In de eerste versie van de feedbackunit wordt een bloem gebruikt als metafoor vo
 | Product | Concept schetsen |
 |------|------|
 | Feedback Unit |  <img src="Foto's/6 Develop/D3.1/Plant sketch.png" style="height: 200px;">|
-| Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch.png" style="height: 200px;">|
+| Verificator | <img src="Foto's/6 Develop/D3.1/Verificator sketch1.png" style="height: 200px;">|
 
 #### Roleplay
 
