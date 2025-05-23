@@ -345,14 +345,8 @@ Het concept kan verder worden ontwikkeld, met aandacht voor de onderstaande desi
 | ID    | Design Requirements                                                                                   | Source   | Date       |
 |-------|-------------------------------------------------------------------------------------------------------|----------|------------|
 | DR18  | Intuïtieve bediening met duidelijke pauzemeldingen in drukke omgevingen.                              |    |            |
-| DR19  | Discreet ontwerp met voorkeur voor trilling of licht boven geluid.                                    |    |            |
-| DR20  | Instelbare meldingen (frequentie en intensiteit).                                                     |    |            |
 | DR21  | Verstoort geen lopende taken en past in bestaande workflows.                                          |    |            |
-| DR22  | Lichtgewicht en comfortabel ontwerp.                                                                  |    |            |
-| DR23  | Modulair systeem met instelbare functies.                                                              |    |            |
-| DR24  | Samenwerking met zorginstellingen voor brede adoptie en beleidsintegratie.                            |    |            |
-| DR25  | Discreet en universeel inzetbaar ontwerp ter vermindering van stigma.                                 | Wave 2   | 23/12/2024 |
-
+| DR23  | Modulair systeem -> verwisselbaar voor dag en nacht shift                                             | Wave 2 | 23/12/2024   |
 
 # Develop
 De develop fase draait rond het verfijnen van het product. Hiervoor worden de fysieke ergonomie, de cognitieve en de sensoriële ergonomie geoptimaliseerd aan de hand van theorie, prototyping en testing. 
