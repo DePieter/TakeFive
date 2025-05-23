@@ -14,7 +14,7 @@ Zorgverleners ervaren vaak hoge werkstress, wat kan leiden tot burn-out. Omdat s
 
 Het systeem bestaat uit drie componenten:
 
-- **Wearable:** detecteert fysiologische stresssignalen zoals hartslagvariatie (HVR) en cortisol. Bij een te hoog stressniveau trilt het apparaat zacht, met een aangenaam rithme. Indien de stress te lang aanhoudt, volgt een duidelijkere trilling.
+- **Wearable:** detecteert fysiologische stresssignalen zoals hartslagvariatie (HVR) en cortisol. Bij een te hoog stressniveau trilt het apparaat zacht, met een aangenaam ritme. Indien de stress te lang aanhoudt, volgt een duidelijkere trilling.
 - **Feedbackunit (FU):** toont enkel aan de desbetreffende gebruiker het realtime stressniveau op een visuele en discrete manier.
 - **Verificator (optioneel):** stelt gebruiker in staat om zich te laten begeleiden bij wetenschappelijk onderbouwde oefeningen. De gebruiker scant zichzelf in, waarna een geschikte pauze wordt voorgesteld. Hierbij is een ingebouwde tijdslimiet per persoon om misbruik te voorkomen.
 
@@ -48,7 +48,7 @@ Dit project focust specifiek op de toepassing binnen **woonzorgcentra (WZC)**.
 
 ## Methodologie
 In de eerste discoverfase werd de opdracht verkend aan de hand van de designchallenge 'Werkbaar Werk in de Zorg', waarbij user interviews en een literatuuronderzoek bevestigden dat stress op de werkvloer een groot probleem vormt. Methodes zoals de 5WH- en PESTEL-analyse hielpen om de onderliggende noden en kerninzichten te identificeren.
-In de definitiefase werd het probleem verder verkend via een praktische aanpak met als leidraad "fall in love with the problem, not the solution." Er werden snel eerste prototypes ontwikkeld en getest in WZC Altus, waarna een verbeterde versie een week lang werd getest bij VZW De Oever. Een groepsinterview sloot de testfase af, en de verzamelde feedback vormde de basis voor het verfijnen van de design requirements die waardevol zijn in de volgende fase.
+In de definitiefase werd het probleem verder verkend via een praktische aanpak met als leidraad "fall in love with the problem, not the solution." Er werden snel eerste prototypes ontwikkeld en getest in WZC Altus, waarna een verbeterde versie een week lang werd getest bij WZC De Oever. Een groepsinterview sloot de testfase af, en de verzamelde feedback vormde de basis voor het verfijnen van de design requirements die waardevol zijn in de volgende fase.
 In de ontwikkelfase werd het concept verder verfijnd via gebruikerstesten en ideation-sessies met onder andere brainstorming, rollenspellen, Think Aloud en Wizard of OZ-methodes. Op basis daarvan werden prototypes uitgewerkt en getest in verschillende woonzorgcentra.
 Tijdens deze tests werd gebruikgemaakt van technieken zoals Emotional Mapping met Plutchik’s Wheel, card sorting en dot-voting om emotionele reacties van gebruikers in kaart te brengen. De resultaten werden geanalyseerd met de MoSCoW-methode om prioriteiten te bepalen voor verdere verbetering.
 Om ontwerpkeuzes doelgericht te evalueren, werden A/B-tests, heuristic evaluations, SUS-enquêtes en observaties ingezet. Dit leverde concrete inzichten op in wat wel en niet werkt.
@@ -83,7 +83,7 @@ In onderstaande foto wordt de probleemruimte concreet weergegeven:
 </div>
 
 ### Haalbaarheid
-Het is al snel duidelijk dat het in dit project van belang is om stress meetbaar te maken. Hieromtrend richt het haalbaarheidsonderzoek richt op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
+Het is al snel duidelijk dat het in dit project van belang is om stress meetbaar te maken. Hieromtrend richt het haalbaarheidsonderzoek zich op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
 
 ### User Interviews (N=3) 
 Het doel van deze interviews was om inzicht te krijgen in hoe verpleegkundigen werkdruk ervaren en hoe dit zich vertaalt naar stress en burn-out in hun dagelijkse praktijk. Omdat stress een subjectieve ervaring is die sterk verschilt per persoon, werd gekozen voor **contextual inquiries**: een open, verkennende interviewmethode die inzichten oplevert binnen de echte werkcontext van de zorg.
@@ -98,7 +98,7 @@ Enkele relevante uitspraken:
 
 >“Als er nog veel patiënten geholpen moeten worden, stel ik mijn middagpauze uit.”
 
-UitHieruit blijkt dat vaste pauzemomenten vaak niet genomen worden wanneer werkdruk dit niet toelaat.
+Hieruit blijkt dat vaste pauzemomenten vaak niet genomen worden wanneer werkdruk dit niet toelaat.
 
 ### PESTLE 
 De **PESTLE-analyse** werd gebruikt als gesprekskader tijdens de interviews om de externe invloeden op werkdruk te analyseren. Deze dimensies werden onderzocht:
@@ -228,7 +228,7 @@ Om een eerste idee te krijgen van enkele voorwaarden waaraan de wearable moest v
 #### Prototyping
 Er zijn vier verschillende prototypes ontwikkeld: twee voor de feedbackunit en twee voor de sensor. Dit maakt het mogelijk om met meerdere testpersonen tegelijk te testen.
 
-Momenteel is het nog niet duidelijk of het voldoende is om de feedback te laten gebeuren via de wearable of dat er een externe feedbackunit nodig is. Om deze reden is er ook een extra concept voorzien bij het prototypen; de feedbackunit (FU).
+Momenteel is het nog niet duidelijk of het voldoende is om de feedback te laten gebeuren via de wearable of dat er een externe feedbackunit nodig is. Om deze reden is er ook een extra concept voorzien bij het mken van prototypes; de feedbackunit (FU).
 
 Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in twee compacte wizard of oz prototypes, die op afstand kunnen worden aangestuurd via een smartphone. Hieronder worden de prototypes weergegeven en beschreven.
 
@@ -420,10 +420,10 @@ De verpleegkundige (in dit geval Pieter) doet zijn verpleegkundige taken ergens 
 
 Uit deze roleplay zijn verschillende aandachtspunten tevoorschijn gekomen:
 - De bloem moet uitgerust worden met een lampje dat van kleur veranderd om onderscheid te kunnen maken van een bloem die nog net niet helemaal slap hangt vs een bloem die wel volledig slap hangt.
-- Men kan makkelijk de bloem vergeten mee te nemen wat het onmogelijk maakt om in te loggen op de verificator. Ook kan dit als een overbodige extra taak worden gezien.
+- Men kan makkelijk de bloem vergeten mee te nemen wat het onmogelijk maakt om in te loggen op de verificator. Dit kan ook als een overbodige taak gezien worden.
 
 #### Prototyping
-Het doel van dit prototypingproces was om een algemeen concept te kunnen valideren om dit vervolgens in een volgend onderdeel te kunnen verfijenen. Het prototype voor stressfeedback, zal in de concepttest verkend geevaluereerd worden op begrijpelijkheid, impact en bruikbaarheid binnen de context van woonzorgcentra. De bedoeling was om na te gaan op welke manier er feedback op een betekenisvoll gecommuniceerd kan worden, zonder de werkomgeving of collega’s te storen.
+Het doel van dit prototypingproces was om een algemeen concept te kunnen valideren om dit vervolgens in een volgend onderdeel te kunnen verfijnen. Het prototype voor stressfeedback, zal in de concepttest verkend geëvaluereerd worden op begrijpelijkheid, impact en bruikbaarheid binnen de context van woonzorgcentra. De bedoeling was om na te gaan op welke manier er feedback op een betekenisvoll gecommuniceerd kan worden, zonder de werkomgeving of collega’s te storen.
 Omdat er op deze moment nog geen concept vast ligt en omdat het project een grote omvang heeft gezien de verschillende componenten, was het moeilijk om aan varity prototyping te doen. De gemaakte prototypes worden in onderstaande tabel weergegeven en de werking wordt ervan besproken.
 
 
