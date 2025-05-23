@@ -73,7 +73,7 @@ Een heldere "how might we" formuleren binnen de probleemruimte.
 ### Literatuuronderzoek
 Literatuuronderzoek ([Research report: literature reviews](Reports/Discovery/Research%20report%20literature%20reviews.pdf)) heeft de probleemruimte duidelijker in kaart gebracht, zo blijkt dat de zorgsector sinds 2019 kampt met een structureel hoge werkdruk, waarbij vooral het zorgpersoneel zwaar wordt getroffen. In 2023 liep 14,4% van de zorgmedewerkers risico op een burn-out[^3]. Deze problematiek is het sterkst aanwezig in woonzorgcentra, waar het aantal medewerkers met burn-outsymptomen tussen 2013 en 2023 met 7,2% is gestegen. In combinatie met de toenemende vergrijzing maakt dit de sector bijzonder kwetsbaar.
 
-Werkdruk wordt als de belangrijkste oorzaak van werkstress geïdentificeerd. Bij 41,8% van de zorgmedewerkers heeft dit een negatieve impact op zowel hun werk-privébalans als hun algemeen welzijn. Verpleegkundigen en zorgkundigen in woonzorgcentra ervaren de hoogste werkdruk en vormen daarom de primaire doelgroep van dit project.
+Werkdruk wordt als de belangrijkste oorzaak van werkstress geïdentificeerd. Bij 41,8% van de zorgmedewerkers heeft dit een negatieve impact op zowel hun werk-privébalans als hun algemeen welzijn[^4]. Verpleegkundigen en zorgkundigen in woonzorgcentra ervaren de hoogste werkdruk en vormen daarom de primaire doelgroep van dit project.
 
 Sinds de coronapandemie is het langdurig ziekteverzuim met 50% gestegen. De economische impact van burn-out is aanzienlijk: jaarlijks kost het de zorgsector naar schatting 228 miljoen euro, een stijging van 10% in vijf jaar tijd. Hoewel er reeds interventies bestaan, zoals korte dagelijkse check-ups, blijkt de effectiviteit daarvan voorlopig beperkt.
 In onderstaande foto wordt de probleemruimte concreet weergegeven:
@@ -83,6 +83,7 @@ In onderstaande foto wordt de probleemruimte concreet weergegeven:
 </div>
 
 [^3]: Vlaamse Overheid. (2023). Werkbaar werk in de zorg- en welzijnssector: Samenvatting.
+[^4]: (Sociaal-Economische Raad van Vlaanderen, 2023)
 
 ### Haalbaarheid
 Het is al snel duidelijk dat het in dit project van belang is om stress meetbaar te maken. Hieromtrend richt het haalbaarheidsonderzoek zich op het meten van biomarkers om werkstress en burn-out in de zorgsector objectief te detecteren. Chemische biomarkers, zoals het C-reactief proteïne in bloed of speeksel, blijken moeilijk frequent meetbaar in de praktijk. Fysische biomarkers, zoals hartslagvariabiliteit (HRV), worden daarentegen als het meest haalbaar beschouwd.
