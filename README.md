@@ -423,8 +423,8 @@ Uit deze roleplay zijn verschillende aandachtspunten tevoorschijn gekomen:
 - Men kan makkelijk de bloem vergeten mee te nemen wat het onmogelijk maakt om in te loggen op de verificator. Dit kan ook als een overbodige taak gezien worden.
 
 #### Prototyping
-Het doel van dit prototypingproces was om een algemeen concept te kunnen valideren om dit vervolgens in een volgend onderdeel te kunnen verfijnen. Het prototype voor stressfeedback, zal in de concepttest verkend geëvaluereerd worden op begrijpelijkheid, impact en bruikbaarheid binnen de context van woonzorgcentra. De bedoeling was om na te gaan op welke manier er feedback op een betekenisvoll gecommuniceerd kan worden, zonder de werkomgeving of collega’s te storen.
-Omdat er op deze moment nog geen concept vast ligt en omdat het project een grote omvang heeft gezien de verschillende componenten, was het moeilijk om aan varity prototyping te doen. De gemaakte prototypes worden in onderstaande tabel weergegeven en de werking wordt ervan besproken.
+Het doel van dit prototypingproces was om een algemeen concept te kunnen valideren om dit vervolgens in een volgend onderdeel te kunnen verfijnen. Het prototype voor stressfeedback, zal in de concepttest geëvaluereerd worden op begrijpelijkheid, impact en bruikbaarheid binnen de context van woonzorgcentra. De bedoeling was om na te gaan op welke manier er feedback op een betekenisvoll gecommuniceerd kan worden, zonder de werkomgeving of collega’s te storen.
+Omdat er op dit moment nog geen concept vast ligt en omdat het project een grote omvang heeft gezien de verschillende componenten, was het moeilijk om aan varity prototyping te doen. De gemaakte prototypes worden in onderstaande tabel weergegeven en de werking wordt ervan besproken.
 
 
 | Prototype      | Beschrijving                                                                                                                                 |
@@ -508,7 +508,7 @@ Concreet zijn de belangrijkste hoofdzaken die voortvloeien uit deze wave als vol
    >_“Als ik veel stress heb wil ik dit niet open en bloot tonen, zeker niet als ik bij mijn patiënten ben of als er famillie op bezoek is.” -Sofie (zorgkundige WZC Panhuys)_
 - Om de focus op alle 3 de componenten (wearable, feedbackunit, verificator) te leggen, gaat het een grote uitdaging worden om alles binnen de deadline van dit project te leggen. Daarom wordt vanaf nu de hoofdfocus gelegd op enkel de feedbackunit.
 
-Als conclusie zijn er verschillende designrequirements opgesteld die in acht genomen moeten worden voor het verder opbouwen van Take Five, deze zijn hieronder te zien:
+Als conclusie zijn er verschillende designrequirements opgesteld die in acht genomen moeten worden voor het verder opbouwen van het concept, deze zijn hieronder te zien:
 Dit proces resulteerde in concrete ontwerpvragen, design requirements en aandachtspunten voor de concepttests. 
 
 | ID    | Design Requirements                                                                                                                    | Source    | Date       |
@@ -543,7 +543,7 @@ Voorgaande fase heeft aangetoond hoe de feedbackunit moet functioneren en welke 
 #### Brainstorming
 Om tot geschikte metaforen voor de feedbackunit te komen, werd met het team een gerichte brainstormsessie georganiseerd. Het doel was om ideeën te creëren die zowel emotioneel resoneren met zorgmedewerkers als functioneel bruikbaar zijn op een feedbackunit in een zorgomgeving.
 
-Er werd gestard met een korte reflectie over hoe de huidige feedbackunit (de bloem) een onbedoeld negatief stigma opriep. Daarna volgde een individuele ideefase waarin elk teamlid op post-its zoveel mogelijk metaforen noteerde die gevoelens oproepen zoals rust, zorg, verbondenheid en vreugde. Deze ideeën werden vervolgens gebundeld, besproken en geclusterd op thematiek.
+Er werd gestart met een korte reflectie over hoe de huidige feedbackunit (de bloem) een onbedoeld negatief stigma opriep. Daarna volgde een individuele ideefase waarin elk teamlid op post-its zoveel mogelijk metaforen noteerde die gevoelens oproepen zoals rust, zorg, verbondenheid en vreugde. Deze ideeën werden vervolgens gebundeld, besproken en geclusterd op thematiek.
 
 In deze brainstormsessie werd er gebruik gemaakt van verschillende methodieken:
 
@@ -574,7 +574,7 @@ Het prototype (zie onderstaande foto) bevat drie verschillende actuatoren, die e
 
 
 #### Emotional mapping
-Plutchiks Wheel of Emotions is een model dat helpt om emoties in kaart te brengen, het bevat acht emoties: vreugde, vertrouwen,... Zo wordt het eenvoudiger voor de woonzorgmedewerkers om de metaforen aan emoties toe te wijzen. Hierdoor kunnen de juiste metaforen gekozen worden voor de FU.
+Plutchiks Wheel of Emotions is een model dat helpt om emoties in kaart te brengen, het bevat acht emoties: vreugde, vertrouwen, woede,... Zo wordt het eenvoudiger voor de woonzorgmedewerkers om de metaforen aan emoties toe te wijzen. Hierdoor kunnen de juiste metaforen gekozen worden voor de FU.
 
 #### User Testing (n=5)
 Tijdens deze testfase werd het prototype (Wizard of Oz, 3-in-1) getoond aan vijf zorgverleners. Hierbij werd onderzocht hoe zorgverleners emotioneel reageren op verschillende metaforen en bewegingen. De test startte met het tonen van de drie actuatoren van het prototype, gevolgd door papieren afbeeldingen van de bijhorende metaforen. De respondenten plaatsten deze op Plutchiks Wheel of Emotions. Zo kon visueel worden vastgelegd welke emotionele respons elke metafoor opriep.
@@ -636,7 +636,7 @@ Om inzicht te verkrijgen in welk abstractieniveau van dierlijke vormen de groots
 Daarnaast wordt via een combinatie van think aloud, A/B-testing en kwantitatieve analyse onderzocht hoe bewegende metaforen en het gebruik van lichtsignaal (zie [wave 2 DR19](#wave2n5)) worden waargenomen in de context van de verpleegpost. Zorgverleners observeren een prototype in twee scenario’s: (1) enkel beweging van het dier, en (2) beweging in combinatie met een geïntegreerd LED-signaal. Door hun spontane interpretaties te registreren, wordt het verschil in duidelijkheid tussen beide situaties meetbaar gemaakt. Het complete protocol van de test die is uitgevoerd in deze fase, is te raadplegen via: [Protocol develop 4](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%204.1.pdf).
 
 #### Brainstorming
-Uit D3.2 bleek dat er een duidelijke voorkeur was voor dieren als metafoor voor de feedbackunit. Op basis hiervan werd een gerichte brainstormsessie opgezet volgens een vereenvoudigde SCAMPER-methode om ieders input evenwaardig te verzamelen. Elk teamlid werkte eerst individueel ideeën uit rond mogelijke dierlijke metaforen en hun gedragingen (substitute, combine, adapt, modify, etc.). Nadien werden de ideeën gegroepeerd, besproken en geëvalueerd op basis van hun communicatiekracht, herkenbaarheid en technische haalbaarheid. De verschillende opties werden visueel geschetst en geclusterd rond centrale thema’s. Tijdens de plenaire bespreking werden er duidelijke ontwerpcriteria geformuleerd, die nadien als design requirements zijn vastgelegd (aangeduid met oranje markeringen op de foto). Deze gestructureerde aanpak zorgde voor een gefundeerde en goed onderbouwde keuze richting de verdere ontwikkeling.
+Uit D3.2 bleek dat er een duidelijke voorkeur was voor dieren als metafoor voor de feedbackunit. Op basis hiervan werd een gerichte brainstormsessie opgezet volgens een vereenvoudigde SCAMPER-methode om ieders input evenwaardig te verzamelen. Elk teamlid werkte eerst individueel ideeën uit rond mogelijke dierlijke metaforen en hun gedragingen (substitute, combine, adapt, modify, etc.). Nadien werden de ideeën gegroepeerd, besproken en geëvalueerd op basis van hun communicatiekracht, herkenbaarheid en technische haalbaarheid. De verschillende opties werden visueel geschetst en geclusterd rond centrale thema’s. Tijdens de plenaire bespreking werden er duidelijke ontwerpcriteria geformuleerd, die nadien als design requirements zijn vastgelegd (aangeduid met oranje markeringen op de foto). Deze gestructureerde aanpak zorgde voor een goed onderbouwde keuze richting de verdere ontwikkeling.
 
 <p align="center">
   <img src="Foto's/6 Develop/D4/Brainstormsessie D4.png" style="height:300px;">
@@ -644,7 +644,7 @@ Uit D3.2 bleek dat er een duidelijke voorkeur was voor dieren als metafoor voor 
 
 
 #### Prototyping
-Uit voorgaande interpretatietest werd duidelijk dat een dierlijke metafoor een krachtig communicatiemiddel kan zijn binnen het systeem. Er werd een algemeen model gemaakt als FU dat gebruikt kan worden om verschillende soorten dieren per FU te integreren. Hierbij is ruimte voorzien om alle elektronica die nodig zou zijn om het dier te laten bewegen, in het model te verwerken. De ledring zal op het plateau bevestigd worden waar de dieren op kunnen staan. Er is beslist om de FU zodanig te ontworpen zodat er meerdere naast elkaar kunnen staan.
+Uit voorgaande interpretatietest werd duidelijk dat een dierlijke metafoor een krachtig communicatiemiddel kan zijn binnen het systeem. Er werd een algemeen model gemaakt als FU dat gebruikt kan worden om verschillende soorten dieren per FU te integreren. Hierbij is ruimte voorzien om alle elektronica die nodig zou zijn om het dier te laten bewegen, in het model te verwerken. De LED-ring zal op het plateau bevestigd worden waar de dieren op kunnen staan. Er is beslist om de FU zodanig te ontworpen zodat er meerdere naast elkaar kunnen staan.
 
 <p align="center">
   <img src="Foto's/6 Develop/D4/FU voor D4.png" style="height:300px;">
@@ -687,7 +687,7 @@ De slurf van<strong> de olifant</strong> zal geleidelijk omhoog gaan naarmate he
 
 
 #### User Testing (n=5)
-De test startte met een korte introductie waarbij het volledige project werd toegelicht. Na het invullen van een informed consent-formulier en het starten van een spraakopname, werd het doel van de test uitgelegd aan de hand van een herkenbaar voorbeeld zoals de ([Rorschachtest](https://nl.wikipedia.org/wiki/Rorschachtest)). Deze metafoor illustreerde het belang van interpretatie: waar in bij de Rorschachtest verwarring ontstaat door té abstracte beelden, onderzoekt deze test net hoe ver een signaal geabstraheerd kan worden vóór het onherkenbaar wordt.
+De test startte met een korte introductie waarbij het volledige project werd toegelicht. Na het invullen van een informed consent-formulier en het starten van een spraakopname, werd het doel van de test uitgelegd aan de hand van een herkenbaar voorbeeld zoals de ([Rorschachtest](https://nl.wikipedia.org/wiki/Rorschachtest)). Deze metafoor illustreerde het belang van interpretatie: bij de Rorschachtest ontstaat verwarring door té abstracte beelden, onderzoekt deze test net hoe ver een signaal geabstraheerd kan worden vóór het onherkenbaar wordt.
 
 In de testsessie kregen de respondenten fotoreeksen te zien van verschillende dieren op negen verschillende [abstractieniveaus](#abstractieniveau) die liggen tussen: realistisch, gestileerd, geometrisch en extreem abstract, hieronder is daarvan een voorbeeld weergegeven:
 
@@ -786,7 +786,7 @@ De resultaten uit deze vijfde devellop bevestigen dat een rustige, natuurlijke e
 ### Slotbevindingen  
 Ten einde van het projectvak Gebruiksgericht Ontwerpen, is een volledig concept ontwikkeld om stress bij zorgverleners de aandacht te geven die het verdient. Dit door de gebruikers meer bewust te maken van hun stressniveau. Het volledige poject is conceptueel uitbedacht en onderbouwd, waarbij een werkend prototype van de feedbackunit is ontwikkeld. Deze unit vormt samen met een draagbare sensor en een optionele verificator een compleet systeem dat zorgverleners helpt hun stressniveau tijdig af te bakenen.  
 
-De volledige concept is ondersteund door aangetoonde feiten en werd ontworpen met aandacht voor intuïtieve communicatie met de gebruiker, visuele en tactiele signalen en minimale afleiding tijdens het werk. Via een bewegend dier als metafoot en licht, geeft de FU directe maar discrete feedback over het gemeten stressniveau. Gebruikstesten met zorgverleners leverden waardevolle inzichten op voor de vormgeving en interactie, met als resultaat een toestel dat praktisch inzetbaar is en eenvoudig te integreren valt in het dagelijkse zorgproces.
+Het volledige concept is ondersteund door aangetoonde feiten en werd ontworpen met aandacht voor intuïtieve communicatie met de gebruiker, visuele en tactiele signalen en minimale afleiding tijdens het werk. Via een bewegend dier als metafoor en licht, geeft de FU directe maar discrete feedback over het gemeten stressniveau. Gebruikstesten met zorgverleners leverden waardevolle inzichten op voor de vormgeving en interactie, met als resultaat een toestel dat praktisch inzetbaar is en eenvoudig te integreren valt in het dagelijkse zorgproces.
 
 Het project in dit stadium kan geklassificeerd worden als **TRL 6**, wat betekent dat het systeem in een relevante werkomgeving getest is en klaar is voor grootschaligere praktijktesten en verdere integratie in een volwaardig systeem. Daarbij wordt **geen rekening gehouden met de technische maturiteit van cortisolmetingen**, die op momenteel nog in ontwikkeling zijn. Het project vormt een concrete stap richting meer mentaal welzijn voor zorgpersoneel, met als doel het aantal burn-outs structureel te verminderen.
 
