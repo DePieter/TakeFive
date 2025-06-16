@@ -253,7 +253,7 @@ Voor de feedbackunit zijn alle mogelijke signaleringsmethoden geïntegreerd in t
   </tr>
 </table>
 
-#### User testing
+#### User testing (n=5)
 Tijdens deze gebruikerstest in WZC Althus werden de eerste functionele prototypes van het stressdetectiesysteem geëvalueerd. Doel was het concept te toetsen op levensvatbaarheid, gebruiksvriendelijkheid en impact, om zo richting te geven aan verdere ontwikkeling.
 Vijf zorgmedewerkers (begeleiders, opvoeders, teamleider) werden geïnterviewd na een korte introductie en informed consent. Ze vertelden over hun werk, stresservaringen, copingstrategieën en gaven feedback op de prototypes (zie [Protocol wave 1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%201%20Protocol%20Althus.pdf)).
 
@@ -324,7 +324,7 @@ Verderwerkend op de keuzes die gemaakt zijn in de ideation, worden enkele protot
 
 
 
-#### User testing (n=3)
+#### User testing (n=5)
 Voor deze testfase werd een ‘Plug and Play’-protocol (zie [Protocol wave 2](https://github.com/DePieter/TakeFive/blob/main/Protocols/Define/Wave%202%20Protocol%20De%20Oever.pdf) ) ontwikkeld waarmee de zorgverleners van WZC De Oever zelfstandig aan de slag konden. Elke deelnemer kreeg een uitgebreide handleiding met instructies over het installeren van de wearable en feedbackunit, het uitvoeren van pauzeoefeningen (zoals ademhaling, korte babbel of buiten wandelen) en het invullen van een zelfevaluatie na elke oefening. De test liep over vijf dagen, waarbij deelnemers meerdere keren per dag door de feedbackunit visueel (via knipperlicht) werden aangespoord om een korte pauze te nemen.
 
 Elke interventie werd geëvalueerd op effectiviteit via een scoreformulier. Deze kwantitatieve evaluatie werd aangevuld met kwalitatieve feedback in een afsluitend groepsgesprek.
