@@ -438,7 +438,7 @@ Omdat er op dit moment nog geen concept vast ligt en omdat het project een grote
 
 
 #### User testing 
-De voorgaande methodes zoals roleplaying, brainstorming, prototyping,... hebben doorheen het proces geleid tot verschillende ontwerpvragen te zien in [Protocol develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.1.pdf). Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd. Hiervoor werd telefonisch contact opgenomen met WZC Panhuys Gent. Aangezien gebruikers aan de test deelnamen, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
+De voorgaande methodes zoals roleplaying, brainstorming, prototyping,... hebben doorheen het proces geleid tot verschillende ontwerpvragen te zien in [Protocol develop 3.1](https://github.com/DePieter/TakeFive/blob/main/Protocols/Develop/Test%20protocol%203.1.pdf). Om deze ontwerpvragen te beantwoorden, werd een gebruikerstest uitgevoerd waarbij het concept werd voorgesteld en vervolgens werd gevraagd om in de context intuïtief te interageren met het systeem. De respondenten werden verkregen door telefonisch contact op te nemen met WZC Panhuys Gent. Aangezien er met deelnemers werd gewerkt, ondertekende elke deelnemer een ‘informed consent’, terug te vinden in de bijlagen.
 De concepttest heeft als doel antwoord te krijgen op volgende ontwerpvragen:     
   
 **Conceptuele validatie (Definition-fase)**
